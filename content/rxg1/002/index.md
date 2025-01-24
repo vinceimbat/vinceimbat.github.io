@@ -1,8 +1,6 @@
 ---
 title: (RxG) Day 02 Makiling's Foot
 date: 2023-12-05
-aliases:
-  - /roots-x-gravel-day-02-makilings-foot/
 ---
 December 05, 2023
 

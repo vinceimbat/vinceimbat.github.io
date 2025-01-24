@@ -1,8 +1,6 @@
 ---
 title: (RxG) Day 01 Ode to Water Meters
 date: 2023-12-04
-aliases:
-  - /roots-x-gravel-day-01-ode-to-water-meters/
 ---
 December 4, 2023
 
