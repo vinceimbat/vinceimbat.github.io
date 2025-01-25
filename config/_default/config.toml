@@ -4,6 +4,7 @@
 
 baseURL = "https://vinceimbat.com/"
 defaultContentLanguage = "en"
+timeout = "120s"
 
 enableRobotsTXT = true
 summaryLength = 0
@@ -13,6 +14,3 @@ summaryLength = 0
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-
-[build]
-timeout = "120s"
