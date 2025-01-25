@@ -2,8 +2,6 @@
 title: "New Walk: but Overall is beyond me (bOibm)"
 date: 2025-01-24
 ---
-![Cut tree](images/20250120-090252-batis-tree-cut.jpg)
-
 >there are dunes of motion,  
 >organizations of grass, white sandy paths of  
 >remembrance  
