@@ -3,11 +3,10 @@ name: GitHub Pages
 on:
   push:
     branches:
-      - stable
+      - main
 
 jobs:
   build-deploy:
-    name: Build and Deploy
     runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
@@ -25,12 +24,11 @@ jobs:
           extended: true
 
       - name: Build
-        working-directory: ./exampleSite
-        run: hugo --minify --themesDir ../.. --buildDrafts --baseURL https://jpanther.github.io/congo/
+        run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
-        if: ${{ github.ref == 'refs/heads/stable' }}
+        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
