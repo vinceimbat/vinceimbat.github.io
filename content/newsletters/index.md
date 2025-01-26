@@ -3,13 +3,21 @@ title: Newsletters
 showDate: false
 showTableOfContents: false
 ---
-## Active newsletter
+## Active newsletters
+
+I have two active newsletters, which you get when you leave your email address below.
 
 ### Uman (monthly) — January 2022 to Present (23 issues)
 
-Subscribe to my monthly newsletter called _**Uman**_.
+_**Uman**_ is the Pangasinan word for change. I started it to keep track of the monthly changes I undergo in my projects, studies, and goals but it became this exercise that weaves spirituality, walking, writing, and photography in an essay.
 
-"Uman" is the Pangasinan word for change. I started it to keep track of the monthly changes I undergo in my projects, studies, and goals but it became this exercise that weaves spirituality, walking, writing, and photography in an essay.
+Check the _**Uman**_ archives [here](uman).
+
+### The Long Walk (occasional) — October 2022 to Present (38 issues)
+
+_**The Long Walk**_ is a newsletter I send occasionally. It contains new or work-in-progress essays, poems, short notes, and photographs. I also share announcements about new walks in this newsletter.
+
+Check the _**The Long Walk**_ archives [here](tlw).
 
 Consider subscribing. It's free. Unsubscribe any time.
 
@@ -56,17 +64,9 @@ Consider subscribing. It's free. Unsubscribe any time.
   </div>
 </form>
 
-Check the _**Uman**_ archives [here](uman).
-
 ***
 
 ## Archived Newsletters
-
-### The Long Walk (occasional) — October 2022 to October 2024 (37 issues)
-
-_**The Long Walk**_ is a newsletter I sent occasionally. It contained new or work-in-progress essays, poems, short notes, and photographs.
-
-Check the _**The Long Walk**_ archives [here](tlw).
 
 ### Tall Tales: Baguio Walk No. 1  — January 15 to 21, 2024 (5 issues)
 
