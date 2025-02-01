@@ -68,13 +68,19 @@ Consider subscribing. It's free. Unsubscribe any time.
 
 ## Archived Newsletters
 
+### but Overall is beyond me (bOibm) — January 25 to 31, 2025 (7 issues)
+
+A pop-up newsletter for my second week-long walk of Los Baños that ran from January 25–31, 2025. Unlike Roots ྾ Gravel, bOibm featured shorter and slower walks in six of the most silent routes in LB.
+
+Check the **but Overall is beyond me** archives [here](boibm).
+
 ### Tall Tales: Baguio Walk No. 1  — January 15 to 21, 2024 (5 issues)
 
 A pop-up newsletter for my first week-long walk of Baguio City. In this newsletter, I wrote about how I returned to streets and places I used to frequent as a former minister of the Jehovah's Witnesses.
 
 Check the _**Tall Tales: Baguio Walk No. 1**_ archives [here](tt1).
 
-### Roots ྾ Gravel — December 4 to 10, 2023 (8 issues)
+### Roots ྾ Gravel (R྾G) — December 4 to 10, 2023 (8 issues)
 
 A pop-up newsletter for my first week-long walk around Los Baños. The original intention of the walk was to explore a free, creative, and subsistent spirituality through walking around my current town of residence. The essays and photographs diverted from this original intention as the walk progressed.
 
