@@ -1,4 +1,4 @@
 ---
 title: The Long Walk
-description: “The Long Walk” is a newsletter I sent occasionally. It contains new or work-in-progress essays, poems, short notes, and photographs.
 ---
+“The Long Walk” is a newsletter I send occasionally. It contains new or work-in-progress essays, poems, short notes, and photographs. I also share announcements about new walks in this newsletter.

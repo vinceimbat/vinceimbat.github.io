@@ -70,7 +70,7 @@ Consider subscribing. It's free. Unsubscribe any time.
 
 ### Tall Tales: Baguio Walk No. 1  — January 15 to 21, 2024 (5 issues)
 
-A pop-up newsletter for my first week-long walk of Baguio City. In this newsletter, I wrote about how I returned to streets and places I used to frequent as a formed minister of the Jehovah's Witnesses.
+A pop-up newsletter for my first week-long walk of Baguio City. In this newsletter, I wrote about how I returned to streets and places I used to frequent as a former minister of the Jehovah's Witnesses.
 
 Check the _**Tall Tales: Baguio Walk No. 1**_ archives [here](tt1).
 
