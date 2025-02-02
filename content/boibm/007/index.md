@@ -46,7 +46,7 @@ That's all from me for now.
 
 Again, thank you for walking with me during bOibm, and I hope to walk with you again in the next months or so.
 
-## Acknowledgements
+## Acknowledgments
 
 The name of this walk "but Overall is beyond me" as well as the titles of each missive come from the poem [Corsons Inlet](https://www.poetryfoundation.org/poems/43073/corsons-inlet) by A. R. Ammons. Hat tip to [Andrew James Brown](https://andrewjbrown.blogspot.com/) who first introduced me to this poem.
 
