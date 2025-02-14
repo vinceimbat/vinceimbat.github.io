@@ -93,7 +93,7 @@ My essay entitled "Ikurit Ko'y Sali-salik ëd Sayan Dalin: Pitoran Akar" (I Will
 
 - Ikalawang Saling Panitik: Bienvenido Lumbera Seminar-Palihan sa Pagsasalin
 - [20th Ateneo National Writers Workshop](https://www.facebook.com/share/p/1BGYG4y87E/) (ANWW20)
-- [17th Palihang Rogelio Sica](https://www.facebook.com/share/p/1GtkxEiq2Y/) (PRS17)
+- [17th Palihang Rogelio Sicat](https://www.facebook.com/share/p/1GtkxEiq2Y/) (PRS17)
 
 ***
 
