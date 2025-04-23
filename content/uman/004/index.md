@@ -1,5 +1,5 @@
 ---
-title: Uman 004 - April 2022 (The Weeks Left)
+title: Umán 004 - April 2022 (The Weeks Left)
 date: 2022-05-06
 aliases:
   - /uman-april-2022

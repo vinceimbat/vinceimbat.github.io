@@ -1,5 +1,5 @@
 ---
-title: Uman 005 - May 2022 (This Bead of Kindness)
+title: Umán 005 - May 2022 (This Bead of Kindness)
 date: 2022-06-07
 aliases:
   - /uman-may-2022

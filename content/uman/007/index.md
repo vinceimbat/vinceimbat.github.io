@@ -1,5 +1,5 @@
 ---
-title: Uman 007 — July 2022
+title: Umán 007 — July 2022
 date: 2022-08-16
 aliases:
   - /Uman-July-2022

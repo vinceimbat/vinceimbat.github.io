@@ -7,15 +7,15 @@ showTableOfContents: false
 
 I have two active newsletters, which you get when you leave your email address below.
 
-### Uman (monthly) — January 2022 to Present (23 issues)
+### Umán (monthly) — January 2022 to Present (23 issues)
 
-_**Uman**_ is the Pangasinan word for change. I started it to keep track of the monthly changes I undergo in my projects, studies, and goals but it became this exercise that weaves spirituality, walking, writing, and photography in an essay.
+_**Umán**_ is a Pangasinan word that means to change, repair, or repeat. I started it in 2022 to keep track of the monthly progress of my projects and studies but it later became this experimental weaving of the creative artifacts I produce from my daily studies, readings, journaling, and walks.
 
-Check the _**Uman**_ archives [here](uman).
+Check the _**Umán**_ archives [here](uman).
 
 ### The Long Walk (occasional) — October 2022 to Present (38 issues)
 
-_**The Long Walk**_ is a newsletter I send occasionally. It contains new or work-in-progress essays, poems, short notes, and photographs. I also share announcements about new walks in this newsletter.
+_**The Long Walk**_ is a newsletter featuring essays engaging with specific subject matters related to walking, literature, photography, and spirituality. They are published spontaneously to accommodate the natural arrival and progress of my thinking on such matters. I also use this newsletter to announce upcoming walks, new projects, and new writings.
 
 Check the _**The Long Walk**_ archives [here](tlw).
 

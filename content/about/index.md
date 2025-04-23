@@ -1,9 +1,9 @@
 ---
-title: About
+title: About Vince Imbat
 showDate: false
 showTableOfContents: false
 ---
-## I’m a Los Baños-based walker, photographer, and writer in three languages, exploring a creative, inquiring, free, and liberative spirituality.
+## I’m a Los Baños-based writer and photographer who walks.
 
 ![Vince Imbat headshot](images/20250116-053928-headshot.jpg)
 
@@ -14,13 +14,13 @@ showTableOfContents: false
 
 ***
 
-## Subscribe to my monthly newsletter
+## Subscribe to my newsletters
 
-_**Uman**_ is a distillation of my current thinking on spirituality, walking, writing, and photography.
+_*[Umán](uman)*_ is an experimental weaving of the creative artifacts I produce from my daily studies, readings, journaling, and walks. I send it once a month.
 
-It’s free and you can unsubscribe anytime.
+_*[The Long Walk](tlw)*_, features essays on walking, literature, photography, and spirituality. I send it occasionally.
 
-You can check the _**Uman**_ archives [here](uman).
+You get both newsletters when you sign up below. They're free and you can unsubscribe anytime.
 
 <script src='https://www.google.com/recaptcha/api.js'></script>
 

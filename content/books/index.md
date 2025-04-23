@@ -8,7 +8,7 @@ showTableOfContents: false
 
 ![swmma cover](so-we-must-meet-apart.png)
 
-[Purchase a digita copy.](https://vinceimbat.gumroad.com/l/apart)
+[Purchase a digital copy.](https://vinceimbat.gumroad.com/l/apart)
 
 Inspired by Gabrielle Bates and Jennifer S. Cheng's collaborative work of the same name, this experimental project delves into the poetics of walking and writing from the perspective of different genders. The walks were conducted around Los Baños and Cagayan de Oro.
 

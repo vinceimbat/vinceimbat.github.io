@@ -1,5 +1,5 @@
 ---
-title: Uman 008 — August 2022
+title: Umán 008 — August 2022
 date: 2022-09-03
 aliases:
   - /Uman-August-2022

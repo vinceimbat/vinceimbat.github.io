@@ -4,7 +4,7 @@ languageDirection = "ltr"
 weight = 1
 
 title = "Vince Imbat"
-copyright = "A JOURNAL OF EXISTENTIAL CRISIS BY <ins>**[VINCE IMBAT](/)**</ins> SINCE 2014."
+copyright = "AN ONLINE JOURNAL BY <ins>**[VINCE IMBAT](/)**</ins> SINCE 2014."
 
 [params]
   dateFormat = "2 January 2006"

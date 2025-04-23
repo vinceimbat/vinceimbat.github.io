@@ -1,4 +1,4 @@
 ---
 title: Lilim
 ---
-_Lilim_ is a Filipino word that means shade. It was a weekly newsletter that ran for three seasons during the pandemic. It began as a documentation of my early walks in Los Baños and evolved into a predecessor of [The Long Walk](tlw).
+_**Lilim**_ is a Filipino word that means shade. It was a weekly newsletter that ran for three seasons during the pandemic. A predecessor of _**[The Long Walk](tlw)**_, it began as a documentation of my early walks in Los Baños.

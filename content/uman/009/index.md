@@ -1,5 +1,5 @@
 ---
-title: Uman 009 — July 2023
+title: Umán 009 — July 2023
 date: 2023-08-02
 aliases:
   - /uman-2023-07

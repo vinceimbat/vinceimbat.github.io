@@ -1,5 +1,5 @@
 ---
-title: Uman 010 — August 2023
+title: Umán 010 — August 2023
 date: 2023-09-02
 aliases:
   - /essays/uman-2023-08

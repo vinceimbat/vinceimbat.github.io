@@ -1,5 +1,5 @@
 ---
-title: Uman 002 — Febuary 2022
+title: Umán 002 — Febuary 2022
 date: 2022-03-04
 aliases:
   - /uman-february-2022

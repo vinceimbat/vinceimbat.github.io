@@ -1,5 +1,5 @@
 ---
-title: Uman 024 — January 2025
+title: Umán 024 — January 2025
 date: 2025-02-02
 ---
 ![The landslide](images/20250131-095822-bOibm-7-the-landslide.jpg)

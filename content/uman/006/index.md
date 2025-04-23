@@ -1,5 +1,5 @@
 ---
-title: Uman 006 - June 2022 (What Walking from Los Baños to San Pablo Taught Me)
+title: Umán 006 - June 2022 (What Walking from Los Baños to San Pablo Taught Me)
 date: 2022-07-06
 aliases:
   - /uman-june-2022

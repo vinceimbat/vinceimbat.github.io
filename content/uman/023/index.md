@@ -1,5 +1,5 @@
 ---
-title: Uman 023 — October 2024
+title: Umán 023 — October 2024
 date: 2024-11-03
 aliases:
   - /uman-2024-10
