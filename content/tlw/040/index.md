@@ -1,12 +1,7 @@
 ---
 title: "Walking Bangkok II: Pilgrimages"
-description: A lyrical essay on a morning walk around Phra Khanong.
 date: 2025-04-27
-heroImage: images/20250308-110041-thailand-bangkok-rama-iv-road.jpg
-preview: images/20250308-110041-thailand-bangkok-rama-iv-road.jpg
-draft: false
-tags: []
-categories: []
+description: A lyrical essay on a morning walk around Phra Khanong.
 ---
 ![Rama IV road](images/20250308-110041-thailand-bangkok-rama-iv-road.jpg)
 
