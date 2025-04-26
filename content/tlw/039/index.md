@@ -1,6 +1,7 @@
 ---
 title: "Walking Bangkok I: Whistles"
 date: 2025-04-23
+description: A vignette about my arrival at Bangkok.
 ---
 ![Bangkok citylights 1](images/20250307-062022-thailand-day-1-citylights_feature.jpg)
 

@@ -1,0 +1,146 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "date",
+          "name": "date",
+          "type": "datetime"
+        },
+        {
+          "title": "heroImage",
+          "name": "heroImage",
+          "type": "image"
+        },
+        {
+          "title": "preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "categories",
+          "name": "categories",
+          "type": "categories"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "",
+  "frontMatter.preview.host": "http://localhost:1313",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "content",
+      "path": "[[workspace]]/content",
+      "previewPath": "/content",
+      "trailingSlash": true
+    },
+    {
+      "title": "about",
+      "path": "[[workspace]]/content/about",
+      "previewPath": "/about",
+      "trailingSlash": true
+    },
+    {
+      "title": "boibm",
+      "path": "[[workspace]]/content/boibm",
+      "previewPath": "/boibm",
+      "trailingSlash": true
+    },
+    {
+      "title": "books",
+      "path": "[[workspace]]/content/books",
+      "previewPath": "/books",
+      "trailingSlash": true
+    },
+    {
+      "title": "buhian",
+      "path": "[[workspace]]/content/buhian",
+      "previewPath": "/buhian",
+      "trailingSlash": true
+    },
+    {
+      "title": "essays",
+      "path": "[[workspace]]/content/essays",
+      "previewPath": "essays",
+      "trailingSlash": true
+    },
+    {
+      "title": "lilim",
+      "path": "[[workspace]]/content/lilim",
+      "previewPath": "/lilim",
+      "trailingSlash": true
+    },
+    {
+      "title": "newsletters",
+      "path": "[[workspace]]/content/newsletters",
+      "previewPath": "/newsletters",
+      "trailingSlash": true
+    },
+    {
+      "title": "rxg1",
+      "path": "[[workspace]]/content/rxg1",
+      "previewPath": "/rxg1",
+      "trailingSlash": true
+    },
+    {
+      "title": "tags",
+      "path": "[[workspace]]/content/tags",
+      "previewPath": "/tags",
+      "trailingSlash": true
+    },
+    {
+      "title": "tlw",
+      "path": "[[workspace]]/content/tlw",
+      "previewPath": "/tlw",
+      "trailingSlash": true
+    },
+    {
+      "title": "tt1",
+      "path": "[[workspace]]/content/tt1",
+      "previewPath": "/tt1",
+      "trailingSlash": true
+    },
+    {
+      "title": "uman",
+      "path": "[[workspace]]/content/uman",
+      "previewPath": "/uman",
+      "trailingSlash": true
+    },
+    {
+      "path": "[[workspace]]/content/tags/annual-reviews"
+    },
+    {
+      "title": "book-summaries",
+      "path": "[[workspace]]/content/tags/book-summaries"
+    },
+    {
+      "path": "[[workspace]]/content/tt1/004"
+    }
+  ],
+  "frontMatter.git.enabled": true
+}
