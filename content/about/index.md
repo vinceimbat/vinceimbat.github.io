@@ -79,7 +79,7 @@ My Pangasinan poem ["Gawat"](https://tldtd.org/poet/vince-imbat/) and its transl
 
 ### Newsletters
 
-I have one active newsletter called _**[Uman](uman)**_, a distillation of my current thinking on spirituality, walking, writing, and photography.
+I have two active newsletters: a monthly missive called _**[Uman](uman)**_ and an occasional one called _**[The Long Walk](tlw)**_.
 
 But I've written other newsletters in the past, including "pop-up" newsletters that I write during walks. Browse my newsletter history [here](newsletters).
 
