@@ -1,6 +1,6 @@
 ---
 title: "Walking Bangkok II: Pilgrimages"
-date: 2025-04-23
+date: 2025-04-27
 description: A vignette about my arrival at Bangkok.
 ---
 ![Rama IV road](images/20250308-110041-thailand-bangkok-rama-iv-road.jpg)
