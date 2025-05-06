@@ -40,4 +40,4 @@ This image of the window at Sta. Maria and the image of this window here at LB. 
 - "The primary motivation for participating in the world of culture" comes from Jonathan Lethem's essay [“The Ecstasy of Influence.”](https://harpers.org/archive/2007/02/the-ecstasy-of-influence/)
 - "None of the artists..." was taken from  Pádraig Ó Tuama's newsletter article [“Spring Springs.”](https://poetryunbound.substack.com/p/spring-springs)
 - "The Unmoved Mover housed at the center of the Universe..." was stolen from Paul Axton's essay ["Why Walking Theology."](https://forgingploughshares.org/2018/08/02/why-walking-theology/)
-- "My God is the walk..." is Craig Mod talking in [“Talking While Walking the Camino Francés in Spain.”]((https://craigmod.com/ridgeline/205/)
+- "My God is the walk..." is Craig Mod talking in [“Talking While Walking the Camino Francés in Spain.”](https://craigmod.com/ridgeline/205/)
