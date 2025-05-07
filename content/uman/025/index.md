@@ -1,5 +1,5 @@
 ---
-title: Umán 025 — April 2025
+title: Umán 025 — Make the World Larger
 date: 2025-05-06
 ---
 ![Log](images/20250311-095008-thailand-ayutthaya-log.jpg)
