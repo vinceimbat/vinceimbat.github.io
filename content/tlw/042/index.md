@@ -22,7 +22,7 @@ date: 2025-05-18
 
 ![Barren Tree](images/20250309-062405-thailand-bangkok-barren-tree.jpg)
 
-![Red umbrellas](images/20250307-055136-thailand-jim-thompson-museum-umbrellas.jpg)
+![Red umbrellas at Jim Thompson museum](images/20250307-055136-thailand-jim-thompson-museum-umbrellas.jpg)
 
 ![Bangkok raining](images/20250307-065709-thailand-bangkok-raining.jpg)
 
