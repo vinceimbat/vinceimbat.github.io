@@ -1,0 +1,50 @@
+{{ if .IsPage }}
+  <!-- PhotoSwipe CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/photoswipe@5/dist/photoswipe.css" />
+
+  <!-- PhotoSwipe Lightbox Init Script -->
+  <script type="module">
+    import PhotoSwipeLightbox from 'https://unpkg.com/photoswipe@5/dist/photoswipe-lightbox.esm.min.js';
+    import PhotoSwipe from 'https://unpkg.com/photoswipe@5/dist/photoswipe.esm.min.js';
+
+    const lightbox = new PhotoSwipeLightbox({
+      gallery: '.pswp-gallery',
+      children: 'a[data-pswp-width]',  // <-- Only image links
+      pswpModule: () => import('https://unpkg.com/photoswipe@5/dist/photoswipe.esm.min.js'),
+      showHideAnimationType: 'fade',
+      bgOpacity: 0.9,
+
+      // Add UI elements here
+      zoom: false,
+      wheelToZoom: true,
+      clickToCloseNonZoomable: true,
+
+      // UI elements like arrows
+      paddingFn: (viewportSize) => ({ top: 30, bottom: 30, left: 20, right: 20 }),
+    });
+
+    lightbox.on('uiRegister', function() {
+      console.log('uiRegister event fired');
+
+      lightbox.pswp.ui.registerElement({
+        name: 'arrowPrev',
+        className: 'pswp__button pswp__button--arrow--prev',
+        title: 'Previous',
+        order: 10,
+        isButton: true,
+        onClick: () => lightbox.pswp.prev()
+      });
+
+      lightbox.pswp.ui.registerElement({
+        name: 'arrowNext',
+        className: 'pswp__button pswp__button--arrow--next',
+        title: 'Next',
+        order: 11,
+        isButton: true,
+        onClick: () => lightbox.pswp.next()
+      });
+    });
+
+    lightbox.init();
+  </script>
+{{ end }}
