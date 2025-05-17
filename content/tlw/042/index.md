@@ -1,6 +1,6 @@
 ---
-title: "Walking Bangkok III: Photo Essay"
-date: 2025-05-18
+title: "Walking Bangkok III: Dependent Origination"
+date: 2025-05-17
 ---
 ![SRT window scene](images/20250310-094659-thailand-bangkok-srt-window.jpg)
 
