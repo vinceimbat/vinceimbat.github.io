@@ -5,7 +5,7 @@ showTableOfContents: false
 ---
 ## I’m a Los Baños-based writer and photographer who walks.
 
-![Vince Imbat headshot](images/20250116-053928-headshot.jpg)
+![Vince Imbat headshot](images/20250116-053001-headshot.jpg)
 
 ## Contact or Follow
 
