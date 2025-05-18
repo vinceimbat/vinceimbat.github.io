@@ -2,6 +2,7 @@
 title: About Vince Imbat
 showDate: false
 showTableOfContents: false
+showPagination: false
 ---
 ## I’m a Los Baños-based writer and photographer who walks.
 

@@ -1,5 +1,12 @@
 ---
 title: Thanks
-date: 2025-05-18
+showDate: false
+showTableOfContents: false
+showPagination: false
 ---
 Thanks for subscribing!
+
+## Contact or Follow
+
+- Email: [vince@vinceimbat.com](mailto:vince@vinceimbat.com)
+- Instagram: [@vinceimbat](https://www.instagram.com/vinceimbat/)

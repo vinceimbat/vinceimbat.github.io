@@ -2,6 +2,7 @@
 title: Newsletters
 showDate: false
 showTableOfContents: false
+showPagination: false
 ---
 ## Active newsletters
 

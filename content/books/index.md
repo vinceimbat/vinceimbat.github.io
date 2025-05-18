@@ -2,6 +2,7 @@
 title: Books
 showDate: false
 showTableOfContents: false
+showPagination: false
 ---
 
 ## so we must meet / apart
