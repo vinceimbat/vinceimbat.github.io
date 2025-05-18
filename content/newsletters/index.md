@@ -7,23 +7,23 @@ showTableOfContents: false
 
 I have two active newsletters, which you get when you leave your email address below.
 
-### Umán (monthly) — January 2022 to Present (23 issues)
+### Umán (monthly) — January 2022 to Present (25 issues)
 
 _**Umán**_ is a Pangasinan word that means to change, repair, or repeat. I started it in 2022 to keep track of the monthly progress of my projects and studies but it later became this experimental weaving of the creative artifacts I produce from my daily studies, readings, journaling, and walks.
 
 Check the _**Umán**_ archives [here](uman).
 
-### The Long Walk (occasional) — October 2022 to Present (38 issues)
+### The Long Walk (occasional) — October 2022 to Present (42 issues)
 
 _**The Long Walk**_ is a newsletter featuring essays engaging with specific subject matters related to walking, literature, photography, and spirituality. They are published spontaneously to accommodate the natural arrival and progress of my thinking on such matters. I also use this newsletter to announce upcoming walks, new projects, and new writings.
 
 Check the _**The Long Walk**_ archives [here](tlw).
 
-Consider subscribing. It's free. Unsubscribe any time.
+Consider subscribing to both newsletters. They're free and you can unsubscribe any time.
 
 <script src='https://www.google.com/recaptcha/api.js'></script>
 
-<form action="https://sendy.lawak.ph/subscribe" method="POST" accept-charset="utf-8" style="text-align: center; margin-top: 20px;">
+<form action="https://sendy.lawak.ph/multi-subscribe.php" method="POST" accept-charset="utf-8" style="text-align: center; margin-top: 20px;">
   <div style="margin-bottom: 10px;">
     <input 
       type="email" 
@@ -31,10 +31,23 @@ Consider subscribing. It's free. Unsubscribe any time.
       id="email" 
       placeholder="Your email address" 
       style="display: inline-block; font-size: 16px; width: 100%; max-width: 300px; padding: 10px; box-sizing: border-box; border: 2px solid #d3d3d3; border-radius: 4px;" 
+      required
     />
   </div>
 
-  <div class="g-recaptcha" data-sitekey="6LcAiicqAAAAAKuD_c7xD53NGHkwVaHgL3p4Ak1C" style="display: inline-block; margin-bottom: 10px;"></div>
+  <!-- Newsletter checkboxes -->
+  <div style="margin-bottom: 10px; text-align: left; display: inline-block;">
+    <label>
+      <input type="checkbox" name="list[]" value="ph8UdQWpUrdDMORHhNAU9Q" />
+      Umán (monthly)
+    </label><br/>
+    <label>
+      <input type="checkbox" name="list[]" value="zX1Mon0bSpW6R6Ujfy5KzA" />
+      The Long Walk (occassional)
+    </label>
+  </div><br />
+
+  <div class="g-recaptcha" data-sitekey="6LcAiicqAAAAAKuD_c7xD53NGHkwVaHgL3p4Ak1C" style="display: inline-block; margin-bottom: 10px;"></div><br />
 
   <div style="display: none;">
     <label for="hp">HP</label><br />
@@ -42,11 +55,6 @@ Consider subscribing. It's free. Unsubscribe any time.
   </div>
 
   <div style="margin-top: 10px;">
-    <input 
-      type="hidden" 
-      name="list" 
-      value="zX1Mon0bSpW6R6Ujfy5KzA" 
-    />
     <input 
       type="hidden" 
       name="subform" 

@@ -20,11 +20,11 @@ _*[Umán](uman)*_ is an experimental weaving of the creative artifacts I produce
 
 _*[The Long Walk](tlw)*_, features essays on walking, literature, photography, and spirituality. I send it occasionally.
 
-You get both newsletters when you sign up below. They're free and you can unsubscribe anytime.
+Please consider subscribing to both newsletters. They're free and you can unsubscribe anytime.
 
 <script src='https://www.google.com/recaptcha/api.js'></script>
 
-<form action="https://sendy.lawak.ph/subscribe" method="POST" accept-charset="utf-8" style="text-align: center; margin-top: 20px;">
+<form action="https://sendy.lawak.ph/multi-subscribe.php" method="POST" accept-charset="utf-8" style="text-align: center; margin-top: 20px;">
   <div style="margin-bottom: 10px;">
     <input 
       type="email" 
@@ -32,10 +32,23 @@ You get both newsletters when you sign up below. They're free and you can unsubs
       id="email" 
       placeholder="Your email address" 
       style="display: inline-block; font-size: 16px; width: 100%; max-width: 300px; padding: 10px; box-sizing: border-box; border: 2px solid #d3d3d3; border-radius: 4px;" 
+      required
     />
   </div>
 
-  <div class="g-recaptcha" data-sitekey="6LcAiicqAAAAAKuD_c7xD53NGHkwVaHgL3p4Ak1C" style="display: inline-block; margin-bottom: 10px;"></div>
+  <!-- Newsletter checkboxes -->
+  <div style="margin-bottom: 10px; text-align: left; display: inline-block;">
+    <label>
+      <input type="checkbox" name="list[]" value="ph8UdQWpUrdDMORHhNAU9Q" />
+      Umán (monthly)
+    </label><br/>
+    <label>
+      <input type="checkbox" name="list[]" value="zX1Mon0bSpW6R6Ujfy5KzA" />
+      The Long Walk (occassional)
+    </label>
+  </div><br />
+
+  <div class="g-recaptcha" data-sitekey="6LcAiicqAAAAAKuD_c7xD53NGHkwVaHgL3p4Ak1C" style="display: inline-block; margin-bottom: 10px;"></div><br />
 
   <div style="display: none;">
     <label for="hp">HP</label><br />
@@ -43,11 +56,6 @@ You get both newsletters when you sign up below. They're free and you can unsubs
   </div>
 
   <div style="margin-top: 10px;">
-    <input 
-      type="hidden" 
-      name="list" 
-      value="zX1Mon0bSpW6R6Ujfy5KzA" 
-    />
     <input 
       type="hidden" 
       name="subform" 
