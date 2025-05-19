@@ -2,5 +2,8 @@
   "dependencies": {
     "photoswipe": "^5.4.4",
     "photoswipe-simplify": "^0.0.3"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3"
   }
 }
