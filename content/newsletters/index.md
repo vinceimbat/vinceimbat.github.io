@@ -4,6 +4,7 @@ showDate: false
 showTableOfContents: false
 showPagination: false
 ---
+
 ## Active newsletters
 
 I have two active newsletters, which you get when you leave your email address below.
@@ -39,11 +40,11 @@ Consider subscribing to both newsletters. They're free and you can unsubscribe a
   <!-- Newsletter checkboxes -->
   <div style="margin-bottom: 10px; text-align: left; display: inline-block;">
     <label>
-      <input type="checkbox" name="list[]" value="ph8UdQWpUrdDMORHhNAU9Q" checked />
+      <input type="checkbox" name="lists[]" value="ph8UdQWpUrdDMORHhNAU9Q" checked />
       Umán (monthly)
     </label><br/>
     <label>
-      <input type="checkbox" name="list[]" value="zX1Mon0bSpW6R6Ujfy5KzA" checked />
+      <input type="checkbox" name="lists[]" value="zX1Mon0bSpW6R6Ujfy5KzA" checked />
       The Long Walk (occassional)
     </label>
   </div><br />
@@ -73,7 +74,7 @@ Consider subscribing to both newsletters. They're free and you can unsubscribe a
   </div>
 </form>
 
-***
+---
 
 ## Archived Newsletters
 
@@ -83,7 +84,7 @@ A pop-up newsletter for my second week-long walk of Los Baños that ran from Jan
 
 Check the **but Overall is beyond me** archives [here](boibm).
 
-### Tall Tales: Baguio Walk No. 1  — January 15 to 21, 2024 (5 issues)
+### Tall Tales: Baguio Walk No. 1 — January 15 to 21, 2024 (5 issues)
 
 A pop-up newsletter for my first week-long walk of Baguio City. In this newsletter, I wrote about how I returned to streets and places I used to frequent as a former minister of the Jehovah's Witnesses.
 
@@ -97,6 +98,6 @@ Check the _**Roots ྾ Gravel**_ archives [here](rxg1).
 
 ### Lilim (weekly) — May 2021 to August 2022 (32 issues)
 
-*Lilim* is a Filipino word that means shade. It was a weekly newsletter that ran for three seasons during the pandemic. It began as a documentation of my early walks in Los Baños and evolved into a predecessor of The Long Walk.
+_Lilim_ is a Filipino word that means shade. It was a weekly newsletter that ran for three seasons during the pandemic. It began as a documentation of my early walks in Los Baños and evolved into a predecessor of The Long Walk.
 
 Check the _**Lilim**_ archives [here](lilim).

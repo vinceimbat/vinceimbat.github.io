@@ -4,6 +4,7 @@ showDate: false
 showTableOfContents: false
 showPagination: false
 ---
+
 ## I’m a Los Baños-based writer and photographer who walks.
 
 ![Vince Imbat headshot](images/20250116-053001-headshot.jpg)
@@ -13,7 +14,7 @@ showPagination: false
 - Email: [vince@vinceimbat.com](mailto:vince@vinceimbat.com)
 - Instagram: [@vinceimbat](https://www.instagram.com/vinceimbat/)
 
-***
+---
 
 ## Subscribe to my newsletters
 
@@ -40,11 +41,11 @@ Please consider subscribing to both newsletters. They're free and you can unsubs
   <!-- Newsletter checkboxes -->
   <div style="margin-bottom: 10px; text-align: left; display: inline-block;">
     <label>
-      <input type="checkbox" name="list[]" value="ph8UdQWpUrdDMORHhNAU9Q" checked />
+      <input type="checkbox" name="lists[]" value="ph8UdQWpUrdDMORHhNAU9Q" checked />
       Umán (monthly)
     </label><br/>
     <label>
-      <input type="checkbox" name="list[]" value="zX1Mon0bSpW6R6Ujfy5KzA" checked />
+      <input type="checkbox" name="lists[]" value="zX1Mon0bSpW6R6Ujfy5KzA" checked />
       The Long Walk (occassional)
     </label>
   </div><br />
@@ -74,7 +75,7 @@ Please consider subscribing to both newsletters. They're free and you can unsubs
   </div>
 </form>
 
-***
+---
 
 ## Particulars
 
@@ -82,7 +83,7 @@ Please consider subscribing to both newsletters. They're free and you can unsubs
 
 I co-authored a zine called _**[so we must meet apart](https://vinceimbat.gumroad.com/l/apart)**_ with Cagayan de Oro writer [Jesa Suganob](https://flammablematerials.substack.com/). It is a collection of epistollary essays delving into the poetics of walking.
 
-My hybrid (draft) poetry collection *[Mapa ng Los Baños Patungo Sa'yo (A Map of Los Baños to You)](https://archium.ateneo.edu/katipunan/vol11/iss2/63/)* and its accompanying essay ["Ang Borador Bilang Panitikan ng Paglalakad" (The Draft as a Literature for Walking)](https://archium.ateneo.edu/katipunan/vol11/iss2/63/) were published in the Buhian literary issue of *Katipunan*.
+My hybrid (draft) poetry collection _[Mapa ng Los Baños Patungo Sa'yo (A Map of Los Baños to You)](https://archium.ateneo.edu/katipunan/vol11/iss2/63/)_ and its accompanying essay ["Ang Borador Bilang Panitikan ng Paglalakad" (The Draft as a Literature for Walking)](https://archium.ateneo.edu/katipunan/vol11/iss2/63/) were published in the Buhian literary issue of _Katipunan_.
 
 My Pangasinan poem ["Gawat"](https://tldtd.org/poet/vince-imbat/) and its translation ["Tagsalat"](https://tldtd.org/poet/vince-imbat/) were published in the fifth issue of TLDTD.
 
@@ -104,7 +105,7 @@ My essay entitled "Ikurit Ko'y Sali-salik ëd Sayan Dalin: Pitoran Akar" (I Will
 - [20th Ateneo National Writers Workshop](https://www.facebook.com/share/p/1BGYG4y87E/) (ANWW20)
 - [17th Palihang Rogelio Sicat](https://www.facebook.com/share/p/1GtkxEiq2Y/) (PRS17)
 
-***
+---
 
 ## My Story
 
@@ -145,7 +146,7 @@ Encountering the Japan-based writer and photographer [Craig Mod](https://craigmo
 
 As of now, I’m continuing my study of walking as a method and platform for thinking and creativity. I’m particularly interested on how the contemporary dérive as theorized by Phil Smith sits alongside Filipino indigenous conceptions and experiences of walking and how these embodied acts could serve as platforms for exploring jiyū shūkyō (or variants of it) in the Philippines.
 
-In November 2024, the *Katipunan* journal published my hybrid (draft) poetry collection *[Mapa ng Los Baños Patungo Sa'yo (A Map of Los Baños to You)](https://archium.ateneo.edu/katipunan/vol11/iss2/63/)* in its Buhian literary issue. In the essay that accompanied the collection, ["Ang Borador Bilang Panitikan ng Paglalakad" (The Draft as a Literature for Walking)](https://archium.ateneo.edu/katipunan/vol11/iss2/63/), I delved into my intimate history with walking and discussed how I've developed a walking practice that fuels my writing and spiritual life.
+In November 2024, the _Katipunan_ journal published my hybrid (draft) poetry collection _[Mapa ng Los Baños Patungo Sa'yo (A Map of Los Baños to You)](https://archium.ateneo.edu/katipunan/vol11/iss2/63/)_ in its Buhian literary issue. In the essay that accompanied the collection, ["Ang Borador Bilang Panitikan ng Paglalakad" (The Draft as a Literature for Walking)](https://archium.ateneo.edu/katipunan/vol11/iss2/63/), I delved into my intimate history with walking and discussed how I've developed a walking practice that fuels my writing and spiritual life.
 
 In the same year, I wrote an essay in Pangasinan entitled "Ikurit Ko'y Sali-salik ëd Sayan Dalin: Pitoran Akar" (I Will Write My Feet on This Land: Seven Walks), which won in the [2024 Gawad Bienvenido Lumbera](https://www.facebook.com/share/p/15y2bEbCH2/). The essay introduces seven of the more than a hundred Pangasinan words refering to walking I discovered in the Spanish-era Cosgaya dictionary. I then used these words as prompts for recollections of several walks I've done in Pangasinan, my home province, including my first walk as a child, my first funeral procession, and the walks I did as a youth preaching the Bible with my parents.
 
@@ -155,7 +156,7 @@ I was very fortunate to grow up in a household with books. By high school I had 
 
 As a religious minister using sign language as my primary mode of communication, I wrote almost nothing. When I left the religion of my childhood I noticed I started writing once more but with a very different intention. I wrote only for myself under the private pages of my journal to help me understand what I was going through and to chart a course for the life ahead. In a way, writing was like walking with pen and paper.
 
-As of now, I’m experimenting with what I call the *[talahardin](talahardin.vinceimbat.com)* (literally, “note garden”), a digital archive of my essays, notes, poems, quotes, stories, translations, vignettes, and other “species of thought” in different states of development. I see my talahardin as my body of work. As an archive, everything it contains are drafts as it itself is a draft. Seeing my body of work as a draft is anchored on the idea that art is never finished, which means that like one’s state during a walk, I see my art as being in a perpetual state of liminality. Because of this, I put priority on the process rather than the product of my writing. I have sympathies with the process movement in literature, particularly the work of Pat Schneider and her [Amherst Writers and Artists (AWA)](https://amherstwriters.org/) method.
+As of now, I’m experimenting with what I call the _[talahardin](talahardin.vinceimbat.com)_ (literally, “note garden”), a digital archive of my essays, notes, poems, quotes, stories, translations, vignettes, and other “species of thought” in different states of development. I see my talahardin as my body of work. As an archive, everything it contains are drafts as it itself is a draft. Seeing my body of work as a draft is anchored on the idea that art is never finished, which means that like one’s state during a walk, I see my art as being in a perpetual state of liminality. Because of this, I put priority on the process rather than the product of my writing. I have sympathies with the process movement in literature, particularly the work of Pat Schneider and her [Amherst Writers and Artists (AWA)](https://amherstwriters.org/) method.
 
 ### Photography
 
@@ -167,7 +168,7 @@ My walks and photography work hand in hand. Almost all my photographs are taken 
 
 As of now, I’m also exploring how jiyū shūkyō could be practiced through photography. In thinking about photography this way, I take inspiration from a quote from Andrew James Brown's essay ["The Freedom to Be Tomorrow What We Are Not Today"](https://andrewjbrown.blogspot.com/2022/05/the-freedom-to-be-tomorrow-what-we-are.html):
 
->I always try to pick up my camera and go out into the world without a ready-made, fully worked-out blueprint, theory or plan about how, when or where to take a photograph. In this sense, what the surfboard is to the surfer, the camera is to me the photographer. In doing this I’m attempting to keep myself open to whatever whooshes-up or shines before me, whether that is in the form of an obvious “subject”, “view”, or a simple passing play of sunlight and shadow. When something does whoosh-up or shines before me, I stop and take a photograph. To do this I must, of course, temporarily “take a position.” Not only by standing still in this or that place but also by taking a position with regard to the camera settings I am going to use, the f-stop, the shutter speed, film speed and whether to shoot in black and white or colour. Now, were I never to take this or that position with regard to all these things, I would never be able to take any photo (good or bad). However, it is vitally important that, having taken a photograph, I never become wholly wedded to this or that particular position, subject, view, passing play of sunlight and shadow or this or that set of settings—instead, I must move on, intra-actively, on the crest of the unfolding world, to attain another perspective and so allow something else to whoosh-up or shine before me which calls me to shoot, click!
+> I always try to pick up my camera and go out into the world without a ready-made, fully worked-out blueprint, theory or plan about how, when or where to take a photograph. In this sense, what the surfboard is to the surfer, the camera is to me the photographer. In doing this I’m attempting to keep myself open to whatever whooshes-up or shines before me, whether that is in the form of an obvious “subject”, “view”, or a simple passing play of sunlight and shadow. When something does whoosh-up or shines before me, I stop and take a photograph. To do this I must, of course, temporarily “take a position.” Not only by standing still in this or that place but also by taking a position with regard to the camera settings I am going to use, the f-stop, the shutter speed, film speed and whether to shoot in black and white or colour. Now, were I never to take this or that position with regard to all these things, I would never be able to take any photo (good or bad). However, it is vitally important that, having taken a photograph, I never become wholly wedded to this or that particular position, subject, view, passing play of sunlight and shadow or this or that set of settings—instead, I must move on, intra-actively, on the crest of the unfolding world, to attain another perspective and so allow something else to whoosh-up or shine before me which calls me to shoot, click!
 
 ## Let’s Keep in Touch
 

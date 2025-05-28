@@ -4,9 +4,9 @@
 
 My poems and essays are explorations on the possibilities of a creative, inquiring, free, and liberative spirituality in the Philippines.
 
-Most of my writings begin as inklings gathered during walks. I keep these seeds of thought in a digital archive I call *[talahardin](https://talahardin.vinceimbat.com/)*.
+Most of my writings begin as inklings gathered during walks. I keep these seeds of thought in a digital archive I call _[talahardin](https://talahardin.vinceimbat.com/)_.
 
-***
+---
 
 Every first week of the month, I send an email newsletter called _*[Umán](uman)*_. Each email is an experimental weaving of the creative artifacts I produce from my daily studies, readings, journaling, and walks.
 
@@ -31,11 +31,11 @@ Please consider subscribing to my newsletters below. They're free and you can un
   <!-- Newsletter checkboxes -->
   <div style="margin-bottom: 10px; text-align: left; display: inline-block;">
     <label>
-      <input type="checkbox" name="list[]" value="ph8UdQWpUrdDMORHhNAU9Q" checked />
+      <input type="checkbox" name="lists[]" value="ph8UdQWpUrdDMORHhNAU9Q" checked />
       Umán (monthly)
     </label><br/>
     <label>
-      <input type="checkbox" name="list[]" value="zX1Mon0bSpW6R6Ujfy5KzA" checked />
+      <input type="checkbox" name="lists[]" value="zX1Mon0bSpW6R6Ujfy5KzA" checked />
       The Long Walk (occassional)
     </label>
   </div><br />
@@ -64,5 +64,6 @@ Please consider subscribing to my newsletters below. They're free and you can un
     />
   </div>
 </form>
+</div>
 
-***
+---
