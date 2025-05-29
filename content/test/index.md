@@ -20,11 +20,11 @@ date: 2025-05-29
   <!-- Newsletter checkboxes -->
   <div style="margin-bottom: 10px; text-align: left; display: inline-block;">
     <label>
-      <input type="checkbox" name="lists[]" value="ph8UdQWpUrdDMORHhNAU9Q" checked />
+      <input type="checkbox" name="list[]" value="ph8UdQWpUrdDMORHhNAU9Q" checked />
       Umán (monthly)
     </label><br/>
     <label>
-      <input type="checkbox" name="lists[]" value="zX1Mon0bSpW6R6Ujfy5KzA" checked />
+      <input type="checkbox" name="list[]" value="zX1Mon0bSpW6R6Ujfy5KzA" checked />
       The Long Walk (occassional)
     </label>
   </div><br />
