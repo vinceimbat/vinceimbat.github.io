@@ -14,94 +14,28 @@ Occasionally, I also send a newsletter called _*[The Long Walk](tlw)*_, which fe
 
 Please consider subscribing to my newsletters below. They're free and you can unsubscribe anytime.
 
-### Subscribe to Umán
+<form method="post" action="https://listmonk.lawak.ph/subscription/form" class="listmonk-form">
+  <div style="text-align: center;">
+  <input type="hidden" name="nonce" />
+  <p><input type="email" name="email" required placeholder="email address" style="border: 2px solid lightgray; padding: 8px; border-radius: 4px;"></p>
+  <p>
+  <input id="4ea63" type="checkbox" name="l" checked value="4ea6395a-bea5-414a-a563-47e28c373333" />
+    <label for="4ea63">The Long Walk</label>
+    <br />
+  </p>
+  <p>
+    <input id="25bb2" type="checkbox" name="l" checked value="25bb2dad-0ae7-4a21-8349-5bc989677539" />
+    <label for="25bb2">Umán</label>
+    <br />
+  </p>
+  <div class="h-captcha" data-sitekey="3da8d39e-effe-4136-b7a4-846adbf21414"></div>
+  <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
+  <p>
+  <input type="submit" value="Subscribe" style="background-color: #7b97aa; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px;">
+  </p>
 
-<script src='https://www.google.com/recaptcha/api.js'></script>
-
-<form action="https://sendy.lawak.ph/subscribe" method="POST" accept-charset="utf-8" style="text-align: left; margin-top: 20px;">
-  <div style="margin-bottom: 10px;">
-    <input 
-      type="email" 
-      name="email" 
-      id="email" 
-      placeholder="Your email address" 
-      style="display: inline-block; font-size: 16px; width: 100%; max-width: 300px; padding: 10px; box-sizing: border-box; border: 2px solid #d3d3d3; border-radius: 4px;" 
-    />
-  </div>
-
-  <div class="g-recaptcha" data-sitekey="6LcAiicqAAAAAKuD_c7xD53NGHkwVaHgL3p4Ak1C" style="display: inline-block; margin-bottom: 10px;"></div>
-
-  <div style="display: none;">
-    <label for="hp">HP</label><br />
-    <input type="text" name="hp" id="hp" />
-  </div>
-
-  <div style="margin-top: 10px;">
-    <input 
-      type="hidden" 
-      name="list" 
-      value="ph8UdQWpUrdDMORHhNAU9Q" 
-    />
-    <input 
-      type="hidden" 
-      name="subform" 
-      value="yes" 
-    />
-    <input 
-      type="submit" 
-      name="submit" 
-      id="submit" 
-      value="Subscribe" 
-      style="display: inline-block; font-size: 16px; padding: 10px 20px; width: auto; background-color: #7b97aa; color: white; border: none; border-radius: 4px; transition: transform 0.3s ease, background-color 0.3s ease;" 
-      onmouseover="this.style.transform='scale(1.05)'" 
-      onmouseout="this.style.transform='scale(1)'"
-    />
   </div>
 </form>
-
-### Subscribe to The Long Walk
-
-<script src='https://www.google.com/recaptcha/api.js'></script>
-
-<form action="https://sendy.lawak.ph/subscribe" method="POST" accept-charset="utf-8" style="text-align: left; margin-top: 20px;">
-  <div style="margin-bottom: 10px;">
-    <input 
-      type="email" 
-      name="email" 
-      id="email" 
-      placeholder="Your email address" 
-      style="display: inline-block; font-size: 16px; width: 100%; max-width: 300px; padding: 10px; box-sizing: border-box; border: 2px solid #d3d3d3; border-radius: 4px;" 
-    />
-  </div>
-
-  <div class="g-recaptcha" data-sitekey="6LcAiicqAAAAAKuD_c7xD53NGHkwVaHgL3p4Ak1C" style="display: inline-block; margin-bottom: 10px;"></div>
-
-  <div style="display: none;">
-    <label for="hp">HP</label><br />
-    <input type="text" name="hp" id="hp" />
-  </div>
-
-  <div style="margin-top: 10px;">
-    <input 
-      type="hidden" 
-      name="list" 
-      value="zX1Mon0bSpW6R6Ujfy5KzA" 
-    />
-    <input 
-      type="hidden" 
-      name="subform" 
-      value="yes" 
-    />
-    <input 
-      type="submit" 
-      name="submit" 
-      id="submit" 
-      value="Subscribe" 
-      style="display: inline-block; font-size: 16px; padding: 10px 20px; width: auto; background-color: #7b97aa; color: white; border: none; border-radius: 4px; transition: transform 0.3s ease, background-color 0.3s ease;" 
-      onmouseover="this.style.transform='scale(1.05)'" 
-      onmouseout="this.style.transform='scale(1)'"
-    />
-  </div>
-</form>
+</div>
 
 ---
