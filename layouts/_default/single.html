@@ -44,37 +44,6 @@
       <div class="min-h-0 min-w-0 max-w-prose grow">
         <div class="pswp-gallery">
           {{ .Content | emojify }}
-          {{ $path := .File.Path }}
-          {{ if not (or 
-            (strings.HasPrefix $path "about/")
-            (strings.HasPrefix $path "books/")
-            (strings.HasPrefix $path "buhian/")
-            (strings.HasPrefix $path "newsletters/")
-            (strings.HasPrefix $path "thanks/")
-          ) }}
-          <!-- Newsletter signup form -->
-          <div class="newsletter-signup" style="margin-top: 2rem; border-top: 1px solid #eee; padding-top: 2rem;">
-            <h3>Not subscribed to my newsletters?</h3>
-            <p>Get updates from <strong>Umán</strong> (experimental weaving of notes, journal entries, etc.) and <strong>The Long Walk</strong> (essays on walking, literature, photography, and spirituality) directly in your inbox.</p>
-            <form action="https://sendy.lawak.ph/multi-subscribe.php" method="POST" accept-charset="utf-8">
-              <input
-                type="email"
-                name="email"
-                placeholder="Your email address" required style="padding: 8px; width: 100%; max-width: 300px; box-sizing: border-box; border: 2px solid #d3d3d3; border-radius: 4px;"
-              ><br><br>
-
-            <label><input type="checkbox" name="list[]" value="ph8UdQWpUrdDMORHhNAU9Q" checked> Umán (monthly)</label><br>
-            <label><input type="checkbox" name="list[]" value="zX1Mon0bSpW6R6Ujfy5KzA" checked> The Long Walk (occasional)</label><br><br>
-
-            <div class="g-recaptcha" data-sitekey="6LcAiicqAAAAAKuD_c7xD53NGHkwVaHgL3p4Ak1C"></div><br>
-
-            <input type="hidden" name="subform" value="yes">
-            <input type="submit" value="Subscribe" style="background-color: #7b97aa; color: white; padding: 10px 20px; border: none; border-radius: 4px;">
-            </form>
-          </div>
-
-          <script src='https://www.google.com/recaptcha/api.js'></script>
-        {{ end }}
       </div>
     </section>
     <footer class="max-w-prose pt-8 print:hidden">
