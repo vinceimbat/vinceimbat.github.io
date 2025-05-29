@@ -44,6 +44,43 @@
       <div class="min-h-0 min-w-0 max-w-prose grow">
         <div class="pswp-gallery">
           {{ .Content | emojify }}
+          {{ $path := .File.Path }}
+{{ if not (or 
+  (strings.HasPrefix $path "about/")
+  (strings.HasPrefix $path "books/")
+  (strings.HasPrefix $path "buhian/")
+  (strings.HasPrefix $path "newsletters/")
+  (strings.HasPrefix $path "thanks/")
+) }}
+<!-- Newsletter signup form -->
+<br>
+<hr>
+<h3>Subscribe to my newsletters</h3>
+<p>Get updates from <strong>Umán</strong> and <strong>The Long Walk</strong> directly in your inbox.</p>
+<form method="post" action="https://listmonk.lawak.ph/subscription/form" class="listmonk-form">
+  <div>
+  <input type="hidden" name="nonce" />
+  <p><input type="email" name="email" required placeholder="email address" style="border: 2px solid lightgray; padding: 8px; border-radius: 4px;"></p>
+  <p>
+  <input id="4ea63" type="checkbox" name="l" checked value="4ea6395a-bea5-414a-a563-47e28c373333" />
+    <label for="4ea63">The Long Walk</label>
+    <br />
+  </p>
+  <p>
+    <input id="25bb2" type="checkbox" name="l" checked value="25bb2dad-0ae7-4a21-8349-5bc989677539" />
+    <label for="25bb2">Umán</label>
+    <br />
+  </p>
+  <div class="h-captcha" data-sitekey="3da8d39e-effe-4136-b7a4-846adbf21414"></div>
+  <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
+  <p>
+  <input type="submit" value="Subscribe" style="background-color: #7b97aa; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px;">
+  </p>
+
+  </div>
+</form>
+</div>
+{{ end }}
       </div>
     </section>
     <footer class="max-w-prose pt-8 print:hidden">

@@ -17,8 +17,12 @@ date: 2025-05-29
     <label for="25bb2">Umán</label>
     <br />
   </p>
-  <div class="h-captcha" data-sitekey="3da8d39e-effe-4136-b7a4-846adbf21414"></div>
+  <div style="display: inline-block;">
+    <div class="h-captcha" data-sitekey="3da8d39e-effe-4136-b7a4-846adbf21414"></div>
+  </div>
+
   <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
+
   <p>
   <input type="submit" value="Subscribe" style="background-color: #7b97aa; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px;">
   </p>
