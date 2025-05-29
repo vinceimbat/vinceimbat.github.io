@@ -1,47 +1,24 @@
 ---
 title: The Long Walk
 ---
+
 _**The Long Walk**_ is a newsletter featuring essays engaging with specific subject matters related to walking, literature, photography, and spirituality. They are published spontaneously to accommodate the natural arrival and progress of my thinking on such matters. I also use this newsletter to announce upcoming walks, new projects, and new writings.
 
-<script src='https://www.google.com/recaptcha/api.js'></script>
-
-<form action="https://sendy.lawak.ph/subscribe" method="POST" accept-charset="utf-8" style="text-align: left; margin-top: 20px;">
-  <div style="margin-bottom: 10px;">
-    <input 
-      type="email" 
-      name="email" 
-      id="email" 
-      placeholder="Your email address" 
-      style="display: inline-block; font-size: 16px; width: 100%; max-width: 300px; padding: 10px; box-sizing: border-box; border: 2px solid #d3d3d3; border-radius: 4px;" 
-    />
+<form method="post" action="https://listmonk.lawak.ph/subscription/form" class="listmonk-form">
+  <div style="text-align: center;">
+  <input type="hidden" name="nonce" />
+  <input type="hidden" name="l" value="4ea6395a-bea5-414a-a563-47e28c373333" />
+  <p><input type="email" name="email" required placeholder="email address" style="width: 100%; max-width: 400px; border: 2px solid lightgray; padding: 8px; border-radius: 4px;"></p>
+  <div style="display: inline-block;">
+    <div class="h-captcha" data-sitekey="3da8d39e-effe-4136-b7a4-846adbf21414"></div>
   </div>
 
-  <div class="g-recaptcha" data-sitekey="6LcAiicqAAAAAKuD_c7xD53NGHkwVaHgL3p4Ak1C" style="display: inline-block; margin-bottom: 10px;"></div>
+  <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
 
-  <div style="display: none;">
-    <label for="hp">HP</label><br />
-    <input type="text" name="hp" id="hp" />
-  </div>
+  <p>
+  <input type="submit" value="Subscribe" style="background-color: #7b97aa; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px;">
+  </p>
 
-  <div style="margin-top: 10px;">
-    <input 
-      type="hidden" 
-      name="list" 
-      value="zX1Mon0bSpW6R6Ujfy5KzA" 
-    />
-    <input 
-      type="hidden" 
-      name="subform" 
-      value="yes" 
-    />
-    <input 
-      type="submit" 
-      name="submit" 
-      id="submit" 
-      value="Subscribe" 
-      style="display: inline-block; font-size: 16px; padding: 10px 20px; width: auto; background-color: #7b97aa; color: white; border: none; border-radius: 4px; transition: transform 0.3s ease, background-color 0.3s ease;" 
-      onmouseover="this.style.transform='scale(1.05)'" 
-      onmouseout="this.style.transform='scale(1)'"
-    />
   </div>
 </form>
+</div>

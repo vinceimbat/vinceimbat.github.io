@@ -17,7 +17,7 @@ Please consider subscribing to my newsletters below. They're free and you can un
 <form method="post" action="https://listmonk.lawak.ph/subscription/form" class="listmonk-form">
   <div style="text-align: center;">
   <input type="hidden" name="nonce" />
-  <p><input type="email" name="email" required placeholder="email address" style="border: 2px solid lightgray; padding: 8px; border-radius: 4px;"></p>
+  <p><input type="email" name="email" required placeholder="email address" style="width: 100%; max-width: 300px; border: 2px solid lightgray; padding: 8px; border-radius: 4px;"></p>
   <p>
   <input id="4ea63" type="checkbox" name="l" checked value="4ea6395a-bea5-414a-a563-47e28c373333" />
     <label for="4ea63">The Long Walk</label>
