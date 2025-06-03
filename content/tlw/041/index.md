@@ -2,13 +2,14 @@
 title: "Let the Light In: Notes on Photography and Self-trust"
 date: 2025-05-11
 ---
-![Lone woman on the beach](images/20231229-112153-san-pascual-lone-woman-beach.jpg)
+
+![Lone woman on the beach](images/feature.jpg)
 
 Yesterday, I was trying to understand why the f-stop number indicated on the digital viewfinder of my camera increases when the aperture shrinks in size. The aperture is the hole in a camera lens that lets light in. The larger this hole, the more light enters my camera. The size of the aperture could be adjusted with a physical dial. Its size is indicated by a number called the f-stop. A low f-stop number, say f/4.5, means a wider aperture, while a bigger f-stop number, say f/10, means a narrower aperture. I later learned that the f-stop number, while not exactly its measurement, increases when the size of the diaphragm of my camera's lens also increases. The diaphragm is a set of overlapping blades that look like leaves that come closer together to shut the aperture and move away from each other to open it.
 
 After writing the piece that follows, I thought about the semantics of closing, shutting, and coming in, and remember how much of the same words apply to my relationship with photography. To be able to let the light in, to truly open myself up to the wide variety of images waiting to permeate themselves into my being, I have to increase the size of my inner aperture by shedding my leaves of insecurity, self-distrust, and pain that may have accumulated for years.
 
-***
+---
 
 Let me tell you a secret: I am the most amateur of all amateur photographers. And yet, I've owned this label, this identity, this appendage to the [bio](about). I don't say, "Hey, I'm a writer who walks." I say, "I'm a writer **and photographer** who walks." How did I arrive at this audacity? I don't know. Who taught me to do this? No one. As soon as I felt an inner urge to study how I could shoot better images with my camera, it just made natural sense to call myself this—a photographer—in a way that didn't happen to me with other ways of expressing myself, including writing.
 
@@ -16,7 +17,7 @@ With writing, I had to fool myself first. I started by writing three things I wa
 
 Photography—at least the way I experienced it—was more welcoming. I felt it was okay to take refuge under the identity of being a photographer, even if I don't go out and take a photo every day (I still don't). During times when I can't write a single word on the blank page or just don't know what else to say, I find myself looking for the silence and modesty of photography. I like to think of it not as a complement to but an extension of my writing. Through photography, it is impossible for me to stop writing. Photography, after all, is writing with light.
 
-***
+---
 
 Despite the audacity of taking shelter under the label of photographer, I have more proof of my dilettante status than I care to admit. For one, I didn't really care about photos until I started blogging in 2014. But even then, I mostly relied on stock photos to accompany my essays. It was only around 2016, when I got my first smartphone—an Android phone with a decent camera—did I began accumulating photos. But I took photos like everyone else. I point, shoot, and repeat, not caring about composition, exposure, or color.
 
