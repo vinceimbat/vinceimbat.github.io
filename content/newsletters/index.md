@@ -5,15 +5,7 @@ showTableOfContents: false
 showPagination: false
 ---
 
-## Active newsletters
-
-I have two active newsletters, which you get when you leave your email address below.
-
-### Umán (monthly) — January 2022 to Present (25 issues)
-
-_**Umán**_ is a Pangasinan word that means to change, repair, or repeat. I started it in 2022 to keep track of the monthly progress of my projects and studies but it later became this experimental weaving of the creative artifacts I produce from my daily studies, readings, journaling, and walks.
-
-Check the _**Umán**_ archives [here](uman).
+## Active newsletter
 
 ### The Long Walk (occasional) — October 2022 to Present (42 issues)
 
@@ -21,22 +13,13 @@ _**The Long Walk**_ is a newsletter featuring essays engaging with specific subj
 
 Check the _**The Long Walk**_ archives [here](tlw).
 
-Consider subscribing to both newsletters. They're free and you can unsubscribe any time.
+Consider subscribing. It's free and you can unsubscribe any time.
 
 <form method="post" action="https://listmonk.lawak.ph/subscription/form" class="listmonk-form">
   <div style="text-align: center;">
   <input type="hidden" name="nonce" />
+  <input type="hidden" name="l" value="4ea6395a-bea5-414a-a563-47e28c373333" />
   <p><input type="email" name="email" required placeholder="email address" style="width: 100%; max-width: 400px; border: 2px solid lightgray; padding: 8px; border-radius: 4px;"></p>
-  <p>
-  <input id="4ea63" type="checkbox" name="l" checked value="4ea6395a-bea5-414a-a563-47e28c373333" />
-    <label for="4ea63">The Long Walk</label>
-    <br />
-  </p>
-  <p>
-    <input id="25bb2" type="checkbox" name="l" checked value="25bb2dad-0ae7-4a21-8349-5bc989677539" />
-    <label for="25bb2">Umán</label>
-    <br />
-  </p>
   <div style="display: inline-block;">
     <div class="h-captcha" data-sitekey="3da8d39e-effe-4136-b7a4-846adbf21414"></div>
   </div>
@@ -54,6 +37,12 @@ Consider subscribing to both newsletters. They're free and you can unsubscribe a
 ---
 
 ## Archived Newsletters
+
+### Umán (monthly) — January 2022 to May 2025 (25 issues)
+
+_**Umán**_ is a Pangasinan word that means to change, repair, or repeat. I started it in 2022 to keep track of the monthly progress of my projects and studies but it later became this experimental weaving of the creative artifacts I produce from my daily studies, readings, journaling, and walks.
+
+Check the _**Umán**_ archives [here](uman).
 
 ### but Overall is beyond me (bOibm) — January 25 to 31, 2025 (7 issues)
 

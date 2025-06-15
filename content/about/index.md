@@ -16,28 +16,17 @@ showPagination: false
 
 ---
 
-## Subscribe to my newsletters
-
-_*[Umán](uman)*_ is an experimental weaving of the creative artifacts I produce from my daily studies, readings, journaling, and walks. I send it once a month.
+## Subscribe to my newsletter
 
 _*[The Long Walk](tlw)*_, features essays on walking, literature, photography, and spirituality. I send it occasionally.
 
-Please consider subscribing to both newsletters. They're free and you can unsubscribe anytime.
+Please consider subscribing. It's free and you can unsubscribe anytime.
 
 <form method="post" action="https://listmonk.lawak.ph/subscription/form" class="listmonk-form">
   <div style="text-align: center;">
   <input type="hidden" name="nonce" />
+  <input type="hidden" name="l" value="4ea6395a-bea5-414a-a563-47e28c373333" />
   <p><input type="email" name="email" required placeholder="email address" style="width: 100%; max-width: 400px; border: 2px solid lightgray; padding: 8px; border-radius: 4px;"></p>
-  <p>
-  <input id="4ea63" type="checkbox" name="l" checked value="4ea6395a-bea5-414a-a563-47e28c373333" />
-    <label for="4ea63">The Long Walk</label>
-    <br />
-  </p>
-  <p>
-    <input id="25bb2" type="checkbox" name="l" checked value="25bb2dad-0ae7-4a21-8349-5bc989677539" />
-    <label for="25bb2">Umán</label>
-    <br />
-  </p>
   <div style="display: inline-block;">
     <div class="h-captcha" data-sitekey="3da8d39e-effe-4136-b7a4-846adbf21414"></div>
   </div>
@@ -66,7 +55,7 @@ My Pangasinan poem ["Gawat"](https://tldtd.org/poet/vince-imbat/) and its transl
 
 ### Newsletters
 
-I have two active newsletters: a monthly missive called _**[Uman](uman)**_ and an occasional one called _**[The Long Walk](tlw)**_.
+I have one active newsletter that I send occasionally called _**[The Long Walk](tlw)**_.
 
 But I've written other newsletters in the past, including "pop-up" newsletters that I write during walks. Browse my newsletter history [here](newsletters).
 
