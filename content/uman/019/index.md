@@ -4,7 +4,6 @@ date: 2024-06-12
 aliases:
   - /uman-2024-05
 ---
-![Talim island](20231209-080507-rxg-talim-island.jpg)
 
 May was surprisingly open. While I did spend more time working for money this month, I had no personal projects (i.e., writing, photography, or walking) scheduled. This gave me more time to think about my free, creative spirituality ([[jiyu shukyo|jiyū shūkyō]]).
 

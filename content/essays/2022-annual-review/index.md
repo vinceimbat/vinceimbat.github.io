@@ -4,7 +4,6 @@ date: 2023-01-12
 aliases:
   - /2022-annual-review
 ---
-![Foggy Freedom Park](images/foggy_freedom_park.jpg)
 
 In my [2021 annual review](essays/2021-annual-review), I implemented a new process:
 
@@ -52,7 +51,7 @@ In an ideal world, I should have achieved all of these goals. But I don’t live
 
 ## January
 
-I spent the first weeks of 2022 in study mode. I finished reading and taking notes on the book *A Philosophy of Walking* by Robert Gros. This beautifully written reflection on the meaning and uses of [walking](https://talahardin.vinceimbat.com/walking) helped me understand the simplest mode of travel. I also re-read the article ["The Moderate-Minded Writer"](https://mattnisbet.substack.com/p/the-moderate-minded-writer) by Matthew Nisbet and began studying Thich Nhat Hanh’s work through the website of [Plum Village](https://plumvillage.org/).
+I spent the first weeks of 2022 in study mode. I finished reading and taking notes on the book _A Philosophy of Walking_ by Robert Gros. This beautifully written reflection on the meaning and uses of [walking](https://talahardin.vinceimbat.com/walking) helped me understand the simplest mode of travel. I also re-read the article ["The Moderate-Minded Writer"](https://mattnisbet.substack.com/p/the-moderate-minded-writer) by Matthew Nisbet and began studying Thich Nhat Hanh’s work through the website of [Plum Village](https://plumvillage.org/).
 
 Since it is the beginning of the year, I also conducted my [annual review](tags/annual-reviews), improving my process. One of my goals this year was to improve the design of my main website (vinceimbat.com) to improve how I share my work, so I also started learning web design and development. Along the way, I realized that there was so much to learn, so I created a temporary site so I could continue to publish even while learning to code. To practice, I chose a smaller project: a website for my Thoreau translations. I named the site [Kaliskis na Ulap](https://kaliskisnaulap.com/) and used Hugo to build it. Through this project, I applied what I learned from the full-stack web development course I bought from Udemy.
 
@@ -62,7 +61,7 @@ Since it is the beginning of the year, I also conducted my [annual review](tags/
 
 I started my birth month by publishing the first issue of [Uman](uman), my newsletter that features monthly updates on my life and projects. After publishing it, I continued studying Thich Nhat Hanh. I particularly like his Understanding → Compassion → Happiness sequence and his distaste for ideologies.
 
-I also started re-reading *Transcend* by Scott Barry Kaufmann. It was a book I started the year before but never finished. Since one of my goals this year was to articulate my purpose, values, and vision, I decided to return to it. Through *Transcend*, I learned that my top three sources of self-actualization were continued freshness of appreciation, truth-seeking, and purpose.
+I also started re-reading _Transcend_ by Scott Barry Kaufmann. It was a book I started the year before but never finished. Since one of my goals this year was to articulate my purpose, values, and vision, I decided to return to it. Through _Transcend_, I learned that my top three sources of self-actualization were continued freshness of appreciation, truth-seeking, and purpose.
 
 In addition, I researched what existing fields of knowledge combined contemplation and philosophizing and where among these fields I could position myself. My hopes rose after I discovered [Ran Lahav's](https://www.northernvermont.edu/about/our-people/directory/ran-lahav/) [deep philosophy](https://dphilo.org/) but later lost interest after I found that it puts a heavier emphasis on contemplation over philosophizing and that its epistemology favors experience over reason. This prompted me to read about the differences between rationalism and empiricism ([rationalism vs empiricism](https://talahardin.vinceimbat.com/rationalism-vs-empiricism)).
 
@@ -79,6 +78,7 @@ I was interested in the conscious or unconscious reasons behind our actions. Psy
 While thinking about these things, I articulated [the difference between meaning and purpose](https://talahardin.vinceimbat.com/Purpose-vs-Meaning) and wrote a very fruitful note on the relationship between nihilism and [approaching life with humor](tlw/001). Inspired by my thinking about purpose and motivation this month, I realized I needed a more systematic way of tackling my goals. Through a journaling session, I wrote a draft of an outline on [how to build a life management system](https://talahardin.vinceimbat.com/how-to-build-a-life-management-system) implementation.
 
 March also featured several good walks:
+
 - a walk around Baguio for the first time since the pandemic,
 - my first walk inside Makiling Botanic Gardens,
 - discovering what would be my favorite trail along Matic-Matic–Maronong Road,
@@ -97,7 +97,7 @@ The connection between plateau experiences, death, and wisdom is as follows: Whe
 
 Thinking about my life's fleetingness led me to ask myself what I wanted to do with the time I had left. The answer that came to me was that I wanted to write a book. I spent a considerable amount of time this month thinking about what kind of book to write and realized that I wanted to give birth to the following:
 
->beautiful non-fiction books with photographs that combine personal narratives, philosophical thinking, cultural references, and historical descriptions, all situated in a specific geographical location.
+> beautiful non-fiction books with photographs that combine personal narratives, philosophical thinking, cultural references, and historical descriptions, all situated in a specific geographical location.
 
 To facilitate this project, I wanted to manage better the intermediate packets that could lead to writing a book. Thus, I transferred my notes from Craft to Obsidian.
 
@@ -125,7 +125,7 @@ The walk also encouraged me to return to photography. I wanted to take good phot
 
 After doing photography and walking for almost a month, I felt the urge to return to my foundation: philosophy and contemplation. I reminded myself that my walks and photos would be more meaningful if I am more intentional about them, that is if I use them to deepen my sense of meaning. To facilitate this meaning-making, I continued to sharpen my writing this month. I continued marinating myself in narratives, which helped me elevate my experiences while walking.
 
-Another highlight of June was ordering, unboxing, and reading *[Kissa by Kissa](https://shop.specialprojects.jp/products/kissa-by-kissa-5th-ed)* by [Craig Mod](https://craigmod.com/). I read the book in two sittings and learned a lot about walking, books, and photography—stuff I could use in my work.
+Another highlight of June was ordering, unboxing, and reading _[Kissa by Kissa](https://shop.specialprojects.jp/products/kissa-by-kissa-5th-ed)_ by [Craig Mod](https://craigmod.com/). I read the book in two sittings and learned a lot about walking, books, and photography—stuff I could use in my work.
 
 ![Savia's birthday](images/savia_birthday.jpg)
 
@@ -143,7 +143,7 @@ Lastly, I modified how I prioritized goals. I created a comprehensive list of li
 
 ## August
 
-In August, I went deeper into understanding how to incorporate lyrical philosophy into my writing by studying Henry Bugbee and his work, particularly *The Inward Morning*, which I wrote [commentaries](https://talahardin.vinceimbat.com/my-commentaries-on-the-inward-morning-by-bugbee) about. Responding to his epistemology, I began valuing my fieldnotes better and giving them a specific category in my notes garden ("seeds"). I also explored the work of [Andrew J. Brown](https://andrewjbrown.blogspot.com/). Through these readings and explorations, I began looking closer at the religious nature of my work, and I faced head-on something that I was unconsciously avoiding: accepting that I am still engaged in religious activity and my past religious life has several things to teach me about living my current life.
+In August, I went deeper into understanding how to incorporate lyrical philosophy into my writing by studying Henry Bugbee and his work, particularly _The Inward Morning_, which I wrote [commentaries](https://talahardin.vinceimbat.com/my-commentaries-on-the-inward-morning-by-bugbee) about. Responding to his epistemology, I began valuing my fieldnotes better and giving them a specific category in my notes garden ("seeds"). I also explored the work of [Andrew J. Brown](https://andrewjbrown.blogspot.com/). Through these readings and explorations, I began looking closer at the religious nature of my work, and I faced head-on something that I was unconsciously avoiding: accepting that I am still engaged in religious activity and my past religious life has several things to teach me about living my current life.
 
 In writing, I published one Lilim issue and several walk vignettes in draft form. I also received good news from [TLDTD](https://tldtd.org/) that my poem Gawat and its translation Tagsalat will be published in their Issue No. 5.
 
@@ -151,9 +151,9 @@ The main project that occupied me this month was transitioning my website into a
 
 ## September
 
-This month, I spent the majority of my days thinking about money and how it relates to the life I want to live. I read the book *You Need a Budget* and then applied it by creating my budget, helping my partner create hers, and building our couple fund budget for our second month living together. We needed a system that could help us talk about money easily, and we found the YNAB system and app really helpful.
+This month, I spent the majority of my days thinking about money and how it relates to the life I want to live. I read the book _You Need a Budget_ and then applied it by creating my budget, helping my partner create hers, and building our couple fund budget for our second month living together. We needed a system that could help us talk about money easily, and we found the YNAB system and app really helpful.
 
-While budgeting, I realized I needed to earn more money to retire earlier than the traditional retirement age. However, I was no longer willing to increase my working hours at my freelance job (editing). It became clear that if I wanted to improve my earnings, I needed to start a source of income closer to my passions. While thinking about this, I encountered the career capital theory by Cal Newport, which argues that if I want an ideal career, I need to develop a rare skill in exchange for it. I felt an intuitive reservation about the theory because it treats everything we do like something to be exchanged and treats careers like competition. This made me remember that [some important work are necessary even if unprofitable](https://talahardin.vinceimbat.com/thoughts/some-important-work-are-necessary-even-if-unprofitable). I remembered gift economics and decided to spend the remaining days of September reading the book *The Gift* by Lewis Hyde.
+While budgeting, I realized I needed to earn more money to retire earlier than the traditional retirement age. However, I was no longer willing to increase my working hours at my freelance job (editing). It became clear that if I wanted to improve my earnings, I needed to start a source of income closer to my passions. While thinking about this, I encountered the career capital theory by Cal Newport, which argues that if I want an ideal career, I need to develop a rare skill in exchange for it. I felt an intuitive reservation about the theory because it treats everything we do like something to be exchanged and treats careers like competition. This made me remember that [some important work are necessary even if unprofitable](https://talahardin.vinceimbat.com/thoughts/some-important-work-are-necessary-even-if-unprofitable). I remembered gift economics and decided to spend the remaining days of September reading the book _The Gift_ by Lewis Hyde.
 
 In other news, I went on two dates with friends: one in Pagsanjan and another at Las Piñas. I also celebrated my third anniversary with my partner, adopted a new cat, and rescued a kitten.
 
@@ -161,7 +161,7 @@ In other news, I went on two dates with friends: one in Pagsanjan and another at
 
 ## October
 
-I started October intending to do a creative reset. After re-reading *Steal Like an Artist,* I decided to publish [The Long Walk (TLW)](https://vinceimbat.substack.com/) on Substack. The [first issue](tlw/005) was released on October 9, 2022, and it shared the highlights of my mental and physical walks. I was able to publish two more issues on *[The Inward Morning](tlw/006)* and *[Our Invisible Walden](tlw/007)*. The issues contained highlights of my reading of *The Inward Morning* by Henry Bugbee, the foreword of *Kapag Natagpuan Kita = Once I Find You* by Rofel Brion, and *Living Philosophy* by Edward Mooney. The issues showed how I started building my philosophical family tree. It also presented my deepening appreciation and integration of poetry into my philosophical practice, culminating in the book launch of *Saglit*, where I met Rofel at Casa San Pablo.
+I started October intending to do a creative reset. After re-reading _Steal Like an Artist,_ I decided to publish [The Long Walk (TLW)](https://vinceimbat.substack.com/) on Substack. The [first issue](tlw/005) was released on October 9, 2022, and it shared the highlights of my mental and physical walks. I was able to publish two more issues on _[The Inward Morning](tlw/006)_ and _[Our Invisible Walden](tlw/007)_. The issues contained highlights of my reading of _The Inward Morning_ by Henry Bugbee, the foreword of _Kapag Natagpuan Kita = Once I Find You_ by Rofel Brion, and _Living Philosophy_ by Edward Mooney. The issues showed how I started building my philosophical family tree. It also presented my deepening appreciation and integration of poetry into my philosophical practice, culminating in the book launch of _Saglit_, where I met Rofel at Casa San Pablo.
 
 Meanwhile, Carillon came into our lives, Benjie and I started a photography project together, and Lea and I went home to Pangasinan to spend two days at the beach.
 
@@ -175,7 +175,7 @@ Rem's death made me closer to my community. Thinking about the meaning of commun
 
 While I contemplated community, I helped a friend translate the foreword of her upcoming book, walked with some friends at Makiling Botanic Gardens, and shared space with others at the Ginhawa Breathing Space event at Tanay, Rizal. There, I walked around the Hermitage and Organic Gardens (HOGAR) of the Institute for Consecrated Life in Asia (ICLA) and did a hike to Mt. Kulis with my partner and some old and new friends. The trip helped me grieve Rem and provided some much-needed inspiration to write a few poems and some issues of TLW.
 
-After the trip, I focused on contributing to a small group of Rem's friends who wanted to preserve his works and continue his legacy. I also read the book *Designing Your Life* by Bill Burnett and Dave Evans to provide some ideas on how I could incorporate the new insights I had about my life work after Rem's death and think better about adjustments I wanted to do in my work life.
+After the trip, I focused on contributing to a small group of Rem's friends who wanted to preserve his works and continue his legacy. I also read the book _Designing Your Life_ by Bill Burnett and Dave Evans to provide some ideas on how I could incorporate the new insights I had about my life work after Rem's death and think better about adjustments I wanted to do in my work life.
 
 ## December
 
@@ -195,7 +195,7 @@ This month also allowed me to nurture my relationships and start new ones. I beg
 
 My holidays were beautifully silent. I spent Christmas and New Year at my apartment in Los Baños with my partner and our cats. During the dead week between Christmas and New Year, we met with three friends. But that’s about it. My 2023 started with me hugging my partner as we looked out the window, watching a fireworks display that lasted just about five minutes.
 
-\***
+\*\*\*
 
 In 2023, I have two big goals: (1) to establish a more resilient livelihood system that encourages me to transition to doing work that I enjoy more and (2) to start a book project (possibly about walking in Los Baños). I have other goals, but they serve different support roles for these two. I do not doubt that other important goals will emerge along the way. Hopefully, I will be ready to face them when they do.
 

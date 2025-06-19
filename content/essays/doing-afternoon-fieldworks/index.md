@@ -4,6 +4,7 @@ date: 2019-04-29
 aliases:
   - /doing-afternoon-fieldworks/
 ---
+
 Field notes and pen strapped on my bike carrier
 
 A couple of years ago, I was fascinated by this interview with [James Prosek](https://onbeing.org/programs/james-prosek-fishing-with-mystery/), a nature writer who wrote his first popular book at the age of 19. After listening to his stories, I dug him up on the internet where I found his site. There, I made an even more interesting find, which I will later on use in my own creative process.
@@ -24,27 +25,27 @@ I really think this small change made a huge difference in my fieldwork yesterda
 
 When I reached my spot, I got off my bike and started walking. Then, I took the following photos.
 
-![Unharvested crops of mais](corn_fields_san_jacinto.jpg "Unharvested crops of mais")
+![Unharvested crops of mais](images/corn_fields_san_jacinto.jpg "Unharvested crops of mais")
 
-![Waiting for chickens to finish their snack before I pass](cow_chicken_san_jacinto.jpg "Waiting for chickens to finish their snack before I pass")
+![Waiting for chickens to finish their snack before I pass](images/cow_chicken_san_jacinto.jpg "Waiting for chickens to finish their snack before I pass")
 
-![Electric tower, the field, and the sky](electric_tower_san_jacinto.jpg "Electric tower, the field, and the sky")
+![Electric tower, the field, and the sky](images/electric_tower_san_jacinto.jpg "Electric tower, the field, and the sky")
 
-![Leaves with the electric tower as backdrop](electric_tower_leaves_san_jacinto.jpg "Leaves with the electric tower as backdrop")
+![Leaves with the electric tower as backdrop](images/electric_tower_leaves_san_jacinto.jpg "Leaves with the electric tower as backdrop")
 
-![A stretch of farm irrigation at San Jacinto](irrigation_san_jacinto.jpg "A stretch of farm irrigation at San Jacinto")
+![A stretch of farm irrigation at San Jacinto](images/irrigation_san_jacinto.jpg "A stretch of farm irrigation at San Jacinto")
 
-![My favorite dirt road](dirt_road_san_jacinto.jpg "My favorite dirt road")
+![My favorite dirt road](images/dirt_road_san_jacinto.jpg "My favorite dirt road")
 
-![Trees conversing with the sunset](trees_sunset_san_jacinto.jpg "Trees conversing with the sunset")
+![Trees conversing with the sunset](images/trees_sunset_san_jacinto.jpg "Trees conversing with the sunset")
 
 After taking the photos, writing a short note about the terrain, walking, and trying out a new path, I sat down under a favorite tree and wrote on my notebook. No one else was in the field at this time: just me, my notebook, and birdsongs.
 
-![Field notes over dried leaves and straw](fieldnotes_straw_san_jacinto.jpg "Field notes over dried leaves and straw")
+![Field notes over dried leaves and straw](images/fieldnotes_straw_san_jacinto.jpg "Field notes over dried leaves and straw")
 
 After scribbling on my notebook, I drew the terrain in front of me. I haven't drawn for a long time now, so I'm quite proud of my humble sketch. It's the view of the Cordillera ranges from where I sat yesterday.
 
-![My attempted sketch of the field](sketch_san_jacinto.jpg "My attempted sketch of the field")
+![My attempted sketch of the field](images/sketch_san_jacinto.jpg "My attempted sketch of the field")
 
 After finishing the sketch, I closed my notebook, strapped it back on my bike carrier along with the pen, and rode my bike home.
 

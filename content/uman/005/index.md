@@ -5,7 +5,6 @@ aliases:
   - /uman-may-2022
   - /uman-2022-05
 ---
-![A family at Freedom Park](images/Freedom-park-now.jpeg "A family sits on what used to be an internment camp at Freedom Park")
 
 Not so long ago, I wrote about the **[happiness in self-forgetfulness](https://vinceimbat.com/self-forgetfulness/)**. I wrote about that incredible feeling of exhilaration we encounter when we are so captivated by something else we forget about our anxieties. We usually experience this when we read a good book, listen to a piece of tantalizing music, or watch a well-executed film. Some would say we are escaping reality when we consume such good art. But I think a more accurate description of what is happening here is that we are running away from that ever domineering self-consciousness that Dillard called “a bitter birthday present from evolution.” Even more surprising is that from this forgetting comes peace of mind and healing—a silencing of troubles.
 

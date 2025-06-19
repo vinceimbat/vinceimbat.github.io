@@ -2,7 +2,6 @@
 title: "[bOibm] Day 6 — a perception full of wind"
 date: 2025-01-30
 ---
-![Molawin](images/20250130-080833-bOibm-6-Molawin.jpg)
 
 ![Tore Leaf](images/20250130-082054-bOibm-6-tore-leaf.jpg)
 

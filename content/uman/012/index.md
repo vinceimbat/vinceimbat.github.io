@@ -4,9 +4,10 @@ date: 2023-11-02
 aliases:
   - /uman-2023-10
 ---
+
 [Uman](uman) means “change.” It is a monthly newsletter I send every first week of the month, documenting what it means to pursue philosophy, contemplation, and writing independently as a way of life. It used to be a separate newsletter. But I've integrated it into [The Long Walk](tlw). Read the archives [here](uman).
-***
-![A dilapidated multi-color building](images/moonshine-inn.jpg)
+
+---
 
 Entering October, I expected it to be a quiet month. I had a single writing project that was not urgent, I had a couple of client works, and I was set to travel to visit my family.
 
@@ -21,6 +22,7 @@ If you're curious to see what an epistolary essay on walking looks like, here's 
 ## TLW
 
 I published two issues of The Long Walk last October 2023. In case you missed them, here they are:
+
 - [[a midsummer rain in lb|A Midsummer Rain in LB]] (poem)
 - [[approach life with humor|Approach life with humor]] (note)
 
@@ -60,9 +62,9 @@ I wrote an email to [[andrew j brown|Andrew J. Brown]], a UK-based Unitarian min
 
 The minister generously returned my email and gave me advice on how to begin embracing a free and creative religious existence. Back in Los Baños, I wrote the following note to myself which integrates everything I learned from my October trip.
 
->Today I return to LB. Grieving. Still grieving. Perhaps with a lot of internal work to do ahead. To remind myself that I wasn't just letting life pass by me in the past 12 years. But that I was actually growing. Becoming.
+> Today I return to LB. Grieving. Still grieving. Perhaps with a lot of internal work to do ahead. To remind myself that I wasn't just letting life pass by me in the past 12 years. But that I was actually growing. Becoming.
 >
->I am indeed feeling depression. But I do not despair. The depression is telling me that I could do something about it. It is not the case that I didn't do anything in the past 12 years. The thing is that everyday is a new walk. And in the wilderness, change is the norm. There were friendships, communities I've been a part of. But the cost of freedom is that these communities are never tight. Whether I eventually become a part of a more stable "church" or not, I know what it feels like to be in the wilderness. And I know that it is possible to sustain oneself there. And whenever I feel that being part of a church is the next best thing for me to do, I know that I will cherish this experience with all my heart. It will be more worth it.
+> I am indeed feeling depression. But I do not despair. The depression is telling me that I could do something about it. It is not the case that I didn't do anything in the past 12 years. The thing is that everyday is a new walk. And in the wilderness, change is the norm. There were friendships, communities I've been a part of. But the cost of freedom is that these communities are never tight. Whether I eventually become a part of a more stable "church" or not, I know what it feels like to be in the wilderness. And I know that it is possible to sustain oneself there. And whenever I feel that being part of a church is the next best thing for me to do, I know that I will cherish this experience with all my heart. It will be more worth it.
 
 ## Rem
 

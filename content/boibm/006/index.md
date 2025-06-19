@@ -2,7 +2,6 @@
 title: "[bOibm] Day 7 — I allow myself eddies of meaning"
 date: 2025-01-31
 ---
-![Purple Flower](images/20250131-090505-bOibm-7-purple-flower.jpg)
 
 ![Flower Stuck on Leaf](images/20250131-090954-bOibm-7-flower-stuck-on-leaf.jpg)
 

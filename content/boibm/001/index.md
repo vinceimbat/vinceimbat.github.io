@@ -2,7 +2,6 @@
 title: "[bOibm] Day 1 — the sudden loss of all routes"
 date: 2025-01-25
 ---
-![The Box](images/20250125-081319-bOibm-1-the-box.jpg)
 
 What photographs to take and not?  
 Also, why take a photograph that shouldn't have been taken?

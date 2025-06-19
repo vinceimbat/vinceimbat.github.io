@@ -5,7 +5,6 @@ aliases:
   - /essays/tall-tales-end
   - /tall-tales-end
 ---
-![The cordillera mountain range](images/20240115-071937-tall-tales-cordillera.jpg)
 
 I wanted to walk, photograph, and write until January 21—to send at least four missives. But after writing and sending yesterday's essay, I felt strongly that it must be the essay that ends this first attempt to re-walk Baguio City.
 
@@ -15,7 +14,7 @@ I've lived in Los Baños for three years already—the same number of years I li
 
 Therefore, walking Baguio demands this slow, careful, and mindful stride that balances a desire to remember with an intention to protect oneself by being present in place and moment as much as possible.
 
-I noticed that walking did help me be present in the places I visited. Of course, I constantly reminded myself to be *there*—to return to place the same way I return to my breath during meditation and to see these places primarily as new ones, not reservoirs of past narratives. Surprisingly, memories did come, but in minimal amounts, during the walks. Most of the memories I included in my missives came when I was already writing about the places "after" the walks.
+I noticed that walking did help me be present in the places I visited. Of course, I constantly reminded myself to be _there_—to return to place the same way I return to my breath during meditation and to see these places primarily as new ones, not reservoirs of past narratives. Surprisingly, memories did come, but in minimal amounts, during the walks. Most of the memories I included in my missives came when I was already writing about the places "after" the walks.
 
 Since walking in Baguio last October 2023 flooded me with memories, what was different in these walks? I think it was my intention to be present in place as much as possible, which prevented the memories from flooding me in the middle of the walks this time. Of course, mindful walking also helped put me back in the present moment.
 

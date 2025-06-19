@@ -4,17 +4,17 @@ date: 2024-02-02
 aliases:
   - /uman-2024-01
 ---
-![Older women sitting on the sidewalk](images/20240114-013853-tall-tales-igorots.jpg)
 
 Each shadow  
 shortens  
 all morning long  
 until it vanishes  
 into the small dent of noon  
-and the builders of shadows pause.  
+and the builders of shadows pause.
 
 — Gary Whited, "Shadow Builders"
-***
+
+---
 
 Welcome to 2024's first issue of Uman, a word that means "change" and which I've been using to collate ideas, verses, images, and conversations in the past 30 days. Writing this "report" helps me keep track of any progress I make in this long walk of mine, a sort of written photograph of my intellectual and aesthetic footprints. I'm still unsure whether this is of any value to you (can you let me know if it does?). At the very least, I hope it could be a lovely quick weekend reading for you.
 
@@ -24,7 +24,7 @@ On the first week of January 2024, I took some time to write [[uman 2023-12|the 
 
 ## Walking Baguio
 
-After finishing my annual review, I immediately shifted my attention to preparing for my [[tall tales 1|week-long walk of Baguio]] from January 15 to 21. To consult about the design of the walk, I called [[louise far|Louise Far]]. The first question she asked me was, *"How will you protect yourself while doing it?"* The question caught me by surprise. I knew the walk could be triggering, but I didn't consider this in my initial design.
+After finishing my annual review, I immediately shifted my attention to preparing for my [[tall tales 1|week-long walk of Baguio]] from January 15 to 21. To consult about the design of the walk, I called [[louise far|Louise Far]]. The first question she asked me was, _"How will you protect yourself while doing it?"_ The question caught me by surprise. I knew the walk could be triggering, but I didn't consider this in my initial design.
 
 My consultation with Louise convinced me to refocus the project from merely remembering to also returning and reimagining the places I'm revisiting. As I articulated in the [[baguio walk 1|introduction]] to the walk, I decided to treat each walk like a meditation anchored in the present moment, which served as a refuge to potentially triggering memories and emotions.
 
@@ -42,13 +42,14 @@ I learned a lot about myself and my relationship with my religious past from the
 
 ## Therapeutic Journey for the Free Spirit
 
-At the end of the Baguio walk, I spent about a week with my parents at Pangasinan. While there, I re-read [[andrew j brown|Andrew J. Brown's]] article ["The Freedom to Be Tomorrow What We Are Not Today](https://andrewjbrown.blogspot.com/2022/05/the-freedom-to-be-tomorrow-what-we-are.html), which contained a section about [[friedrich nietzsche|Friedrich Nietzsche's]] four-phased journey for the free spirit. Andrew told me it might help me think about the Baguio walk. I also read the first chapter of Gordon Bearn's book *Waking to Wonder* (1997), entitled  [[superficial out of profundity bearn|"Superficial—Out of Profundity,"]] which provided an enlightening description of the journey.
+At the end of the Baguio walk, I spent about a week with my parents at Pangasinan. While there, I re-read [[andrew j brown|Andrew J. Brown's]] article ["The Freedom to Be Tomorrow What We Are Not Today](https://andrewjbrown.blogspot.com/2022/05/the-freedom-to-be-tomorrow-what-we-are.html), which contained a section about [[friedrich nietzsche|Friedrich Nietzsche's]] four-phased journey for the free spirit. Andrew told me it might help me think about the Baguio walk. I also read the first chapter of Gordon Bearn's book _Waking to Wonder_ (1997), entitled [[superficial out of profundity bearn|"Superficial—Out of Profundity,"]] which provided an enlightening description of the journey.
 
 Reading these two texts helped me understand that I'm still healing from leaving the JWs. To finish my healing process, I must recognize the things that brought warmth to me in my past life that I could still incorporate in my present life, albeit differently—things like faith, prayer, and ministry. Reading about the framework helped me understand that returning to places from my past brought out emotions that inform where I am in my healing journey and that walking to these places facilitates this process of incorporation.
 
 I realized that engaging with existence makes me feel warm, i.e., seeing how ordinary objects and events are portals to existential questions and emotions. Nietzsche helped me visualize a thriving life entirely outside the metaphysical tradition I inherited—a life where I see things as they are, as if for the first time, fragile and transient, and, therefore, precious and near. I wrote an essay ([[where the sun warms|"Where the Sun Warms"]]) to summarize my insights from reading about the framework.
 
-***
+---
+
 A few days before I left Pangasinan to return to Los Baños, I had dinner with my parents, my sister, her husband, and her husband's sister, who was visiting from Palawan. All of them were in the faith. While it wasn't the first time I'd broken bread with this group, the dinner had a different flavor, given my recent reading of Nietzsche.
 
 After hearing my brother-in-law say the prayer (which I listened to closely), I began asking questions to the group, questions that didn't avoid talking about their faith. I asked about friends I once had in the church, particularly the old ones, hoping most were still alive. I asked my sister and her husband how their friends in their congregations helped them in their wedding. I jokingly asked our guest from Palawan whether she had found any pleasing gentleman in the congregations she visited in the north. And then, when I felt like I needed to give them space to talk about the assembly they attended in the morning, I stood up and volunteered to do the dishes, listening to them nearby speak about people whose names I no longer recognize and subjects I no longer remember.
@@ -57,5 +58,6 @@ The night went just fine. After seeing them off that night, I took a quick walk 
 
 Healing isn't done yet. But the warmth I feel inside has been staying here longer—longer, even in the middle of days cold as these.
 
-***
+---
+
 ![Fern leaves](images/20240114-012430-tall-tales-fern.jpg)

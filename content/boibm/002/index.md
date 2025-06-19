@@ -2,10 +2,9 @@
 title: "[bOibm] Day 2 — nevertheless, separable"
 date: 2025-01-26
 ---
+
 Large fishes on this creek.  
 A bird hops on stones.
-
-![UPLB Civil Engineering](images/20250126-094114-bOibm-2-UPLB-civil-engineering.jpg)
 
 Maya birds so light they perch on the tip of grass.
 

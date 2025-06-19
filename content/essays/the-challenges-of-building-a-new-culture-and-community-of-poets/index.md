@@ -4,6 +4,7 @@ date: 2020-11-01
 aliases:
   - /the-challenges-of-building-a-new-culture-and-community-of-poets
 ---
+
 About a week ago, my good friend Rem Tanauan, a great poet himself whose work has profoundly influenced my own creative life, sent me [this article](https://www.theparisreview.org/interviews/482/the-art-of-poetry-no-83-billy-collins) that features an interview with Billy Collins, dubbed “the most popular poet in America”.
 
 Rem and I are fans of his poems because they are conversational, witty, humorous, and down-to-earth. These are the kind of poems we want to see more of and some of our poems were definitely influenced by Billy Collin’s voice.
@@ -43,7 +44,7 @@ The way I see it, there are only two judges:
 
 I thought about how this judgment process happens and constructed the following table:
 
-![Judging a poem](judging-a-poem.png)
+![Judging a poem](images/judging-a-poem.png)
 
 From this meditation, I realized that the ultimate judge of any poem is the poet him/herself. The reason for this is that any definition of success is always subjective first before it is objective. Any group can impose particular standards of what a good poem is that its members can agree on. But these standards are not necessarily the standards of an individual. So even if feedbacks are helpful, even if objective standards have their use in communities, a poet or an artist needs to trust his own standards first so he can trust his own abilities.
 

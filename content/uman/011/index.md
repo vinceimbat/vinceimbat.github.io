@@ -4,18 +4,18 @@ date: 2023-10-03
 aliases:
   - /uman-2023-09
 ---
-[Uman](uman) means “change.” It is a monthly newsletter I send every first week of the month, documenting what it means to pursue philosophy, contemplation, and writing independently as a way of life. It used to be a separate newsletter. But I've integrated it into [The Long Walk](tlw). Read the past issue [here](uman/010).
-***
 
-![Bee Farm](images/beefarm.jpg)
+[Uman](uman) means “change.” It is a monthly newsletter I send every first week of the month, documenting what it means to pursue philosophy, contemplation, and writing independently as a way of life. It used to be a separate newsletter. But I've integrated it into [The Long Walk](tlw). Read the past issue [here](uman/010).
+
+---
 
 ## Faith and Contentment
 
 The timer I use during meditation checks up on my mood before every practice. It does so by offering several choices. I never clicked the word "content." I reason that I'm in the middle of fixing a lot of things in my life, so how can I be contented?
 
-But then I encountered the following excerpt from the essay "Presence, Memory, and Faith" by Steven E. Webb from *Wilderness and the Heart*, a book about [[henry bugbee|Henry Bugbee's]] philosophy.
+But then I encountered the following excerpt from the essay "Presence, Memory, and Faith" by Steven E. Webb from _Wilderness and the Heart_, a book about [[henry bugbee|Henry Bugbee's]] philosophy.
 
->Fishing stands for the life of faith, and the leaping fish stands for those exclamatory experiences—perceptual, mnemonic, or both—that may supervene upon that life. Apart from our active commitment to what the river may bestow, we would never cast our lines and the fish would never leap. This does not mean that the fish must leap. We can't control their presence, and if we seek for control we shall reduce our lives to continual frustration. Faith, like fishing, has the somewhat oxymoronic character of active waiting—of *keeping* oneself open to whatever may come. Thus wanting a saving experience at the end of one's days not only indicates an unwholesome fixation on something one can't finally possess, but is quite beside the point. The issue is not the availability or durability of such experiences as isolated moments, but rather what they confirm, if and when they do occur, about the "omnirelevant truth"—affirmed and kept in faith—that our world *is* a holy place, that things *are* worthy of love, and that our life together with them *is* affirmable even in our moments of obscurity, and even as we perish.
+> Fishing stands for the life of faith, and the leaping fish stands for those exclamatory experiences—perceptual, mnemonic, or both—that may supervene upon that life. Apart from our active commitment to what the river may bestow, we would never cast our lines and the fish would never leap. This does not mean that the fish must leap. We can't control their presence, and if we seek for control we shall reduce our lives to continual frustration. Faith, like fishing, has the somewhat oxymoronic character of active waiting—of _keeping_ oneself open to whatever may come. Thus wanting a saving experience at the end of one's days not only indicates an unwholesome fixation on something one can't finally possess, but is quite beside the point. The issue is not the availability or durability of such experiences as isolated moments, but rather what they confirm, if and when they do occur, about the "omnirelevant truth"—affirmed and kept in faith—that our world _is_ a holy place, that things _are_ worthy of love, and that our life together with them _is_ affirmable even in our moments of obscurity, and even as we perish.
 
 Reflecting on these words while walking one night at Ela Ave. in September, I realized that I could find contentment in every moment regardless of the situation and despite things being not okay. I could do this through faith, a word I've avoided ever since [[a never-ending walk|leaving my childhood religion]], but now I'm exploring and reintegrating into my life through my interpretation.
 
@@ -29,15 +29,16 @@ My favorite thought note this month is: [[art is never finished|Art is never fin
 
 The best quote I encountered in September is from Andrew Anabi:
 
->When life changes, you will probably miss the way it was. You may miss those long morning drives or walks to the office, or those hectic family gatherings. You may miss them because those moments are finite—you will only travel those streets and see those people a certain amount of times.
+> When life changes, you will probably miss the way it was. You may miss those long morning drives or walks to the office, or those hectic family gatherings. You may miss them because those moments are finite—you will only travel those streets and see those people a certain amount of times.
 >
->Every time you do something that is one less time you do it. One day you will do something the final time and you will rarely know when that day comes.
+> Every time you do something that is one less time you do it. One day you will do something the final time and you will rarely know when that day comes.
 >
->For all you know, today might be the last time you walk in a particular neighborhood. Or it might be the last time you smile at a particular someone. To think otherwise, would be foolish. Nothing is guaranteed, except this moment. Your only real choice is to cherish every exchange like it is your last -- because it very well might be.
+> For all you know, today might be the last time you walk in a particular neighborhood. Or it might be the last time you smile at a particular someone. To think otherwise, would be foolish. Nothing is guaranteed, except this moment. Your only real choice is to cherish every exchange like it is your last -- because it very well might be.
 >
->Therefore, the best way to cherish life is to remind yourself of life's impermanence. It is to remember that every time you see someone that is one less time you see them. It is to remember that every time you go somewhere that is one less time you visit. By doing this, you naturally slow down. Almost like a reflex, you start to truly live.
+> Therefore, the best way to cherish life is to remind yourself of life's impermanence. It is to remember that every time you see someone that is one less time you see them. It is to remember that every time you go somewhere that is one less time you visit. By doing this, you naturally slow down. Almost like a reflex, you start to truly live.
 
 The best things I read this month were:
+
 - [[lynda barry kios|Lynda Barry Will Make You Believe in Yourself by Dan Kios]]
 - [[nightingalingale mod|The Nightingalingale Newsletter by Craig Mod]]
 

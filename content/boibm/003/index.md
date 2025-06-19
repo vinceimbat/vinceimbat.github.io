@@ -2,7 +2,6 @@
 title: "[bOibm] Day 3 — but there are no lines"
 date: 2025-01-27
 ---
-![Trees](images/20250120-081338-bOibm-3-trees.jpg)
 
 ![Yellow Flower](images/20250120-092648-bOibm-3-yellow-flower.jpg)
 

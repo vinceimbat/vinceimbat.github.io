@@ -4,11 +4,10 @@ date: 2022-06-05
 aliases:
   - /ang-heograpiya-ng-buhay
 ---
+
 {{< alert "pencil" >}}
 This piece is written in Filipino. If you want to receive an English translation, please reply to this email and let me know. Thank you.
 {{< /alert >}}
-
-![A pair of kalachuchi](images/kalachuchi-2.jpeg)
 
 Buhay na buhay ang mga kalachuchi sa loob ng campus. Nagkakandahulog ang mga bulaklak nila, pinamamalamutian ang mga kalsada't sidewalk at humahalimuyak sa sinumang napapadaan. Para bang humahalik lang sila sa lupa kapag nakita nilang may sumibol nang papalit sa kanila.
 

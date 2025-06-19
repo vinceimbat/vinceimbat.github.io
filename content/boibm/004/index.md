@@ -2,9 +2,8 @@
 title: "[bOibm] Day 5 — pulsations of order"
 date: 2025-01-29
 ---
-The crow dropped something from its beak.
 
-![Tiny Wild Orchid](images/20250129-082443-bOibm-5-tiny-wild-orchid.jpg)
+The crow dropped something from its beak.
 
 The tiny weed with a tiny orchid-like flower appears yet again.
 

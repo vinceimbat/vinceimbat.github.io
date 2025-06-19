@@ -4,15 +4,14 @@ date: 2024-05-01
 aliases:
   - /uman-2024-04
 ---
-![Binmaley fish pond 2](images/binmaley-fishpond-2.jpg)
 
 Hello friend,
 
-This is *[[05 obsidian/tags/uman|Uman]]*, a monthly newsletter I ~~try to~~ keep. Its name means "change" in the language I grew up speaking, Pangasinan, which many believe is [dying](https://www2.hawaii.edu/~vanderso/Pangasinan.pdf).
+This is _[[05 obsidian/tags/uman|Uman]]_, a monthly newsletter I ~~try to~~ keep. Its name means "change" in the language I grew up speaking, Pangasinan, which many believe is [dying](https://www2.hawaii.edu/~vanderso/Pangasinan.pdf).
 
-You are receiving this because you subscribed to it days or months ago as a bundle to my other newsletter, [[05 obsidian/tags/tlw|The Long Walk]]. *Uman* is a collage of changes I went through in the past month, primarily while thinking about and practicing spirituality, walking, writing, and photography.
+You are receiving this because you subscribed to it days or months ago as a bundle to my other newsletter, [[05 obsidian/tags/tlw|The Long Walk]]. _Uman_ is a collage of changes I went through in the past month, primarily while thinking about and practicing spirituality, walking, writing, and photography.
 
-***
+---
 
 Inspired by some newfound insights after attempting to articulate my personal writing poetics through an essay set to be published by [an academic/literary journal](https://ajol.ateneo.edu/katipunan), I spent most of April doing some more writing and, as a consequence, thinking about its place in the life I'm trying to build these days.
 
@@ -24,7 +23,7 @@ One of the elements of religious life I most enjoyed in the past is "ministry"â€
 
 Ministry, along with all other aspects of religious life, was lost after I left the JWs. What replaced it somehow was writing, something I did very little as a JW minister. Because of this, as I contemplate today the best way I might bring back a form of ministry in my life, I'm deeply thinking about writing's role in a free, creative spirituality and, perhaps more importantly, what it means to treat it as a form of ministry.
 
-***
+---
 
 ## Writing as Performance
 
@@ -32,7 +31,7 @@ This has to be thought about because writing is not often viewed as a form of se
 
 To gain readers, one needs to perform in front of existing audiences, something publications and more famous writers have. The main activities of a writer working to increase an audience are, therefore, working on craft, producing work, sending them to publications, applying some for workshops, and sending some to contests in hopes of gaining awards. All of these get easier when one becomes part of the academe (i.e., studying or teaching in a university with a press). To be published, workshopped, awarded, and institutionalized means to become a better performer, which makes one more suitable for a larger audience. In the Philippines, where the readership is still not as large as in other countries, the quest to gain readers is nothing short of a real competition. In this competition, the published, workshopped, awarded, and institutionalized dominates, taking the largest piece of the audience pie. Because of scant readership, attempts to counteract this prevailing system through self-publication still have limited effects.
 
-***
+---
 
 ## The Dark Side of Writing as Performance
 
@@ -40,9 +39,9 @@ Because of this prevailing nature of the writing life, it is very easy to be all
 
 Reacting to the plagiarism mentioned above, Joel Pablo Salud, a journalist turn spiritual writer, said this:
 
->Plagiarism is a sign of an even deeper malady: the craving to be famous. Writing is not about discovering fame. Writing is about discovering yourself. Within that cumbersome isolation of writing, what do you see?
+> Plagiarism is a sign of an even deeper malady: the craving to be famous. Writing is not about discovering fame. Writing is about discovering yourself. Within that cumbersome isolation of writing, what do you see?
 
-***
+---
 
 ## Two Elements of Writing as Ministry
 
@@ -52,13 +51,13 @@ In my experience, there are two elements of ministry: self-fulfillment and servi
 
 Pursuing writing as a ticket to fame endangers one's view of oneself and never serves anyone. If writing lies in a spectrum, and "writing as a celebrity game" is at one end, what is at the other end is "writing as therapy." This is writing done only for the self, never meant to be shared with anyone. Some people, such as those who use writing to heal from trauma, need to stay in this form of writing for as long as they need. However, because of its exclusivity, it doesn't fit the bill of writing as a ministry. For writing to be a ministry, it needs to lie midway between one's desire to heal oneself and one's desire to be read.
 
-***
+---
 
 ## Pat Schneider
 
 When thinking about writing as a form of ministry, I remember [[pat schneider|Pat Schneider]], who, although published, awarded, workshopped, and institutionalized, used all of these to reconstruct how writing is practiced to be both self-fulfilling and service-oriented.
 
-She founded a writing method called the [[awa method|Amherst Writers and Artists (AWA) method]], detailed in her book *[[writing alone and with others schneider|Writing Alone and With Others]]*, which follows the following five affirmations:
+She founded a writing method called the [[awa method|Amherst Writers and Artists (AWA) method]], detailed in her book _[[writing alone and with others schneider|Writing Alone and With Others]]_, which follows the following five affirmations:
 
 1. Everyone has a strong, unique voice.
 2. Everyone is born with creative genius.
@@ -68,7 +67,7 @@ She founded a writing method called the [[awa method|Amherst Writers and Artists
 
 Following these affirmations, Schneider prescribed a writing practice that begins with protecting the voice of a budding writer, which is always in danger of being curtailed by the violent voices of criticism. Schneider believed that a writer (which everyone is) deserves a safe environment where their voice is given the chance to flourish. Throughout its history, the AWA method was used to give voice to historically underserved communities, such as incarcerated women or women living in low-income communities. Those who were helped by the method train to become facilitators who conduct writing workshops for groups who need their voices to be heard the most.
 
-***
+---
 
 ## Fr. James Martin
 
@@ -78,9 +77,9 @@ Fr. Martin's writing practice fits the "writing as ministry" perfectly well. Fir
 
 However, Fr. Martin's writing practice is very much directed toward his readers, whom he calls "souls." According to him, he wrote books primarily as a spiritual director who answered questions people asked him about spiritual life. He describes himself as a Jesuit priest who happens to write and says he writes to help souls and not to make art. Because of this poetics, he is compelled to write clearly rather than beautifully. Because his words need to serve others, he writes as transparently as possible, showing his struggles to illustrate to his readers that it is okay to struggle and that there is no need to be embarrassed about it. He said that one of the goals of writing as a form of ministry is to create an intimate bond with one's reader through words. He draws inspiration from [[thomas merton|Thomas Merton]], another writing priest, who once said:
 
->"I don't know if I really became a true monk, or a true contemplative, but what I do know, is that I am a writer, that I was one before I entered the monastery. I'm still one, and I'm going to remain one."
+> "I don't know if I really became a true monk, or a true contemplative, but what I do know, is that I am a writer, that I was one before I entered the monastery. I'm still one, and I'm going to remain one."
 
-***
+---
 
 ## Rem Tanauan and Rofel Brion
 
@@ -90,7 +89,7 @@ His intimate and spiritual relationship with writing didn't prevent him from ser
 
 Then there's Rofel Brion, of course, who himself is an institution in Filipino poetry. Unlike Rem, Rofel was well institutionalized, having been trained in writing in the country's top schools. He is also published, awarded, workshopped, and well-connected to the literary community. It was surprising, therefore, to hear from him in [a podcast interview](https://www.kevinnchan.com/2020/11/24/radio-ep-8-rofel-brion/) he gave that he doesn't take his writing seriously, and this somehow leads to his success. Most of his poems were written during the retreats he took. Reading his poems is like reading prayers. Many of his writings are also dedicated to specific people in his life: family, friends, and perhaps even the people he has guided. These people are his audience. Rofel is a teacher and a spiritual guide, and these roles take over his life more than the writing. The writing he does is an expression, an extension of his ministry.
 
-***
+---
 
 So, I return to my question: How could I modify writing to become the kind of ministry I want to incorporate into the new free and creative spirituality I'm currently exploring?
 
@@ -106,6 +105,6 @@ While far from being conclusive, these are concrete and actionable steps I could
 
 What do you think of them?
 
-***
+---
 
 ![Binmaley fishpond 1](images/binmaley-fishpond-1.jpg)

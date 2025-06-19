@@ -4,7 +4,6 @@ date: 2024-04-01
 aliases:
   - /uman-2024-03
 ---
-![Ril flowers](images/20240317-093030-ril-flowers-and-sugar.jpg)
 
 March was a month mostly of writing and rewriting and contemplating about writing. Some things did happen outside the letters and symbols on my journal and blinking cursors on my screen. But mostly, it was really just writing.
 
@@ -93,7 +92,8 @@ Here are some photos I took of the event.
 ![RIL Palitaw](images/20240317-110958-ril-palitaw.jpg)
 
 ![RIL Palitaw with flowers](images/20240317-121346-ril-palitaw-with-flowers.jpg)
-***
+
+---
 
 Summer has begun in this part of the world. While heat indices in different parts of the country have skyrocketed, I'm grateful that Los Baños, given its proximity to a mountain and a large lake, has its mini weather system that somehow counteracts the heat. Our evenings, early evenings, and late afternoons are still relatively cold.
 
