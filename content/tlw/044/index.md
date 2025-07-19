@@ -1,6 +1,6 @@
 ---
 title: "The Ground That Is My Belly: Doing Seiza with Miki Nakura"
-date: 2025-07-19
+date: 2025-07-20
 ---
 
 When I saw Miki Nakura walking on the nave of the Mount Carmel Shrine, I was so moved I had to pull back my tears. Miki walked around, a briskly moving blip in a humongous dark brown interior, lit only by sunlight striking the large stained glass windows that lined the sides of the gallery. The stained glass depicted scenes from the Virgin Mary's life from her infancy to her assumption into heaven.
