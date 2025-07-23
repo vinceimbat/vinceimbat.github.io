@@ -5,6 +5,7 @@ aliases:
   - /essays/whats-next-for-the-long-walk
   - /whats-next-for-the-long-walk
 ---
+
 Dear friends,
 
 I am writing to share an update on the trajectory of The Long Walk. As you may remember, I launched this newsletter on November 9, 2022, via Substack. Its tagline then was "Footprints from a philosophical and contemplative life."
@@ -13,7 +14,7 @@ In its first eight issues, I released a weekly open diary that contained artifac
 
 From day one, I intended to document my own long walk—a metaphor I use to refer to life itself—while touching on issues that I hoped would have a universal appeal to anyone reading. In the About page of the original Substack, I wrote:
 
->I have two main objectives in writing this newsletter. The first is to force me to make sense of the seemingly unconnected artifacts that often come to me in my reflections while studying or walking. The second is to leave intellectual footprints that others may use as archetypes or sources of inspiration for their intimate philosophical and contemplative journeys.
+> I have two main objectives in writing this newsletter. The first is to force me to make sense of the seemingly unconnected artifacts that often come to me in my reflections while studying or walking. The second is to leave intellectual footprints that others may use as archetypes or sources of inspiration for their intimate philosophical and contemplative journeys.
 
 I still feel strongly about these objectives. However, I have changed and grown over the past year of my long walk, and this change and growth had to be reflected in the publication.
 
@@ -44,5 +45,3 @@ As I end this letter, I want to take this opportunity once more to thank you for
 With the warmest of wishes,
 
 Vince
-
-![Dilapidated cieling](ymca-cieling.jpg)

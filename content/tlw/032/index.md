@@ -5,7 +5,6 @@ aliases:
   - /page-on-walking-the-philippines
   - /walking-the-philippines
 ---
-![EDSA revolution](edsa-revolution.jpg)
 
 Friends!
 

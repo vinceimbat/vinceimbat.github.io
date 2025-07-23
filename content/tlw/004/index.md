@@ -6,7 +6,6 @@ aliases:
   - /tita-sabel
   - /vignettes/sabel
 ---
-![Baby me and Tita Sabel](images/sabel1.jpg)
 
 On the morning of July 4, 2022, I walked with my mother and father from our house at Cablong, Sta. Barbara, to a relative's house at nearby Botao. It was a rare occasion. I was already living 170 miles away from them and was only staying for about a week. Before relocating to Los Baños, we no longer walked together, something we used to do around 2011 when I was recovering from depression.
 

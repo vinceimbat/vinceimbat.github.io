@@ -6,7 +6,6 @@ aliases:
   - /essays/the-night-sky
   - /the-night-sky
 ---
-![Moonlight](images/moonlight.jpg)
 
 When I got off the bus on the evening of December 2, there was a single tricycle waiting at the entrance of the provincial road that would lead me home. Its LED lights shined brightly as the driver waited silently in the dark.
 
@@ -40,28 +39,28 @@ And with this reminder comes the recognition that everything I am looking at abo
 
 Interestingly, I recently came across [[thich nhat hanh|Thich Nhat Hanh]] ’s English translation of The Five Remembrances of Buddhism.
 
-*I am of the nature to grow old.  
-There is no way to escape growing old.*  
+_I am of the nature to grow old.  
+There is no way to escape growing old._
 
-*I am of the nature to have ill health.  
-There is no way to escape ill health.*  
+_I am of the nature to have ill health.  
+There is no way to escape ill health._
 
-*I am of the nature to die.  
-There is no way to escape death.*  
+_I am of the nature to die.  
+There is no way to escape death._
 
-*All that is dear to me and everyone I love  
+_All that is dear to me and everyone I love  
 are of the nature to change.  
-There is no way to escape being separated from them.*  
+There is no way to escape being separated from them._
 
-*My actions are my only true belongings.  
+_My actions are my only true belongings.  
 I cannot escape the consequences of my actions.  
-My actions are the ground upon which I stand.*  
+My actions are the ground upon which I stand._
 
 ![Irrigation road at night](images/irrigation-road-night.jpg)
 
 When I look up at the sky, I am also reminded of the question that has troubled human beings for millennia—a question that continues to perplex philosophers, scientists, and theologians: Where did all of these come from?
 
-When I think about this question, I remember Aristotle and the notion of the "[[Unmoved Mover]]" in Book XI of his _Metaphysics_. The most basic argument behind the notion of the Unmoved Mover is that everything that is in motion was moved by something else. However, there cannot be an infinite cause of moving things because this goes against the rules of logic. Infinity in the physical universe cannot exist! This means one thing: there has to be an ultimate cause.
+When I think about this question, I remember Aristotle and the notion of the "[[Unmoved Mover]]" in Book XI of his *Metaphysics*. The most basic argument behind the notion of the Unmoved Mover is that everything that is in motion was moved by something else. However, there cannot be an infinite cause of moving things because this goes against the rules of logic. Infinity in the physical universe cannot exist! This means one thing: there has to be an ultimate cause.
 
 Once this agreement is reached, we face a new problem: What is the nature of this Unmoved Mover? This ultimate cause could never be moved—it is unmoved. Otherwise, it was also caused by something else. Likewise, it shouldn't be made of physical matter. Otherwise, it is subject to change and, therefore, moved. As if that isn't enough, it also must lack potentiality. Therefore, it is simply actuality.
 
@@ -72,7 +71,7 @@ When surrounded by people in broad daylight (or electric light), my ego wants to
 In this space something weird happens, something which Jeanette Winterson caught accurately:
 
 > I have noticed that when all the lights are on, people tend to talk about what they are doing—their outer lives. Sitting round in candlelight or firelight, people start to talk about how they are feeling—their inner lives. They speak subjectively, they argue less, there are longer pauses.
-> 
+>
 > To sit alone without any electric light is curiously creative. I have my best ideas at dawn or at nightfall, but not if I switch on the lights—then I start thinking about projects, deadlines, demands, and the shadows and shapes of the house become objects, not suggestions, things that need to be done, not a background to thought.
 
 Isn't this exactly what we need right now?
@@ -85,16 +84,16 @@ Carl Sagan said it precisely:
 
 Love is what will get us through this wonderful yet frightening existence. Love is what will get us through all of the things beyond our control—growing old, ill health, and death—all the more so because, while nature is beautiful, nature can also be very, very harsh.
 
-This seemingly paradoxical quality of nature was articulated beautifully through this quote from Terrence Malick's brilliant film _Tree of Life_, which I shall leave here to end this essay.
+This seemingly paradoxical quality of nature was articulated beautifully through this quote from Terrence Malick's brilliant film *Tree of Life*, which I shall leave here to end this essay.
 
 > The nuns taught us there are two ways through life, the way of Nature and the way of Grace. You have to choose which one you’ll follow.
-> 
+>
 > Grace doesn’t try to please itself. Accepts being slighted, forgotten, disliked. Accepts insults and injuries.
-> 
+>
 > Nature only wants to please itself. Get others to please it too. Likes to lord it over them. To have its own way. It finds reasons to be unhappy when all the world is shining around it. And love is smiling through all things.
-> 
+>
 > They taught us that no one who ever loves the way of grace ever comes to a bad end.
-> 
+>
 > I will be true to you. Whatever comes.
 
 ![Cloudy night sky](images/cloudy-night-sky.jpg)

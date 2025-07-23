@@ -6,14 +6,13 @@ aliases:
   - /essays/walking-and-the-well
   - /walking-and-the-well
 ---
-![Concrete tubes on a wall](images/concrete-tubes-wall.jpg)
 
-*Drink water from your own cistern  
-flowing water from your own well.*
+_Drink water from your own cistern  
+flowing water from your own well._
 
 ~ Proverbs 5:15
 
-I'm **[Vince Imbat](https://vinceimbat.com/)**, and this is _**[The Long Walk](tlw)**_.
+I'm **[Vince Imbat](https://vinceimbat.com/)**, and this is ***[The Long Walk](tlw)***.
 
 I am an editor by profession. I chose to keep a day job to support my writing so I don’t feel pressured to make money out of it. This week was a working week—a marathon of editing, a communion with the material world, which I found was also a rest from **[grief](tlw/008)**. I did walk in the evenings after work. And in those walks, the mind, again, confronts the questions of existence alongside the regrets of an aching heart.
 
@@ -52,18 +51,18 @@ After watching **[this clip](https://twitter.com/claytoncubitt/status/158788299
 In my journal, I returned to what I was thinking about last Monday (Nov. 7)—the relationship of our metaphysical beliefs with our desire for belongingness. I developed this journal entry into a note in my forest garden of the mind. Here is the note:
 
 > **We feel belongingness to people we share metaphysical and epistemological beliefs with**
-> 
+>
 > The Buddha avoided metaphysics. He said it was unimportant and that it prevented us from being compassionate to each other. Overemphasizing our beliefs in metaphysics and epistemology can definitely make us hateful especially when the two are combined into one ideology. We agree about what we want and disagree about metaphysics and epistemology. But metaphysics and epistemology can help us be kinder. It will always be part of our conversation about how to relate with other people.
-> 
+>
 > For example, I want to clarify my metaphysical and epistemological beliefs because I first need to create a place of belonging within myself. I first need to feel at home in my body. I want to feel really safe and autonomous and to protect that safe space as much as I can. And from there, expand my sense of belonging. The challenge is of course compassion—to love people outside that circle of belonging that we are ever so interested in building and preserving.
-> 
+>
 > This is the reason why building my worldview through understanding is so important to me and why my immediate environment is so important to me and why I want to be careful and intentional in my relationships.
 
 To illustrate the note, I drew concentric circles.
 
 ![Life circles](images/life-circles.jpeg)
 
-The more I leave the center of the circle (my mind and body), the more I leave my comfort zone—my _ginhawa_. But leaving that comfort zone allows me to grow and create more meaning as it is only within the context of my relationships that I truly flourish. **[Sonja Lyubomirsky](https://sonjalyubomirsky.com/)**, a happiness researcher, agrees:
+The more I leave the center of the circle (my mind and body), the more I leave my comfort zone—my *ginhawa*. But leaving that comfort zone allows me to grow and create more meaning as it is only within the context of my relationships that I truly flourish. **[Sonja Lyubomirsky](https://sonjalyubomirsky.com/)**, a happiness researcher, agrees:
 
 > Perhaps most critical to improving and maintaining happiness is the ability to connect with other people and to create meaningful connecting moments…
 
@@ -98,13 +97,13 @@ I contemplated whether there could be a process I could follow to set up and the
 This philosophy of living, creating, and connecting illustrated by the metaphor of walking has some similarities with the metaphor of the well (_balon_) that my late friend, which I miss so much, Rem Tanauan, has developed in his poetry course. Here is a translation of a Filipino reflection I wrote this week about the similarities of the metaphors of walking and the well.
 
 > This morning, I have been on my journal for two hours already. I could feel my voice returning, hearing it, no longer just a whisper. I was contemplating the similarities of Rem’s metaphor of the well and the metaphor of walking, which I am currently exploring. Both are metaphors with wide applications but they are sharp in their similarities as metaphors of how to create and how to live.
-> 
+>
 > Integral to Rem’s metaphor of the well is returning to it always. Because everything we share to the world as a human and an artist comes from it. The same goes with the metaphor of walking. One needs to return home after several hours of walking to restore strength, heal, and meditate on the things realized and seen outdoors.
-> 
+>
 > These metaphors are anchored in a view that life indeed is difficult but that we can always return to a source that we can coax comfort that we may go back into the world and do what we want to do.
-> 
+>
 > Integral in this philosophy and poetics of well-being is not hurrying, slowing down, carefulness, and a deep knowledge of self first before going out and doing.
-> 
-> After I journal, I usually read one or two poems. When I opened Rofel Brion’s _Kapag Natagpuan Kita = Once I Find You_, this was the first poem that caught my attention.
+>
+> After I journal, I usually read one or two poems. When I opened Rofel Brion’s *Kapag Natagpuan Kita = Once I Find You*, this was the first poem that caught my attention.
 
 ![Well by Rofel Brion](images/well-poem.jpg)

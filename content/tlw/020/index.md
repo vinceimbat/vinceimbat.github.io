@@ -5,6 +5,7 @@ aliases:
   - /poems/in-july
   - /in-july
 ---
+
 He said he puts things where he remembers them. She said we still lose them anyway.
 
 .
@@ -22,5 +23,3 @@ I guess things are found when they are badly needed, when stomachs are hungry an
 .
 
 Once in a while, one of them would drop and while the brown has not yet consumed it, a lady with an umbrella would notice it, pick it up, and bring it below her nose. This will be the first and the last time we will ever understand existence.
-
-![Weeds at abandoned building](ymca-weeds.jpg)

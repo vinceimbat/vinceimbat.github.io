@@ -5,35 +5,36 @@ aliases:
   - /essays/baguio-walk-1
   - /baguio-walk-1
 ---
-![Vehicles moving on an uphill road](images/baguio-road.jpg)
 
-"every breath is filled with champagne, and so invigorating that new blood seems to flow through my veins." — Frank G. Carpenter, *Through the Philippines and Hawaii*, 1925.
+"every breath is filled with champagne, and so invigorating that new blood seems to flow through my veins." — Frank G. Carpenter, _Through the Philippines and Hawaii_, 1925.
 
 "...this climate always does wonders for me when I have been or am ill, and I do not see why it should not keep me well if I could have more of it." — Dean Worcester (February 5, 1908, upon arriving in Baguio)
 
-***
+---
+
 When I consulted Louise Far about this project, she laid down a question I overlooked:
 
->How are you going to protect yourself while doing it?
+> How are you going to protect yourself while doing it?
 
 Stupid me. How could I have forgotten?
 
 About three months ago, an innocent walk along Magsaysay Avenue in Baguio City brought back memories from a distant past. I recounted the trigger in [[uman 2023-10|the October 2023 issue of 𝌡 Uman]]:
 
->While walking towards the Taoist temple carelessly called a “Church,” I passed by a restaurant that held memories. I have never been in this restaurant but my friends in the church and I used to kid about this particular place. It was one of the fanciest restaurants in Baguio ten years ago (perhaps it still is?) and we joked that one day we would treat each other there—one day, we would always say. For this very reason, we find the name of the restaurant particularly appropriate: “Future Diner.”
+> While walking towards the Taoist temple carelessly called a “Church,” I passed by a restaurant that held memories. I have never been in this restaurant but my friends in the church and I used to kid about this particular place. It was one of the fanciest restaurants in Baguio ten years ago (perhaps it still is?) and we joked that one day we would treat each other there—one day, we would always say. For this very reason, we find the name of the restaurant particularly appropriate: “Future Diner.”
 >
->I am yet to eat at Future Diner.
+> I am yet to eat at Future Diner.
 
 How fast a seemingly innocent walk can transport oneself into what is thought to be forgotten. On that walk, I started seeing things.
 
->On my way back, I stopped at an intersection to let cars pass before I cross. A woman sitting at the back of a car looked at me eye to eye as the car passed in front of me. I think I knew this woman. I think I knew her very well.
+> On my way back, I stopped at an intersection to let cars pass before I cross. A woman sitting at the back of a car looked at me eye to eye as the car passed in front of me. I think I knew this woman. I think I knew her very well.
 >
->Suddenly, more memories of those three short but filled years in Baguio came rushing inside my head. “I can’t be here any longer. I can’t be here any longer,” I told myself as I walked briskly.
+> Suddenly, more memories of those three short but filled years in Baguio came rushing inside my head. “I can’t be here any longer. I can’t be here any longer,” I told myself as I walked briskly.
 
 That walk led to feelings of regret (for leaving the church? for letting go of what could've possibly been a secure life around people who loved me? for hurting my parents?) and then of doubts (am I on the right path? is this life really better? is this freedom worth it?)
 
 The questions were too much to bear. I was moved to [[2023 annual review|ask for "spiritual help" for the first time in twelve years]].
-***
+
+---
 
 Why do the streets of Baguio have this power over me?
 
@@ -45,7 +46,7 @@ I wrote an [[a never-ending walk|extended essay]] about my personal history of t
 - 2011: In the last week of my second semester in my third year in college, I started developing symptoms of what I would later learn was clinical depression. I was able to go through my final exams, but I was constantly tired and unable to sleep. Around April my symptoms were too difficult to hide I had to ask for help. Through the assistance of a school guidance counselor, my parents, and a few psychiatrists, I started feeling better, but my suicidal urges were intense. I had to leave school for an entire year and leave my congregation in Baguio to return to Pangasinan and fully recover. While recovering, I started to question the existence of a God who allowed me to suffer. At the height of my suicidal ideations, I intentionally committed an act considered a flagrant sin among JWs, which I told myself I would do before ending my own life. I committed the sin but avoided suicide.
 - 2012: Elders inside my new congregation in Pangasinan and those in my previous congregation in Baguio learned about my mistake. They communicated to arrive at a reasonable punishment weighing the sin I committed against the clinical depression I just went through. After long talks and prayers, they concluded that a month of probation would be enough. I was relieved of my responsibilities, including giving talks, as part of my probation. A few days before I was reinstated, a visiting overseer overturned the initial punishment and removed me as a ministerial servant instead. These events led me to question the integrity and "divineness" of my church. A few weeks later, I decided to leave the JWs.
 
-***
+---
 
 Not all streets of Baguio are triggering, and I haven't completely avoided the city. I actually returned to Baguio in 2013, finished my studies in 2014, and frequently returned to visit my sister and her family, where I'll be staying during this week-long walk project.
 
@@ -53,7 +54,7 @@ I feel comfortable walking in most parts of Baguio. But I noticed that, over the
 
 The decision to revisit these places and, dare I say, "re-own" them is not a rushed decision. It started about two years ago when I began making peace with my past. These days, I continue to ask myself what really happened back then and what I can learn from that seldom-visited time in my life that could enrich my present existence and the path I'm treading. For someone who has tried so hard to forget about certain places and specific periods of his life, to say that this project and everything it represents is necessary for me to continue living is an understatement.
 
-***
+---
 
 Since that walk in October, I've been building the courage to do this walk. I'm corresponding with a pastor who is helping me identify the following steps to take in re-owning my spiritual life. I've also started practicing seiza meditation and deepening my contemplative photography practice through consultations with Louise. I'm ready to do this, but what else can I do to protect myself during the project?
 
@@ -78,14 +79,15 @@ To help me picture how this approach could be applied in these walks, I listed a
 15. In the evenings, I'll process the photos I've taken and share a few of them in the email I send that day.
 16. To protect the privacy of the people I could be writing about, I won't be using their real names or the names of the streets they live on. I also won't be photographing the houses of people I used to know. In addition, I won't be sharing a map of each walk; instead, I will share a single map of the entire project when it ends.
 
-***
+---
+
 One of the thoughts that came to me while discussing my initial plan for this project with Louise was that I could choose not to do it. I mean, this could potentially be a project I would regret doing. Many things can go wrong: the memories could come flooding even before the meditation begins, someone might recognize me, or I might ultimately not produce anything worth reading or looking at.
 
 But I can feel the desire to do this in my veins. Also, it's been twelve years. It's about time.
 
-***
+---
 
-As a subscriber to *The Long Walk*, you will automatically receive the missives (four to six of them, give or take). If you would rather not receive them, please go to your Substack account through this **[link](http://your.substack.com/account)**, navigate to notifications, and turn off "Tall Tales."
+As a subscriber to _The Long Walk_, you will automatically receive the missives (four to six of them, give or take). If you would rather not receive them, please go to your Substack account through this **[link](http://your.substack.com/account)**, navigate to notifications, and turn off "Tall Tales."
 
 After sending a closing email on January 22, I'll delete this list (i.e., I will no longer send anything to it). If you opt not to receive emails after this walk, you can either turn off notifications for the other newsletters I send to this list via the link above or unsubscribe to the list altogether.
 

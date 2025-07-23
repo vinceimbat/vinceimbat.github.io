@@ -5,6 +5,7 @@ aliases:
   - /poems/prayer
   - /prayer
 ---
+
 Sitting there on that tiny chair  
 across her, I babbled words  
 like a platoon commander,  
@@ -18,7 +19,7 @@ and on until both had had enough,
 until both had me raise my head  
 to stare at the ceiling briefly  
 before I shut my eyes close  
-to stay there in that darkness  
+to stay there in that darkness
 
 for as long as I can  
 and muddle on that silence  
@@ -29,5 +30,3 @@ a lull that stopped me
 from barricading myself  
 inside a wall of words,  
 a concrete cage of callousness.
-
-![Cactuses](20240114-025133-cacti.jpg)

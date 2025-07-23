@@ -4,7 +4,6 @@ date: 2024-05-18
 aliases:
   - /never-finished-never-arrived
 ---
-![New journal](images/new-journal.jpg)
 
 New journal. A beautiful one. Hardbound. Which means easier writing. And thoughts protected for years to come. This is quite possibly the best I've bought in recent memory.
 
@@ -14,11 +13,11 @@ Some days, I would write these lengthy, logically curated essays about some phil
 
 Lately, I've been thinking a lot about [[uman 2024-04|the role of writing in a spiritual life]] and how a writing practice could be designed to facilitate a free, creative spirituality or [[jiyu shukyo|jiyū shūkyō]]—a direct antithesis to conventional religion that is overprotective of tradition and, therefore, static. After giving it some thought, I'm convinced that the [[draft]], that seemingly "never finished, never arrived" literary specimen, where the journal is a subcategory, could be a potent tool for a person committed to this similarly "never finished, never arrived" brand of spirituality.
 
-Of course, I wouldn't arrive at this conclusion had I not been profoundly moved by reading journals. While dipping my toes into walking, I read [[henry david thoreau|Thoreau's]] journals and [[translating thoreau journal|translated my favorite entries into Filipino]]. Having transferred to Los Baños and started a walking practice around Mt. Makiling, I started reading [[henry bugbee|Henry Bugbee's]] philosophy book in journal form called *[[the inward morning bugbee|The Inward Morning]]*. Both journals influenced how I saw the world these past years, mainly as I got serious with walking.
+Of course, I wouldn't arrive at this conclusion had I not been profoundly moved by reading journals. While dipping my toes into walking, I read [[henry david thoreau|Thoreau's]] journals and [[translating thoreau journal|translated my favorite entries into Filipino]]. Having transferred to Los Baños and started a walking practice around Mt. Makiling, I started reading [[henry bugbee|Henry Bugbee's]] philosophy book in journal form called _[[the inward morning bugbee|The Inward Morning]]_. Both journals influenced how I saw the world these past years, mainly as I got serious with walking.
 
 ![Thoreau journal 1](images/thoreau-journal-1.jpg)
 
-Since then, I've developed a penchant for published journals, buying them whenever I can. In the Philippines, the journal is a marginalized literary genre, and writers don't usually publish theirs, and studies of journals are hard to come by. This is why when I saw a copy of *Kapag Sumalupa ang Gunita*, a collection of selected journal entries by the Filipino novelist and playwright Rogelio Sicat, sold at Mt. Cloud Bookshop at Baguio during [[tall tales 1|my walk there last January]], I didn't hesitate to buy it.
+Since then, I've developed a penchant for published journals, buying them whenever I can. In the Philippines, the journal is a marginalized literary genre, and writers don't usually publish theirs, and studies of journals are hard to come by. This is why when I saw a copy of _Kapag Sumalupa ang Gunita_, a collection of selected journal entries by the Filipino novelist and playwright Rogelio Sicat, sold at Mt. Cloud Bookshop at Baguio during [[tall tales 1|my walk there last January]], I didn't hesitate to buy it.
 
 ![Kapag sumalupa](images/kapag-sumalupa.jpg)
 
@@ -36,14 +35,14 @@ With the aim of understanding why the journal and jiyū shūkyo are a perfect ma
 
 Of course, I wrote all these in the safe confines of my journal, going through them now, editing them before I send them to you. But even published works like this essay you are probably reading in your email or as a page on my website could still be considered drafts. It's all a matter of perspective. And because they are written and published electronically, it is very easy to revise and reshare them.
 
-This is how I see my writings these days, an archive of loose drafts that haven't really ended, much like the form of spirituality I sought to study and practice, a spirituality captured by A. R. Ammons' confession in his poem *Corsons Inlet*:
+This is how I see my writings these days, an archive of loose drafts that haven't really ended, much like the form of spirituality I sought to study and practice, a spirituality captured by A. R. Ammons' confession in his poem _Corsons Inlet_:
 
->I will try  
->to fasten into order enlarging grasps of disorder,  
->widening  
->scope, but enjoying the freedom that  
->Scope eludes my grasp, that there is no finality of vision,  
->that I have perceived nothing completely,  
->that tomorrow a new walk is a new walk.
+> I will try  
+> to fasten into order enlarging grasps of disorder,  
+> widening  
+> scope, but enjoying the freedom that  
+> Scope eludes my grasp, that there is no finality of vision,  
+> that I have perceived nothing completely,  
+> that tomorrow a new walk is a new walk.
 
 ![Old journals](images/old-journals.jpg)

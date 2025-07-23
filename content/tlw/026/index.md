@@ -6,8 +6,10 @@ aliases:
   - /essays/and-i-shall-hear-their-hearts-beating
   - /and-i-shall-hear-their-hearts-beating
 ---
+
 _Bagong Silang is the last barangay of Los Baños, Laguna, before the ascent to Mount Makiling. It covers the first few stations of the Mount Makiling Trail, Aguila base, and a couple more kilometers beyond. It was the only barangay I missed walking during **[my week-long walk of Los Baños](rxg1)** two weeks ago. Here is a lyric essay of my first solo walk in this barangay last November._
-***
+
+---
 
 The clouds were moving too fast I had to stop to watch them. I raised my head and my eyes followed their gray outlines. Where are they going and why do they hurry?
 
@@ -50,5 +52,3 @@ A wild chicken appeared out of nowhere. Hearing me coming, it went straight back
 [...]
 
 I remembered that once, these walks never gave me anything in return, never rewarded the rigor I devoted to them. I remembered realizing that these walks too are walked. Past the initial hump, as if finally trusting the walker, the walks bestowed upon me the awareness that I have a body, that there is so much going on within and outside it, and that if I keep trusting the next step, only the next step, anything and everything that meets me on the road, whatever they would be, shall be and always will be part of me.
-
-![Bagon Silang trail](bagong-silang.jpg)

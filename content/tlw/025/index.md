@@ -4,7 +4,6 @@ date: 2023-12-03
 aliases:
   - /a-seven-day-walk-around-los-banos
 ---
-![Mt. Makiling at Pili Drive](mt-makiling-pili-drive.jpg)
 
 Friends—
 
@@ -16,7 +15,7 @@ As a subscriber to The Long Walk, you’ll automatically receive the daily email
 
 Since this is a pop-up newsletter, I’ll delete it after sending a final email on December 11, 2023.
 
-***
+---
 
 In January 2021, after almost a year of isolation, I decided to beat travel restrictions and relocate to a town in Southern Luzon famous for its hot spring resorts. Los Baños (literally, “The Baths”) has become my home for the past three years. While I’ve walked many other places in the past, it is here in Los Baños where I truly fell in love with the art of walking.
 
@@ -32,7 +31,7 @@ Here are some rules to guide the walk:
 6. Evenings will be spent writing and editing photos for the missives.
 7. I’ll walk as slowly as necessary. There is no need to cover all the routes for seven days. I'll be doing at least two more of these walks next year any way, so no need to rush.
 
-***
+---
 
 Why am I doing this?
 

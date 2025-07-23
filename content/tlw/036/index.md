@@ -4,7 +4,6 @@ date: 2024-06-30
 aliases:
   - /the-walker-who-greets-another-body
 ---
-![Sta. Barbara fields](20240629-172800-sta-barbara-fields.jpg)
 
 Around 30 minutes ago, it started drizzling outside, creating a thick film of moisture on my window. Since the film formed outside, I couldn't wipe it away, and it blocked my view of the landmarks we were passing by. Fearing I might miss my stop, I fixed my eyes on the map on my phone, watching as the circle moved along the blue line.
 
@@ -14,7 +13,7 @@ Across the junction is the Maronong Road, leading to my parents' house, where I'
 
 I took the moment to take the scent of freshly wet grass and the cool air. I looked at the road ahead, where a group of youngsters was already walking. Surely, they weren't heading as far as Sitio Bayog. But all signs tell me I have to follow them. I took the first step of what would be a 30-minute walk.
 ``
-The rain had left minimal traces on the ground. Except for several puddles along the edges, the concrete road was dry. I walked on the left side, sharing it with approaching vehicles. Drivers were kind enough to move aside as they saw me coming. I gazed at the vast fields of green *palay* on my left, trusting that incoming traffic wouldn't hurt me.
+The rain had left minimal traces on the ground. Except for several puddles along the edges, the concrete road was dry. I walked on the left side, sharing it with approaching vehicles. Drivers were kind enough to move aside as they saw me coming. I gazed at the vast fields of green _palay_ on my left, trusting that incoming traffic wouldn't hurt me.
 
 When the side of the road widened, I gave the whole road to the motorists. In this country, locals understand that concrete roads, although built for things with wheels, are also for the many who still travel on foot. In rural Philippines, walking isn't a conscious cultural act that inspires insights, verses, and art. It's simply a practical mode of travel to move bodies and goods from one point to another.
 

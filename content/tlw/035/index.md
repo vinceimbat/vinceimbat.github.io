@@ -4,7 +4,6 @@ date: 2024-05-25
 aliases:
   - /bathala-wala-intro
 ---
-![Lost van](images/20231205-094635-rxg-lost-van.jpg)
 
 "Bathala nawa."
 
@@ -24,7 +23,7 @@ You won't hear this phrase used in current everyday Tagalog. However, a derivati
 
 While I may sometimes use "bahala na," I use it stripped of any mythological or religious sense. I have never used the phrase "Bathala nawa" because, even if the phrase is situated outside the Christian tradition that has dominated the religious consciousness of these islands for more than five centuries, it still is anchored to the belief that an all-powerful being looking down at us somewhere from the sky rules our lives and dictates the trajectory of everything. While I've spent the first eighteen years of my life developing a relationship with such a being, it is a pursuit I have long since abandoned. And with this abandon came the play of words: "Bathala nawa" has become, at least for me, "Bathala wala" ("Bathala none").
 
-***
+---
 
 I've tried to avoid thinking about the idea of God since around 2012 [[a never-ending walk|when I left the Jehovah's Witnesses]]. Of course, I continued to encounter the word even after I left organized religion. Theism, specifically monotheism, is believed by the overwhelming majority of Filipinos. If I'm going to make an estimate, I would confidently say that around 99 percent of Filipinos are theists, and almost all theists are monotheists.[^2] So, it is impossible not to encounter the idea. It is everywhere, and since I chose to hang around spiritual circles in search of the next best thing to fill the void left by my childhood faith, this meant I encountered the idea repeatedly, even after leaving my religion.
 
@@ -42,7 +41,7 @@ It didn't help that I lacked the right people and community to think critically 
 
 In retrospect, this lack of a shared safe space where I could confront my disbelief with God in a way that is sensitive to my past and honors the process I went through to get here was the number one reason why I avoided confronting the concept of God. Lacking this space but in need of community, I settled with available religious and spiritual communities that gave almost zero space to doubt and who never entertained liberal questions about their own beliefs, including that of God.
 
-***
+---
 
 So why am I confronting the idea of God now?
 
@@ -53,7 +52,8 @@ My internal reason: There have been times (and they're becoming more frequent re
 My external reason came to me during a walk with my partner, Lea, which I wrote about in [[a sunday walk|a previous issue of this newsletter]]. Another reason I actively avoided thinking about God is that the idea is loaded with so much metaphysics (i.e., questions and answers about what fundamentally exists). While metaphysics profoundly interests me, people too obsessed with metaphysical questions tend to feel so strongly about their beliefs that conversations with them often lead to heated debates. I share the Buddha's stand: he avoided answering his disciples' metaphysical questions because he thought they were obstacles to what was most important—practicing compassion toward others.
 
 But hearing how Lea is still profoundly disturbed by things taught to her as a child about what exists—hell, Satan, God, etc.—made me think about the importance of confronting metaphysical questions. For many of us, facing these questions (no matter how difficult such an undertaking is) is the only way to move forward, to find closure to a traumatic past centered around beliefs that did more damage than to protect us, so that we could finally open ourselves to healthier ways of looking at and being in the world. Lea has helped me realize that avoiding ideas about God is preventing me from truly making peace with my religious past, a requirement in crafting [[jiyu shukyo|a new free and creative spirituality]].
-***
+
+---
 
 In the following weeks, I'll work on a series of essays to share how I'm currently confronting the idea of God. The essays will document my recollections of how I used the concept in the past and articulate how I'm considering available reimaginings of the idea through reading and reflection. As I often do, I'll use [[walking]] as a platform for processing and reflection. Since I anticipate that [[nature]] will be integral in thinking through the idea of God, I'll be doing the walks on the most accessible nature path where I live: the Mt. Makiling Trail.
 
@@ -80,4 +80,5 @@ Thank you for being here.
 ![Stairs and van](images/20231205-094524-rxg-stairs-and-van.jpg)
 
 [^1]: The idea of a "Filipino spirituality" is inherently problematic because what is often described as Filipino is just one of the almost two hundred ethnolinguistic groups scattered across the Philippine archipelago. It is easy to make the mistake that Filipino culture is the culture of the people who live in Manila, the country's capital, and its surrounding provinces: the Tagalogs ("people by the river").
+
 [^2]: Data from the 2020 Census confirm my hunch. According to the census, only 0.04 percent (or around 43,000) of Filipinos had no religious affiliation. Not all of the irreligious are atheists, of course. If I'm going to make another guess, the majority of these 43,000 Filipinos are still theists, but they are simply non-churchgoers. A smaller segment would be those who call themselves "spiritual but not religious." These people still tend to be theists, but they worship God in the context of "spiritual communities," many of which adhere to some form of New Age or Eastern spirituality.

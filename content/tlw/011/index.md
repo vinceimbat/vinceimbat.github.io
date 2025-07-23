@@ -6,13 +6,12 @@ aliases:
   - /essays/the-real-sesshin
   - /the-real-sesshin
 ---
-![Hogar Kubo](images/Hogar-kubo.jpg)
 
 > _What is the colour of wind?_
 
 ~ A koan
 
-I’m **[Vince Imbat](https://vinceimbat.com/)**, and this is _**[The Long Walk](tlw)**_.
+I’m **[Vince Imbat](https://vinceimbat.com/)**, and this is ***[The Long Walk](tlw)***.
 
 ## The Long Walk: November 21 to 26, 2022
 
@@ -20,25 +19,25 @@ I’m **[Vince Imbat](https://vinceimbat.com/)**, and this is _**[The Long Wal
 
 I went to [[a metaphysical walk|a group retreat in the mountains of Tanay]] over the weekend, hoping to get some more time with myself in nature. But the retreat felt more like an outing than a retreat, so as I returned to Los Baños, I felt like the real retreat was just about to begin.
 
-During the last _sesshin_ (接心) I attended in 2018, our sensei Elda, in her closing talk, mentioned that the real sesshin begins the moment we leave the ICM Convent in Baguio, where the five-day silent retreat was held. The real _sesshin_ is out there in the world, she said. I reflect on what my life looks like, and it feels like a never-ending retreat, a pseudo-monastic life.
+During the last *sesshin* (接心) I attended in 2018, our sensei Elda, in her closing talk, mentioned that the real sesshin begins the moment we leave the ICM Convent in Baguio, where the five-day silent retreat was held. The real *sesshin* is out there in the world, she said. I reflect on what my life looks like, and it feels like a never-ending retreat, a pseudo-monastic life.
 
-Speaking of _sesshins_, the first post-COVID _sesshin_ in Baguio has just culminated this November. Unfortunately, I learned about it ex post facto, so all I could do is to wait for the next one on April 2023. Sitting once more for long hours and long days in silence would be nice.
+Speaking of *sesshins*, the first post-COVID *sesshin* in Baguio has just culminated this November. Unfortunately, I learned about it ex post facto, so all I could do is to wait for the next one on April 2023. Sitting once more for long hours and long days in silence would be nice.
 
 In my digital note garden, I wrote the following [[explore your worldview like a walk|note]]:
 
 > **Explore metaphysical and epistemological beliefs as if it is a walk**
-> 
+>
 > Perhaps developing our metaphysical beliefs also involves this careful walking. Building a home, a minimum viable one, starting with just a few principles then going out to try things out. Exposing oneself to as much beliefs as one can. But returning to the center.
 
 I remember Andrew James Brown’s similar method for what he calls **[“metaphysical hitchhiking”](http://andrewjbrown.blogspot.com/2020/12/steps-not-steps-promises-and-art-of.html)**:
 
-> Well, in a nutshell, it is simply to have in mind an appropriately confident sense of the general direction and horizon towards which it seems best to travel and also to have adopted _**a general minimalist form of life and style of movement**_ that seems appropriately suited to help us take steps in that same general direction.
-> 
-> So how on earth are we to distinguish between missteps and sidesteps and the kind of steps that seem to us to right and which move us in what we feel is the right direction? Well, that can only achieved by those who find a way with a clean heart and full belief (_pathos_) to commit loyally to some kind of _**minimal, general sense of direction of travel and an associated minimalist, or basic form of life and style of movement**_ that will help then navigate towards that horizon. (emphases mine)
+> Well, in a nutshell, it is simply to have in mind an appropriately confident sense of the general direction and horizon towards which it seems best to travel and also to have adopted ***a general minimalist form of life and style of movement*** that seems appropriately suited to help us take steps in that same general direction.
+>
+> So how on earth are we to distinguish between missteps and sidesteps and the kind of steps that seem to us to right and which move us in what we feel is the right direction? Well, that can only achieved by those who find a way with a clean heart and full belief (_pathos_) to commit loyally to some kind of ***minimal, general sense of direction of travel and an associated minimalist, or basic form of life and style of movement*** that will help then navigate towards that horizon. (emphases mine)
 
 ### November 22, Tuesday
 
-One of the exercises in the book _**[Designing Your Life](https://designingyour.life/the-book/)**_, which I am slowly realizing is a compelling book that integrates a lot of lessons I have learned in the past about career planning and job searching, is writing your philosophy of work (workview) and philosophy of life (lifeview). After writing [[my workview]] and [[my lifeview]], I reflected on how the two relate to each other.
+One of the exercises in the book ***[Designing Your Life](https://designingyour.life/the-book/)***, which I am slowly realizing is a compelling book that integrates a lot of lessons I have learned in the past about career planning and job searching, is writing your philosophy of work (workview) and philosophy of life (lifeview). After writing [[my workview]] and [[my lifeview]], I reflected on how the two relate to each other.
 
 I realized that both my worview and my lifeview have this minimalist and balanced view of money that acknowledges its importance but only as a supportive element. I internally agree that the most important things happen not in exchange spaces but in gift spaces. I realized that I have never truly been driven by money. I have been very cheap in my life and could be even cheaper if needed. The more I don’t think about how I can generate more income, the better. On a related tangent, because the main work is inner and its movement is slow, fame is not part of the equation. I am never motivated by it.
 
@@ -56,10 +55,10 @@ In the afternoon, I took a grounding, comforting, and pleasant walk along Pili D
 
 In my journal, I wrote some common threads I noticed in my list of activities in my good time journal so far.
 
-> -   creating stories make me flow. Either fiction or nonfiction.
-> -   there are two big areas in my life: CREATIVITY & SPIRITUALITY.
-> -   I do my best work when I am alone.
-> -   there should always be an element of aloneness even if I want to work with other people.
+> - creating stories make me flow. Either fiction or nonfiction.
+> - there are two big areas in my life: CREATIVITY & SPIRITUALITY.
+> - I do my best work when I am alone.
+> - there should always be an element of aloneness even if I want to work with other people.
 
 ### November 25, Friday
 
@@ -73,7 +72,7 @@ After this, I went back to each mindmap, looked at their outer rings, and encirc
 
 This was one of the most fun and eye-opening activities I have done in a long time. The purpose of the activity was not as much to arrive at answers as to shift my mind from “what is next” to “what is possible.” This is precisely what it did.
 
-In the late afternoon, I walked at Jose Drilon Jr. Street alongside an arm of the Molawin Creek and sat at the end of the road to sketch my first odyssey plan, a five-year plan of the current life I was living. This was still part of the exercises in the _**Designing Your Life**_ book.
+In the late afternoon, I walked at Jose Drilon Jr. Street alongside an arm of the Molawin Creek and sat at the end of the road to sketch my first odyssey plan, a five-year plan of the current life I was living. This was still part of the exercises in the ***Designing Your Life*** book.
 
 ### November 26, Saturday
 
@@ -92,9 +91,9 @@ Here is what that last one looks like.
 In the afternoon, I read the latest Nightingalingale newsletter by **[Craig Mod](https://craigmod.com/)**, a newsletter he sends to his membership patrons about the process of writing his latest book. He wrote about the importance of scale in creative projects.
 
 > Scale is something I’ve discussed in the past. I think it’s one of the most “important” choices someone who is doing “creative work” has to make: What scale do you want to work at? Because so much flows from that choice.
-> 
+>
 > I decided ages ago that “my scale” was relatively constrained, mainly because I have a fairly uncompromising sense of what I want to do, which is not always the most "commercially viable" thing, and I have very little patience for bullshit. The bigger your scale, the more bullshit against which you have to defend (the more complex the thing becomes: the more moving parts, the more people involved, the more money at stake).
-> 
+>
 > Important to note that even small scale things can be crippled by bullshit; vigilance is critical — the worst situation is one where you’re working on a small-impact item that acts like it’s a Big Deal and comes with all attendant Big Deal Bullshit."
 
 After reading this, I returned to my odyssey plans and asked myself, “Do these plans reflect the scale that I want to work in?”

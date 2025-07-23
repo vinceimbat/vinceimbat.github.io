@@ -3,8 +3,6 @@ title: "Let the Light In: Notes on Photography and Self-trust"
 date: 2025-05-11
 ---
 
-![Lone woman on the beach](images/feature.jpg)
-
 Yesterday, I was trying to understand why the f-stop number indicated on the digital viewfinder of my camera increases when the aperture shrinks in size. The aperture is the hole in a camera lens that lets light in. The larger this hole, the more light enters my camera. The size of the aperture could be adjusted with a physical dial. Its size is indicated by a number called the f-stop. A low f-stop number, say f/4.5, means a wider aperture, while a bigger f-stop number, say f/10, means a narrower aperture. I later learned that the f-stop number, while not exactly its measurement, increases when the size of the diaphragm of my camera's lens also increases. The diaphragm is a set of overlapping blades that look like leaves that come closer together to shut the aperture and move away from each other to open it.
 
 After writing the piece that follows, I thought about the semantics of closing, shutting, and coming in, and remember how much of the same words apply to my relationship with photography. To be able to let the light in, to truly open myself up to the wide variety of images waiting to permeate themselves into my being, I have to increase the size of my inner aperture by shedding my leaves of insecurity, self-distrust, and pain that may have accumulated for years.
