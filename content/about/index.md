@@ -18,27 +18,14 @@ showPagination: false
 
 ## Subscribe to my newsletter
 
-_*[The Long Walk](tlw)*_, features essays on walking, literature, photography, and spirituality. I send it occasionally.
+I send an almost weekly newsletter via Substack, publishing new poems and prose on a free, creative, inquiring, and liberative spirituality.
 
-Please consider subscribing. It's free and you can unsubscribe anytime.
-
-<form method="post" action="https://listmonk.lawak.ph/subscription/form" class="listmonk-form">
-  <div style="text-align: center;">
-  <input type="hidden" name="nonce" />
-  <input type="hidden" name="l" value="4ea6395a-bea5-414a-a563-47e28c373333" />
-  <p><input type="email" name="email" required placeholder="email address" style="width: 100%; max-width: 400px; border: 2px solid lightgray; padding: 8px; border-radius: 4px;"></p>
-  <div style="display: inline-block;">
-    <div class="h-captcha" data-sitekey="3da8d39e-effe-4136-b7a4-846adbf21414"></div>
-  </div>
-
-  <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
-
-  <p>
-  <input type="submit" value="Subscribe" style="background-color: #7b97aa; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px;">
-  </p>
-
-  </div>
-</form>
+<div style="text-align: center;">
+  <a href="https://vinceimbat.substack.com/" target="_blank" rel="noopener noreferrer">
+    <button style="background-color: #7b97aa; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; border: none; cursor: pointer;">
+    Subscribe
+    </button>
+  </a>
 </div>
 
 ---
@@ -47,23 +34,21 @@ Please consider subscribing. It's free and you can unsubscribe anytime.
 
 ### Publications
 
-I co-authored a zine called _**[so we must meet apart](https://vinceimbat.gumroad.com/l/apart)**_ with Cagayan de Oro writer [Jesa Suganob](https://flammablematerials.substack.com/). It is a collection of epistollary essays delving into the poetics of walking.
-
 My hybrid (draft) poetry collection _[Mapa ng Los Baños Patungo Sa'yo (A Map of Los Baños to You)](https://archium.ateneo.edu/katipunan/vol11/iss2/63/)_ and its accompanying essay ["Ang Borador Bilang Panitikan ng Paglalakad" (The Draft as a Literature for Walking)](https://archium.ateneo.edu/katipunan/vol11/iss2/63/) were published in the Buhian literary issue of _Katipunan_.
 
-My Pangasinan poem ["Gawat"](https://tldtd.org/poet/vince-imbat/) and its translation ["Tagsalat"](https://tldtd.org/poet/vince-imbat/) were published in the fifth issue of TLDTD.
+My poems have been published in [TLDTD](https://tldtd.org/poet/vince-imbat/), [Mountain Beacon](https://www.facebook.com/mountainbeacon2600), and [Northern Dispatch](https://www.facebook.com/nordisonline).
 
 ### Newsletters
 
-I have one active newsletter that I send occasionally called _**[The Long Walk](tlw)**_.
+I have one active weekly newsletter I publish via [Substack](https://vinceimbat.substack.com/).
 
 But I've written other newsletters in the past, including "pop-up" newsletters that I write during walks. Browse my newsletter history [here](newsletters).
 
 ### Awards
 
-My collection of Pangasinan poems called "Bëltangën Tayo'y Këlpa" (Cut Through This Fog) won in the first [Gawad F. Sionil Jose](https://www.facebook.com/share/p/15RLmH2MBB/) in 2024.
-
 My essay entitled "Ikurit Ko'y Sali-salik ëd Sayan Dalin: Pitoran Akar" (I Will Write My Feet on This Land: Seven Walks) was the grandprize winner of the [2024 Gawad Bienvenido Lumbera](https://www.facebook.com/share/p/15y2bEbCH2/) in Pangasinan Personal Essay.
+
+My collection of Pangasinan poems called "Bëltangën Tayo'y Këlpa" (Cut Through This Fog) won in the first [Gawad F. Sionil Jose](https://www.facebook.com/share/p/15RLmH2MBB/) in 2024.
 
 ### Fellowships
 
