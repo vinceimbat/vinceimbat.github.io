@@ -10,7 +10,7 @@ Most of my writings begin as inklings gathered during walks. I keep these seeds 
 
 I send an almost weekly newsletter via Substack, publishing new poems and prose on a free, creative, inquiring, and liberative spirituality.
 
-Please consider subscribing. It's free and you can unsubscribe anytime.
+Consider subscribing. It's free and you can unsubscribe anytime.
 
 <div style="text-align: center;">
   <a href="https://vinceimbat.substack.com/" target="_blank" rel="noopener noreferrer">
