@@ -1,14 +1,10 @@
 <div style="margin: 0 auto; max-width: 600px; width: 90%; text-align: left; box-sizing: border-box;">
 
-## I'm a Los Baños-based writer and photographer who walks.
+## Hi, I'm Vince Imbat, a writer and photographer who walks.
 
-My poems and essays are explorations on the possibilities of a creative, inquiring, free, and liberative spirituality in the Philippines.
+I believe that in this vast wilderness of life, where we often find ourselves lost and alone, we are always already on our way back to ourselves, to each other, to the cosmos, and to the hidden wholeness that embraces us all.
 
-Most of my writings begin as inklings gathered during walks. I keep these seeds of thought in a digital archive I call _[talahardin](https://talahardin.vinceimbat.com/)_.
-
----
-
-I send an almost weekly newsletter via Substack, publishing new poems and prose on a free, creative, inquiring, and liberative spirituality.
+My poetry, prose, photographs, and walks are all attempts to find a free, creative, inquiring, and liberative spirituality. I share glimpses of my journey in my almost weekly Substack newsletter.
 
 Consider subscribing. It's free and you can unsubscribe anytime.
 
