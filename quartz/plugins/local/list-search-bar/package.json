@@ -1,0 +1,29 @@
+{
+  "name": "list-search-bar",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Inline live-filter search bar shown above folder/tag listing pages",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js",
+    "./components": "./components/index.js"
+  },
+  "quartz": {
+    "name": "list-search-bar",
+    "displayName": "List Search Bar",
+    "description": "Client-side filter input above a folder/tag page's list of entries",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "ListSearchBar": {
+        "displayName": "List Search Bar",
+        "defaultPosition": "beforeBody",
+        "defaultPriority": 40
+      }
+    }
+  }
+}

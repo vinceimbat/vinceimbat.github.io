@@ -1,0 +1,21 @@
+{
+  "name": "sidenotes",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Tufte-style sidenotes via {{sidenotes[label]: content}} syntax, styled after aarnphm.xyz",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "quartz": {
+    "name": "sidenotes",
+    "displayName": "Sidenotes",
+    "description": "Parses {{sidenotes[label]: content}} into a margin note (desktop) / expandable note (mobile)",
+    "category": "transformer",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "defaultOrder": 15,
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}

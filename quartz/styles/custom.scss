@@ -1,3 +1,678 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// Muted link color: a medium gray between --gray and --darkgray, distinct
+// from both body text and the very light default --gray. Not part of the
+// generated ColorScheme, so defined here as its own custom property (with
+// literal per-mode values, rather than color-mix(), so it doesn't silently
+// fail on the older browsers this site already targets — see the lightningcss
+// `targets` list in quartz/plugins/emitters/componentResources.ts).
+:root {
+  --linkGray: #6e6e6e;
+}
+:root[saved-theme="dark"] {
+  --linkGray: #a3a3a3;
+}
+
+// The `folder-page`/`tag-page` plugins' bundled listPage CSS includes
+// `li.section-li > .section > .desc > h3 > a { background-color: transparent; }`
+// — a leftover opt-out from Quartz's old always-on internal-link highlight
+// pill. Its specificity (0,3,3) beats our `a.internal:hover` rule in
+// base.scss (0,2,1) within the same @layer quartz-base, so it silently
+// dropped the black hover fill for list-page titles specifically — the
+// border and inverted text color still applied (those properties aren't
+// touched by the offending rule), leaving an empty outlined box with
+// invisible text. Tag links sit on a different selector path and were
+// never affected. Restore the inverted hover fill for these titles.
+li.section-li > .section > .desc > h3 > a {
+  text-decoration: none;
+}
+li.section-li > .section > .desc > h3 > a:hover {
+  background-color: var(--dark);
+  color: var(--light);
+  border-color: var(--dark);
+  text-decoration: none;
+}
+
+// Same story, same fix, for the (currently disabled) recent-notes plugin,
+// which reuses this exact list-item markup — future-proofing in case it's
+// enabled later.
+.recent-notes > ul.recent-ul > li .section > .desc > h3 > a:hover {
+  background-color: var(--dark);
+  color: var(--light);
+  border-color: var(--dark);
+  text-decoration: none;
+}
+
+// Backlinks: heading bumped to h2 size, and the list of linked-back notes
+// rendered as a two-up grid of bordered cards (one column on mobile)
+// instead of a plain bullet list — matching Aaron's "liens retour" section.
+// Titles keep the site's reverse-hover treatment but drop the underline
+// (a card doesn't need it; the border + hover fill are affordance enough).
+.backlinks > h3 {
+  font-size: 1.75rem;
+  margin: 0 0 0.75rem 0;
+}
+
+// The GFM footnotes section's own heading — despite carrying a "sr-only"
+// class (normally meant to visually hide it, screen readers only), nothing
+// in this site's CSS actually implements that class, so it already renders
+// as a normal visible h2 (1.4rem). Bump it to h1 size to match Backlinks.
+#footnote-label {
+  font-size: 1.75rem;
+}
+.backlinks > ul.overflow {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+  max-height: none;
+  overscroll-behavior: auto;
+  // base.scss's `ul.overflow` fades its bottom edge to transparent whenever
+  // OverflowList's IntersectionObserver decides the list is scrolled/clipped
+  // (`.gradient-active`) — meant for a short, height-capped, scrollable
+  // sidebar list. This grid isn't height-capped and shows every backlink at
+  // once, so the observer's target (`li.overflow-end`, hidden below) never
+  // properly reports as visible and the fade got stuck permanently on,
+  // making the last row look cut off even though nothing was missing. Kill
+  // the mask outright rather than fight the observer.
+  mask-image: none;
+}
+// The OverflowList component always appends an empty `<li class="overflow-end">`
+// as an IntersectionObserver anchor for the fade above — hide it so it
+// doesn't render as a stray empty grid cell.
+.backlinks > ul.overflow > li.overflow-end {
+  display: none;
+}
+.backlinks > ul.overflow > li {
+  list-style: none;
+}
+.backlinks > ul.overflow > li > a {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  padding: 0.9rem 1.1rem;
+  margin: 0;
+  border: 1px solid var(--lightgray);
+  border-radius: 0;
+  text-decoration: none;
+  background-color: transparent;
+}
+// Its bundled CSS unconditionally sets `background-color: transparent` on
+// these links (rest state) at higher specificity than our own hover rule
+// needs to beat — border/text-color from our hover rule still applied on
+// their own, so hovering showed an outlined box with invisible text.
+.backlinks > ul.overflow > li > a:hover {
+  background-color: var(--dark);
+  color: var(--light);
+  border-color: var(--dark);
+  text-decoration: none;
+}
+@media (max-width: 600px) {
+  .backlinks > ul.overflow {
+    grid-template-columns: 1fr;
+  }
+}
+
+// Table of Contents: its bundled CSS unconditionally sets
+// `color: var(--dark)` (plus a dimming opacity for unvisited-section
+// entries) directly on its links — more specific than our hover color
+// change, so it kept winning even while hovered. Combined with our hover
+// background still applying (dark box), the dark text became barely
+// legible against its own dark background ("redacted" look). Restore full
+// contrast and full opacity on hover.
+ul.toc-content.overflow > li > a:hover {
+  color: var(--light);
+  opacity: 1;
+  background-color: var(--dark);
+  border-color: var(--dark);
+  text-decoration: none;
+}
+
+// Site-wide layout: single centered column, no left/right sidebar tracks.
+// Backlinks (content pages) and the tag mosaic (folder/tag pages) both
+// render in `afterBody` now — stacked below the content — rather than in
+// a right sidebar column, so nothing needs that reserved track anymore.
+// The left sidebar's only remaining occupants (search + dark mode) are
+// mobile-only and independently fixed-positioned (see the top bar below),
+// so the grid can drop both side tracks everywhere, not just on the
+// homepage.
+// `minmax(0, 1fr)` rather than `auto`: an `auto` track has an implicit
+// minimum size equal to the *largest* min-content contribution of anything
+// inside it — on mobile, a single long unbroken string deep in the content
+// (a bare citation URL, for instance) is wider than the phone's viewport,
+// so the whole track (and every full-bleed line/edge measured against it)
+// was forced wider than the screen to fit that one word, silently pushing
+// everything on the right off-screen behind `overflow-x: hidden` and
+// leaving a gap on the left where the true center no longer lined up with
+// the visible viewport. `minmax(0, ...)` removes that implicit minimum so
+// the column actually shrinks to the available width and lets
+// `overflow-wrap: break-word` (already global, see base.scss) do its job.
+.page > #quartz-body {
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-rows: auto auto auto;
+  grid-template-areas:
+    "grid-header"
+    "grid-center"
+    "grid-footer";
+}
+.sidebar.right {
+  display: none;
+}
+
+// Comfortable centered reading column, same width for every page type
+// (content, folder, tag, index) so nothing is ever squeezed to one side.
+.center,
+footer {
+  // Explicit `width: 100%` rather than relying on the grid's default
+  // stretch-to-fill behavior for auto-width items: `.center` sits alone
+  // (or effectively alone — its siblings are `position: fixed`/`display:
+  // none`) in `#quartz-body`'s single-column grid, and stretch alone left
+  // it sized to its own content instead of the ~358px track on narrow
+  // viewports, blowing the whole column past the screen edge and clipping
+  // everything on the right behind `overflow-x: hidden`. An explicit
+  // percentage resolves against the track correctly where implicit stretch
+  // didn't.
+  width: 100%;
+  max-width: #{$pageWidth};
+  // Not `unset` — for `min-width` that resolves to the property's initial
+  // value, which is `auto`, not "no minimum". `auto` on a grid item means
+  // "don't shrink below your content's own min-content width", which is
+  // exactly the bug this is fixing (see the comment on #quartz-body's grid
+  // above): explicit `0` is what actually lets this column shrink to fit a
+  // narrow/mobile viewport instead of being blown wide by e.g. one long
+  // unbroken citation URL somewhere in the article body.
+  min-width: 0;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  box-sizing: border-box;
+}
+
+// Search: icon-only trigger, matching Aaron's site. The actual search
+// modal (.search-container, opened on click) is untouched — only the
+// always-visible trigger button loses its box chrome and label text.
+.search {
+  min-width: 0;
+  max-width: none;
+}
+.search > .search-button {
+  border: none;
+  background: transparent;
+  padding: 0;
+  width: auto;
+  height: 2rem;
+}
+.search > .search-button > p {
+  display: none;
+}
+.search > .search-button svg {
+  margin: 0;
+}
+
+// The whole search component (icon included) is wrapped in the core
+// `.mobile-only` class to keep the icon off desktop, and — on the
+// homepage — `.sidebar.left` is unconditionally hidden too. Both are
+// `display: none` ancestors, which drop the search modal (a `position:
+// fixed` descendant) from rendering entirely regardless of its own
+// positioning — Cmd/Ctrl+K still correctly toggles its "active" class,
+// there's just nowhere for it to appear. Worse, `.search-container`'s
+// own `left/top/width/height` are relative to the *viewport*, but this
+// site's frozen top bar centers `.sidebar.left` (search's real ancestor)
+// via `transform: translateX(-50%)` — and a `transform` on any ancestor
+// makes that ancestor the containing block for fixed descendants, so
+// even fixing the display:none problem alone would leave the modal
+// positioned relative to that narrow, right-aligned toolbar box instead
+// of the screen. The search plugin's own JS (patched in node_modules,
+// see its afterDOMLoaded) solves both by relocating the whole `.search`
+// node to a direct child of `<body>` — outside every hidden/transformed
+// ancestor — for as long as the modal is active, and moving it back on
+// close. Since the icon travels with it, hide the icon specifically
+// while active via a rule that doesn't depend on ancestry (unlike an
+// ancestor-scoped rule, this keeps matching after the relocation moves
+// it under `<body>`) — otherwise it's still in the DOM, just off in
+// whatever position `<body>`'s normal flow puts it, which needs no
+// visible trigger while the full-screen modal is already open.
+.search:has(.search-container.active) .search-button {
+  display: none;
+}
+
+// Frozen top bar, all screen sizes: breadcrumbs at the left edge of the
+// reading column, search icon + dark mode toggle at its right edge (icons
+// only exist in the DOM at all on mobile-width screens — see
+// `display: mobile-only` on those two plugins in quartz.config.yaml — so
+// the right side is simply empty on desktop, still framed by the same
+// bar/divider).
+//
+// Both pieces are independently `position: fixed`, but each is centered
+// with the exact same `max-width` + `left: 50%; transform: translateX(-50%)`
+// box as `.center` above, so breadcrumbs land flush with the reading
+// column's own left edge (not the browser's edge) and the icon cluster
+// lands flush with its right edge — matching the content's horizontal
+// position instead of hugging the viewport corners.
+//
+// Excluded on the homepage (body[data-slug="index"]): breadcrumbs and the
+// search/dark-mode icons don't render there at all (condition: not-index),
+// and the bare bio layout shouldn't gain an empty bar + top padding it
+// doesn't need.
+
+// Decorative full-width bar background, since the two pieces below are
+// independently fixed and don't share one continuous container. Its
+// border-bottom is also the "line separating breadcrumbs from the title
+// below" — the bar sits above content in normal flow, so this border reads
+// as the divider between them.
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3rem;
+  background-color: var(--light);
+  border-bottom: 1px solid var(--lightgray);
+  z-index: 998;
+}
+// Also excluded on 404 (data-slug="404"): it uses the minimal frame, same
+// as the homepage's bare layout — no breadcrumbs, no toolbar, no
+// `.page-header` to carry the compensating `padding-top: 3rem` below — so
+// the bar had nothing to divide and nothing pushing content clear of it,
+// leaving it painted directly over the "404" heading.
+body[data-slug="index"]::before,
+body[data-slug="404"]::before {
+  content: none;
+}
+
+.page > #quartz-body .page-header {
+  padding-top: 3rem;
+}
+body[data-slug="index"] .page > #quartz-body .page-header {
+  padding-top: 0;
+}
+// Desktop only: half the clearance between the frozen bar and the title
+// below it (the mobile/tablet gap above stays at the full 3rem).
+@media all and ($desktop) {
+  .page > #quartz-body .page-header {
+    padding-top: 1.5rem;
+  }
+}
+
+// Breadcrumbs read as a quieter, secondary line above the title.
+.page > #quartz-body .page-header .breadcrumb-container {
+  font-style: italic;
+}
+
+.page > #quartz-body .page-header .breadcrumb-container,
+.page > #quartz-body .sidebar.left {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  right: auto;
+  transform: translateX(-50%);
+  width: 100%;
+  max-width: #{$pageWidth};
+  box-sizing: border-box;
+  z-index: 999;
+  height: 3rem;
+  margin: 0;
+  padding: 0 1.5rem;
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+  // Both bars share this exact box (that's what keeps them each flush with
+  // the reading column's true edges — see the comment above), so they
+  // fully overlap. Without this, whichever renders later in the DOM (the
+  // breadcrumb bar) paints on top and its empty flex space — the area with
+  // no visible content — silently intercepts clicks meant for whatever
+  // sits underneath it in the other bar (the search/dark-mode buttons).
+  // Turning off pointer-events on the shared box and back on for each
+  // bar's own content lets clicks reach whichever element is actually
+  // there, regardless of paint order.
+  pointer-events: none;
+}
+.page > #quartz-body .page-header .breadcrumb-container {
+  justify-content: flex-start;
+}
+.page > #quartz-body .page-header .breadcrumb-container > * {
+  pointer-events: auto;
+}
+.page > #quartz-body .sidebar.left {
+  justify-content: flex-end;
+  gap: 0.75rem;
+}
+.page > #quartz-body .sidebar.left > * {
+  pointer-events: auto;
+}
+body[data-slug="index"] .page > #quartz-body .sidebar.left {
+  display: none;
+}
+
+// Truncate a long breadcrumb trail to a single line with a trailing
+// ellipsis instead of letting it wrap to a second line — the frozen top
+// bar's height above is fixed at 3rem, and a wrapped second line would
+// overflow past its bottom edge, painting over the divider line and the
+// title below. Kept at the inherited 1rem body size rather than shrinking
+// the font to fit two lines.
+//
+// text-overflow: ellipsis needs a normal inline text flow to work with —
+// the plugin's own default CSS makes `.breadcrumb-container` a wrapping
+// flex row (reasserted with `display: flex` again above, alongside
+// `.sidebar.left`) and each `.breadcrumb-element` its own flex box, and
+// ellipsis does not reliably truncate across separate flex item boxes
+// (browsers tend to let each item keep wrapping/overflowing internally
+// instead). Overriding back to block flow here — after the shared rule
+// above, so it actually wins — with each element as inline-flex (keeps its
+// own icon/text centering, but now flows and truncates like inline
+// content) is what gets a clean single "…" cutoff.
+.page > #quartz-body .page-header .breadcrumb-container {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.page > #quartz-body .page-header .breadcrumb-container .breadcrumb-element {
+  display: inline-flex;
+  // Switching the container from flex to block (above) drops the
+  // `align-items: center` that used to vertically center the single line
+  // of breadcrumb text within the frozen bar's fixed 3rem height, leaving
+  // it sitting up near the top edge. `line-height` matching that height,
+  // on the container, is the standard way to vertically center a single
+  // line of block content; `vertical-align: middle` on each inline-flex
+  // crumb aligns it to the middle of that line box rather than its
+  // default baseline.
+  vertical-align: middle;
+}
+.page > #quartz-body .page-header .breadcrumb-container {
+  line-height: 3rem;
+}
+
+// Breadcrumb links get their own resting/hover treatment instead of the
+// site-wide underline-by-default + reverse (dark-box) hover: understated
+// until interacted with, since this is a secondary navigation aid, not
+// body content.
+.page > #quartz-body .page-header .breadcrumb-container a {
+  text-decoration: none;
+  background-color: transparent;
+  border-color: transparent;
+}
+.page > #quartz-body .page-header .breadcrumb-container a:hover {
+  text-decoration: underline;
+  background-color: transparent;
+  border-color: transparent;
+  color: var(--linkGray);
+}
+
+// The toolbar group's Flex wrapper sets `flex-grow` via inline style
+// (per-item, from groupOptions.grow) — an inline style beats any
+// stylesheet rule regardless of layer/specificity except `!important`,
+// so overriding it here requires `!important` to keep the icons hugging
+// the right edge instead of stretching apart.
+.page > #quartz-body .sidebar.left .flex-component {
+  justify-content: flex-end;
+}
+.page > #quartz-body .sidebar.left .flex-component > div {
+  flex: 0 0 auto !important;
+}
+
+// Backlinks live in afterBody (below the content) on content pages instead
+// of a right sidebar. The tag mosaic moved back to a right sidebar (see the
+// "list pages" section below), so this only ever holds backlinks now.
+.page > #quartz-body .page-footer {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.page > #quartz-body .page-footer .backlinks {
+  margin-top: 0.5rem;
+}
+
+// Site footer (links + Quartz version/copyright). It's a direct sibling of
+// `.center` in #quartz-body's grid, not nested inside it, but shares the
+// same width/max-width/padding box (see `.center, footer` above) so its
+// content lines up with the reading column instead of the viewport edge.
+// Hidden on the homepage — the bare bio layout doesn't need it.
+body[data-slug="index"] footer {
+  display: none;
+}
+footer {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem 1.5rem;
+  font-size: 0.8rem;
+}
+// DOM order is the copyright paragraph then the links list — flip the
+// visual order so links read on the left and the version/copyright reads
+// on the right.
+footer p {
+  order: 2;
+  margin: 0;
+}
+footer ul {
+  order: 1;
+  margin-top: 0;
+}
+
+// The frame's own divider between the article body and afterBody content
+// (backlinks / tag mosaic) — a direct child of .center, as opposed to any
+// `---` horizontal rule a note's own markdown might contain nested inside
+// `article` — stretched full-bleed edge to edge, same technique as the top
+// bar's centering above (in reverse: the rule wants to be centered on the
+// viewport rather than the reading column, so no max-width here).
+.page > #quartz-body .center > hr {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+// The frame renders this <hr> unconditionally, even when afterBody ends up
+// empty — true on the homepage, since backlinks/tag-mosaic never render
+// there. Without content below it to separate from, it's just a stray line
+// under the bio text, so hide it there specifically.
+body[data-slug="index"] .page > #quartz-body .center > hr {
+  display: none;
+}
+
+// ============================================================================
+// List pages (folder/tag): list styling + tag mosaic sidebar
+// ============================================================================
+
+// Date column: the site's code/data face, same as the "published" /
+// "modified" dates in the content byline. Sized to match the tag pills
+// (0.7rem) rather than the default 16px paragraph size — at 16px "Jul 20,
+// 2026" doesn't fit the fit-content(8em) column and wraps onto a second
+// line; uppercase for the same all-caps treatment as the tags.
+li.section-li > .section > .meta {
+  font-family: var(--codeFont);
+  font-size: 0.7rem;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+// PageList's own 3-column grid (date / title / tags) gives tags only a
+// 1fr share — plenty for plain comma-separated text, too narrow once
+// tags become bordered pills (a typical 2-tag pair wraps to its own line
+// well before running out of horizontal room). Give tags a guaranteed
+// minimum width instead.
+li.section-li > .section {
+  grid-template-columns: fit-content(8em) 1fr minmax(240px, 340px);
+}
+
+// Tags: same code face, packed as bordered pills instead of a plain
+// comma-less list, "#" prefix dropped (that's specific to this list
+// context — content-meta-en's own front-matter tags keep their "#").
+// Already `display: none` below 600px via folder-page's own bundled CSS.
+li.section-li > .section > .tags {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: 0.4rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+li.section-li > .section > .tags > li {
+  margin: 0;
+}
+li.section-li > .section > .tags a.tag-link {
+  display: inline-block;
+  font-family: var(--codeFont);
+  // Already matches the date column exactly (same family/size/weight/
+  // letter-spacing) — the border + padding around it was adding enough
+  // visual bulk to read as "bigger" even though the text itself isn't.
+  // Tightened both so the pill's footprint sits closer to the date's.
+  font-size: 0.7rem;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  // Matches the divider line between list items (--dark), not the default
+  // faint --lightgray border, so the pill reads with the same weight as
+  // the rest of the list's black/white graphic language.
+  border: 1px solid var(--dark);
+  border-radius: 3px;
+  padding: 0.05rem 0.35rem;
+  text-decoration: none;
+}
+li.section-li > .section > .tags a.tag-link::before {
+  content: none;
+}
+// folder-page's own bundled CSS hides tags below 600px, but that rule
+// lives inside @layer quartz-base — our unlayered `display: flex` above
+// beats it unconditionally regardless of media query, silently
+// reinstating tags at every width. Restore the hide explicitly, at a
+// wider cutoff (roughly half of a standard desktop window) so tags clear
+// out well before the row gets cramped, not just at the mobile edge.
+@media (max-width: 800px) {
+  li.section-li > .section > .tags {
+    display: none;
+  }
+}
+
+// Each list row: a black divider between entries, and a soft gray
+// highlight across the whole row on hover (not just the title/tag links
+// themselves, which keep their own separate hover treatment on top of
+// this). Spacing between rows lives entirely in padding, not margin — a
+// margin-bottom here would sit outside the box's own background, leaving
+// a strip between each divider line and the next row's hover highlight
+// that hover could never actually paint over.
+ul.section-ul > li.section-li {
+  padding: 0.75rem 0.75rem;
+  margin: 0 -0.75rem;
+  border-bottom: 1px solid var(--dark);
+  border-radius: 0;
+  transition: background-color 0.15s ease;
+}
+ul.section-ul > li.section-li:last-child {
+  border-bottom: none;
+}
+ul.section-ul > li.section-li:hover {
+  background-color: var(--lightgray);
+}
+
+// Tag mosaic back on the right, beside the list, with the folder's own
+// description (its markdown body, or frontmatter `description:` if the
+// body's empty — either way editable in Obsidian) and Quartz's own
+// "N items under this folder" notice stacked underneath it. Scoped via
+// :has() to only folder/tag pages (the only place the mosaic renders) so
+// content pages/homepage keep the plain single column from above.
+//
+// The description and item count start out nested deep inside
+// FolderContent's own render output (`.center > .popover-hint`), ahead of
+// the list rather than beside the mosaic. An earlier version tried to
+// pull them out via `display: contents` + named grid areas sharing rows
+// with the list, but CSS Grid's row-sizing algorithm — for an item
+// spanning multiple rows (the list, very tall) alongside shorter
+// single-row items in the same column — distributes the spanning item's
+// height need across those rows, inflating the description/count rows
+// to tens of thousands of pixels (confirmed: neither
+// grid-template-rows: min-content nor align-self: start prevents this).
+// tag-mosaic's own afterDOMLoaded script (see that component) sidesteps
+// the whole problem by actually moving the description/count DOM nodes
+// to be real children of the sidebar, after the mosaic — so the grid
+// only ever sees ONE item in that column, sized by its own content.
+.page > #quartz-body:has(.sidebar.right .tag-mosaic) {
+  grid-template-columns: minmax(0, 1fr) minmax(280px, 380px);
+  grid-template-areas: "topbar topbar" "list side";
+  column-gap: 2.5rem;
+  align-items: start;
+}
+.page > #quartz-body:has(.sidebar.right .tag-mosaic) .page-header {
+  grid-area: topbar;
+}
+.page > #quartz-body:has(.sidebar.right .tag-mosaic) .center {
+  display: contents;
+}
+.page > #quartz-body:has(.sidebar.right .tag-mosaic) .center > .popover-hint {
+  display: contents;
+}
+.page > #quartz-body:has(.sidebar.right .tag-mosaic) .center > .popover-hint > .page-listing {
+  grid-area: list;
+}
+// Hidden in their original spot always (regardless of whether the
+// relocation script has run yet, so there's no flash of misplaced
+// content) — once tag-mosaic's script moves them into .sidebar.right,
+// these selectors simply stop matching (different parent), and the
+// ".sidebar.right > article" / "> p" rules below take over styling them.
+.page > #quartz-body:has(.sidebar.right .tag-mosaic) .center > .popover-hint > article,
+.page > #quartz-body:has(.sidebar.right .tag-mosaic) .center > .popover-hint > .page-listing > p {
+  display: none;
+}
+// FolderContent's afterBody slot (.page-footer) and the <hr> above it are
+// always empty here now that the mosaic renders in the right sidebar
+// instead — nothing left to separate from.
+.page > #quartz-body:has(.sidebar.right .tag-mosaic) .center > hr,
+.page > #quartz-body:has(.sidebar.right .tag-mosaic) .center > .page-footer {
+  display: none;
+}
+.page > #quartz-body:has(.sidebar.right .tag-mosaic) .sidebar.right {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  position: static;
+  height: auto;
+  padding: 0;
+  margin: 0;
+  grid-area: side;
+}
+.page > #quartz-body:has(.sidebar.right .tag-mosaic) .sidebar.right > article {
+  display: block;
+  margin: 0;
+}
+.page > #quartz-body:has(.sidebar.right .tag-mosaic) .sidebar.right > article .markdown-preview-view {
+  color: var(--darkgray);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+.page > #quartz-body:has(.sidebar.right .tag-mosaic) .sidebar.right > p {
+  display: block;
+  margin: 0;
+  color: var(--gray);
+  font-size: 0.85rem;
+}
+// Widen the frozen top bar to match this wider two-column layout instead
+// of the standard reading-column width, so breadcrumbs/icons stay flush
+// with the list+mosaic edges rather than looking narrow against them.
+.page > #quartz-body:has(.sidebar.right .tag-mosaic) .page-header .breadcrumb-container,
+.page > #quartz-body:has(.sidebar.right .tag-mosaic) .sidebar.left {
+  // Matches .page's own max-width (desktop breakpoint + 300px, see
+  // base.scss) rather than the standard $pageWidth reading column.
+  max-width: 1500px;
+}
+
+// Mobile: the mosaic itself disappears (per its own ask); the
+// description/item count stay, now stacked after the list instead of
+// beside it, since they're independently useful without the mosaic.
+@media all and ($mobile) {
+  .page > #quartz-body:has(.sidebar.right .tag-mosaic) {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas: "topbar" "list" "side";
+  }
+  .page > #quartz-body:has(.sidebar.right .tag-mosaic) .sidebar.right .tag-mosaic {
+    display: none;
+  }
+}

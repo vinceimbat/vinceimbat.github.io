@@ -82,24 +82,27 @@ strong {
 }
 
 a {
-  font-weight: $semiBoldWeight;
-  text-decoration: none;
-  transition: color 0.2s ease;
-  color: var(--secondary);
-
-  &:hover {
-    color: var(--tertiary);
-  }
+  font-weight: $normalWeight;
+  text-decoration: underline;
+  text-decoration-color: var(--linkGray);
+  text-underline-offset: 2px;
+  color: var(--linkGray);
+  border: 1px solid transparent;
+  border-radius: 4px;
+  padding: 0 0.15rem;
+  margin: 0 -0.15rem;
+  transition:
+    color 0.15s ease,
+    background-color 0.15s ease,
+    border-color 0.15s ease;
 
   &.internal {
-    text-decoration: none;
-    background-color: var(--highlight);
-    padding: 0 0.1rem;
-    border-radius: 5px;
+    text-decoration: underline;
+    background-color: transparent;
     line-height: 1.4rem;
 
     &.broken {
-      color: var(--secondary);
+      color: var(--linkGray);
       opacity: 0.5;
       transition: opacity 0.2s ease;
       &:hover {
@@ -109,14 +112,33 @@ a {
 
     &:has(> img) {
       background-color: transparent;
-      border-radius: 0;
+      border-color: transparent;
       padding: 0;
+      margin: 0;
+      text-decoration: none;
     }
     &.tag-link {
       &::before {
         content: "#";
       }
     }
+  }
+
+  // Declared after &.internal (and with matching a.internal:hover specificity)
+  // so the hover box wins even for wikilinks, which are the majority of links
+  // on this site — see `&.internal { background-color: transparent }` above.
+  &:hover,
+  &.internal:hover {
+    color: var(--light);
+    background-color: var(--dark);
+    border-color: var(--dark);
+    text-decoration: none;
+  }
+
+  &:has(> img):hover {
+    color: inherit;
+    background-color: transparent;
+    border-color: transparent;
   }
 
   &.external .external-icon {

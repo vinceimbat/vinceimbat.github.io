@@ -1,0 +1,29 @@
+{
+  "name": "content-meta-en",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Tags + published/modified/duration byline, in English, styled after aarnphm.xyz",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js",
+    "./components": "./components/index.js"
+  },
+  "quartz": {
+    "name": "content-meta-en",
+    "displayName": "Content Meta (English)",
+    "description": "Tags + published/modified/duration byline grid, in English",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "ContentMetaEn": {
+        "displayName": "Content Meta (English)",
+        "defaultPosition": "beforeBody",
+        "defaultPriority": 20
+      }
+    }
+  }
+}

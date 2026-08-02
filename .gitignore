@@ -11,3 +11,22 @@ private/
 replit.nix
 .quartz/
 quartz/cli/tui/dist/
+
+# Private vault folders (mirrors quartz.config.yaml's ignorePatterns, but
+# that only controls what Quartz builds — git has no idea about it, so
+# these also need to be excluded here or they get committed as real files
+# whenever something resolves the `content` symlink and stages its contents.
+content/00 inbox/
+content/01 daily notes/
+content/02 projects/
+content/03 areas/
+content/04 notes/
+content/05 essays/
+content/06 newsletters/
+content/literature source/
+content/readwise/
+content/private/
+content/templates/
+content/obsidian/templates/
+# .obsidian itself is already covered by the bare `.obsidian` pattern above
+# (unanchored, so it matches at any depth, including content/.obsidian).

@@ -1,0 +1,29 @@
+{
+  "name": "tag-mosaic",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Automatic rectangular tile mosaic of tags with counts, replacing the graph on list pages",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js",
+    "./components": "./components/index.js"
+  },
+  "quartz": {
+    "name": "tag-mosaic",
+    "displayName": "Tag Mosaic",
+    "description": "CSS-grid mosaic of tag tiles with counts, scoped to the current folder",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "TagMosaic": {
+        "displayName": "Tag Mosaic",
+        "defaultPosition": "right",
+        "defaultPriority": 10
+      }
+    }
+  }
+}

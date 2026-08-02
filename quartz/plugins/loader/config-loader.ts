@@ -72,6 +72,17 @@ function extractPluginName(source: PluginSource): string {
     const match = url.match(/\/([^/]+?)(?:\.git)?(?:#|$)/)
     return match?.[1] ?? source
   }
+  // Plain npm package specifiers, including scoped ones like
+  // "@quartz-community/footer" — none of the branches above match these, so
+  // without this the full scoped string (e.g. "@quartz-community/footer")
+  // was returned verbatim instead of the bare plugin name ("footer"),
+  // breaking any `=== "<bare-name>"` comparison against it (notably the
+  // singular footer-component lookup below, and byPageType `exclude` lists
+  // for any non-local plugin).
+  if (source.includes("/")) {
+    const parts = source.split("/")
+    return parts[parts.length - 1]
+  }
   return source
 }
 

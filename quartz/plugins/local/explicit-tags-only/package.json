@@ -1,0 +1,21 @@
+{
+  "name": "explicit-tags-only",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Snapshots frontmatter's explicitly-declared tags before obsidian-flavored-markdown merges in body-mentioned #hashtags",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "quartz": {
+    "name": "explicit-tags-only",
+    "displayName": "Explicit Tags Only",
+    "description": "Preserves frontmatter's explicitly-declared tags separately from body-derived #hashtags",
+    "category": "transformer",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "defaultOrder": 6,
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}

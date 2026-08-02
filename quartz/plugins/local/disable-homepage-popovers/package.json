@@ -1,0 +1,21 @@
+{
+  "name": "disable-homepage-popovers",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Disables hover-preview popovers for internal links on the homepage only",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "quartz": {
+    "name": "disable-homepage-popovers",
+    "displayName": "Disable Homepage Popovers",
+    "description": "Opts every internal link on the homepage out of the hover-preview popover, leaving popovers enabled everywhere else",
+    "category": "transformer",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "defaultOrder": 95,
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}
