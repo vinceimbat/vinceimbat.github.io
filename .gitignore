@@ -30,3 +30,7 @@ content/templates/
 content/obsidian/templates/
 # .obsidian itself is already covered by the bare `.obsidian` pattern above
 # (unanchored, so it matches at any depth, including content/.obsidian).
+# .pandoc: tool config/cache, not content — also happens to contain a full
+# export of the user's personal Zotero library (zotero-library-1.json),
+# found during a pre-commit audit, never listed in ignorePatterns.
+.pandoc

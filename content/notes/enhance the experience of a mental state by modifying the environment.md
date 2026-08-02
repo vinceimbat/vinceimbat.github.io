@@ -1,0 +1,30 @@
+---
+aliases:
+- Enhance the experience of a mental state by modifying the environment
+created: 2024-07-24 18:47:35+08:00
+dg-home: null
+dg-publish: true
+draft: false
+modified: 2025-12-12 21:27:27+08:00
+publish: true
+tags:
+- species/thought
+- status/seedling
+title: Enhance the experience of a mental state by modifying the environment
+---
+
+Modifying one's environment is one of some [[actions to take to experience an emotion intentionally]]. In my case, it could involve modifying my immediate environment as well as the bigger environment where I am located (geographical and sociopolitical location). People are part of that environment, so influencing them to change their behavior in a way that enhances my personal experience of a [[mental state]] like [[ginhawa]] is part of this process.
+
+[[people often think modifying their environment is their ultimate purpose|People often think modifying their environment is their ultimate purpose]] But the truth is that [[what we ultimately want is to be in a particular mental state]]. Therefore, even if [[a purpose is not always a core desired mental state]], [[align purpose with a core desired mental state]].
+
+While modifying one’s environment is only secondary to experiencing a core desired mental state directly, it is nevertheless still important, as context has a profound effect on our mental states. In my case, pursuing Ginhawa means embracing a goal to help create a world filled with Ginhawa.
+
+Other ways of modifying one’s environment to experience or enhance a mental state are:
+
+- Managing information influx and management
+- Life management
+- Curating physical space
+
+# To do
+
+- Too long for a permanent note

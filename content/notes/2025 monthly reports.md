@@ -1,0 +1,28 @@
+---
+aliases: null
+created: 2025-02-02
+dg-home: null
+dg-publish: true
+draft: false
+modified: 2026-01-02 15:11:57+08:00
+publish: true
+tags:
+- species/log
+- status/evergreen
+title: 2025 monthly reports
+---
+
+Here are my [[monthly reports|monthly reports]] for 2025.
+
+- [[2025-01 monthly report]]
+- [[2025-02 monthly report]]
+- [[2025-03 monthly report]]
+- [[2025-04 monthly report]]
+- [[2025-05 monthly report]]
+- [[2025-06 monthly report]]
+- [[2025-07 monthly report]]
+- [[2025-08 monthly report]]
+- [[2025-09 monthly report]]
+- [[2025-10 monthly report]]
+- [[2025-11 monthly report]]
+- [[2025-12 monthly report]]

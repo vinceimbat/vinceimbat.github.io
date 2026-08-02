@@ -1,0 +1,12 @@
+---
+title: Umán
+created: 2022-02-02
+modified: 2026-08-01
+aliases:
+draft: false
+dg-home: false
+dg-publish: false
+publish: true
+---
+
+_**Umán**_ is a Pangasinan word that means to change, repair, or repeat. I started it in 2022 to keep track of the monthly progress of my projects and studies but it later became this experimental weaving of the creative artifacts I produce from my daily studies, readings, journaling, and walks.

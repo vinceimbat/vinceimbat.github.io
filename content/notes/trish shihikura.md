@@ -1,0 +1,16 @@
+---
+aliases:
+- Trish Shihikura
+created: 2026-07-02 10:32:53+08:00
+dg-home: null
+dg-publish: true
+draft: false
+modified: 2026-07-02 10:37:04+08:00
+publish: true
+tags:
+- species/thought
+- status/seedling
+title: Trish Shihikura
+---
+
+In Trish's poetry, images change fast. Collage. But one isn't lost in them. There is always a rope back to a particular narrative. I was challenged by her voice and style because I fell like I find affinity with her project and vision and yet I do not yet trust my voice as she does hers.

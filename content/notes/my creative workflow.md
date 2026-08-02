@@ -1,0 +1,58 @@
+---
+aliases:
+- My-workflow
+- thoughts/my-workflow
+- My creative workflow
+created: 2024-10-23 22:10:11+08:00
+dg-home: null
+dg-publish: true
+draft: null
+modified: 2025-04-11 18:49:19+08:00
+publish: true
+tags:
+- species/thought
+- status/evergreen
+title: My creative workflow
+---
+
+My ultimate goal with my [[writing]], [[photography]], and [[notes/walking]] practices is to **create beautiful books that people could return to again and again for spiritual nourishment**. To arrive at books or book-shaped works, I follow the workflow outlined below.
+
+# Daily
+
+Every day, I strive to follow [[my daily routine]]. My mornings are spent primarily for contemplation, thinking, writing, and reading. My goal is to use mornings to connect and listen to myself through writing and to produce good work. The amount of focus and concentration that I achieve in a morning session determines whether I succeeded in that session.
+
+These morning sessions are a balance of lyrical, creative, beautiful writing and deep study of [[my jiyu shukyo|my jiyū shūkyō]]. The writing and studying feeds on each other. To understand my specific processes, see [[my journaling process]] and [[my studying process]].
+
+I don't put too much structure in my afternoons and I allow myself to take a rest when needed. Afternoons are when I do tasks that require less focused attention. These include admin work but also, more importantly, nurturing relationships with [[my audience and community]].
+
+To complement heavily intellectual mornings and afternoons, I take a walk in the evenings. Most of the time, these walks are meant to rest my mind. But I allow them to take their own shape based on what I need on that particular walk ([[walking accomplishes multiple goals]]). Sometimes, these evening walks generate [[notes/seeds]] that I could then work on later.
+
+# Weekly
+
+Every Monday afternoon, as part of [[my weekly review routine]], I prepare a [[menu]] of tasks and priorities that give me some focus on the work I ought to do within the week while retaining optionality and expansiveness. Meanwhile, every Wednesday, I go on a walk and take photographs.
+
+# Monthly
+
+Every fourth day of the month, I publish a newsletter article using [[notes/my newsletter strategy]].
+
+# Yearly
+
+At the beginning of each year, I perform [[my annual review routine]], where I set new creative goals for the coming year. I then write and publish an [[annual review]] article on every first week of January.
+
+# Project-based or as Needed
+
+## Fieldworks
+
+I go on regular fieldworks. These are multi-day walks where I take photographs and write essays. During such fieldworks, I would often produce a daily pop-up newsletter. Sometimes, I also organize walking activities with others, which are intentional [[jiyu shukyo|jiyū shūkyō]] practices.
+
+## Publications
+
+Sometimes, I would work on a major essay or a literary piece. When that piece is ready, I share it to people via newsletter and social media. I let these emerge organically and don't force myself to produce them on a regular basis.
+
+Sometimes, I would work on pieces to be published elsewhere, knowing that my priority lies in publishing in my own platform and building that platform.
+
+The penultimate goal is to bring all [[my creative artifacts]] together into books or zines, where they could adopt some semblance of finality.
+
+## Contests and Workshops
+
+Below the hierarchy of activities in my workflow are contests and workshops. Here, I follow [[jesa suganob|Jesa Suganob's]] approach: create the piece first, being mindful of [[thoughts on my poetics]] and advocacies, then sending it to contests and workshops later. In a way, I use contests and workshops to force me to do the work and to find a bigger platform for my advocacies.

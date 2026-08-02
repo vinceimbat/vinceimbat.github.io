@@ -1,0 +1,24 @@
+---
+aliases:
+- IPB road (sa Filipino)
+created: 2024-09-11 21:55:51+08:00
+dg-home: null
+dg-publish: true
+draft: false
+location:
+- 14.166480839951156
+- 121.25481696682982
+modified: 2025-11-16 10:15:07+08:00
+publish: true
+tags:
+- species/translation
+- language/filipino
+- status/seedling
+- buhian
+title: IPB road (sa Filipino)
+---
+
+Bawat gabi bago mag alas siyete magkukumpulan ang mga bata, maliliit at malalaki, sa gilid ng riles, nakatsinelas man o hindi, nagtatawanan, nagkakantsawan. Habang nagluluto ng hapunan ang mga nanay at nag-iinat ng paa ang mga tatay, magyayakapan silang nakangiti, nakatanaw sa kanluran. Sinusundan ng mga mata nila ang makikinang na ilaw ng umuungol na tren hanggang makarating ito sa tapat nila na siya namang magpapanginig sa kanila sa tuwa—sa walang maliw na tuwa.
+
+---
+Salin mula sa Pangasinan: [[ipb road|IPB road]]

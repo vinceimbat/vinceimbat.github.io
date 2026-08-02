@@ -1,0 +1,31 @@
+---
+aliases:
+- The Poet in the World by Denise Levertov
+created: 2025-10-24 09:10:34+08:00
+dg-home: null
+dg-publish: true
+draft: false
+modified: 2025-10-24 09:10:51+08:00
+publish: true
+tags:
+- species/literature
+- status/seedling
+title: The Poet in the World by Denise Levertov
+---
+
+# Citation
+
+Levertov, Denise. _The Poet in the World_. W W Norton & Co Inc, 1973.
+
+# Quotes
+
+- species:
+- themes:
+
+# Collations
+
+
+# Literature notes
+
+
+# Prompts
