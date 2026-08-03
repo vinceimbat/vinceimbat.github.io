@@ -725,6 +725,63 @@ export async function handleRestore(argv) {
 }
 
 /**
+ * Reads a single top-level frontmatter field's raw value without a full
+ * YAML parse -- draft/publish are always plain booleans in this vault, so
+ * a targeted regex avoids pulling in a YAML dependency just for this.
+ * @param {string} content
+ * @param {string} field
+ * @returns {true | false | undefined}
+ */
+function readFrontmatterBoolean(content, field) {
+  const fm = content.match(/^---\r?\n([\s\S]*?)\r?\n---/)
+  if (!fm) return undefined
+  const line = fm[1].match(new RegExp(`^${field}:\\s*(.*)$`, "m"))
+  if (!line) return undefined
+  const value = line[1].trim().replace(/^["']|["']$/g, "")
+  if (value === "true") return true
+  if (value === "false") return false
+  return undefined
+}
+
+/**
+ * Removes markdown files marked `draft: true` with no `publish: true` from
+ * a dereferenced content copy before it gets staged -- these are working
+ * drafts, not site content, and shouldn't end up in the (often public)
+ * git history just because `quartz sync` walked past them. Content that's
+ * actually excluded from the built site some other way (folders in
+ * ignorePatterns/.gitignore, or draft files without this exact
+ * combination) is untouched; this only targets the specific
+ * draft-without-publish case.
+ * @param {string} contentFolder
+ */
+async function removeUnpublishedDrafts(contentFolder) {
+  const mdFiles = await globby([`${contentFolder.replace(/\\/g, "/")}/**/*.md`])
+  let removed = 0
+  for (const filePath of mdFiles) {
+    let content
+    try {
+      content = await fs.promises.readFile(filePath, "utf-8")
+    } catch {
+      continue
+    }
+    const draft = readFrontmatterBoolean(content, "draft")
+    const publish = readFrontmatterBoolean(content, "publish")
+    if (draft === true && publish !== true) {
+      await fs.promises.rm(filePath)
+      removed++
+    }
+  }
+  if (removed > 0) {
+    console.log(
+      styleText(
+        "yellow",
+        `Excluded ${removed} draft file(s) (draft: true, publish not true) from this sync`,
+      ),
+    )
+  }
+}
+
+/**
  * Handles `npx quartz sync`
  * @param {*} argv arguments for `sync`
  */
@@ -748,6 +805,8 @@ export async function handleSync(argv) {
         preserveTimestamps: true,
       })
     }
+
+    await removeUnpublishedDrafts(contentFolder)
 
     const currentTimestamp = new Date().toLocaleString("en-US", {
       dateStyle: "medium",
