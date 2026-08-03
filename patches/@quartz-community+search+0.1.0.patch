@@ -1,0 +1,55 @@
+diff --git a/node_modules/@quartz-community/search/dist/components/index.js b/node_modules/@quartz-community/search/dist/components/index.js
+index d74c36a..abeb220 100644
+--- a/node_modules/@quartz-community/search/dist/components/index.js
++++ b/node_modules/@quartz-community/search/dist/components/index.js
+@@ -539,7 +539,49 @@ var Search_default = ((userOpts) => {
+       ] }) })
+     ] });
+   };
+-  Search.afterDOMLoaded = search_inline_default;
++  Search.afterDOMLoaded = search_inline_default + `
++;(function () {
++  // .search-container is fixed/full-viewport by its own CSS (left:0; top:0;
++  // width:100vw; height:100vh), which should make it independent of
++  // wherever it sits in the DOM — except that CSS "transform" on ANY
++  // ancestor makes that ancestor the containing block for fixed/absolute
++  // descendants. .search normally lives inside the site's frozen top-bar
++  // icon cluster, which is centered via "transform: translateX(-50%)" —
++  // so the modal was actually being positioned relative to that narrow,
++  // right-aligned toolbar box instead of the viewport, not the screen.
++  // Moving the whole .search node (not just .search-container, to keep
++  // the plugin's own ".search > .search-container" selectors matching)
++  // out to a direct child of <body> while open sidesteps this, since
++  // <body> itself never has a transform. Restored to its original spot
++  // when closed so the icon still lays out normally inside the toolbar
++  // on the pages/breakpoints where it's visible.
++  function setupSearchRelocation() {
++    var searchEl = document.querySelector(".search")
++    if (!searchEl || searchEl.__relocationSetup) return
++    var container = searchEl.querySelector(".search-container")
++    if (!container) return
++    searchEl.__relocationSetup = true
++    var originalParent = searchEl.parentElement
++    var originalNextSibling = searchEl.nextSibling
++    var observer = new MutationObserver(function () {
++      if (container.classList.contains("active")) {
++        if (searchEl.parentElement !== document.body) {
++          document.body.appendChild(searchEl)
++        }
++      } else if (
++        searchEl.parentElement === document.body &&
++        originalParent &&
++        originalParent.isConnected
++      ) {
++        originalParent.insertBefore(searchEl, originalNextSibling)
++      }
++    })
++    observer.observe(container, { attributes: true, attributeFilter: ["class"] })
++  }
++  document.addEventListener("nav", setupSearchRelocation)
++  setupSearchRelocation()
++})();
++`;
+   Search.css = search_default;
+   return Search;
+ });

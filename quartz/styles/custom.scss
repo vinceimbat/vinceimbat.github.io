@@ -360,32 +360,42 @@ body[data-slug="index"] .page > #quartz-body .sidebar.left {
 // the plugin's own default CSS makes `.breadcrumb-container` a wrapping
 // flex row (reasserted with `display: flex` again above, alongside
 // `.sidebar.left`) and each `.breadcrumb-element` its own flex box, and
-// ellipsis does not reliably truncate across separate flex item boxes
-// (browsers tend to let each item keep wrapping/overflowing internally
-// instead). Overriding back to block flow here — after the shared rule
-// above, so it actually wins — with each element as inline-flex (keeps its
-// own icon/text centering, but now flows and truncates like inline
-// content) is what gets a clean single "…" cutoff.
+// ellipsis does not reliably truncate across separate flex item boxes.
+// Block flow on the container (after the shared rule above, so it wins)
+// with each `.breadcrumb-element` — and the `<p>` separator inside it,
+// which defaults to block-level on its own regardless of its parent — set
+// to plain `inline` is what actually lets this behave like one truncatable
+// line instead of atomic boxes the browser can't cleanly cut mid-element.
+//
+// Two more pieces were needed beyond that, both found by testing an
+// isolated `<a>`/`<p>` reproduction rather than assuming: (1) `a, p` in
+// base.scss carry a site-wide `text-wrap: pretty` — a *direct* rule on
+// each element, which wins over the merely *inherited* `white-space:
+// nowrap` from this container regardless of specificity, so every crumb
+// needs its own explicit `white-space: nowrap` to actually stop wrapping.
+// (2) the breadcrumb bar and the search/dark-mode icon cluster
+// (`.sidebar.left`) are two independent elements sharing the exact same
+// fixed box (see the comment above) — ellipsis only keeps text inside the
+// breadcrumb's *own* edge, which is the same pixel as the icons, so
+// without reserved space the truncated text lands directly under/against
+// them. `padding-right` carves out clearance sized to that icon cluster.
 .page > #quartz-body .page-header .breadcrumb-container {
   display: block;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  line-height: 3rem;
+  padding-right: 5.5rem;
 }
 .page > #quartz-body .page-header .breadcrumb-container .breadcrumb-element {
-  display: inline-flex;
-  // Switching the container from flex to block (above) drops the
-  // `align-items: center` that used to vertically center the single line
-  // of breadcrumb text within the frozen bar's fixed 3rem height, leaving
-  // it sitting up near the top edge. `line-height` matching that height,
-  // on the container, is the standard way to vertically center a single
-  // line of block content; `vertical-align: middle` on each inline-flex
-  // crumb aligns it to the middle of that line box rather than its
-  // default baseline.
-  vertical-align: middle;
+  display: inline;
 }
-.page > #quartz-body .page-header .breadcrumb-container {
-  line-height: 3rem;
+.page > #quartz-body .page-header .breadcrumb-container .breadcrumb-element p {
+  display: inline;
+}
+.page > #quartz-body .page-header .breadcrumb-container a,
+.page > #quartz-body .page-header .breadcrumb-container p {
+  white-space: nowrap;
 }
 
 // Breadcrumb links get their own resting/hover treatment instead of the
@@ -396,6 +406,9 @@ body[data-slug="index"] .page > #quartz-body .sidebar.left {
   text-decoration: none;
   background-color: transparent;
   border-color: transparent;
+  padding: 0;
+  margin: 0;
+  border: none;
 }
 .page > #quartz-body .page-header .breadcrumb-container a:hover {
   text-decoration: underline;
@@ -550,6 +563,20 @@ li.section-li > .section > .tags a.tag-link::before {
 @media (max-width: 800px) {
   li.section-li > .section > .tags {
     display: none;
+  }
+  // The date column and tags column are both fixed/minimum-width grid
+  // tracks (see `.section`'s `grid-template-columns` above) — setting
+  // `display: none` on the tags *item* doesn't remove its *track*, so
+  // even with tags hidden the grid still reserved a 240px+ minimum
+  // column for nothing, squeezing the title's `1fr` share down to almost
+  // nothing on a phone-width screen. Hiding the date too and collapsing
+  // to a single `1fr` column lets the title actually use the row's full
+  // width, matching the width of the divider lines above/below it.
+  li.section-li > .section > .meta {
+    display: none;
+  }
+  li.section-li > .section {
+    grid-template-columns: 1fr;
   }
 }
 
