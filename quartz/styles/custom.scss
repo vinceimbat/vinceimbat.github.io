@@ -392,6 +392,13 @@ body[data-slug="index"] .page > #quartz-body .sidebar.left {
 }
 .page > #quartz-body .page-header .breadcrumb-container .breadcrumb-element p {
   display: inline;
+  // The plugin's own default CSS adds a 0.5rem margin-left on top of the
+  // separator's own text content (" / ", already a single space on each
+  // side) — that extra margin only pushed the *left* side out, making the
+  // gap before "/" visibly bigger than the gap after it. Zeroing it out
+  // leaves the string's own matching leading/trailing space as the only
+  // spacing, which is equal by construction.
+  margin-left: 0;
 }
 .page > #quartz-body .page-header .breadcrumb-container a,
 .page > #quartz-body .page-header .breadcrumb-container p {

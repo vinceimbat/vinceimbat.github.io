@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: "Vince Honrado Imbat"
-  pageTitleSuffix: "Vince Honrado Imbat"
+  pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
