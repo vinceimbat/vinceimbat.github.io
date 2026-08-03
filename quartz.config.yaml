@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: vinceimbat.github.io
+  baseUrl: vinceimbat.com
   ignorePatterns:
     - private
     - templates
