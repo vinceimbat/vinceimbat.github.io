@@ -5,7 +5,8 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: umami
+    websiteId: "5fef3b82-741b-4632-88a1-89d33fa746e8"
   locale: en-US
   baseUrl: vinceimbat.com
   ignorePatterns:
