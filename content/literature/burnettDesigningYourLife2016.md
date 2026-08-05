@@ -1163,7 +1163,7 @@ Why is aesthetics the ultimate design problem? :: It involves human emotion.
 <!--SR:!2028-05-19,759,330-->
 
 Per Burnett and Evans, when emotions are involved, what kind of thinking is the best problem-solving tool? :: Design thinking
-<!--SR:!2026-08-04,262,330-->
+<!--SR:!2028-12-16,865,330-->
 
 Two main competing priorities when designing a life. :: Outcome and process
 <!--SR:!2026-10-19,285,290-->

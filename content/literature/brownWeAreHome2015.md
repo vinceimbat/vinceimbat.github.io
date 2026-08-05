@@ -78,7 +78,7 @@ Brown calls a personally useful portion of Wienpahl's An Unorthodox Lecture =="T
 <!--SR:!2027-01-28,280,330-->
 
 Per Brown, what was Tolstoy's understanding of what it means to follow Jesus? :: To become a person without a position living reality directly.
-<!--SR:!2026-08-04,10,210-->
+<!--SR:!2026-08-09,5,190-->
 
 Recount the Buddha's the "Parable of the Raft" briefly. :: A man is trapped on one side of a fast-flowing river. He builds a raft that can take him across the river. For the man to carry the raft on his back is insensible. Instead, the man leaves it behind. The Buddha concluded that his teachings are like the raft that one could use to cross but not to seize hold of.
 <!--SR:!2027-02-07,288,330-->

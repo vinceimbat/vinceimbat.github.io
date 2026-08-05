@@ -114,7 +114,7 @@ Per Jaroslav Pelikan, the three fathers of religious writing were:
 3. John Henry Newman
 ?
 Boethius
-<!--SR:!2026-08-03,189,310-->
+<!--SR:!2028-10-22,811,330-->
 
 Per Jaroslav Pelikan, the three fathers of religious writing were:
 1. St. Augustine

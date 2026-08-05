@@ -348,7 +348,7 @@ surly :: adj. irritable
 # T
 
 taut (hint: sounds lik "s _ _ _ _") :: adj. concise and controlled
-<!--SR:!2026-08-04,119,173-->
+<!--SR:!2027-02-26,206,173-->
 
 thrall (hint: Naz Reid) :: n. the state of submission
 <!--SR:!2027-06-18,512,293-->

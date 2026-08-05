@@ -115,7 +115,7 @@ What is a crop sensor in photography? :: A camera sensor smaller than full frame
 <!--SR:!2027-03-12,297,270-->
 
 Three most popular categories of camera sensors. :: full frame, APS-C, Micro 4/3
-<!--SR:!2026-08-03,95,230-->
+<!--SR:!2026-09-20,48,210-->
 
 Nikon calls full frame ==FX==.
 <!--SR:!2027-06-22,539,310-->

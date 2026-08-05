@@ -39,7 +39,7 @@ Author of the book *Jesus Through the Centuries*. :: Jaroslav Pelikan
 <!--SR:!2026-12-24,148,250-->
 
 According to the book *Jesus Through the Centuries* by Jaroslav Pelikan, how many Jesuses are there in history? :: 18
-<!--SR:!2026-08-03,128,310-->
+<!--SR:!2026-10-04,62,290-->
 
 Seven stops in Shin'ichirō Imaoka's religious history:
 1.

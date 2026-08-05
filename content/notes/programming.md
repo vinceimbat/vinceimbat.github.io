@@ -29,4 +29,4 @@ Upgrade node using brew :: brew upgrade node
 <!--SR:!2026-08-21,60,229-->
 
 Upgrade npm using nvm :: nvm install-latest-npm
-<!--SR:!2026-08-04,27,170-->
+<!--SR:!2026-10-10,67,190-->

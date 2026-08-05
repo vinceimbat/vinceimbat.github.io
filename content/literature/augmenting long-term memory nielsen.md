@@ -52,7 +52,7 @@ Describe syntopic reading. :: Deep reading of major sources interspersed with sh
 <!--SR:!2026-10-20,249,210-->
 
 To find the key reading materials of a field ... :: Shallow read many materials.
-<!--SR:!2026-08-04,22,170-->
+<!--SR:!2026-09-28,55,190-->
 
 How can syntopic reading lead to creative work? :: By revealing gaps and possibilities I could pursue.
 <!--SR:!2029-01-24,1000,270-->

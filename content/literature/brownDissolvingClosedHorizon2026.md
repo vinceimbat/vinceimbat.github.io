@@ -33,7 +33,7 @@ Brown, Andrew James. “Dissolving the Closed Horizon: A Free-Religious Pentecos
 # Prompts
 
 In established Christianity's Alpha-Way-Omega, how does one get from Alpha to Omega? :: Following strict Way by the Church.
-<!--SR:!2026-08-03,25,250-->
+<!--SR:!2026-10-30,88,270-->
 
 In established Christianity's Alpha-Way-Omega, which parts are exactly the same? :: Alpha and Omega
 <!--SR:!2026-08-22,66,310-->

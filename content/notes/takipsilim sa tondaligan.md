@@ -58,7 +58,7 @@ Per Andrew James Brown, using the metaphor of the fence in "The Supple Deer," wh
 <!--SR:!2028-02-26,588,330-->
 
 Per Andrew James Brown, jiyū shūkyō's task is to ensure that the cords that binds members of a free-religious community are what? :: creative and liberative
-<!--SR:!2026-08-04,56,270-->
+<!--SR:!2026-08-31,27,250-->
 
 Per Andrew James Brown, in Hirshfield's "The Supple Deer," what three characteristics of the fence make it an apt representation of jiyū shūkyō? :: minimalist, strong, and flexible
 <!--SR:!2026-08-14,35,250-->

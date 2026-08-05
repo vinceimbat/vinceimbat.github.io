@@ -50,7 +50,7 @@ Title of the first sermon Shakyamuni delivered to an audience. :: “Turning of 
 <!--SR:!2026-12-28,291,230-->
 
 Per Imaoka, what made it possible for the abstract Dharma that Shakyamuni received to be embodied in concrete forms? :: Shakyamuni finding his audience.
-<!--SR:!2026-08-03,53,190-->
+<!--SR:!2026-11-13,102,190-->
 
 Where was Shakyamuni's first sermon delivered? :: Deer Park
 <!--SR:!2026-10-06,118,310-->
@@ -59,7 +59,7 @@ Per Imaoka, after delivering his first sermon Shakyamuni was able to form ==the 
 <!--SR:!2028-01-08,610,310-->
 
 Three treasures of Buddhism. :: the Buddha, the Dharma, and the Sangha
-<!--SR:!2026-08-04,284,330-->
+<!--SR:!2030-02-16,1292,350-->
 
 Per Imaoka, how is the Dharma dependent on the Buddha? :: It needed a living person to be significant.
 <!--SR:!2026-12-19,248,290-->

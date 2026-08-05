@@ -113,7 +113,7 @@ Per Haneda, what was the basic posture that Kiyozawa took in examining Buddhism?
 <!--SR:!2027-05-22,386,230-->
 
 According to Kiyozawa, what is the primary lesson of Buddhism? :: To be liberated.
-<!--SR:!2026-08-03,21,190-->
+<!--SR:!2026-08-14,11,170-->
 
 According to Kiyozawa from what should a Buddhist be liberated from? :: Self
 <!--SR:!2029-04-19,1078,350-->
@@ -192,7 +192,7 @@ Per Haneda, three categories of terms Kiyozawa uses to refer to the infinite and
 1. Buddhist terms
 2. Personified symbols
 3. non-Buddhist concepts
-<!--SR:!2026-08-04,192,252-->
+<!--SR:!2026-11-09,97,232-->
 
 Buddhist terms Kiyozawa used to refer to the infinite and supreme universal truth.
 - ?

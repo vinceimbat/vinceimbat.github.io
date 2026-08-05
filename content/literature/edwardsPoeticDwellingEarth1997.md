@@ -398,7 +398,7 @@ Four essays of Heidegger developing poetic dwelling on earth as a mortal.
 2. "The Thing"
 3. "'... Poetically Man Dwells...'"
 4. "The Question Concerning Technology"
-<!--SR:!2026-08-04,34,206-->
+<!--SR:!2026-10-10,67,206-->
 
 In Heidegger's *Being and Time*, things are not understood as the Cartesian res but as ==Greek pragmata==.
 <!--SR:!2027-05-07,296,266-->
@@ -428,7 +428,7 @@ Differentiate existence and Being. :: Existence is physical presence, while Bein
 <!--SR:!2026-09-17,193,286-->
 
 What is the Cartesian res? :: The external object represented by the ego-subject
-<!--SR:!2026-08-04,27,166-->
+<!--SR:!2026-09-18,45,166-->
 
 When things become Zeug, what happens to their Pathos? :: Diminished
 <!--SR:!2028-10-23,814,346-->
