@@ -110,7 +110,7 @@ Ken Wilber's four quadrants:
 4.
 ?
 exterior-collective
-<!--SR:!2026-08-05,286,330-->
+<!--SR:!2030-02-26,1301,350-->
 
 Ken Wilber's four quadrants:
 ?

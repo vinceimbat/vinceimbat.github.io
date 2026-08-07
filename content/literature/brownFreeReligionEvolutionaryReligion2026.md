@@ -82,7 +82,7 @@ Schellenberg's suggested three broad marks of a religion's ultimate reality.
 <!--SR:!2026-10-08,143,250-->
 
 Per Andrew James Brown, religion is a ==response== to what is perceived to be supremely worth shaping one’s life around.
-<!--SR:!2026-08-06,119,290-->
+<!--SR:!2027-07-10,338,290-->
 
 Per Brown, two temptations in response to Schellenberg's suggested three broad marks of a religion's ultimate reality that must be rejected by evolutionary religion:
 1.

@@ -34,7 +34,7 @@ Brown, Andrew James. “Addressing Hierarchy, Equality, Shame and Self-Compassio
 # Prompts
 
 Unitarian/Yuniterian intuition behind why a free-religious community can't be based on hierarchy. :: Things form an intra-dependent unity.
-<!--SR:!2026-08-06,91,190-->
+<!--SR:!2026-09-22,47,170-->
 
 In his essay "The Faith of Returning-to-One/Kiitsu," how did Shin'ichirō Imaoka describe the relationship between returning-to-one and diversity? :: Respect diversity, but seek common ground and cooperate.
 <!--SR:!2027-04-30,347,290-->

@@ -34,7 +34,7 @@ Brown, Andrew James. “There Is Only Mother Love All the Way down—Mothering S
 # Prompts
 
 Per Andrew James Brown, for nearly all sentient creatures, the norm is ==good or good enough== mothering.
-<!--SR:!2026-08-05,58,270-->
+<!--SR:!2027-03-12,219,290-->
 
 Per Andrew James Brown, since Great Nature is a complex, endless, and creative process, it is the same as Spinoza's ==natura naturans==.
 <!--SR:!2027-01-19,236,330-->

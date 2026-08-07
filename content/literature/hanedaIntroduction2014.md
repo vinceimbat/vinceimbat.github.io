@@ -66,7 +66,7 @@ Three periods of Manshi Kiyozawa's writings:
 <!--SR:!2026-08-16,34,170-->
 
 Meiji period years :: 1868–1912
-<!--SR:!2026-08-05,4,130-->
+<!--SR:!2026-08-10,5,130-->
 
 The Meiji period is commonly known as what era? :: Era of modernization or Westernization
 <!--SR:!2028-01-03,583,270-->
@@ -236,7 +236,7 @@ Buddhist terms Kiyozawa used to refer to the infinite and supreme universal trut
 - Inconceivable power
 - Wondrous working
 - Power Beyond the Self
-<!--SR:!2026-08-05,10,152-->
+<!--SR:!2026-08-20,15,152-->
 
 The term tariki was originally formulated by the Chinese Pure Land monk ==T'an-luan==.
 <!--SR:!2026-10-07,172,272-->
@@ -301,7 +301,7 @@ Non-Buddhist concepts Kiyozawa used to refer to the infinite and supreme univers
 - Heaven (ten)
 - Path of Heaven (tendō)
 - Mandate of Heaven (tenmei)
-<!--SR:!2026-08-05,30,232-->
+<!--SR:!2026-10-11,67,232-->
 
 Tariki means ==Power Beyond the Self or Other Power==.
 <!--SR:!2028-05-01,790,332-->

@@ -14,7 +14,7 @@ Appendage to OVIC and GIC overviews I edit. :: \_overview_draft_VI
 <!--SR:!2029-03-16,996,270-->
 
 Max charging hours for Norelco :: 16
-<!--SR:!2026-08-06,437,326-->
+<!--SR:!2027-03-13,219,306-->
 
 Email design app I use to create newsletters for Sendy :: Stripo
 <!--SR:!2027-12-15,798,330-->

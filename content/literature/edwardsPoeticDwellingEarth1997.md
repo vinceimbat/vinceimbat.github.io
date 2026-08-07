@@ -312,7 +312,7 @@ Two main points of the Western philosophical tradition of transcendental subject
 <!--SR:!2026-08-28,167,266-->
 
 Dasein literally means ==being-in-the-world==.
-<!--SR:!2026-08-06,4,206-->
+<!--SR:!2026-08-18,12,226-->
 
 Per Edwards, what is the relationship between Dasein and its world? :: Dasein is the person and its things, including social practices.
 <!--SR:!2027-03-01,244,230-->
@@ -418,8 +418,8 @@ Per Heidegger's *Being and Time*, what provides the context within which a thing
 What is the condition of the Being of things understood as Zeug? :: Dasein
 <!--SR:!2027-02-13,299,306-->
 
-Main argument of George Berkeley's idealism. :: The very existence of things depends on being perceived by a mind.
-<!--SR:!2026-08-07,115,226-->
+Main argument of George Berkeley's idealism. :: Things' existence depends on being perceived.
+<!--SR:!2026-10-04,58,206-->
 
 Formula that summarizes George Berkeley's idealism. :: To be is to be perceived.
 <!--SR:!2026-09-18,70,246-->

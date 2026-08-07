@@ -13,7 +13,7 @@ title: The epiphany of there being no capital E epiphany by Brown
 ---
 
 What is epiphany season? :: Liturgical period in many Christian churches that begins on January 6 and ends depending on denomination.
-<!--SR:!2026-08-06,24,163-->
+<!--SR:!2026-09-13,38,163-->
 
 Meaning of the word "epiphany" in Koine Greek. :: Manifestation or appearance
 <!--SR:!2026-10-24,150,230-->

@@ -110,7 +110,7 @@ Sanskrit name of Hōzō Bosatsu (hint: bad breath dog). :: Dharmakara Bodhisattv
 <!--SR:!2027-07-24,362,230-->
 
 What is Shin'ichirō Imaoka's position on disciples or followers? :: Teachers shouldn't aspire to have them. Instead they should aspire to cultivate people who will surpass them.
-<!--SR:!2026-08-07,81,250-->
+<!--SR:!2026-09-17,41,230-->
 
 Shin'ichirō Imaoka suggests that both salvation and enlightenment could only be found where? :: In love that struggles with the people.
 <!--SR:!2026-08-12,47,190-->

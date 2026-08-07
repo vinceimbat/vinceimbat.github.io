@@ -137,7 +137,7 @@ gag :: n. cloth placed on a person's mouth to prevent them from speaking
 <!--SR:!2026-12-17,360,295-->
 
 gaudy (hint: Jen's blue rice) :: adj. extravagant or tasteless showiness
-<!--SR:!2026-08-06,9,130-->
+<!--SR:!2026-08-11,5,130-->
 
 geld (hint: Doji) :: v. to castrate (an animal); to deprive of an essential part
 <!--SR:!2027-05-24,384,209-->
@@ -242,7 +242,7 @@ nondescript :: adj. uninteresting
 # O
 
 ochre :: n. earthy red or yellow
-<!--SR:!2026-08-05,25,211-->
+<!--SR:!2026-09-29,55,211-->
 
 onanism :: n. masturbation
 <!--SR:!2029-08-26,1214,351-->
@@ -372,7 +372,7 @@ upbraid :: v. scold
 # V
 
 vilify :: v. to defame
-<!--SR:!2026-08-05,15,150-->
+<!--SR:!2026-08-13,8,130-->
 
 voile :: n. thin, semitransparent fabric
 <!--SR:!2026-08-12,104,150-->

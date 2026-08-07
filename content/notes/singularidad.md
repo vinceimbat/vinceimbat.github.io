@@ -1,7 +1,7 @@
 ---
 title: Singularidad
 created: 2026-08-02T09:14:18+08:00
-modified: 2026-08-02T10:15:51+08:00
+modified: 2026-08-07T15:53:47+08:00
 aliases:
   - Singularidad
 draft: false
@@ -24,3 +24,6 @@ Pinabli, manpatanir ak la. Alagarën ta ka'd bënëg na banwa.
 
 Kaibam a lanang,
 Arturo
+
+---
+Patalos: [[singularity]]

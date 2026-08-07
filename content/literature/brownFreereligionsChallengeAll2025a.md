@@ -52,7 +52,7 @@ Apotheosis ::: fear of making and worshipping of other gods
 <!--SR:!2000-01-01,1,250!2025-06-27,1,230-->
 
 Per Peter Sloterdijk, monotheism is associated primarily with what kind of violence? :: Violence against people who violate the covenant
-<!--SR:!2026-08-06,276,290-->
+<!--SR:!2026-12-22,138,270-->
 
 Why are atheistic states monotheistic in nature? :: They've replaced the one God element with one strongman/woman or a single party with a single ideology.
 <!--SR:!2026-09-03,263,250-->

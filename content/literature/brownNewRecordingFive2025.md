@@ -56,7 +56,7 @@ According to Epicurus, why are people fearful of the gods? :: They believe that 
 <!--SR:!2027-08-27,530,310-->
 
 For Epicurus, what is the most important characteristic of the gods? :: Exemplars of the ideal life.
-<!--SR:!2026-08-07,72,230-->
+<!--SR:!2026-09-12,36,210-->
 
 Per Epicurus, since the gods live contently, what interest do they have in human affairs? :: None.
 <!--SR:!2029-02-06,934,330-->

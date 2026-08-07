@@ -43,7 +43,7 @@ To memorize a graph, figure, or image via spaced repetition, I... :: Write a pro
 <!--SR:!2027-06-15,353,210-->
 
 What should you do to an uninteresting book to avoid completionism when reading? :: Drop it.
-<!--SR:!2026-08-07,364,270-->
+<!--SR:!2030-05-10,1372,290-->
 
 Per Nielsen (2018), what is the best foundation for reading an unfamiliar field? :: Syntopic reading.
 <!--SR:!2027-08-19,694,290-->
@@ -70,7 +70,7 @@ How to avoid orphan questions :: Write more than one question about a new subjec
 <!--SR:!2026-08-18,231,214-->
 
 Associating new information to existing memories ::: Elaborative encoding
-<!--SR:!2027-01-18,563,314!2026-08-05,49,214-->
+<!--SR:!2027-01-18,563,314!2026-11-18,105,214-->
 
 How to use elaborative encoding when writing spaced repetition prompts involving a basic fact? :: Connect the basic fact with other ideas.
 <!--SR:!2026-12-20,275,174-->

@@ -5,7 +5,7 @@ created: 2026-06-08 20:49:52+08:00
 dg-home:
 dg-publish: true
 draft: false
-modified: 2026-07-27T10:57:48+08:00
+modified: 2026-08-07T15:55:20+08:00
 publish: true
 tags:
   - species/thought
@@ -111,5 +111,22 @@ by Pinky Aguinaldo
 2. Ilarawan ang pinto ng bahay at mga nakapaligid sa bukana ng bahay. Ilarawan ang mga susi at mga palamuting kasama nito. Alalahanin ang mga kwento at karanasan ng pagbukas at pagsara ng pinto. Mga oras na hindi mabukasan ang pinto o mga hindi inaasahang pag-anyaya.
 3. Ilarawan ang amoy ng inyong inuuwian (maaaring aktuwal na bahay, tao, hayop, o bagay na tinuturing mong uwian) Isulat ang mga alaala at pakiramdam na nakapaloob sa mga amoy na ito.
 4. Alalahanin ang isang eksena kung saan may nakatabi kang hindi kakilala sa iyong pag-uwi. Anu-ano ang naaalala mo tungkol sa kanya na tumatak hanggang paghihiwalay ninyo?
+
+---
+
+[[2026-07-31]]
+
+by Jen
+
+Set 1
+
+1. Write a poem in the form of a dialogue between a human and an Artificial Intelligence. Through their conversation, show the difference between human emotions and artificial intelligence, and reflect on what makes a poem meaningful.
+
+2. Imagine that a massive data center stores the memories of millions of people--family photos, graduation videos, letters, research, and life-changing discoveries. One day, it begins to wonder about the stories hidden behind every file it protects. Write a poem from the perspective of a data center. Express its thoughts as it silently guards humanity's memories while realizing that it can preserve information but cannot experience the emotions behind it.
+
+Set 2
+
+1. Write an original poem from the perspective of the Artificial Intelligence. Through your poem, describe the AI's journey as it discovers emotions and tries to understand what it means to be human. Explore its thoughts, questions, hopes, and struggles as it longs to experience feelings that cannot simply be programmed or calculated.
+2. A simple message travels from one person's phone across the internet, through a data center, and finally reaches a loved one thousands of miles away. Write a poem describing the journey of this message. Use imagery to show how technology bridges distances while carrying emotions such as love, hope, gratitude, or encouragement.
 
 ---

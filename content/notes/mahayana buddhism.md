@@ -20,7 +20,7 @@ Two main branches of Buddhism. :: Theravāda and Mahāyāna
 <!--SR:!2029-07-16,1128,350-->
 
 Mahāyāna means ==Great Vehicle==.
-<!--SR:!2026-08-07,23,230-->
+<!--SR:!2026-10-22,76,250-->
 
 What is Theravāda's ideal of enlightenment? (hint: pizza) :: Arhat ideal, focused on individual liberation.
 <!--SR:!2026-09-17,100,190-->

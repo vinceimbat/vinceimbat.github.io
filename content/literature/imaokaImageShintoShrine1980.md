@@ -34,7 +34,7 @@ Imaoka, Shin’ichirō. _The Image of the Shintō Shrine as Drawn by a Free Reli
 # Prompts
 
 When did Imaoka started serious study of Shinto? :: When he specialized in religious studies at the university.
-<!--SR:!2026-08-07,203,250-->
+<!--SR:!2026-11-17,102,230-->
 
 "I came to think that if Shintō or Buddhism were ==genuine==, then that was sufficient." — Imaoka
 <!--SR:!2026-08-19,40,230-->
@@ -92,7 +92,7 @@ Shinto shrines of a blood-related and temporal community are called ==ujigami==.
 <!--SR:!2027-03-24,298,230-->
 
 Shinto shrines of a regional and spatial community are called ==ubusuna==.
-<!--SR:!2026-08-06,32,150-->
+<!--SR:!2026-10-19,74,170-->
 
 Imaoka uses what term to refer inclusively to both *ujigami* and *ubusuna* Shinto shrines? :: Local community shrine
 <!--SR:!2026-09-12,108,290-->

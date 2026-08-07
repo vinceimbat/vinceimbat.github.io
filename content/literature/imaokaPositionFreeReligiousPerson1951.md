@@ -38,7 +38,7 @@ Per Imaoka (1951), what happens the more an individual delves into their persona
 <!--SR:!2027-01-04,471,310-->
 
 Imaoka (1951) described the position of a free religious person as (hint: Sino, Unitarian-Universalist) :: Uniquely individual yet universally comprehensive.
-<!--SR:!2026-08-06,68,150-->
+<!--SR:!2026-09-09,34,130-->
 
 Per Imaoka (1951), church sovereignty will be shared among ??? with the clergy serving as ???. :: church members, executive authorities
 <!--SR:!2026-10-17,116,230-->
@@ -53,7 +53,7 @@ Per Imaoka (1951), since beliefs are individual, they should never be used as wh
 <!--SR:!2028-01-07,560,270-->
 
 Per Imaoka (1951), what is the free religious person's position on  intellectual expressions of beliefs, such as creeds? (Hint: four adjectives) :: These are personal, diverse, evolving, and partial.
-<!--SR:!2026-08-05,90,150-->
+<!--SR:!2026-09-19,45,130-->
 
 Per Imaoka (1951), while a free religious church may not have a creed, what form of organizing document can it use? :: A manifesto.
 <!--SR:!2027-12-11,776,330-->

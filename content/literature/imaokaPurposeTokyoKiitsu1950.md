@@ -77,7 +77,7 @@ The first Sunday meeting of the Tokyo Kiitsu Kyōkai was held in ==October 23, 1
 <!--SR:!2026-09-24,58,210-->
 
 Shōwa era years in Japan :: 1926 to 1989
-<!--SR:!2026-08-06,27,130-->
+<!--SR:!2026-09-10,35,130-->
 
 Per Imaoka, the term 帰一 (Kiitsu) is often translated into English as =="Unity"==.
 <!--SR:!2027-09-15,421,290-->
@@ -152,7 +152,7 @@ What century does the Community Church Movement originate from? :: 20th century
 <!--SR:!2027-02-06,346,270-->
 
 What is the Community Church Movement? :: 20th century evangelical attempt to realize practical ecumenism
-<!--SR:!2026-08-07,35,150-->
+<!--SR:!2026-09-30,54,150-->
 
 What is ecumenism? :: A movement promoting unity among the world's Christian Churches.
 <!--SR:!2026-10-28,117,250-->

@@ -67,7 +67,7 @@ Per Andrew James Brown, in an ice dancing moment of throw, faith is felt as:
 <!--SR:!2026-09-10,51,250-->
 
 Per Andrew James Brown, how does free-religious faith respond to the possibility of disaster? :: It doesn't give it the last word.
-<!--SR:!2026-08-06,173,310-->
+<!--SR:!2026-11-01,87,290-->
 
 Per Ed Mooney, the recognition that wisdom begins with acknowledging one's lack of knowledge. :: The modesty of Socratic ignorance
 <!--SR:!2026-08-18,117,230-->

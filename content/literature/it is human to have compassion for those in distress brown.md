@@ -13,7 +13,7 @@ title: It is human to have compassion for those in distress - Brown
 ---
 
 Author of "The Decameron" :: Giovanni Boccaccio
-<!--SR:!2026-08-05,213,270-->
+<!--SR:!2028-03-02,575,270-->
 
 Nationality of Giovanni Boccaccio :: Italian
 <!--SR:!2029-02-13,1151,350-->
@@ -67,7 +67,7 @@ It is ==human== to have ==compassion== for those in ==distress==. — ==Giovanni
 <!--SR:!2025-01-27,3,250!2000-01-01,1,250!2000-01-01,1,250!2025-01-27,4,270-->
 
 Per Brown (January 19, 2025), what immediate benefit can be found by a person who seeks out jiyū shūkyō? :: Restores their resolve to continue showing neighborly love.
-<!--SR:!2026-08-06,51,150-->
+<!--SR:!2026-09-02,27,130-->
 
 # References to check
 

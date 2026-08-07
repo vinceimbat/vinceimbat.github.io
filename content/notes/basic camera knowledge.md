@@ -93,7 +93,7 @@ What is a camera's aperture? :: The size of the opening in a camera's lens.
 <!--SR:!2027-02-02,212,230-->
 
 After you've improved your composition skills, you can graduate from Program mode to ==AV mode==.
-<!--SR:!2026-08-05,176,290-->
+<!--SR:!2028-07-14,709,310-->
 
 "AV" in AV mode stands for. :: Aperture Priority
 <!--SR:!2031-02-22,1695,330-->

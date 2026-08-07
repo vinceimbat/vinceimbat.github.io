@@ -44,7 +44,7 @@ The most radical form of jiyū shūkyō per Imaoka. :: Bahá’ísm
 <!--SR:!2028-06-28,795,330-->
 
 Year Imaoka attempted to visit a Bahá’í Faith headquarters. :: 1961
-<!--SR:!2026-08-07,7,190-->
+<!--SR:!2026-08-11,4,170-->
 
 The Bahá’í Faith headquarters Imaoka attempted to visit was located in ==Haifa, northern Israel== (hint: UPB batchmate).
 <!--SR:!2026-12-04,198,250-->

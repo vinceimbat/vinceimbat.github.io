@@ -67,7 +67,7 @@ In Iran, where is Muhammad al-Mahdi? :: In hiding.
 <!--SR:!2027-02-23,257,330-->
 
 Per Iran's fundamentalist state ideology, what will Muhammad al-Mahdi do at the end of time? :: Establish Islamic justice.
-<!--SR:!2026-08-05,97,290-->
+<!--SR:!2026-09-23,49,270-->
 
 Story that Lucretius uses to illustrate how superstitious religion has led to crimes. :: The sacrifice of Iphigenia
 <!--SR:!2026-08-16,59,270-->
