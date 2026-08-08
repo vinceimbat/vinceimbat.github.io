@@ -1,17 +1,15 @@
 ---
+title: Ang Kalikasan
+created: 2024-08-28 21:53:37+08:00
+modified: 2026-05-27 07:43:44+08:00
 aliases:
 - Ang Kalikasan
-created: 2024-08-28 21:53:37+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 07:43:44+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Ang Kalikasan
 ---
 
 Hindi nagsisinungaling ang kalikasan  

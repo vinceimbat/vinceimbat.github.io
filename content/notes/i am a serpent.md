@@ -1,16 +1,14 @@
 ---
+title: I am a Serpent
+created: 2025-08-22 22:20:31+08:00
+modified: 2025-08-22 22:25:19+08:00
 aliases:
 - I am a Serpent
-created: 2025-08-22 22:20:31+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-22 22:25:19+08:00
 publish: true
 tags:
 - species/essay
 - status/evergreen
-title: I am a Serpent
 ---
 
 Created: August 16, 2015

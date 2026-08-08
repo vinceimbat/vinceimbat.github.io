@@ -1,16 +1,14 @@
 ---
+title: Three fundamental hallmarks of philosophical works are restricting
+created: 2023-08-21 22:57:21+08:00
+modified: 2025-12-13 09:47:28+08:00
 aliases:
 - Three fundamental hallmarks of philosophical works are restricting
-created: 2023-08-21 22:57:21+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 09:47:28+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Three fundamental hallmarks of philosophical works are restricting
 ---
 
 The [[three fundamental hallmarks of philosophical works]] are restricting. Between strict philosophy and [[lenient use of philosophy]], there has to be a middle way. For sure [[philosophy as belief is different from philosophy as discipline]]. But the first hallmark of philosophical works should have been enough.

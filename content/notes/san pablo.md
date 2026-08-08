@@ -1,16 +1,14 @@
 ---
+title: San Pablo
+created: 2024-10-19 23:21:45+08:00
+modified: 2026-03-03 09:35:00+08:00
 aliases:
 - San Pablo
-created: 2024-10-19 23:21:45+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-03 09:35:00+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: San Pablo
 ---
 
 The destination of my long walk from [[los banos|Los Baños]] on 2022, which became the essay that landed me a spot at the [[anww20|ANWW20]] called [[traversing liminality through walking|Traversing Liminality Through Walking: An Autoethnography]].

@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Pangasinan words related to walking
 created: 2024-11-24 22:13:01+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-05-01 16:31:44+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Pangasinan words related to walking
 ---
 
 Here are some Pangasinan words from the [[cosgayaDiccionarioPangasinanEspanol1865|Cosgaya dictionary]] (and counterchecked in the [[benton dictionary|Benton dictionary]]) related to walking.

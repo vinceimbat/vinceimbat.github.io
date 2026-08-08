@@ -1,16 +1,14 @@
 ---
+title: My reading inbox
+created: 2024-10-27 16:39:57+08:00
+modified: 2025-04-13 18:05:56+08:00
 aliases:
 - My-reading-inbox
-created: 2024-10-27 16:39:57+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-04-13 18:05:56+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My reading inbox
 ---
 
 It is important to use a [[reading inbox]] to capture useful reading materials.

@@ -1,16 +1,14 @@
 ---
+title: Value
+created: 2024-05-27 09:43:31+08:00
+modified: 2025-12-14 17:37:51+08:00
 aliases:
 - Value
-created: 2024-05-27 09:43:31+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-14 17:37:51+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Value
 ---
 
 Value is a word. And a word can mean different things to people. And if we have different meanings attributed to one word, it's impossible for us to get into an agreement when we're using that word.

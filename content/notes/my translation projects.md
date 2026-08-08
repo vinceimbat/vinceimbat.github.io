@@ -1,16 +1,14 @@
 ---
+title: My translation projects
+created: 2026-05-26 10:47:28+08:00
+modified: 2026-06-09 15:56:27+08:00
 aliases:
 - My translation projects
-created: 2026-05-26 10:47:28+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-09 15:56:27+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My translation projects
 ---
 
 # Active

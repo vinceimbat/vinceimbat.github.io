@@ -1,16 +1,14 @@
 ---
+title: DIY MFA by Pereira
+created: 2024-02-24 10:17:06+08:00
+modified: 2026-04-16 09:49:09+08:00
 aliases:
 - DIY MFA by Pereira
-created: 2024-02-24 10:17:06+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-04-16 09:49:09+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: DIY MFA by Pereira
 ---
 
 # Citation

@@ -1,16 +1,14 @@
 ---
+title: The Boy, the Mole, the Fox and the Horse by Charlie Mackesy
+created: 2026-02-25 10:33:25+08:00
+modified: 2026-02-26 10:13:13+08:00
 aliases:
 - The Boy, the Mole, the Fox and the Horse by Charlie Mackesy
-created: 2026-02-25 10:33:25+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-26 10:13:13+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: The Boy, the Mole, the Fox and the Horse by Charlie Mackesy
 ---
 
 # Citation

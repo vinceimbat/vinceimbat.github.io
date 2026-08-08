@@ -1,16 +1,14 @@
 ---
+title: Annual Review Workshop
+created: 2023-08-21 22:57:20+08:00
+modified: 2025-12-16 11:25:11+08:00
 aliases:
 - Annual Review Workshop
-created: 2023-08-21 22:57:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-16 11:25:11+08:00
 publish: true
 tags:
 - species/outline
 - status/seedling
-title: Annual Review Workshop
 ---
 
 ## Parts

@@ -1,16 +1,14 @@
 ---
+title: My top three sources of self-actualization
+created: 2024-08-12 17:32:07+08:00
+modified: 2025-04-11 09:03:42+08:00
 aliases:
 - My-top-three-sources-of-self-actualization
-created: 2024-08-12 17:32:07+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-04-11 09:03:42+08:00
 publish: true
 tags:
 - species/thought
 - status/evergreen
-title: My top three sources of self-actualization
 ---
 
 Based on the [[characteristics of self-actualization scale]], my top three sources of self-actualization are:

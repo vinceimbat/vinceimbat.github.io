@@ -1,16 +1,14 @@
 ---
+title: The Art of Voice by Tony Hoagland
+created: 2026-06-26 15:44:00+08:00
+modified: 2026-06-30 10:22:35+08:00
 aliases:
 - The Art of Voice by Tony Hoagland
-created: 2026-06-26 15:44:00+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-30 10:22:35+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: The Art of Voice by Tony Hoagland
 ---
 
 # Citation

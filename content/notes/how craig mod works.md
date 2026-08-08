@@ -1,16 +1,14 @@
 ---
+title: How Craig Mod works
+created: 2024-05-09 10:21:40+08:00
+modified: 2025-12-13 10:29:17+08:00
 aliases:
 - How Craig Mod works
-created: 2024-05-09 10:21:40+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 10:29:17+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: How Craig Mod works
 ---
 
 [[craig mod|Craig Mod]] show his behind the scenes ([[work with the garage door up]]) to members of his Special Projects membership. People get to know him mostly through his finished products. But he does share his processes and life updates in his [[04 notes/newsletter]]—although he doesn't do it messily. He shares it in a polish and edited manner.

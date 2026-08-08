@@ -1,17 +1,15 @@
 ---
+title: Only We Will Be Saved
+created: 2026-01-28 15:13:58+08:00
+modified: 2026-06-28 15:37:50+08:00
 aliases:
 - Only We Will Be Saved
-created: 2026-01-28 15:13:58+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-28 15:37:50+08:00
 publish: true
 tags:
 - species/translation
 - language/english
 - status/seedling
-title: Only We Will Be Saved
 ---
 
 This is how the Holy Spirit anoints—  

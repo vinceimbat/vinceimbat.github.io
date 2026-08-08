@@ -5,8 +5,6 @@ modified: 2026-08-01T16:24:08+08:00
 aliases:
   - About
 draft: false
-dg-home: false
-dg-publish: true
 publish: true
 ---
 ![[20250116-053001-headshot.jpg|414]]

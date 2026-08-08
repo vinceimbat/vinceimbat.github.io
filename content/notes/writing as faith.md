@@ -1,17 +1,15 @@
 ---
+title: Writing as Faith
+created: 2024-09-11 18:14:47+08:00
+modified: 2025-08-14 11:39:28+08:00
 aliases:
 - vignettes/writing-as-faith
 - Writing as Faith
-created: 2024-09-11 18:14:47+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-14 11:39:28+08:00
 publish: true
 tags:
 - species/vignette
 - status/seedling
-title: Writing as Faith
 ---
 
 This sitting down on the floor in front of a small Japanese table you bought surplus over a shade of dim sunlight to write on a new page is [[love]]. It is [[faith]]. It is believing that you still have something to say to the world even if you're unsure what it is. It is believing that something good, something necessary, will come out of [[writing]]. And for someone who refuses the idea of submitting to a big brother in the sky, this is the only true act of faith.

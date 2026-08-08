@@ -1,16 +1,14 @@
 ---
+title: Grief
+created: 2025-12-13 11:28:19+08:00
+modified: 2025-12-13 11:28:46+08:00
 aliases:
 - Grief
-created: 2025-12-13 11:28:19+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 11:28:46+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Grief
 ---
 
 I will lose Mama.

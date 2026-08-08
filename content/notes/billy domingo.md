@@ -1,17 +1,15 @@
 ---
+title: Billy Domingo
+created: 2023-08-21 22:57:20+08:00
+modified: 2025-12-17 12:10:36+08:00
 aliases:
 - Billy Domingo
-created: 2023-08-21 22:57:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-17 12:10:36+08:00
 publish: true
 tags:
 - species/translation
 - language/filipino
 - status/seedling
-title: Billy Domingo
 ---
 
 Kapag dumarating ka, nagsisisigaw ka tungkol kay Hesus—sabay punit ng t-shirt mo. Tangina anong alam mo tungkol kay Hesus?

@@ -1,16 +1,14 @@
 ---
+title: Lobong
+created: 2025-12-01 11:17:23+08:00
+modified: 2025-12-01 11:18:14+08:00
 aliases:
 - Lobong
-created: 2025-12-01 11:17:23+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-01 11:18:14+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Lobong
 ---
 
 Kalërëg na banwa,  

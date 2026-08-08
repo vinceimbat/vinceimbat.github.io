@@ -1,16 +1,14 @@
 ---
+title: WIP Bicol log
+created: 2026-07-16 10:29:35+08:00
+modified: 2026-07-16 10:30:13+08:00
 aliases:
 - WIP Bicol log
-created: 2026-07-16 10:29:35+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-16 10:30:13+08:00
 publish: true
 tags:
 - species/log
 - status/seedling
-title: WIP Bicol log
 ---
 
 # Kabanata I

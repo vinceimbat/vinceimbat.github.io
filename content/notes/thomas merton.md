@@ -1,17 +1,15 @@
 ---
+title: Thomas Merton
+created: 2024-04-21 23:33:44+08:00
+modified: 2025-12-30 10:34:41+08:00
 aliases:
 - Thomas Merton
 - Merton
-created: 2024-04-21 23:33:44+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-30 10:34:41+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Thomas Merton
 ---
 
 Merton wrote more than 50 books in a period of 27 years, mostly on [spirituality](https://en.wikipedia.org/wiki/Spirituality "Spirituality"), [social justice](https://en.wikipedia.org/wiki/Social_justice "Social justice") and a quiet [pacifism](https://en.wikipedia.org/wiki/Christian_pacifism "Christian pacifism"), as well as scores of [essays](https://en.wikipedia.org/wiki/Essay "Essay") and reviews.

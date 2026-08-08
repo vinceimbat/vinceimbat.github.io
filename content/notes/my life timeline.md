@@ -1,17 +1,15 @@
 ---
+title: My life timeline
+created: 2024-08-24 14:12:50+08:00
+modified: 2025-10-10 17:14:31+08:00
 aliases:
 - My life timeline
-created: 2024-08-24 14:12:50+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-10 17:14:31+08:00
 publish: true
 tags:
 - status/evergreen
 - species/thought
 - status/seedling
-title: My life timeline
 ---
 
 This note is inspire by [[my age vis a vis school years]]. It was done to do an exercise in [[belong agrawal]]

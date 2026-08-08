@@ -1,16 +1,14 @@
 ---
+title: John Dewey and Henry Nelson Wieman's ways of using the word "God" by Brown
+created: 2025-05-10 12:05:14+08:00
+modified: 2025-05-10 12:06:11+08:00
 aliases:
 - John Dewey and Henry Nelson Wieman's ways of using the word "God" by Brown
-created: 2025-05-10 12:05:14+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-05-10 12:06:11+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: John Dewey and Henry Nelson Wieman's ways of using the word "God" by Brown
 ---
 
 # Highlights

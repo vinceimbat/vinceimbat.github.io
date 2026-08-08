@@ -1,16 +1,14 @@
 ---
+title: Narrative
+created: 2024-07-20 14:38:32+08:00
+modified: 2025-07-08 09:48:27+08:00
 aliases:
 - Narrative
-created: 2024-07-20 14:38:32+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-08 09:48:27+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Narrative
 ---
 
 How does narrative do this?

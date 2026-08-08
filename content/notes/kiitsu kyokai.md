@@ -1,17 +1,15 @@
 ---
+title: Kiitsu Kyōkai
+created: 2024-11-21 22:45:57+08:00
+modified: 2026-07-27T12:32:58+08:00
 aliases:
   - thoughts/kiitsu-kyokai
   - Kiitsu Kyōkai
-created: 2024-11-21 22:45:57+08:00
-dg-home:
-dg-publish: true
 draft: false
-modified: 2026-07-27T12:32:58+08:00
 publish: true
 tags:
   - species/thought
   - status/seedling
-title: Kiitsu Kyōkai
 ---
 # Definition
 

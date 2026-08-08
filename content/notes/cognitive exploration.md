@@ -1,16 +1,14 @@
 ---
+title: Cognitive exploration
+created: 2024-10-12 23:44:07+08:00
+modified: 2025-12-12 21:15:28+08:00
 aliases:
 - Cognitive exploration
-created: 2024-10-12 23:44:07+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 21:15:28+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Cognitive exploration
 ---
 
 Cognitive exploration has two parts

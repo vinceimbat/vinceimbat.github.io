@@ -1,16 +1,14 @@
 ---
+title: The Copyeditor's Handbook by Amy Einsohn and Marilyn Schwartz
+created: 2024-08-23 22:59:10+08:00
+modified: 2025-08-23 09:39:59+08:00
 aliases:
 - The Copyeditor's Handbook by Amy Einsohn and Marilyn Schwartz
-created: 2024-08-23 22:59:10+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-23 09:39:59+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: The Copyeditor's Handbook by Amy Einsohn and Marilyn Schwartz
 ---
 
 # Citation

@@ -1,17 +1,15 @@
 ---
+title: Amayo
+created: 2024-09-06 23:23:11+08:00
+modified: 2026-06-05 08:33:01+08:00
 aliases:
 - Amayo
-created: 2024-09-06 23:23:11+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-05 08:33:01+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/seedling
-title: Amayo
 ---
 
 Ombëbëtël a amin so nadiwit  

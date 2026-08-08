@@ -1,17 +1,15 @@
 ---
+title: Kotse
+created: 2024-10-16 23:39:23+08:00
+modified: 2026-05-27 16:53:00+08:00
 aliases:
 - Kotse
-created: 2024-10-16 23:39:23+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 16:53:00+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Kotse
 ---
 
 Kotse ang nagpapakain sayong pamilya  

@@ -1,16 +1,14 @@
 ---
+title: No Aki't Mansiasiansia 'Ray Umaanlong Diya
+created: 2026-01-11 10:42:39+08:00
+modified: 2026-01-11 11:04:04+08:00
 aliases:
 - No Aki't Mansiasiansia 'Ray Umaanlong Diya
-created: 2026-01-11 10:42:39+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-11 11:04:04+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: No Aki't Mansiasiansia 'Ray Umaanlong Diya
 ---
 
 Subol na anlong iray subol  

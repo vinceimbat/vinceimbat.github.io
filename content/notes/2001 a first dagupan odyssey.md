@@ -1,18 +1,16 @@
 ---
+title: '2001: A First Dagupan Odyssey'
+created: 2025-11-24 09:37:09+08:00
+modified: 2026-06-05 08:05:33+08:00
 aliases:
 - '2001: A First Dagupan Odyssey'
-created: 2025-11-24 09:37:09+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-05 08:05:33+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
 - language/pangasinan
 - species/translation
-title: '2001: A First Dagupan Odyssey'
 ---
 
 v1

@@ -1,16 +1,14 @@
 ---
+title: Payak na Katotohanan
+created: 2026-07-16 09:37:01+08:00
+modified: 2026-07-16 09:38:07+08:00
 aliases:
 - Payak na Katotohanan
-created: 2026-07-16 09:37:01+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-16 09:38:07+08:00
 publish: true
 tags:
 - species/translation
 - status/seedling
-title: Payak na Katotohanan
 ---
 
 ni Phil Levine

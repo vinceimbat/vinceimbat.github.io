@@ -1,16 +1,14 @@
 ---
+title: Tagahawi
+created: 2025-11-10 09:33:51+08:00
+modified: 2025-11-10 09:34:54+08:00
 aliases:
 - Tagahawi
-created: 2025-11-10 09:33:51+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-10 09:34:54+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Tagahawi
 ---
 
 Ako ay tagapigil ng ulan  

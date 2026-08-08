@@ -1,19 +1,17 @@
 ---
+title: '“From Negation to Affirmation: Trusting the ‘Great Life’ [大生命, Daiseimei]—An
+  Easter Sunday Thought for the Day” by Andrew James Brown'
+created: 2026-04-07 10:10:05+08:00
+modified: 2026-04-07 11:19:33+08:00
 aliases:
 - '“From Negation to Affirmation: Trusting the ‘Great Life’ [大生命, Daiseimei]—An Easter
   Sunday Thought for the Day” by Andrew James Brown'
-created: 2026-04-07 10:10:05+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-04-07 11:19:33+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: '“From Negation to Affirmation: Trusting the ‘Great Life’ [大生命, Daiseimei]—An
-  Easter Sunday Thought for the Day” by Andrew James Brown'
 ---
 
 # Citation

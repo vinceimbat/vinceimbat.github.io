@@ -1,16 +1,14 @@
 ---
+title: Prayer Before Writing
+created: 2025-08-26 10:56:16+08:00
+modified: 2025-08-26 11:10:33+08:00
 aliases:
 - Prayer Before Writing
-created: 2025-08-26 10:56:16+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-26 11:10:33+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Prayer Before Writing
 ---
 
 # Panalangin Bago Magsulat

@@ -1,16 +1,14 @@
 ---
+title: Dogs are cairns of life
+created: 2024-02-20 13:22:43+08:00
+modified: 2025-10-13 11:42:16+08:00
 aliases:
 - Dogs are cairns of life
-created: 2024-02-20 13:22:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-13 11:42:16+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Dogs are cairns of life
 ---
 
 Dogs are like portals to the past.

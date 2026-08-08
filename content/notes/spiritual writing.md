@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Spiritual Writing
 created: 2024-02-20 13:22:43+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-11-22 15:23:46+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - status/seedling
 - species/thought
-title: Spiritual Writing
 ---
 
 Spiritual writing is based on process and product. The process has to emphasize some form of surrender to a power outside oneself (Amida Buddha's Other Power, the Great Life, Great Nature, God-or-Nature). However, the problem with this concept is that not all products surrendering to that flow would yield work that nourish or that seems spiritual or religious on the surface. Therefore, after the process of surrender (when one has listened to the gifts of images and ideas given to them), a spiritual writer now works at the gift to craft it with intention. This is [[rem tanauan|Rem Tanauan's]] bulwak–balong concept, which is also [[denise levertov|Denise Levertov's]] idea of the poet being both instrument and maker or the seer seeing and communicating. This entire process per Levertov, [[allen ginsberg|Allen Ginsberg]], and [[thomas merton|Thomas Merton]] requires contemplation and meditation.

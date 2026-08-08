@@ -1,16 +1,14 @@
 ---
+title: Craig Mod photo editing
+created: 2024-02-20 13:22:41+08:00
+modified: 2025-05-17 14:18:59+08:00
 aliases:
 - Craig Mod photo editing
-created: 2024-02-20 13:22:41+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-05-17 14:18:59+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Craig Mod photo editing
 ---
 
 # How he organizes his photos

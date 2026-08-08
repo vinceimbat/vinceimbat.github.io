@@ -5,8 +5,6 @@ modified: 2025-11-12T11:54:21+08:00
 aliases:
   - Sikolohiyang Pangasinan
 draft: false
-dg-home:
-dg-publish:
 tags:
   - species/poem
   - status/seedling

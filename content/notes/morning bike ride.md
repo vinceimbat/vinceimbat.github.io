@@ -1,17 +1,15 @@
 ---
+title: Morning Bike Ride
+created: 2025-12-09 09:50:51+08:00
+modified: 2026-05-27 19:53:13+08:00
 aliases:
 - Morning Bike Ride
-created: 2025-12-09 09:50:51+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 19:53:13+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
 - language/filipino
-title: Morning Bike Ride
 ---
 
 Pinupunit ng dugo ang umaga.  

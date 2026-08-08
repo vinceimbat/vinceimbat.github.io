@@ -1,16 +1,14 @@
 ---
+title: Character
+created: 2026-06-01 17:35:36+08:00
+modified: 2026-06-01 17:36:21+08:00
 aliases:
 - Character
-created: 2026-06-01 17:35:36+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-01 17:36:21+08:00
 publish: true
 tags:
 - species/translation
 - status/seedling
-title: Character
 ---
 
 Even if you've reached, the summit of jewels,

@@ -5,8 +5,6 @@ modified: 2026-08-07T15:53:47+08:00
 aliases:
   - Singularidad
 draft: false
-dg-home:
-dg-publish:
 publish: true
 tags:
   - species/poem

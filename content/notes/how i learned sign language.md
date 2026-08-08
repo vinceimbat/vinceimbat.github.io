@@ -1,16 +1,14 @@
 ---
+title: How I learned sign language
+created: 2026-03-10 09:43:28+08:00
+modified: 2026-05-10 20:41:00+08:00
 aliases:
 - How I learned sign language
-created: 2026-03-10 09:43:28+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-10 20:41:00+08:00
 publish: true
 tags:
 - species/vignette
 - status/seedling
-title: How I learned sign language
 ---
 
 I started studying sign language when I was still in fourth year high school. The Dagupan Sign Language Congregation, the first and only sign language congregation in Pangasinan, offered a sign language course at Urdaneta. The Tagalog congregation there hosted the course. It ran for several months and was conducted every Monday evening, I think. Papa, me, and Kuya Julius went. As the classes went along, it was only I and Kuya Julius who went. Then, I stopped taking them, I think because I had to go to Baguio to study.

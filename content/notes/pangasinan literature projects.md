@@ -1,16 +1,14 @@
 ---
-aliases:
-- Pangasinan literature projects
+title: Pangasinan literature projects
 created: 2026-05-24 16:08:01+08:00
-dg-home: null
-dg-publish: true
+modified: 2026-08-08T20:11:25+08:00
+aliases:
+  - Pangasinan literature projects
 draft: false
-modified: 2026-06-01 09:42:12+08:00
 publish: true
 tags:
-- species/thought
-- status/seedling
-title: Pangasinan literature projects
+  - species/thought
+  - status/seedling
 ---
 
 - Translation of Cosgaya

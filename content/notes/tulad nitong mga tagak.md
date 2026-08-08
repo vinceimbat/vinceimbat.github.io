@@ -1,16 +1,14 @@
 ---
-aliases: null
+title: Tulad Nitong Mga Tagak
 created: 2025-08-12 22:05:27+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-08-12 22:20:44+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Tulad Nitong Mga Tagak
 ---
 
 I

@@ -1,17 +1,15 @@
 ---
+title: Gawat
+created: 2024-08-28 15:05:04+08:00
+modified: 2026-06-02 10:10:38+08:00
 aliases:
 - Gawat
-created: 2024-08-28 15:05:04+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-02 10:10:38+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/seedling
-title: Gawat
 ---
 
 Agmi la inëkas may mais a impaagëw mi'd kalsada ta  

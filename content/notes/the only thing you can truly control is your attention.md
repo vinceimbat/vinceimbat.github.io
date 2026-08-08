@@ -1,16 +1,14 @@
 ---
+title: The only thing you can truly control is your attention
+created: 2021-02-10
+modified: 2025-12-12 17:04:46+08:00
 aliases:
 - The only thing you can truly control is your attention
-created: 2021-02-10
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 17:04:46+08:00
 publish: true
 tags:
 - status/seedling
 - species/thought
-title: The only thing you can truly control is your attention
 ---
 
 [[Meditation makes us realize we do not control the influx of our thoughts]]. This is the very first thing one might realize just after a few minutes of meditation.

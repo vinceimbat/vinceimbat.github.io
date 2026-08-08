@@ -1,16 +1,14 @@
 ---
+title: Steve Patterson
+created: 2024-05-25 10:59:13+08:00
+modified: 2025-12-12 22:38:47+08:00
 aliases:
 - Steve Patterson
-created: 2024-05-25 10:59:13+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 22:38:47+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Steve Patterson
 ---
 
 Steve writes, creates videos, and podcasts. His goal is “to create the most accurate worldview possible and communicate it clearly.”

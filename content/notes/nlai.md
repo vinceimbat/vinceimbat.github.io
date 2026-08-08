@@ -1,16 +1,14 @@
 ---
+title: Nasa Labas ang Ili (NLAI)
+created: 2024-08-12 17:38:06+08:00
+modified: 2026-05-29 09:46:35+08:00
 aliases:
 - Nasa Labas ang Ili (NLAI)
-created: 2024-08-12 17:38:06+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-29 09:46:35+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Nasa Labas ang Ili (NLAI)
 ---
 
 - [[nlai outline]]

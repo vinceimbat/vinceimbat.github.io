@@ -1,16 +1,14 @@
 ---
+title: Set it and forget it
+created: 2024-11-17 23:56:51+08:00
+modified: 2025-12-12 17:07:48+08:00
 aliases:
 - Set it and forget it
-created: 2024-11-17 23:56:51+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 17:07:48+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Set it and forget it
 ---
 
 [[james clear|James Clear]] is right all along. After identifying a [[goal]] (our desired [[end state]]), we should forget about it. The reason is that an end state is beyond our control. What we can control is performing actions and maintaining practices that we know could produce the end state that we want to achieve. It doesn't assure that we get there. So many things can happen along the way. But it gives us a sense of doing something—of trying.

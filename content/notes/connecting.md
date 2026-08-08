@@ -1,16 +1,14 @@
 ---
+title: Connecting
+created: 2024-11-13 16:41:30+08:00
+modified: 2026-01-13 10:32:39+08:00
 aliases:
 - Connecting
-created: 2024-11-13 16:41:30+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-13 10:32:39+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Connecting
 ---
 
 Connecting involves engaging with a [[scenius|scenius]], which is composed of mentors and peers from a community of practice ([[my ideal mentors and peers|my ideal mentors and peers]]). I need to invest time and energy to establish long-lasting relationships in real life or online.

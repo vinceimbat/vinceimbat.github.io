@@ -5,8 +5,6 @@ modified: 2026-08-01T19:00:52+08:00
 aliases:
   - Spirituality for the Godless by Michael McGhee
 draft: false
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/literature

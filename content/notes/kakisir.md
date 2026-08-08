@@ -1,17 +1,15 @@
 ---
+title: Kakisir
+created: 2024-05-31 08:57:27+08:00
+modified: 2026-05-27 11:43:39+08:00
 aliases:
 - Kakisir
-created: 2024-05-31 08:57:27+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 11:43:39+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/seedling
-title: Kakisir
 ---
 
 Agay mët la 'yan  

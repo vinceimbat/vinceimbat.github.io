@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: My weekly routine
 created: 2024-07-18 10:29:35+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2026-04-11 08:58:21+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My weekly routine
 ---
 
 Every day, I follow [[my daily routine]]. The events below break the routine and are inserted into the specific time indicated.

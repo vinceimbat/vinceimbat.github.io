@@ -5,8 +5,6 @@ modified: 2025-05-12T16:20:57+08:00
 aliases:
   - The Leica Q by Mod
 draft: false
-dg-home: 
-dg-publish: 
 tags:
   - species/literature
   - status/seedling

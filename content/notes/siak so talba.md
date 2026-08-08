@@ -1,18 +1,16 @@
 ---
+title: Siak so Talba
+created: 2025-09-14 21:24:19+08:00
+modified: 2025-09-14 21:28:39+08:00
 aliases:
 - Siak so Talba
-created: 2025-09-14 21:24:19+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-09-14 21:28:39+08:00
 publish: true
 tags:
 - species/translation
 - species/poem
 - status/seedling
 - language/pangasinan
-title: Siak so Talba
 ---
 
 Siak so Talba

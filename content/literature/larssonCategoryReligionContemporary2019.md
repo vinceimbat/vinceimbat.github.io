@@ -1,18 +1,16 @@
 ---
+title: 'Book Review of “The Category of Religion in Contemporary Japan: Shūkyō & Temple
+  Buddhism” by Ernils Larsson'
+created: 2025-08-07 08:59:44+08:00
+modified: 2025-08-07 09:00:49+08:00
 aliases:
 - 'Book Review of “The Category of Religion in Contemporary Japan: Shūkyō & Temple
   Buddhism” by Ernils Larsson'
-created: 2025-08-07 08:59:44+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-07 09:00:49+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: 'Book Review of “The Category of Religion in Contemporary Japan: Shūkyō & Temple
-  Buddhism” by Ernils Larsson'
 ---
 
 # Citation

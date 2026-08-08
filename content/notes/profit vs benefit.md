@@ -1,16 +1,14 @@
 ---
+title: Profit vs benefit
+created: 2024-02-26 13:59:56+08:00
+modified: 2025-12-12 17:25:24+08:00
 aliases:
 - Profit vs benefit
-created: 2024-02-26 13:59:56+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 17:25:24+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Profit vs benefit
 ---
 
 Activities that produce profit can be done by another person through:

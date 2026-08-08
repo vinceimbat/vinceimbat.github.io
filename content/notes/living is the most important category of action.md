@@ -1,16 +1,14 @@
 ---
+title: Living is the most important category of action
+created: 2021-08-01
+modified: 2025-10-14 11:35:27+08:00
 aliases:
 - Living is the most important category of action
-created: 2021-08-01
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-14 11:35:27+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Living is the most important category of action
 ---
 
 [[living|Living]] is the most important [[action]] among the [[five areas of my life work]]. It is the most important part of what I have to do overall. The quality of the other categories of action and my creative work in general is affected by the quality of how I live.

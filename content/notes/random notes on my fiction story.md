@@ -1,16 +1,14 @@
 ---
+title: Random notes on my fiction story
+created: 2025-12-14 23:44:35+08:00
+modified: 2025-12-14 23:45:40+08:00
 aliases:
 - Random notes on my fiction story
-created: 2025-12-14 23:44:35+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-14 23:45:40+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Random notes on my fiction story
 ---
 
 Ang martial arts sa utopian society ng inner island ay sumusunod sa isang batas: non-agression at first-comer owner.

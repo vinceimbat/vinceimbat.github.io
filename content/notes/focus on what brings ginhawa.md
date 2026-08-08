@@ -1,16 +1,14 @@
 ---
+title: Focus on what brings ginhawa
+created: 2024-02-20 13:22:43+08:00
+modified: 2025-12-13 10:17:14+08:00
 aliases:
 - Focus on what brings ginhawa
-created: 2024-02-20 13:22:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 10:17:14+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Focus on what brings ginhawa
 ---
 
 I need to have a list of things that actually makes me feel Ginhawa and focus on these when I work or continue with life.

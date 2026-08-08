@@ -1,17 +1,15 @@
 ---
+title: '"The Position of a Free-Religious Person" by Shin''ichirō Imaoka'
+created: 2025-07-13 10:02:21+08:00
+modified: 2025-07-14 09:26:48+08:00
 aliases:
 - '"The Position of a Free-Religious Person" by Shin''ichirō Imaoka'
-created: 2025-07-13 10:02:21+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-14 09:26:48+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: '"The Position of a Free-Religious Person" by Shin''ichirō Imaoka'
 ---
 
 # Citation

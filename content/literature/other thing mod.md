@@ -5,8 +5,6 @@ modified: 2025-06-05T11:12:01+08:00
 aliases:
   - Other Thing by Mod
 draft: false
-dg-home: 
-dg-publish: 
 tags:
   - species/literature
   - status/seedling

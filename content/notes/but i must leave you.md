@@ -5,8 +5,6 @@ modified: 2026-07-30T21:40:38+08:00
 aliases:
   - But I Must Leave You
 draft: false
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/poem

@@ -5,8 +5,6 @@ modified: 2025-07-26T11:16:06+08:00
 aliases:
   - Amida
 draft: false
-dg-home: 
-dg-publish: 
 tags:
   - species/thought
   - status/seedling

@@ -1,17 +1,15 @@
 ---
+title: Intentional living
+created: 2024-10-22 22:17:48+08:00
+modified: 2025-12-12 21:55:38+08:00
 aliases:
 - Intentional-living
 - thoughts/intentional-living
-created: 2024-10-22 22:17:48+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 21:55:38+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Intentional living
 ---
 
 Purposeful living is living with [[purpose]]. Because [[life is a project]] made up of individual actions, purposeful living is the same as intentional acting. Intentional acting means that one thinks about the purpose of his [[action]]s then sets a clear [[goal]] before he acts. One sets a purpose before acting ([[Purpose is articulated before an action or a project is performed]]) to avoid the nagging feeling that one is doing something that feels wrong ([[build a life management system that helps you be decisive]]). When we are acting, we don't want this nagging feeling. [[the best way to act is to act mindfully|The best way to act is to act mindfully]].

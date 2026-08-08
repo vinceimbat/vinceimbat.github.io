@@ -1,16 +1,14 @@
 ---
+title: WIP
+created: 2026-06-01 09:44:34+08:00
+modified: 2026-06-01 09:44:47+08:00
 aliases:
 - WIP
-created: 2026-06-01 09:44:34+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-01 09:44:47+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: WIP
 ---
 
 [[2026-05-14]]

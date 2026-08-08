@@ -1,16 +1,14 @@
 ---
+title: Goal
+created: 2024-10-16 23:42:17+08:00
+modified: 2025-12-12 15:52:38+08:00
 aliases:
 - Goal
-created: 2024-10-16 23:42:17+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 15:52:38+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Goal
 ---
 
 What we usually call a goal is actually an [[intention]] to do a certain [[action]], which includes a [[means]] and an [[ends|end]].

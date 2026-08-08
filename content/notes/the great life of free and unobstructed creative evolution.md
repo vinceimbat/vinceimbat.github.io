@@ -5,8 +5,6 @@ modified: 2026-08-02T14:26:05+08:00
 aliases:
   - The great life of free and unobstructed creative evolution
 draft: false
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/thought

@@ -1,16 +1,14 @@
 ---
+title: Fame is a by-product of authenticity and luck
+created: 2021-02-13
+modified: 2025-12-13 10:16:24+08:00
 aliases:
 - Fame is a by-product of authenticity and luck
-created: 2021-02-13
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 10:16:24+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Fame is a by-product of authenticity and luck
 ---
 
 I like to think of fame and recognition as by-products of two elements: authenticity and luck. This is also probably the healthiest way of thinking about fame. Fame should be looked at not as the end goal, but a consequence of our efforts.

@@ -1,16 +1,14 @@
 ---
+title: Impatient Healing
+created: 2025-08-22 21:33:55+08:00
+modified: 2025-08-22 21:35:42+08:00
 aliases:
 - Impatient Healing
-created: 2025-08-22 21:33:55+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-22 21:35:42+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Impatient Healing
 ---
 
 27 April 2016

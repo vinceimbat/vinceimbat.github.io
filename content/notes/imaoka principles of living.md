@@ -1,20 +1,18 @@
 ---
+title: Imaoka's "My Principles of Living"
+created: 2024-11-12 20:41:09+08:00
+modified: 2025-08-06 14:19:48+08:00
 aliases:
 - thoughts/imaoka-creed-of-life
 - imaoka-creed-of-life
 - Imaoka's "My Principles of Living"
 - '"My Principles of Living"'
-created: 2024-11-12 20:41:09+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-06 14:19:48+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
 - species/flashcards
-title: Imaoka's "My Principles of Living"
 ---
 
 The following comes from [[andrew j brown|Andrew J. Brown's]] latest translation (July 2025) of the final revision of Imaoka's Principles of Living in 1981.

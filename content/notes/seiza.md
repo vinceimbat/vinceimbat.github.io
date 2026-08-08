@@ -1,16 +1,14 @@
 ---
+title: Seiza
+created: 2024-05-15 17:37:41+08:00
+modified: 2026-01-19 15:19:07+08:00
 aliases:
 - Seiza
-created: 2024-05-15 17:37:41+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-19 15:19:07+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Seiza
 ---
 
 I like this definition of seiza written by [[andrew j brown|Andrew J. Brown]]. It reminds me why I chose it as a spiritual practice:

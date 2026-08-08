@@ -1,17 +1,15 @@
 ---
+title: “Filipino Psychology Is a Transpersonal Psychology” by Carl Lorenz Cervantes
+created: 2025-07-13 21:11:21+08:00
+modified: 2025-12-01 17:32:44+08:00
 aliases:
 - “Filipino Psychology Is a Transpersonal Psychology” by Carl Lorenz Cervantes
-created: 2025-07-13 21:11:21+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-01 17:32:44+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “Filipino Psychology Is a Transpersonal Psychology” by Carl Lorenz Cervantes
 ---
 
 # Citation
@@ -425,7 +423,7 @@ Friedman's (2009) two criticisms on transpersonal psychology. :: Decontextualiza
 <!--SR:!2026-08-25,57,152-->
 
 When did humanistic psychology emerge? :: Mid-20th century
-<!--SR:!2026-08-08,202,232-->
+<!--SR:!2027-11-21,470,232-->
 
 Humanistic psychology emerged in reaction to what two dominant forces in Western psychology? :: psychoanalysis and behaviorism
 <!--SR:!2026-09-06,48,272-->
@@ -618,7 +616,7 @@ Cervantes' (2025) rough translation of *utang na loob* :: “the soul as payment
 <!--SR:!2026-09-28,174,252-->
 
 Per Cervantes (2025), when Filipino traits are detached from their *kapwa* context, what happens to them? :: They're misinterpreted.
-<!--SR:!2026-08-08,100,292-->
+<!--SR:!2026-09-27,50,272-->
 
 Per Cervantes (2025), when *utang na loob* is detached from its *kapwa* context, it is interpreted as a ==moral obligation==.
 <!--SR:!2026-09-04,108,292-->

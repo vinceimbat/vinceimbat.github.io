@@ -1,18 +1,16 @@
 ---
+title: Tiagëw, Tag-init, Summer
+created: 2024-08-24 22:31:38+08:00
+modified: 2026-05-28 08:09:16+08:00
 aliases:
 - Tiagëw, Tag-init, Summer
-created: 2024-08-24 22:31:38+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-28 08:09:16+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - language/pangasinan
 - status/seedling
-title: Tiagëw, Tag-init, Summer
 ---
 
 Onseselek lay banwa  

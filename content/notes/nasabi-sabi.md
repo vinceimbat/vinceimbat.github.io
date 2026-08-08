@@ -1,17 +1,15 @@
 ---
+title: Nasabi-sabi
+created: 2025-10-05 21:29:41+08:00
+modified: 2025-11-10 09:23:16+08:00
 aliases:
 - Nasabi-sabi
-created: 2025-10-05 21:29:41+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-10 09:23:16+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
 - language/pangasinan
-title: Nasabi-sabi
 ---
 
 Nasabi-sabi agëw  

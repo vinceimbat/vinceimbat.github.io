@@ -1,16 +1,14 @@
 ---
+title: My metaphysical position
+created: 2024-07-22 17:25:55+08:00
+modified: 2025-12-12 23:27:35+08:00
 aliases:
 - My metaphysical position
-created: 2024-07-22 17:25:55+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 23:27:35+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My metaphysical position
 ---
 
 My current metaphysical position is as follows:

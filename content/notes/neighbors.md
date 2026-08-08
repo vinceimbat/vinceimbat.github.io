@@ -1,16 +1,14 @@
 ---
+title: Neighbors
+created: 2026-07-17 17:01:11+08:00
+modified: 2026-07-17 17:02:12+08:00
 aliases:
 - Neighbors
-created: 2026-07-17 17:01:11+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-17 17:02:12+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Neighbors
 ---
 
 I was never blessed with good neighbors  

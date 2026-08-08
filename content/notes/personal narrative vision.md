@@ -6,8 +6,6 @@ aliases:
   - Personal-Narrative-Vision
   - thoughts/personal-narrative-vision
 draft:
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/thought

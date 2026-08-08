@@ -1,17 +1,15 @@
 ---
+title: How to give feedback on a manuscript
+created: 2025-01-19 09:33:18+08:00
+modified: 2026-05-06 20:59:41+08:00
 aliases:
 - How to give feedback on a manuscript
-created: 2025-01-19 09:33:18+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-06 20:59:41+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
 - species/flashcards
-title: How to give feedback on a manuscript
 ---
 
 An author offers their nakedness and a reader responds with their nakedness in return.

@@ -1,14 +1,12 @@
 ---
+title: Paper vs digital drafts
 created: 2024-02-20 13:22:43+08:00
-dg-home: null
-dg-publish: true
-draft: null
 modified: 2025-03-28 17:03:38+08:00
+draft: null
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Paper vs digital drafts
 ---
 
 Unlike physical [[notes/draft|drafts]], digital generic materials are less faithful to metadata such as date. For example, if one forgets to put the date inside the note, one loses that information if the note is copy-pasted to a new location. In word processors, if changes are not tracked, they all vanish to extinction. Therefore, tracking changes in a digital draft requires intentionality, perhaps more than what is expected in physical drafts. 

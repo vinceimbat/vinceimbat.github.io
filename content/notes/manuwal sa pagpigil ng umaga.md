@@ -1,21 +1,19 @@
 ---
+title: Manuwal sa Pagpigil ng Umaga
+created: 2024-11-23 15:38:33+08:00
+modified: 2025-05-01 14:54:23+08:00
 aliases:
 - poems/manuwal-sa-pagpigil-ng-umaga
 - Manuwal sa Pagpigil ng Umaga
-created: 2024-11-23 15:38:33+08:00
-dg-home: null
-dg-publish: true
-draft: null
 location:
 - 14.1697666
 - 121.2389133
-modified: 2025-05-01 14:54:23+08:00
+draft: null
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Manuwal sa Pagpigil ng Umaga
 ---
 
 Paano ko ba pipigilan ang mabilis na daloy nitong umaga? At bakit ko pipigilan? Hahayaan ko nalang bang lamunin ng alas nwebe y media ang alas nwebe? Bakit ako titigil? Ano ang meron sa pagtigil na wala sa pagpapatuloy? Hindi ba't ang buong mundo'y masasaklot lamang sa pamamagitan ng pagpapatuloy? Dito? Anong meron dito? Ako? Ang paghinga? Ang pagsiyap ng mga maya? Ito lang ba? Kung ito lang, bakit ako mananatili?

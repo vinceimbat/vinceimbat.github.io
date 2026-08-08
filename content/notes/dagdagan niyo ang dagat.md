@@ -1,16 +1,14 @@
 ---
+title: Dagdagan Niyo ang Dagat
+created: 2025-09-30 11:38:13+08:00
+modified: 2025-12-07 11:14:34+08:00
 aliases:
 - Dagdagan Niyo ang Dagat
-created: 2025-09-30 11:38:13+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-07 11:14:34+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Dagdagan Niyo ang Dagat
 ---
 
 Sumisimangot maski balat ng mga paa ko,

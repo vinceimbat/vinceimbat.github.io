@@ -1,16 +1,14 @@
 ---
+title: Completion letter guidelines
+created: 2025-11-15 23:28:04+08:00
+modified: 2025-11-16 09:52:27+08:00
 aliases:
 - Completion letter guidelines
-created: 2025-11-15 23:28:04+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-16 09:52:27+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Completion letter guidelines
 ---
 
 Some guidelines

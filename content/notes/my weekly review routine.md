@@ -1,16 +1,14 @@
 ---
+title: My weekly review routine
+created: 2024-11-26 14:51:19+08:00
+modified: 2026-08-07T15:47:56+08:00
 aliases:
   - My weekly review routine
-created: 2024-11-26 14:51:19+08:00
-dg-home:
-dg-publish: true
 draft:
-modified: 2026-08-07T15:47:56+08:00
 publish: true
 tags:
   - species/thought
   - status/evergreen
-title: My weekly review routine
 ---
 Schedule: Monday, afternoon
 

@@ -5,8 +5,6 @@ modified: 2025-04-12T11:15:51+08:00
 aliases:
   - Making a Sacred Practice More Sacred
 draft: false
-dg-home: 
-dg-publish: 
 tags:
   - species/essay
   - status/seedling

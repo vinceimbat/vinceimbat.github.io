@@ -1,16 +1,14 @@
 ---
+title: Prayer Before Writing and Studying
+created: 2025-11-28 11:54:47+08:00
+modified: 2025-11-28 11:57:58+08:00
 aliases:
 - Prayer Before Writing and Studying
-created: 2025-11-28 11:54:47+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-28 11:57:58+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Prayer Before Writing and Studying
 ---
 
 Dakilang Buhay,  

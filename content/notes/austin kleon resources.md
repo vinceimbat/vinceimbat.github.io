@@ -1,16 +1,14 @@
 ---
+title: Austin Kleon Resources
+created: 2023-10-18 20:28:23+08:00
+modified: 2025-12-16 12:05:49+08:00
 aliases:
 - Austin Kleon Resources
-created: 2023-10-18 20:28:23+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-16 12:05:49+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Austin Kleon Resources
 ---
 
 Some favorite resources of [[austin kleon|Austin Kleon]].

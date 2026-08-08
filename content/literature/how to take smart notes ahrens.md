@@ -1,17 +1,15 @@
 ---
+title: How to Take Smart Notes by Sonke Ahrens
+created: 2024-10-30 22:48:14+08:00
+modified: 2025-03-28 10:40:11+08:00
 aliases:
 - How-to-Take-Smart-Notes-%E2%80%94-Ahrens
 - How to Take Smart Notes
-created: 2024-10-30 22:48:14+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-03-28 10:40:11+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: How to Take Smart Notes by Sonke Ahrens
 ---
 
 ## Highlights

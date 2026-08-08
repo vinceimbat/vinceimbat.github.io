@@ -1,17 +1,15 @@
 ---
+title: Mahāyāna buddhism
+created: 2025-07-25 17:36:43+08:00
+modified: 2025-07-25 18:23:35+08:00
 aliases:
 - Mahāyāna buddhism
-created: 2025-07-25 17:36:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-25 18:23:35+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
 - species/flashcards
-title: Mahāyāna buddhism
 ---
 
 # Prompts

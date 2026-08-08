@@ -1,16 +1,14 @@
 ---
+title: Transcendentalism
+created: 2024-07-29 11:39:40+08:00
+modified: 2025-12-12 22:41:43+08:00
 aliases:
 - Transcendentalism
-created: 2024-07-29 11:39:40+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 22:41:43+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Transcendentalism
 ---
 
 An offshoot of [[unitarianism|unitarianism]] founded by [[ralph waldo emerson|Ralph Waldo Emerson]].

@@ -1,16 +1,14 @@
 ---
+title: is, not this, the carpenter's son?
+created: 2026-05-04 08:40:48+08:00
+modified: 2026-05-04 08:42:04+08:00
 aliases:
 - is, not this, the carpenter's son?
-created: 2026-05-04 08:40:48+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-04 08:42:04+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: is, not this, the carpenter's son?
 ---
 
 Both of these diatheses are the results and concomitants of depressed vitality; but the nervous is peculiar to brain-workers and civilization, while the tuberculous also afflicts the day-laborer and the savage.*

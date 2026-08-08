@@ -1,16 +1,14 @@
 ---
+title: Kiitsu Kyōkai walks
+created: 2024-10-17 14:16:53+08:00
+modified: 2025-10-25 09:25:43+08:00
 aliases:
 - Kiitsu Kyōkai walks
-created: 2024-10-17 14:16:53+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-25 09:25:43+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Kiitsu Kyōkai walks
 ---
 
 - [[2024-05-18 kiitsu kyokai walk]]

@@ -1,16 +1,14 @@
 ---
+title: Partial Views by Conchitina Cruz
+created: 2026-07-04 08:28:06+08:00
+modified: 2026-07-04 08:29:07+08:00
 aliases:
 - Partial Views by Conchitina Cruz
-created: 2026-07-04 08:28:06+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-04 08:29:07+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Partial Views by Conchitina Cruz
 ---
 
 # Citation

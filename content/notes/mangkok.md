@@ -1,20 +1,18 @@
 ---
+title: Mangkok
+created: 2024-06-17 11:47:00+08:00
+modified: 2026-05-27 17:11:27+08:00
 aliases:
 - Mangkok
-created: 2024-06-17 11:47:00+08:00
-dg-home: null
-dg-publish: true
-draft: false
 location:
 - 14.166778186315714
 - 121.23771860837516
-modified: 2026-05-27 17:11:27+08:00
+draft: false
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Mangkok
 ---
 
 Tumatahol na aso  

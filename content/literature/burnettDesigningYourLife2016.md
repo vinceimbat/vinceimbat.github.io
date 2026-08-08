@@ -1,17 +1,15 @@
 ---
+title: Designing Your Life by Burnett and Evans
+created: 2024-03-28 14:14:19+08:00
+modified: 2026-01-30 10:10:28+08:00
 aliases:
 - Designing Your Life by Burnett and Evans
-created: 2024-03-28 14:14:19+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-30 10:10:28+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: Designing Your Life by Burnett and Evans
 ---
 
 # Citation

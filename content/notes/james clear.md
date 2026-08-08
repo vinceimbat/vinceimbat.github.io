@@ -1,16 +1,14 @@
 ---
+title: James Clear
+created: 2024-09-09 00:01:29+08:00
+modified: 2025-12-12 15:51:55+08:00
 aliases:
 - James Clear
-created: 2024-09-09 00:01:29+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 15:51:55+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: James Clear
 ---
 
 Education

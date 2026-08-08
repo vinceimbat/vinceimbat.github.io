@@ -5,8 +5,6 @@ modified: 2026-07-30T22:41:53+08:00
 aliases:
   - Energy
 draft: false
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/thought

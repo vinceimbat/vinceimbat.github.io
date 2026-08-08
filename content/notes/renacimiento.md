@@ -1,16 +1,14 @@
 ---
+title: Renacimiento
+created: 2026-02-10 10:34:15+08:00
+modified: 2026-02-10 10:35:12+08:00
 aliases:
 - Renacimiento
-created: 2026-02-10 10:34:15+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-10 10:35:12+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Renacimiento
 ---
 
 tan saray un-uni na anuyiao

@@ -1,17 +1,15 @@
 ---
-aliases: null
+title: A Wider Fellowship — free-religion without borders of place or time . . . (and
+  an Addendum on the importance of meditation)
 created: 2025-06-18 11:09:35+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-06-18 11:38:54+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: A Wider Fellowship — free-religion without borders of place or time . . . (and
-  an Addendum on the importance of meditation)
 ---
 
 # Citation

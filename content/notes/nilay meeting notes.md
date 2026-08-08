@@ -1,16 +1,14 @@
 ---
+title: Nilay meeting notes
+created: 2026-03-10 14:27:35+08:00
+modified: 2026-04-28 11:00:28+08:00
 aliases:
 - Nilay meeting notes
-created: 2026-03-10 14:27:35+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-04-28 11:00:28+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Nilay meeting notes
 ---
 
 # 2025

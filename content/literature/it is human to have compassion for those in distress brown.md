@@ -1,15 +1,13 @@
 ---
+title: It is human to have compassion for those in distress - Brown
 created: 2025-01-23 16:20:19+08:00
-dg-home: null
-dg-publish: true
-draft: null
 modified: 2025-04-06 22:46:59+08:00
+draft: null
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: It is human to have compassion for those in distress - Brown
 ---
 
 Author of "The Decameron" :: Giovanni Boccaccio

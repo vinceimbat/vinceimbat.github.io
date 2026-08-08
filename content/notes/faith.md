@@ -1,17 +1,15 @@
 ---
+title: Faith
+created: 2022-10-10
+modified: 2025-06-26 11:13:00+08:00
 aliases:
 - Faith
 - thoughts/faith
-created: 2022-10-10
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-06-26 11:13:00+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Faith
 ---
 
 A life can be lived in a spectrum. At both ends are the following:

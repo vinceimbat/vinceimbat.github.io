@@ -1,16 +1,14 @@
 ---
+title: Films to watch
+created: 2024-02-20 13:22:43+08:00
+modified: 2025-12-13 14:18:43+08:00
 aliases:
 - Films to watch
-created: 2024-02-20 13:22:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 14:18:43+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Films to watch
 ---
 
 # Movies

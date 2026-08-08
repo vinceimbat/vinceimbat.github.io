@@ -1,18 +1,16 @@
 ---
+title: Sa Elbi
+created: 2024-08-19 11:43:34+08:00
+modified: 2026-05-28 07:24:01+08:00
 aliases:
 - Sa Elbi
-created: 2024-08-19 11:43:34+08:00
-dg-home: null
-dg-publish: true
-draft: false
 locations: null
-modified: 2026-05-28 07:24:01+08:00
+draft: false
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Sa Elbi
 ---
 
 Sa Data,  

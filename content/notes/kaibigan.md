@@ -1,16 +1,14 @@
 ---
+title: Kaibigan
+created: 2025-10-11 22:26:18+08:00
+modified: 2025-11-02 22:52:26+08:00
 aliases:
 - Kaibigan
-created: 2025-10-11 22:26:18+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-02 22:52:26+08:00
 publish: true
 tags:
 - species/essay
 - status/evergreen
-title: Kaibigan
 ---
 
 Magtataka pa ba tayong nasa gitna ng kaibigan ang "ibig"? Ibig na pinaguugatan rin ng pag-ibig. Pag-ibig ang sandalan ng pagkakaibigan. Kaya naman nagsisimula ito at nakararating kung saan dalhin ng pag-ibig. Kapag natatapos ito, maaaring sabihing nawala na ang pag-ibig sa pagitan ng dalawa.

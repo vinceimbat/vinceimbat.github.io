@@ -1,16 +1,14 @@
 ---
+title: Introduction by Paz Verdades Santos
+created: 2026-05-31 09:31:23+08:00
+modified: 2026-05-31 09:31:56+08:00
 aliases:
 - Introduction by Paz Verdades Santos
-created: 2026-05-31 09:31:23+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-31 09:31:56+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Introduction by Paz Verdades Santos
 ---
 
 # Citation

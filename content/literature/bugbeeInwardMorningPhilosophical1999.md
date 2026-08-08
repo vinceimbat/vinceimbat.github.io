@@ -5,8 +5,6 @@ modified: 2026-07-31T22:24:13+08:00
 aliases:
   - The Inward Morning by Henry Bugbee
 draft:
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/literature

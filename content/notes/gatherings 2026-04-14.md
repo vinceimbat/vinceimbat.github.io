@@ -4,8 +4,6 @@ created: 2026-04-14T09:20:12+08:00
 modified: 2026-04-26T11:07:23+08:00
 aliases:
 draft: false
-dg-home:
-dg-publish:
 tags:
   - species/essay
   - status/evergreen

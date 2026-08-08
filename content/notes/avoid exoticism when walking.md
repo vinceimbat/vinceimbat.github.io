@@ -1,16 +1,14 @@
 ---
+title: Avoid exoticism when walking
+created: 2023-08-21 22:57:20+08:00
+modified: 2025-12-17 11:17:33+08:00
 aliases:
 - Avoid exoticism when walking
-created: 2023-08-21 22:57:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-17 11:17:33+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Avoid exoticism when walking
 ---
 
 [[notes/walking|Walking]] is not about epic events and landscapes. These are mere performances. This is exoticism. Walking is not about these but looking at these, which requires that one detach from these. It is about being at “the edge of civilized worlds”. Walking is more about going in than out.

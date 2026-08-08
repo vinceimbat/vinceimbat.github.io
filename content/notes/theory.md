@@ -1,16 +1,14 @@
 ---
+title: Theory
+created: 2023-08-21 22:57:21+08:00
+modified: 2025-12-12 21:50:43+08:00
 aliases:
 - Theory
-created: 2023-08-21 22:57:21+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 21:50:43+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Theory
 ---
 
 “A theory is an explanation of some aspect of the natural world that's well-substantiated by facts, tested hypotheses, and laws.”

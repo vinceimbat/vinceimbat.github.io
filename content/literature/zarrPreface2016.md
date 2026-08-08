@@ -1,16 +1,14 @@
 ---
+title: '"Preface" by Sara Zarr'
+created: 2025-10-22 09:37:52+08:00
+modified: 2025-10-22 09:38:13+08:00
 aliases:
 - '"Preface" by Sara Zarr'
-created: 2025-10-22 09:37:52+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-22 09:38:13+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: '"Preface" by Sara Zarr'
 ---
 
 # Citation

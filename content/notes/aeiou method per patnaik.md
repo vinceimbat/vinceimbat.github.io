@@ -1,16 +1,14 @@
 ---
+title: AEIOU method per Patnaik
+created: 2024-02-20 13:22:43+08:00
+modified: 2026-01-29 11:20:18+08:00
 aliases:
 - AEIOU method per Patnaik
-created: 2024-02-20 13:22:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-29 11:20:18+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: AEIOU method per Patnaik
 ---
 
 The AEIOU method came from Dev Patnaik in his book *Needfinding: Design Research and Planning*. I first learned about it from [[burnettDesigningYourLife2016|Designing Your Life by Burnett and Evans]].

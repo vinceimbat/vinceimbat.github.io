@@ -1,16 +1,14 @@
 ---
+title: Be a gateway
+created: 2024-05-09 10:21:40+08:00
+modified: 2025-12-13 10:35:11+08:00
 aliases:
 - Be a gateway
-created: 2024-05-09 10:21:40+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 10:35:11+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Be a gateway
 ---
 
 “Be a gateway” is [[dan blank|Dan Blank's]] term to refer to engaging your audience. Any creative life can be reduced to a single directive (which has two parts): [[hone your craft and engage your audience]]. Being a gateway refers to the second part, engaging your audience.

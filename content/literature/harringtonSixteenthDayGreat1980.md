@@ -1,17 +1,15 @@
 ---
+title: “The Sixteenth Day - The Great Surging Sea” by Harrington
+created: 2026-03-08 21:44:30+08:00
+modified: 2026-03-08 21:46:55+08:00
 aliases:
 - “The Sixteenth Day - The Great Surging Sea” by Harrington
-created: 2026-03-08 21:44:30+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-08 21:46:55+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “The Sixteenth Day - The Great Surging Sea” by Harrington
 ---
 
 # Citation

@@ -1,16 +1,14 @@
 ---
+title: On An Afternoon Walk I Saw Fireflies
+created: 2024-08-24 22:48:24+08:00
+modified: 2026-02-01 16:08:03+08:00
 aliases:
 - On An Afternoon Walk I Saw Fireflies
-created: 2024-08-24 22:48:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-01 16:08:03+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: On An Afternoon Walk I Saw Fireflies
 ---
 
 17:23  

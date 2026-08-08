@@ -1,16 +1,14 @@
 ---
+title: ANWW20
+created: 2024-07-28 22:49:27+08:00
+modified: 2025-05-01 14:52:34+08:00
 aliases:
 - ANWW20
-created: 2024-07-28 22:49:27+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-05-01 14:52:34+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: ANWW20
 ---
 
 This is the acronym for the 20th Ateneo National Writer's Workshop organized by the Ateneo Institute of Literary Arts and Practices (AILAP) that ran from June 9–12, 2023.

@@ -1,18 +1,16 @@
 ---
+title: “, The Haibun as Heuristic, the Cosmopolitan of the Middle,” by Raymond de
+  Borja
+created: 2025-11-21 10:17:16+08:00
+modified: 2025-12-01 15:29:52+08:00
 aliases:
 - “, The Haibun as Heuristic, the Cosmopolitan of the Middle,” by Raymond de Borja
-created: 2025-11-21 10:17:16+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-01 15:29:52+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “, The Haibun as Heuristic, the Cosmopolitan of the Middle,” by Raymond de
-  Borja
 ---
 
 # Citation

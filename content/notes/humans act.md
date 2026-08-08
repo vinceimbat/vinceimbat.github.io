@@ -1,16 +1,14 @@
 ---
+title: Humans act
+created: 2024-10-11 09:30:24+08:00
+modified: 2025-12-17 11:22:46+08:00
 aliases:
 - Humans act
-created: 2024-10-11 09:30:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-17 11:22:46+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Humans act
 ---
 
 “Humans act” is an a priori statement, which is the foundation of the inductive reasoning behind [[praxeology]]. It is a statement that describes an undeniable fact. A rejection of this statement is itself an [[action]], therefore, proving the truthfulness of the statement.

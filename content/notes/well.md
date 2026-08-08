@@ -1,16 +1,14 @@
 ---
+title: Well
+created: 2024-09-29 22:59:42+08:00
+modified: 2026-05-28 08:32:00+08:00
 aliases:
 - Well
-created: 2024-09-29 22:59:42+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-28 08:32:00+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Well
 ---
 
 On the surface  

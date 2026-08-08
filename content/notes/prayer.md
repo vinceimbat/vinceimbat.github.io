@@ -1,18 +1,16 @@
 ---
+title: Prayer
+created: 2024-08-28 22:03:46+08:00
+modified: 2026-05-27 21:15:37+08:00
 aliases:
 - Prayer
-created: 2024-08-28 22:03:46+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 21:15:37+08:00
 publish: true
 tags:
 - species/poem
 - newsletter/tlw
 - status/evergreen
 - status/seedling
-title: Prayer
 ---
 
 Sitting there on that tiny chair  

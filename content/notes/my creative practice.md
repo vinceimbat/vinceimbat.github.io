@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: My creative practice
 created: 2024-07-29 16:37:24+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-04-11 18:28:36+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My creative practice
 ---
 
 My creative practice is the expression of [[thoughts on my poetics]]. The practice of my poetics will change as my understanding of my relationship with art and life in general evolves.

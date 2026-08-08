@@ -1,17 +1,15 @@
 ---
+title: Kung Bakit Lumilipat ang mga Makata sa Elbi
+created: 2024-11-18 16:37:04+08:00
+modified: 2026-01-11 10:40:17+08:00
 aliases:
 - Kung Bakit Lumilipat ang mga Makata sa Elbi
-created: 2024-11-18 16:37:04+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-11 10:40:17+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Kung Bakit Lumilipat ang mga Makata sa Elbi
 ---
 
 Lumilipat ang mga makata sa Elbi  

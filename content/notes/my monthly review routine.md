@@ -1,18 +1,16 @@
 ---
+title: My monthly review routine
+created: 2024-12-02 11:18:22+08:00
+modified: 2026-08-02T14:21:01+08:00
 aliases:
   - My-monthly-review-routine
   - my monthly review routine
   - thoughts/my-monthly-review-routine
-created: 2024-12-02 11:18:22+08:00
-dg-home:
-dg-publish: true
 draft:
-modified: 2026-08-02T14:21:01+08:00
 publish: true
 tags:
   - species/thought
   - status/evergreen
-title: My monthly review routine
 ---
 
 There are four parts to my [[monthly review]]:

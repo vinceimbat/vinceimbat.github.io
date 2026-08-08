@@ -1,16 +1,14 @@
 ---
+title: Poetry Fridays
+created: 2026-04-18 09:58:19+08:00
+modified: 2026-07-27T10:56:51+08:00
 aliases:
   - Poetry Fridays
-created: 2026-04-18 09:58:19+08:00
-dg-home:
-dg-publish: true
 draft: false
-modified: 2026-07-27T10:56:51+08:00
 publish: true
 tags:
   - species/thought
   - status/seedling
-title: Poetry Fridays
 ---
 An hour or so writing sessions which Pinky Aguinaldo started in April 2026. 
 

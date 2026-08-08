@@ -1,16 +1,14 @@
 ---
+title: Strolls by Kant
+created: 2024-08-02 10:47:02+08:00
+modified: 2025-12-12 23:13:10+08:00
 aliases:
 - Strolls by Kant
-created: 2024-08-02 10:47:02+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 23:13:10+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Strolls by Kant
 ---
 
 Kant’s walks were mostly brief and not very well thought of. But he walked whatever the weather was. He always walked by himself because he believed he shouldn’t be talking. A closed mouth was good for his body.

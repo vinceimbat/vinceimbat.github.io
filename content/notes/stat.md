@@ -1,16 +1,14 @@
 ---
+title: Stat
+created: 2025-12-08 22:22:41+08:00
+modified: 2025-12-08 22:23:18+08:00
 aliases:
 - Stat
-created: 2025-12-08 22:22:41+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-08 22:23:18+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Stat
 ---
 
 I used to hate statistics  

@@ -1,16 +1,14 @@
 ---
+title: How to live?
+created: 2024-07-16 11:44:49+08:00
+modified: 2025-12-13 09:53:18+08:00
 aliases:
 - How to live?
-created: 2024-07-16 11:44:49+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 09:53:18+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: How to live?
 ---
 
 Over the extent of my entire young life, and especially during my lowest moments, I have tried and retried to answer a single question that has always baffled me—How should I live?

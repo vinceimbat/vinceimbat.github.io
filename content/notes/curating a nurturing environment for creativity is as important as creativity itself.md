@@ -1,17 +1,15 @@
 ---
+title: Curating a nurturing environment for creativity is as important as creativity
+  itself
+created: 2024-07-24 18:41:50+08:00
+modified: 2025-12-12 23:24:22+08:00
 aliases:
 - Curating a nurturing environment for creativity is as important as creativity itself
-created: 2024-07-24 18:41:50+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 23:24:22+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Curating a nurturing environment for creativity is as important as creativity
-  itself
 ---
 
 Pursuing a creative life seems to involve two mutually exclusive categories of actions:

@@ -1,16 +1,14 @@
 ---
+title: Thoughts on my poetics
+created: 2024-09-07 16:36:30+08:00
+modified: 2025-09-26 16:00:09+08:00
 aliases:
 - Thoughts on my poetics
-created: 2024-09-07 16:36:30+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-09-26 16:00:09+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Thoughts on my poetics
 ---
 
 My creative practice is [[my jiyu shukyo|my jiyū shūkyō]] (i.e., my religion and way of life) and, therefore, my main way of fulfilling [[my purpose statement]]. I see my work as **imagination and re-imagination practiced as a religious discipline and an active pursuit of oneness with the universe**.

@@ -1,16 +1,14 @@
 ---
+title: Tribute to the Clouds of South Cotabato
+created: 2023-08-21 22:57:21+08:00
+modified: 2025-09-12 11:15:40+08:00
 aliases:
 - Tribute to the Clouds of South Cotabato
-created: 2023-08-21 22:57:21+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-09-12 11:15:40+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Tribute to the Clouds of South Cotabato
 ---
 
 Banquets and banquets where life all starts  

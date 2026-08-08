@@ -1,16 +1,14 @@
 ---
+title: Reading inbox
+created: 2024-07-24 18:52:36+08:00
+modified: 2025-11-29 09:56:51+08:00
 aliases:
 - Reading-inbox
-created: 2024-07-24 18:52:36+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-11-29 09:56:51+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Reading inbox
 ---
 
 As we go through life, we are bombarded with so much information, most of which do not align with our purpose and projects or are just plain noise. Since we need to [[avoid collecting information]] and instead internalize those that are truly useful, we need to have a system in place to capture potentially useful reading materials while filtering out the noise. This system is a reading inbox. 

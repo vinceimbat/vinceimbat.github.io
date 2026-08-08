@@ -1,16 +1,14 @@
 ---
+title: Symptoms
+created: 2025-08-22 21:35:58+08:00
+modified: 2025-08-22 21:38:27+08:00
 aliases:
 - Symptoms
-created: 2025-08-22 21:35:58+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-22 21:38:27+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Symptoms
 ---
 
 Created: 17 June 2015

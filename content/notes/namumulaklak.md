@@ -1,17 +1,15 @@
 ---
+title: Namumulaklak
+created: 2024-08-24 22:45:06+08:00
+modified: 2026-05-27 19:55:05+08:00
 aliases:
 - Namumulaklak
-created: 2024-08-24 22:45:06+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 19:55:05+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Namumulaklak
 ---
 
 Binigyan niya'ko ng bulaklak  

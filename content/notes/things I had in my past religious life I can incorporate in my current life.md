@@ -1,14 +1,12 @@
 ---
+title: Things I had in my past religious life I can incorporate in my current life
 created: 2024-02-20 13:22:41+08:00
-dg-home: null
-dg-publish: true
-draft: null
 modified: 2025-05-26 11:19:14+08:00
+draft: null
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Things I had in my past religious life I can incorporate in my current life
 ---
 
 There is so much I can learn from my past life as a young pastor at my childhood religion. I have tried to avoid this history, but the truth is it is a significant part of who I am today and I need to create an open conversation between it and my current life especially because the majority of my life as a religious person was actually pretty fun and might even be better in most respects than what I have now.

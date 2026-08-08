@@ -1,16 +1,14 @@
 ---
+title: Sepulturero
+created: 2026-05-26 10:33:31+08:00
+modified: 2026-05-26 10:40:26+08:00
 aliases:
 - Sepulturero
-created: 2026-05-26 10:33:31+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-26 10:40:26+08:00
 publish: true
 tags:
 - species/dagli
 - status/seedling
-title: Sepulturero
 ---
 
 Siya ang uod na kakainin ng maagang ibong. Ang ilaw na gigising sa naalimpungatang tandang.

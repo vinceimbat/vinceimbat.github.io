@@ -1,19 +1,17 @@
 ---
+title: '“Let a Billion Lotuses Bloom: A Contagious Mind-Virus of Decency—Rutger Bregman’s
+  Basic Message of Hope” by Andrew James Brown'
+created: 2026-03-02 10:40:46+08:00
+modified: 2026-03-02 10:51:30+08:00
 aliases:
 - '“Let a Billion Lotuses Bloom: A Contagious Mind-Virus of Decency—Rutger Bregman’s
   Basic Message of Hope” by Andrew James Brown'
-created: 2026-03-02 10:40:46+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-02 10:51:30+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: '“Let a Billion Lotuses Bloom: A Contagious Mind-Virus of Decency—Rutger Bregman’s
-  Basic Message of Hope” by Andrew James Brown'
 ---
 
 # Citation

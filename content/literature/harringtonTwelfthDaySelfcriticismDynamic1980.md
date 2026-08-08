@@ -1,17 +1,15 @@
 ---
+title: “The Twelfth Day - Self-Criticism—Dynamic Patience—Aspiration” by Harrington
+created: 2026-03-01 14:37:00+08:00
+modified: 2026-03-01 18:32:39+08:00
 aliases:
 - “The Twelfth Day - Self-Criticism—Dynamic Patience—Aspiration” by Harrington
-created: 2026-03-01 14:37:00+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-01 18:32:39+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “The Twelfth Day - Self-Criticism—Dynamic Patience—Aspiration” by Harrington
 ---
 
 # Citation

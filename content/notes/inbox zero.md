@@ -1,16 +1,14 @@
 ---
+title: Inbox zero
+created: 2024-11-26 21:27:48+08:00
+modified: 2025-04-30 10:32:04+08:00
 aliases:
 - Inbox zero
-created: 2024-11-26 21:27:48+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-04-30 10:32:04+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Inbox zero
 ---
 
 [[efficient inboxes are reliably drained|Efficient inboxes are reliably drained]]. One way to drain them is to achieve inbox zero, a process where all items in an inbox are clarified and organized in one session. Because all items need to be processed, inbox zero encourages deferral, delegation, and deletion on the spot. This is quite a violent process that might result to regrets. However, it ensures that you [[close open loops]] more than they arrive.

@@ -1,16 +1,14 @@
 ---
+title: Alaala
+created: 2025-10-10 10:21:08+08:00
+modified: 2025-10-26 14:51:17+08:00
 aliases:
 - Alaala
-created: 2025-10-10 10:21:08+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-26 14:51:17+08:00
 publish: true
 tags:
 - species/essay
 - status/evergreen
-title: Alaala
 ---
 
 Alaala ang dakilang tagagiba ng lahat ng ating pakay. Ang buhay na ating pinapangarap—na siyang pinamamahayan na rin natin minsan—ay maaaring yanigin ng alaala anumang oras. Ang mga lindol na ito ay maaaring sumira sa lahat—kung hahayaan natin.

@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: 'Creative Writing Workshops: Are they worth it? by Writers Digest'
 created: 2025-04-07 15:49:11+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-04-07 16:49:34+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: 'Creative Writing Workshops: Are they worth it? by Writers Digest'
 ---
 
 Workshops can be emotionally draining.

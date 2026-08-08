@@ -1,16 +1,14 @@
 ---
+title: “12 or 20 (Second Series) Questions with Raymond de Borja” by Rob Mclennan
+created: 2025-11-25 17:42:29+08:00
+modified: 2025-11-25 17:42:51+08:00
 aliases:
 - “12 or 20 (Second Series) Questions with Raymond de Borja” by Rob Mclennan
-created: 2025-11-25 17:42:29+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-25 17:42:51+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “12 or 20 (Second Series) Questions with Raymond de Borja” by Rob Mclennan
 ---
 
 # Citation

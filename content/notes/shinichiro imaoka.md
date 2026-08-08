@@ -1,17 +1,15 @@
 ---
+title: Shin'ichirō Imaoka
+created: 2024-11-21 22:48:51+08:00
+modified: 2025-06-20 00:31:18+08:00
 aliases:
 - thoughts/shinichiro-imaoka
 - Shin'ichirō Imaoka
-created: 2024-11-21 22:48:51+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-06-20 00:31:18+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Shin'ichirō Imaoka
 ---
 
 # Emerson's influence

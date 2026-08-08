@@ -1,17 +1,15 @@
 ---
+title: Isa Akong Ilog
+created: 2024-09-08 12:11:36+08:00
+modified: 2026-05-27 11:38:45+08:00
 aliases:
 - Isa Akong Ilog
-created: 2024-09-08 12:11:36+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 11:38:45+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Isa Akong Ilog
 ---
 
 Ilog ako  

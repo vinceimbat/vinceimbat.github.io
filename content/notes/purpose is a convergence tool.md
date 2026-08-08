@@ -1,16 +1,14 @@
 ---
+title: Purpose is a convergence tool
+created: 2024-07-29 15:47:26+08:00
+modified: 2025-12-12 23:23:04+08:00
 aliases:
 - Purpose is a convergence tool
-created: 2024-07-29 15:47:26+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 23:23:04+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Purpose is a convergence tool
 ---
 
 Here's a bottom-up approach to discovering your [[purpose|purpose]].

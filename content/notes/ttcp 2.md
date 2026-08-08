@@ -1,17 +1,15 @@
 ---
+title: TTCP 2
+created: 2023-10-18 20:28:24+08:00
+modified: 2025-12-18 11:06:25+08:00
 aliases:
 - TTCP 2
-created: 2023-10-18 20:28:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-18 11:06:25+08:00
 publish: true
 tags:
 - species/translation
 - language/pangasinan
 - status/seedling
-title: TTCP 2
 ---
 
 Nu ipase'y totoo so pigaran benga-bengatla ya masanting,  

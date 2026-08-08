@@ -1,17 +1,15 @@
 ---
+title: 'Superficial—Out of Profundity: Nietzsche''s Unwritten Birth of Tragedy by
+  Gordon Bearn'
+created: 2024-10-10 23:47:06+08:00
+modified: 2025-06-25 11:08:25+08:00
 aliases:
 - literature/superficial-out-of-profundity-bearn
-created: 2024-10-10 23:47:06+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-06-25 11:08:25+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: 'Superficial—Out of Profundity: Nietzsche''s Unwritten Birth of Tragedy by
-  Gordon Bearn'
 ---
 
 # Citation

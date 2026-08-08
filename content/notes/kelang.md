@@ -1,16 +1,14 @@
 ---
+title: Këlang
+created: 2026-06-08 08:39:28+08:00
+modified: 2026-06-08 09:11:41+08:00
 aliases:
 - Këlang
-created: 2026-06-08 08:39:28+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-08 09:11:41+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Këlang
 ---
 
 Dia'd Santa Maria  

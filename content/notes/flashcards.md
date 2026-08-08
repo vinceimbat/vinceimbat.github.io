@@ -1,13 +1,11 @@
 ---
+title: Flashcards
 created: 2024-12-01 17:30:09+08:00
-dg-home: null
-dg-publish: true
-draft: null
 modified: 2026-03-30 15:46:11+08:00
+draft: null
 publish: true
 tags:
 - species/flashcards
-title: Flashcards
 ---
 
 Appendage to OVIC and GIC overviews I edit. :: \_overview_draft_VI

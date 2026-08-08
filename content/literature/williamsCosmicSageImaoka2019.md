@@ -1,16 +1,14 @@
 ---
+title: Cosmic Sage by Williams
+created: 2024-08-24 14:22:34+08:00
+modified: 2025-12-12 22:35:47+08:00
 aliases:
 - Cosmic Sage by Williams
-created: 2024-08-24 14:22:34+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 22:35:47+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Cosmic Sage by Williams
 ---
 
 # Citation

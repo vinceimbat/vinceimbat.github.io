@@ -1,16 +1,14 @@
 ---
+title: Urban flaneur
+created: 2024-08-22 18:10:05+08:00
+modified: 2025-12-12 23:08:44+08:00
 aliases:
 - Urban flaneur
-created: 2024-08-22 18:10:05+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 23:08:44+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Urban flaneur
 ---
 
 The urban flâneur walks in a very large city. It becomes their landscape. They walk where hostile, anonymous crowds abound and where capitalism has included art works and people. Unlike walkers in nature or the countryside like [[henry david thoreau|Henry David Thoreau]], [[friedrich nietzsche|Friedrich Nietzsche]], or [[jean-jacques rousseau|Jean-Jacques Rousseau]], the urban flâneur walks in "an interrupted, uneven rhythm.” [[notes/walking|Walking]] was not a communion with Nature, but witnessing of scattered, successive experiences.

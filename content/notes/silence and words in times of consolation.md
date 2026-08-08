@@ -1,16 +1,14 @@
 ---
+title: Silence and Words in Times of Consolation
+created: 2025-09-25 11:32:23+08:00
+modified: 2025-12-13 14:22:26+08:00
 aliases:
 - Silence and Words in Times of Consolation
-created: 2025-09-25 11:32:23+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 14:22:26+08:00
 publish: true
 tags:
 - species/meditation
 - status/seedling
-title: Silence and Words in Times of Consolation
 ---
 
 One of the things that I had to get used to and learn when I left traditional and illiberal religion to explore alternatives, was moving from a mode of passively receiving ready-made teachings and doctrines to a mode of active listening—first to what is happening within me and second to what is happening around me. This is what mindfulness and meditation practices that are completely silent, such as Zen and seiza, helped me experience.

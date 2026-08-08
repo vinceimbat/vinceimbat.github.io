@@ -5,8 +5,6 @@ modified: 2026-07-30T21:37:28+08:00
 aliases:
   - Blangko
 draft: false
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/poem

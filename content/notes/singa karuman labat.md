@@ -1,18 +1,16 @@
 ---
+title: Singa Karuman Labat
+created: 2024-08-31 23:18:34+08:00
+modified: 2026-05-28 07:47:20+08:00
 aliases:
 - Singa Karuman Labat
-created: 2024-08-31 23:18:34+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-28 07:47:20+08:00
 publish: true
 tags:
 - species/translation
 - species/poem
 - language/pangasinan
 - status/seedling
-title: Singa Karuman Labat
 ---
 
 "Singa karuman labat"  

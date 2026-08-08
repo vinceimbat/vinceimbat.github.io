@@ -1,15 +1,13 @@
 ---
+title: English usage
 created: 2025-01-28 10:03:54+08:00
-dg-home: null
-dg-publish: true
-draft: null
 modified: 2025-04-06 22:37:23+08:00
+draft: null
 publish: true
 tags:
 - species/thought
 - status/seedling
 - species/flashcards
-title: English usage
 ---
 
 Difference between "inquire" and "enquire." :: "inquire" is formal, "enquire" is general

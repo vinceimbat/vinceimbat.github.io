@@ -1,16 +1,14 @@
 ---
+title: Pangasinan
+created: 2024-05-07 16:45:26+08:00
+modified: 2026-05-25 14:18:33+08:00
 aliases:
 - Pangasinan
-created: 2024-05-07 16:45:26+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-25 14:18:33+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Pangasinan
 ---
 
 # Bulos

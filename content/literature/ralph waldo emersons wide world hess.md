@@ -1,16 +1,14 @@
 ---
+title: Ralph Waldo Emerson's Wide World by Jillian Hess
+created: 2025-03-18
+modified: 2025-03-20 11:30:03+08:00
 aliases:
 - Ralph Waldo Emerson’s "Wide World" by Jillian Hess
-created: 2025-03-18
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-03-20 11:30:03+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Ralph Waldo Emerson's Wide World by Jillian Hess
 ---
 
 ## Highlights

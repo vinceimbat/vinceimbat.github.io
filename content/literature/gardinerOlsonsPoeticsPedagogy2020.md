@@ -1,17 +1,15 @@
 ---
+title: '“Olson’s Poetics and Pedagogy: Influences at Black Mountain College” by Jeff
+  Gardiner'
+created: 2026-03-28 11:32:41+08:00
+modified: 2026-03-28 11:33:14+08:00
 aliases:
 - '“Olson’s Poetics and Pedagogy: Influences at Black Mountain College” by Jeff Gardiner'
-created: 2026-03-28 11:32:41+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-28 11:33:14+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: '“Olson’s Poetics and Pedagogy: Influences at Black Mountain College” by Jeff
-  Gardiner'
 ---
 
 # Citation

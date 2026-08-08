@@ -1,19 +1,17 @@
 ---
+title: “Addressing Hierarchy, Equality, Shame and Self-Compassion in Liberal, Free-Religious
+  Community” by Andrew James Brown
+created: 2025-11-17 10:27:05+08:00
+modified: 2025-11-19 22:56:13+08:00
 aliases:
 - “Addressing Hierarchy, Equality, Shame and Self-Compassion in Liberal, Free-Religious
   Community” by Andrew James Brown
-created: 2025-11-17 10:27:05+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-19 22:56:13+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “Addressing Hierarchy, Equality, Shame and Self-Compassion in Liberal, Free-Religious
-  Community” by Andrew James Brown
 ---
 
 # Citation

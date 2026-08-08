@@ -1,17 +1,15 @@
 ---
+title: 'Dapithapon: NLAI Walk 1'
+created: 2024-02-28 11:39:35+08:00
+modified: 2026-05-29 09:45:36+08:00
 aliases:
 - 'Dapithapon: NLAI Walk 1'
-created: 2024-02-28 11:39:35+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-29 09:45:36+08:00
 publish: true
 tags:
 - species/essay
 - status/seedling
 - status/evergreen
-title: 'Dapithapon: NLAI Walk 1'
 ---
 
 NLAI or Nasa Labas ang Ili was a series of two walks I facilitated along a route inside the University of the Philippines Los Baños (UPLB) in 2023. It was one of several workshops by various facilitators under Rosa Mirasol Melencio–Quijano's first solo exhibit entitled "ILI: Mga Kwento ng Lupa, Bayan, at Tahanan" (ILI: Stories of Land, Country, and Home). *Ili* is an Ilocano word, which throughout history has meant village, town, or community.

@@ -1,16 +1,14 @@
 ---
-aliases: null
+title: To touch again the finely woven, seamless cloth of joy & woe — an Easter Sunday
+  meditation by Andrew J. Brown
 created: 2025-05-01 11:27:07+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-05-01 11:39:47+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: To touch again the finely woven, seamless cloth of joy & woe — an Easter Sunday
-  meditation by Andrew J. Brown
 ---
 
 # Highlights

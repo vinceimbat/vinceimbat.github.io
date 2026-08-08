@@ -5,8 +5,6 @@ modified: 2025-05-26T00:04:32+08:00
 aliases:
   - literature/nightingalingale-by-mod
 draft: false
-dg-home: 
-dg-publish: 
 tags:
   - species/literature
   - status/seedling

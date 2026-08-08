@@ -1,16 +1,14 @@
 ---
+title: Zettelkasten
+created: 2024-11-26 23:21:54+08:00
+modified: 2025-12-12 17:28:16+08:00
 aliases:
 - Zettelkasten
-created: 2024-11-26 23:21:54+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-12-12 17:28:16+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Zettelkasten
 ---
 
 The zettelkasten note-writing system is a huge inspiration to my [[talahardin]]. Zettelkasten is a German word that roughly translates to “slip-box.” Not everyone agrees to this translation. It is a note-writing system famous for fueling the scholarship of Niklas Luhmann. Sonke Ahrens' book [[how to take smart notes ahrens|How to Take Smart Notes]] is considered by some as the best entry point book for the system in English. I think the most intuitive version of the system for the Internet age is [[andy matuschak|Andy Matuschak's]] evergreen note-taking system. Many consider the website [Zettelkasten](https://zettelkasten.de/) as the best source of practical information on modern-day applications of the process.

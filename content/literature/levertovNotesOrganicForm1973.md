@@ -1,16 +1,14 @@
 ---
+title: “Some Notes on Organic Form” by Denise Levertov
+created: 2025-10-28 16:25:56+08:00
+modified: 2025-10-28 17:39:00+08:00
 aliases:
 - “Some Notes on Organic Form” by Denise Levertov
-created: 2025-10-28 16:25:56+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-28 17:39:00+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “Some Notes on Organic Form” by Denise Levertov
 ---
 
 # Citation

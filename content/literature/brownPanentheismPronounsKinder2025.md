@@ -1,17 +1,15 @@
 ---
+title: “Pan(En)Theism, Pronouns, and a Kinder Speech about God” by Andrew James Brown
+created: 2025-11-24 10:30:01+08:00
+modified: 2025-11-24 10:44:19+08:00
 aliases:
 - “Pan(En)Theism, Pronouns, and a Kinder Speech about God” by Andrew James Brown
-created: 2025-11-24 10:30:01+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-24 10:44:19+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “Pan(En)Theism, Pronouns, and a Kinder Speech about God” by Andrew James Brown
 ---
 
 # Citation

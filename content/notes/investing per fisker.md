@@ -1,16 +1,14 @@
 ---
+title: Investing per Fisker
+created: 2024-08-24 14:08:26+08:00
+modified: 2025-12-12 23:06:00+08:00
 aliases:
 - Investing per Fisker
-created: 2024-08-24 14:08:26+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 23:06:00+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Investing per Fisker
 ---
 
 In [[fiskerEarlyRetirementExtreme2010|Early Retirement Extreme]], Fisker sets out principles and not strategies on how to achieve [[financial independence]] fast. However, knowing how he applies the principles he discussed in that book is more vital I think.

@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: My newsletter strategy
 created: 2025-04-05 16:10:54+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-10-08 10:11:19+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My newsletter strategy
 ---
 
 If my inside-facing writing revolves around my [[journal]], the outside-facing writing revolves around my website. That website draws visitors through two channels I control: social media and newsletter.

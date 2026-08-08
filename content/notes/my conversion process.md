@@ -1,16 +1,14 @@
 ---
+title: My conversion process
+created: 2024-10-19 23:22:55+08:00
+modified: 2025-12-12 22:42:00+08:00
 aliases:
 - My conversion process
-created: 2024-10-19 23:22:55+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 22:42:00+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My conversion process
 ---
 
 I wrote this after reading about [[shinichiro imaoka|Shinichiro Imaoka's]] conversion process in *[[williamsCosmicSageImaoka2019|Cosmic Sage by Williams]]*.

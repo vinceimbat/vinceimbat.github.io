@@ -1,16 +1,14 @@
 ---
+title: Prototypes and lessons
+created: 2026-01-15 10:57:55+08:00
+modified: 2026-01-18 00:03:55+08:00
 aliases:
 - Prototypes and lessons
-created: 2026-01-15 10:57:55+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-18 00:03:55+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Prototypes and lessons
 ---
 
 # Website

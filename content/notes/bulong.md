@@ -1,18 +1,16 @@
 ---
+title: Bulóng
+created: 2025-10-13 17:22:55+08:00
+modified: 2025-12-01 17:27:36+08:00
 aliases:
 - Bulóng
-created: 2025-10-13 17:22:55+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-01 17:27:36+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
 - language/pangasinan
 - species/translation
-title: Bulóng
 ---
 
 Aliwan say kapëlag

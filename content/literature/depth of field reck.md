@@ -1,16 +1,14 @@
 ---
-aliases: null
+title: 'Depth of field: An Easy Overview by Kellan Reck'
 created: 2025-05-08 16:59:18+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-05-08 17:06:53+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: 'Depth of field: An Easy Overview by Kellan Reck'
 ---
 
 # Prompts

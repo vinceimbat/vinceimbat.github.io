@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: My close reading process
 created: 2025-04-14 16:49:28+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-04-14 16:50:08+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My close reading process
 ---
 
 When engaging with competitive materials or materials I want to learn from (such as classics), I find my way through three levels of reading.

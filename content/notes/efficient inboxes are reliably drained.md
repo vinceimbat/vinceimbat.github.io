@@ -1,16 +1,14 @@
 ---
+title: Efficient inboxes are reliably drained
+created: 2024-10-17
+modified: 2025-04-30 10:28:52+08:00
 aliases:
 - Efficient inboxes are reliably drained
-created: 2024-10-17
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-04-30 10:28:52+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Efficient inboxes are reliably drained
 ---
 
 Use [[inboxes to capture seeds]]. These inboxes should be drained regularly. If they are reliably drained, you can [[close open loops]], which will help you focus on the most important work.

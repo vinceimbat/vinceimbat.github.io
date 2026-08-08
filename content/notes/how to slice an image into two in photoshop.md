@@ -1,16 +1,14 @@
 ---
-aliases: null
+title: How to slice an image into two in Photoshop
 created: 2025-01-20 17:01:11+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-04-06 22:40:12+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
 - species/flashcards
-title: How to slice an image into two in Photoshop
 ---
 
 Here are the six steps in slicing an image into two in Photoshop.

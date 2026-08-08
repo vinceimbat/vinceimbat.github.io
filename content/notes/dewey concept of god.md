@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Dewey's concept of God
 created: 2024-05-24 16:18:54+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-05-01 11:19:42+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Dewey's concept of God
 ---
 
 # Highlights

@@ -1,17 +1,15 @@
 ---
+title: Ulëg a Tëlëk
+created: 2024-10-30 22:44:47+08:00
+modified: 2026-05-28 08:22:22+08:00
 aliases:
 - Ulëg a Tëlëk
-created: 2024-10-30 22:44:47+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-28 08:22:22+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/seedling
-title: Ulëg a Tëlëk
 ---
 
 Say kuwanda  

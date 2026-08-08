@@ -1,21 +1,19 @@
 ---
+title: Sa Madamba
+created: 2024-03-12 17:18:58+08:00
+modified: 2026-05-28 07:26:22+08:00
 aliases:
 - Sa Madamba
-created: 2024-03-12 17:18:58+08:00
-dg-home: null
-dg-publish: true
-draft: false
 location:
 - 14.15649448960029
 - 121.24302695438428
-modified: 2026-05-28 07:26:22+08:00
+draft: false
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
 - buhian
-title: Sa Madamba
 ---
 
 Tahimik na tahimik dito sa Madamba ngayon. Walang marinig kundi ang sipol ng tren sa malayo na bumibiyak sa katahimikang pinagpipiyestahan ng mga kulisap at palaka.

@@ -1,16 +1,14 @@
 ---
+title: My anthology of favorite poems
+created: 2025-12-29 16:29:20+08:00
+modified: 2026-06-18 16:45:09+08:00
 aliases:
 - My anthology of favorite poems
-created: 2025-12-29 16:29:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-18 16:45:09+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My anthology of favorite poems
 ---
 
 "Corsons Inlet" by A. R. Ammons

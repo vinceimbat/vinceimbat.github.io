@@ -1,18 +1,16 @@
 ---
+title: In July
+created: 2024-09-11 18:25:51+08:00
+modified: 2025-12-14 11:24:39+08:00
 aliases:
 - In July
-created: 2024-09-11 18:25:51+08:00
-dg-home: null
-dg-publish: true
-draft: false
 locations: null
-modified: 2025-12-14 11:24:39+08:00
+draft: false
 publish: true
 tags:
 - species/poem
 - newsletter/tlw
 - status/seedling
-title: In July
 ---
 
 [He](geo:14.166446249410958,121.24214673531245) said he puts things where he remembers them. She said we still lose them anyway.

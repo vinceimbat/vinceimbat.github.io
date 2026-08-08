@@ -1,17 +1,15 @@
 ---
+title: Life management system
+created: 2024-11-26 21:16:23+08:00
+modified: 2025-07-02 15:24:32+08:00
 aliases:
 - Life-management-system
 - thoughts/life-management-system
-created: 2024-11-26 21:16:23+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-02 15:24:32+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Life management system
 ---
 
 A life management system is a consolidation of conceptual and physical structures that help an individual embrace [[intentional living]]. The structures of a life management system are primarily conceptual (i.e., they exist first in the mind). However, since [[action occurs in an external objective physical world]], physical structures are needed to extend and realize the conceptual structures.

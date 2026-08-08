@@ -1,16 +1,14 @@
 ---
+title: Kapag Kumanta ang Puso
+created: 2023-10-18 20:28:24+08:00
+modified: 2025-12-13 11:25:59+08:00
 aliases:
 - Kapag Kumanta ang Puso
-created: 2023-10-18 20:28:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 11:25:59+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Kapag Kumanta ang Puso
 ---
 
 Manahimik ka  

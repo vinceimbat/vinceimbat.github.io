@@ -4,8 +4,6 @@ created: 2023-10-18T20:28:24+08:00
 modified: 2025-12-13T23:35:13+08:00
 aliases:
 draft: false
-dg-home:
-dg-publish:
 tags:
   - species/quote
   - status/evergreen

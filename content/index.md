@@ -4,8 +4,6 @@ created: 2026-07-24T11:01:08+08:00
 modified: 2026-08-03T09:50:55+08:00
 aliases:
 draft: false
-dg-home:
-dg-publish:
 publish: true
 tags:
   - species/thought

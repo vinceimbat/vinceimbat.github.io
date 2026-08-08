@@ -1,16 +1,14 @@
 ---
+title: What is the categorical difference of intrinsic and extrinsic rewards?
+created: 2023-08-21 22:57:21+08:00
+modified: 2025-12-13 10:21:00+08:00
 aliases:
 - What is the categorical difference of intrinsic and extrinsic rewards?
-created: 2023-08-21 22:57:21+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 10:21:00+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: What is the categorical difference of intrinsic and extrinsic rewards?
 ---
 
 Everything rewards the self, because everything ultimately gets to it. The intrinsic vs extrinsic rewards categorical distinction must only apply to the source of these rewards. Rewards that the mind generates by itself through psychological processes are intrinsic. These are mental rather than physical. Rewards that are extrinsic are physical like possessions or information that comes from other people like praise or validation. The mind could respond from these external stimuli to generate feel good emotions too.

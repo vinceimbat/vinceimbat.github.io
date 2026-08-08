@@ -1,17 +1,15 @@
 ---
+title: Inuman Ëd Di Mang Ador
+created: 2024-09-06 23:24:06+08:00
+modified: 2026-05-27 11:35:43+08:00
 aliases:
 - Inuman Ëd Di Mang Ador
-created: 2024-09-06 23:24:06+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 11:35:43+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/evergreen
-title: Inuman Ëd Di Mang Ador
 ---
 
 Marakëp no kapanëkas na impaagëw a ilik  

@@ -1,18 +1,16 @@
 ---
+title: '“Paglalagalag sa Multong-Modernidad ng Lungsod at Nayon: Tatlong Akda ni Jun
+  Cruz Reyes bilang Paglalaboy-laboy at Pananaliksik” by Ivan Emil A. Labayne'
+created: 2026-05-30 15:49:59+08:00
+modified: 2026-06-01 17:11:37+08:00
 aliases:
 - '“Paglalagalag sa Multong-Modernidad ng Lungsod at Nayon: Tatlong Akda ni Jun Cruz
   Reyes bilang Paglalaboy-laboy at Pananaliksik” by Ivan Emil A. Labayne'
-created: 2026-05-30 15:49:59+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-01 17:11:37+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: '“Paglalagalag sa Multong-Modernidad ng Lungsod at Nayon: Tatlong Akda ni Jun
-  Cruz Reyes bilang Paglalaboy-laboy at Pananaliksik” by Ivan Emil A. Labayne'
 ---
 
 # Citation

@@ -1,17 +1,15 @@
 ---
+title: Antoy Agawa?
+created: 2024-08-28 21:54:29+08:00
+modified: 2026-01-21 10:55:29+08:00
 aliases:
 - Antoy Agawa?
-created: 2024-08-28 21:54:29+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-21 10:55:29+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/seedling
-title: Antoy Agawa?
 ---
 
 Akin et ag ak makapansulat ya mainomay ed Pangasinan? Antoy ginaway tawen tan dalin tan panaon ed dilak? Antoy ginawa da ed kamarerwak?

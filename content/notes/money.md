@@ -1,16 +1,14 @@
 ---
+title: Money
+created: 2024-05-01 16:11:12+08:00
+modified: 2025-12-13 11:30:46+08:00
 aliases:
 - Money
-created: 2024-05-01 16:11:12+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 11:30:46+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Money
 ---
 
 The greatest bondage of our time is our bondage with the money economy. It is the 21st century slavery. There was a time in the history of humanity, where human beings only worked enough time to provide for their food, shelter, and clothing. Things were simple and time was abundant. Today, the world is complex. Our [[ends]] are complex and interconnected to a larger behemoth. How we act, what we do, and when we do it—these constitute [[freedom]] and they are what we lost through the rat race.

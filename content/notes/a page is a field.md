@@ -1,16 +1,14 @@
 ---
+title: A page is a field
+created: 2026-07-17 17:15:21+08:00
+modified: 2026-07-17 17:17:30+08:00
 aliases:
 - A page is a field
-created: 2026-07-17 17:15:21+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-17 17:17:30+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: A page is a field
 ---
 
 Per [[williams carlos williams|William Carlos Williams]], a poetry is a field of action, which [[charles olson|Charles Olson]] adopted.

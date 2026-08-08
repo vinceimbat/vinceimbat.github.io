@@ -5,8 +5,6 @@ modified: 2026-08-02T14:25:26+08:00
 aliases:
   - My lifeview
 draft: false
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/thought

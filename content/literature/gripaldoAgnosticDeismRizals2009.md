@@ -1,16 +1,14 @@
 ---
+title: 'Agnostic Deism: Rizal’s Religious Philosophy by Rolando M. Gripaldo'
+created: 2025-07-24 11:43:43+08:00
+modified: 2025-12-29 16:14:29+08:00
 aliases:
 - 'Agnostic Deism: Rizal’s Religious Philosophy by Rolando M. Gripaldo'
-created: 2025-07-24 11:43:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-29 16:14:29+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: 'Agnostic Deism: Rizal’s Religious Philosophy by Rolando M. Gripaldo'
 ---
 
 # Citation

@@ -1,19 +1,17 @@
 ---
+title: “Free-Religion’s Challenge to All Covenantal Singularisation Projects” by Andrew
+  James Brown
+created: 2025-06-26 16:32:18+08:00
+modified: 2025-06-26 17:00:29+08:00
 aliases:
 - “Free-Religion’s Challenge to All Covenantal Singularisation Projects” by Andrew
   James Brown
-created: 2025-06-26 16:32:18+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-06-26 17:00:29+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “Free-Religion’s Challenge to All Covenantal Singularisation Projects” by Andrew
-  James Brown
 ---
 
 # Citation

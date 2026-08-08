@@ -1,16 +1,14 @@
 ---
+title: You Need a Budget by Jesse Mecham
+created: 2026-04-26 09:44:25+08:00
+modified: 2026-04-26 09:44:49+08:00
 aliases:
 - You Need a Budget by Jesse Mecham
-created: 2026-04-26 09:44:25+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-04-26 09:44:49+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: You Need a Budget by Jesse Mecham
 ---
 
 # Citation

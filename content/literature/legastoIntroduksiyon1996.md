@@ -1,16 +1,14 @@
 ---
+title: '"Introduksiyon" by Priscelina P. Legasto'
+created: 2026-02-12 09:25:21+08:00
+modified: 2026-02-12 09:26:22+08:00
 aliases:
 - '"Introduksiyon" by Priscelina P. Legasto'
-created: 2026-02-12 09:25:21+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-12 09:26:22+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: '"Introduksiyon" by Priscelina P. Legasto'
 ---
 
 # Citation

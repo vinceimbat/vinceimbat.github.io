@@ -1,16 +1,14 @@
 ---
+title: Never-ending
+created: 2024-08-24 22:46:19+08:00
+modified: 2026-05-27 19:58:16+08:00
 aliases:
 - Never-ending
-created: 2024-08-24 22:46:19+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 19:58:16+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Never-ending
 ---
 
 I had a friend 

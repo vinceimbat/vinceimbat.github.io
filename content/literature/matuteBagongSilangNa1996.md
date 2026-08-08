@@ -1,16 +1,14 @@
 ---
+title: “Bagong Silang Na Manunulat” by Genoveva Edroza Matute
+created: 2026-07-09 08:38:11+08:00
+modified: 2026-07-09 08:38:42+08:00
 aliases:
 - “Bagong Silang Na Manunulat” by Genoveva Edroza Matute
-created: 2026-07-09 08:38:11+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-09 08:38:42+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “Bagong Silang Na Manunulat” by Genoveva Edroza Matute
 ---
 
 # Citation

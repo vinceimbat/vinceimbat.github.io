@@ -4,8 +4,6 @@ created: 2024-12-02T10:01:31+08:00
 modified: 2025-03-26T16:53:25+08:00
 aliases: 
 draft: false
-dg-home: 
-dg-publish: 
 tags:
   - species/literature
   - status/seedling

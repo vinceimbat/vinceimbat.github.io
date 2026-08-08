@@ -1,17 +1,15 @@
 ---
+title: My creative artifacts
+created: 2024-07-16 12:11:13+08:00
+modified: 2025-04-11 18:02:54+08:00
 aliases:
 - What-creative-artifacts-do-I-want-to-create
 - thoughts/my-creative-artifacts
-created: 2024-07-16 12:11:13+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-04-11 18:02:54+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My creative artifacts
 ---
 
 My writing practice is inside first, outside second. I prioritize often marginalized genres of writing, such as journaling, trusting that the raw and unedited is often closer to the truth. I see my individual writings, even those that have already been published, as drafts and my body of work as a large evolving archive that is never finished.

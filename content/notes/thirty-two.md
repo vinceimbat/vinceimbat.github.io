@@ -1,16 +1,14 @@
 ---
+title: Thirty-two
+created: 2024-10-03 23:29:53+08:00
+modified: 2026-05-28 08:02:13+08:00
 aliases:
 - Thirty-two
-created: 2024-10-03 23:29:53+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-28 08:02:13+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Thirty-two
 ---
 
 1. Jalousie windows.

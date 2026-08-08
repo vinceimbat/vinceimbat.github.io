@@ -1,16 +1,14 @@
 ---
+title: Truth
+created: 2024-07-16 11:55:33+08:00
+modified: 2025-12-12 23:35:59+08:00
 aliases:
 - Truth
-created: 2024-07-16 11:55:33+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 23:35:59+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Truth
 ---
 
 Truth is about objective facts.

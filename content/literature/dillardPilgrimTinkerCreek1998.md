@@ -1,19 +1,17 @@
 ---
+title: Pilgrim at Tinker Creek by Annie Dillard
+created: 2024-11-22 22:29:06+08:00
+modified: 2025-07-07 09:37:22+08:00
 aliases:
 - a-pilgrim-at-tinker-creek---dillard
 - thoughts/a-pilgrim-at-tinker-creek-by-dillard
 - A Pilgrim at Tinker Creek
 - Pilgrim at Tinker Creek by Annie Dillard
-created: 2024-11-22 22:29:06+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-07-07 09:37:22+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Pilgrim at Tinker Creek by Annie Dillard
 ---
 
 # Citation

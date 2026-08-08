@@ -1,16 +1,14 @@
 ---
+title: “The Indispensable Conditions for Religious Conviction” by Manshi Kiyozawa
+created: 2025-06-20 00:37:31+08:00
+modified: 2025-06-21 10:31:55+08:00
 aliases:
 - “The Indispensable Conditions for Religious Conviction” by Manshi Kiyozawa
-created: 2025-06-20 00:37:31+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-06-21 10:31:55+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “The Indispensable Conditions for Religious Conviction” by Manshi Kiyozawa
 ---
 
 # Citation

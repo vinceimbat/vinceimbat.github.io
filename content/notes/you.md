@@ -1,16 +1,14 @@
 ---
+title: You
+created: 2024-11-12 20:49:30+08:00
+modified: 2025-04-04 20:50:23+08:00
 aliases:
 - poems/you
-created: 2024-11-12 20:49:30+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-04-04 20:50:23+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: You
 ---
 
 I looked for you  

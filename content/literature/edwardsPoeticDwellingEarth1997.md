@@ -1,17 +1,15 @@
 ---
+title: “Poetic Dwelling on the Earth as a Mortal” by James C. Edwards
+created: 2025-12-02 16:14:55+08:00
+modified: 2025-12-17 22:07:47+08:00
 aliases:
 - “Poetic Dwelling on the Earth as a Mortal” by James C. Edwards
-created: 2025-12-02 16:14:55+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-17 22:07:47+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “Poetic Dwelling on the Earth as a Mortal” by James C. Edwards
 ---
 
 # Citation
@@ -321,7 +319,7 @@ Per Edwards, what is the difference between the discarnate self and the rugged s
 <!--SR:!2026-09-30,63,190-->
 
 Per Edwards, what is the relationship of Dasein with the discarnate self and the rugged self? :: It is neither these two.
-<!--SR:!2026-08-08,185,310-->
+<!--SR:!2028-02-29,570,310-->
 
 Why is Dasein not the rugged self? :: It is not defined by identities.
 <!--SR:!2027-06-24,395,270-->

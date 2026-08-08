@@ -1,16 +1,14 @@
 ---
+title: "]once again no"
+created: 2026-02-18 09:22:06+08:00
+modified: 2026-07-29T14:55:07+08:00
 aliases:
   - "]once again no"
-created: 2026-02-18 09:22:06+08:00
-dg-home:
-dg-publish: true
 draft: false
-modified: 2026-07-29T14:55:07+08:00
 publish: true
 tags:
   - species/poem
   - status/seedling
-title: "]once again no"
 ---
 v2
 

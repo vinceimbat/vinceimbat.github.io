@@ -1,16 +1,14 @@
 ---
+title: “Writing as a Means of Grace” by Jaroslav Pelikan
+created: 2025-09-09 09:48:51+08:00
+modified: 2025-09-09 09:49:15+08:00
 aliases:
 - “Writing as a Means of Grace” by Jaroslav Pelikan
-created: 2025-09-09 09:48:51+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-09-09 09:49:15+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “Writing as a Means of Grace” by Jaroslav Pelikan
 ---
 
 # Citation

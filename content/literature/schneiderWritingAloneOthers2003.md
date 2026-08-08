@@ -1,16 +1,14 @@
 ---
+title: Writing Alone and with Others by Pat Schneider
+created: 2024-11-02 10:09:11+08:00
+modified: 2025-09-09 10:26:50+08:00
 aliases:
 - Writing Alone and with Others by Pat Schneider
-created: 2024-11-02 10:09:11+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-09-09 10:26:50+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Writing Alone and with Others by Pat Schneider
 ---
 
 # Citation

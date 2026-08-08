@@ -1,16 +1,14 @@
 ---
+title: “To the (Mis)Educated Filipino Writer” by UPLB Perspective
+created: 2026-07-12 14:19:25+08:00
+modified: 2026-07-12 14:19:49+08:00
 aliases:
 - “To the (Mis)Educated Filipino Writer” by UPLB Perspective
-created: 2026-07-12 14:19:25+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-12 14:19:49+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “To the (Mis)Educated Filipino Writer” by UPLB Perspective
 ---
 
 # Citation

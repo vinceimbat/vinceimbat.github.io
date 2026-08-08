@@ -1,16 +1,14 @@
 ---
+title: Be the Gateway Todos
+created: 2024-04-30
+modified: 2026-03-14 11:18:46+08:00
 aliases:
 - Be the Gateway Todos
-created: 2024-04-30
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-14 11:18:46+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Be the Gateway Todos
 ---
 
 - [ ] Write a mission statement.

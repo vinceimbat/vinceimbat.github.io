@@ -6,8 +6,6 @@ aliases:
   - Monthly-reports
   - thoughts/monthly-reports
 draft:
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/thought

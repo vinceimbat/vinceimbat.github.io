@@ -1,17 +1,15 @@
 ---
+title: '"What Kind of Church/Kyōkai Is Kiitsu Kyōkai?" by Shin''ichirō Imaoka'
+created: 2025-07-29 09:52:55+08:00
+modified: 2025-10-27 15:51:31+08:00
 aliases:
 - '"What Kind of Church/Kyōkai Is Kiitsu Kyōkai?" by Shin''ichirō Imaoka'
-created: 2025-07-29 09:52:55+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-27 15:51:31+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: '"What Kind of Church/Kyōkai Is Kiitsu Kyōkai?" by Shin''ichirō Imaoka'
 ---
 
 # Citation

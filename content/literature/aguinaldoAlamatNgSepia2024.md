@@ -1,16 +1,14 @@
 ---
+title: Alamat ng Sepia by Dennis Aguinaldo
+created: 2025-09-25 10:20:40+08:00
+modified: 2025-09-29 18:31:45+08:00
 aliases:
 - Alamat ng Sepia by Dennis Aguinaldo
-created: 2025-09-25 10:20:40+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-09-29 18:31:45+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Alamat ng Sepia by Dennis Aguinaldo
 ---
 
 # Citation

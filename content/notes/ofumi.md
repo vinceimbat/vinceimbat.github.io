@@ -1,16 +1,14 @@
 ---
+title: Ofumi
+created: 2026-02-25 11:15:37+08:00
+modified: 2026-02-25 11:15:51+08:00
 aliases:
 - Ofumi
-created: 2026-02-25 11:15:37+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-25 11:15:51+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Ofumi
 ---
 
 From [[miki nakura|Miki Nakura]]:

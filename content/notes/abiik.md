@@ -1,16 +1,14 @@
 ---
+title: Abiik
+created: 2025-10-12 09:34:45+08:00
+modified: 2025-10-12 09:55:45+08:00
 aliases:
 - Abiik
-created: 2025-10-12 09:34:45+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-12 09:55:45+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Abiik
 ---
 
 *Noong ika-16 ng Pebrero 2016, si Vincent Navarro, pinakamaningning na tala ng Baguio art world, ay pumanaw. Dalawampu't-tatlong taong gulang lamang siya.*

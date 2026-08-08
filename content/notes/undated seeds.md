@@ -1,16 +1,14 @@
 ---
+title: Undated seeds
+created: 2023-08-21 22:57:21+08:00
+modified: 2025-12-13 22:10:55+08:00
 aliases:
 - Undated seeds
-created: 2023-08-21 22:57:21+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 22:10:55+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Undated seeds
 ---
 
 Everything comes alive after a storm. As if a mess was cleaned. Sunlight looks better. The fields are greener. The air is colder and smells better. The soul is nourished.

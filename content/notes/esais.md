@@ -1,16 +1,14 @@
 ---
+title: Esais
+created: 2024-07-25 14:12:03+08:00
+modified: 2025-04-30 10:44:57+08:00
 aliases:
 - Esais
-created: 2024-07-25 14:12:03+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-04-30 10:44:57+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Esais
 ---
 
 Esais, the root word of essays. It means to try. A single word can be a philosophy of life. To try is how one starts the divergence-convergence spectrum that leads to purpose ([[purpose is a convergence tool]]). In trying there is very little planning done, because trying is part of the planning, or perhaps the pre-plan. You try before you plan a strategy. Because there is not much planning done in trying, you rely on your intuition. Is this interesting? Try it. Does this feel right? Keep it. It is decision-making based on real life feedback. This is how [[Roman Krznaric]] approaches finding a work you love. [[michel de montaigne|Michel de Montaigne]] used this principle to approach writing and he created, within a mumbo-jumbo of words, an art form that is intensely personal—an art form that helped him learn more about himself.

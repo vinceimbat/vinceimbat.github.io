@@ -1,17 +1,15 @@
 ---
+title: TTCP 28
+created: 2023-10-18 20:28:23+08:00
+modified: 2025-12-19 22:58:25+08:00
 aliases:
 - TTCP 28
-created: 2023-10-18 20:28:23+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-19 22:58:25+08:00
 publish: true
 tags:
 - species/translation
 - language/pangasinan
 - status/seedling
-title: TTCP 28
 ---
 
 Kabaten moy laki,  

@@ -1,16 +1,14 @@
 ---
+title: Kapag Natagpuan Kita = Once I Find You by Brion
+created: 2024-10-05 20:32:45+08:00
+modified: 2025-05-31 10:38:39+08:00
 aliases:
 - Kapag Natagpuan Kita = Once I Find You by Brion
-created: 2024-10-05 20:32:45+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-05-31 10:38:39+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Kapag Natagpuan Kita = Once I Find You by Brion
 ---
 
 - [[de jesus translation process]]

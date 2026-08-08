@@ -1,16 +1,14 @@
 ---
+title: Alumahang Langit
+created: 2024-05-18 11:25:05+08:00
+modified: 2025-12-13 10:24:41+08:00
 aliases:
 - Alumahang Langit
-created: 2024-05-18 11:25:05+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 10:24:41+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Alumahang Langit
 ---
 
 Ginamit ni [[henry david thoreau|Henry David Thoreau]] ng ilang beses ang pariralang “mackerel sky” upang ilarawan ang ganitong itsura ng kalangitan.

@@ -1,20 +1,18 @@
 ---
+title: Parang Kailan Lang
+created: 2024-08-24 22:40:45+08:00
+modified: 2026-05-27 21:08:29+08:00
 aliases:
 - Parang Kailan Lang
-created: 2024-08-24 22:40:45+08:00
-dg-home: null
-dg-publish: true
-draft: false
 location:
 - 14.164023
 - 121.240522
-modified: 2026-05-27 21:08:29+08:00
+draft: false
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Parang Kailan Lang
 ---
 
 Sa ilalim ng puno  

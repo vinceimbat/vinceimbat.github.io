@@ -1,17 +1,15 @@
 ---
+title: Aro Kayari Aro
+created: 2024-09-07 23:57:21+08:00
+modified: 2025-10-21 10:49:50+08:00
 aliases:
 - Aro Kayari Aro
-created: 2024-09-07 23:57:21+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-21 10:49:50+08:00
 publish: true
 tags:
 - species/translation
 - language/pangasinan
 - status/seedling
-title: Aro Kayari Aro
 ---
 
 Onsabi panaon  

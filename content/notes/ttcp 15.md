@@ -1,17 +1,15 @@
 ---
+title: TTCP 15
+created: 2023-10-18 20:28:24+08:00
+modified: 2025-12-18 11:42:07+08:00
 aliases:
 - TTCP 15
-created: 2023-10-18 20:28:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-18 11:42:07+08:00
 publish: true
 tags:
 - species/translation
 - language/pangasinan
 - status/seedling
-title: TTCP 15
 ---
 
 Saray Makabat nen unaan a panaon et marunong tan aralem ed Tao.  

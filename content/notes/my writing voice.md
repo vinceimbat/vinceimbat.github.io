@@ -1,16 +1,14 @@
 ---
+title: My writing voice
+created: 2024-02-20 13:22:43+08:00
+modified: 2026-07-06 19:01:28+08:00
 aliases:
 - My writing voice
-created: 2024-02-20 13:22:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-06 19:01:28+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My writing voice
 ---
 
 Jds poems relying on others

@@ -1,16 +1,14 @@
 ---
+title: My reading list
+created: 2024-10-11 17:48:23+08:00
+modified: 2025-07-13 22:00:40+08:00
 aliases:
 - My reading list
-created: 2024-10-11 17:48:23+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-13 22:00:40+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My reading list
 ---
 
 Currently, the main purpose of my [[reading]] is to understand [[jiyu shukyo|jiyū shūkyō]] and to support the creation of [[my jiyu shukyo|my jiyū shūkyō]].

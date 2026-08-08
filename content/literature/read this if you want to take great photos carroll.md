@@ -1,18 +1,16 @@
 ---
+title: Read This If You Want to Take Great Photos by Henry Carroll
+created: 2024-08-24 11:59:09+08:00
+modified: 2025-05-11 09:14:20+08:00
 aliases:
 - Read-This-If-You-Want-to-Take-Great-Photos-by-Henry-Carroll
 - literature/read-this-if-you-want-to-take-great-photos-by-carroll
 - Read This If You Want to Take Great Photos by Henry Carroll
-created: 2024-08-24 11:59:09+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-05-11 09:14:20+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Read This If You Want to Take Great Photos by Henry Carroll
 ---
 
 # Highlights

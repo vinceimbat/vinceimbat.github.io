@@ -1,17 +1,15 @@
 ---
+title: Outstretched Wings of the Spirit by Harrington
+created: 2025-03-15 11:17:08+08:00
+modified: 2025-04-30 09:06:19+08:00
 aliases:
 - Outstretched Wings of the Spirit by Harrington
-created: 2025-03-15 11:17:08+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-04-30 09:06:19+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: Outstretched Wings of the Spirit by Harrington
 ---
 
 # Introduction

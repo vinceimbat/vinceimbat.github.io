@@ -1,16 +1,14 @@
 ---
+title: Nature
+created: 2024-11-17 23:56:51+08:00
+modified: 2025-12-14 17:38:58+08:00
 aliases:
 - Nature
-created: 2024-11-17 23:56:51+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-14 17:38:58+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Nature
 ---
 
 Nature has always called to me—to live near it, to commune with it, and to study it. Nature is the outside world, which even my physical body is a part of. It is that which is apart from my "soul" (i.e., [[subjective experience exists|my subjective experience]]).

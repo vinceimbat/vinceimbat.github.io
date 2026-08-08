@@ -1,16 +1,14 @@
 ---
+title: “Faith and Fiction” by Frederick Buechner
+created: 2026-05-08 09:53:24+08:00
+modified: 2026-05-08 09:53:45+08:00
 aliases:
 - “Faith and Fiction” by Frederick Buechner
-created: 2026-05-08 09:53:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-08 09:53:45+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “Faith and Fiction” by Frederick Buechner
 ---
 
 # Citation

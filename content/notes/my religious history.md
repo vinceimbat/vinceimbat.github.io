@@ -1,16 +1,14 @@
 ---
+title: My religious history
+created: 2024-10-08 23:08:33+08:00
+modified: 2025-12-12 22:45:57+08:00
 aliases:
 - My religious history
-created: 2024-10-08 23:08:33+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 22:45:57+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My religious history
 ---
 
 My religious history can be divided into four periods:

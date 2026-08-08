@@ -1,16 +1,14 @@
 ---
-aliases: null
+title: Masasakit na Salita Isang Gabi Habang Naglalakad sa Session
 created: 2025-08-12 22:17:37+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-08-12 22:18:43+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Masasakit na Salita Isang Gabi Habang Naglalakad sa Session
 ---
 
 24 April 2016  

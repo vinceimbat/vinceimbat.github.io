@@ -1,16 +1,14 @@
 ---
+title: Allen Ginsberg
+created: 2025-09-17 16:12:43+08:00
+modified: 2026-02-02 21:34:08+08:00
 aliases:
 - Allen Ginsberg
-created: 2025-09-17 16:12:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-02 21:34:08+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Allen Ginsberg
 ---
 
 # Foundation of Ginsberg's Poetics

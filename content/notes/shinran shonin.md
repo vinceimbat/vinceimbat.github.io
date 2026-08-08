@@ -1,17 +1,15 @@
 ---
+title: Shinran Shōnin (1173–1263)
+created: 2025-06-16 12:02:41+08:00
+modified: 2025-07-25 17:41:06+08:00
 aliases:
 - Shinran Shōnin (1173–1263)
 - Shinran Shōnin
-created: 2025-06-16 12:02:41+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-25 17:41:06+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Shinran Shōnin (1173–1263)
 ---
 
 Known by many as the founder of [[jodo shinshu|Jōdo Shinshū]] or Shin Buddhism. However, he claims that it was his teacher [[honen shonin]]

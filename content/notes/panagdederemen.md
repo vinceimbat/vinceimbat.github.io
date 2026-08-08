@@ -1,16 +1,14 @@
 ---
+title: Panagdëdërëmën
+created: 2024-10-29 16:39:16+08:00
+modified: 2026-01-28 18:06:13+08:00
 aliases:
 - Panagdëdërëmën
-created: 2024-10-29 16:39:16+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-28 18:06:13+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Panagdëdërëmën
 ---
 
 Nen imbeneg a labi leleg kon akayurong ed bilunget, akapikit iray matak tan mambibilang na anges kod maandon deen, anonotan ko ray labin ombibisita tayod di Nanay tan Tatay, onugip dimad sankabalegan a kwartod tagey, siak, si ate, tan bunso ed datal tan sikayo nen Mama ed kama. Nabangon ak ed palbangon ta narengel koy mantutumbokan a ipelag na saray bayo ed kakaabay. Mibansag ira ed betel a mamalkot ed siak tan mangitabin ed siak ed pakayepyep lamet.

@@ -1,17 +1,15 @@
 ---
+title: Para sa Aking Ika-28
+created: 2023-10-18 20:28:24+08:00
+modified: 2025-12-13 11:33:31+08:00
 aliases:
 - Para sa Aking Ika-28
-created: 2023-10-18 20:28:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 11:33:31+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
 - language/filipino
-title: Para sa Aking Ika-28
 ---
 
 Naupo ako sa tabi ng bintana.  

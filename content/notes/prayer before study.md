@@ -1,16 +1,14 @@
 ---
+title: Prayer Before Study
+created: 2025-08-03 11:15:06+08:00
+modified: 2025-08-26 11:12:16+08:00
 aliases:
 - Prayer Before Study
-created: 2025-08-03 11:15:06+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-26 11:12:16+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Prayer Before Study
 ---
 
 Endless Light,  

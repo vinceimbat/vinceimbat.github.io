@@ -1,17 +1,15 @@
 ---
+title: Sampung Tanaga Para Kay JV
+created: 2024-06-11 22:10:50+08:00
+modified: 2026-05-28 07:28:14+08:00
 aliases:
 - Sampung Tanaga Para Kay JV
-created: 2024-06-11 22:10:50+08:00
-dg-home: false
-dg-publish: true
 draft: false
-modified: 2026-05-28 07:28:14+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Sampung Tanaga Para Kay JV
 ---
 
 Tingin ko sa'yo  

@@ -1,17 +1,15 @@
 ---
+title: Pangasinan vocabulary words
+created: 2024-04-15 16:33:19+08:00
+modified: 2026-05-10 10:13:30+08:00
 aliases:
 - Pangasinan-vocabulary-words
-created: 2024-04-15 16:33:19+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2026-05-10 10:13:30+08:00
 publish: true
 tags:
 - species/thought
 - language/pangasinan
 - status/seedling
-title: Pangasinan vocabulary words
 ---
 
 # A

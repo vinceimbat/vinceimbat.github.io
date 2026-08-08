@@ -1,16 +1,14 @@
 ---
+title: Garden Congregationalism by Brown
+created: 2025-05-10 11:51:38+08:00
+modified: 2025-05-10 12:00:55+08:00
 aliases:
 - Garden Congregationalism by Brown
-created: 2025-05-10 11:51:38+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-05-10 12:00:55+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Garden Congregationalism by Brown
 ---
 
 # Highlights

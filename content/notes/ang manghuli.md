@@ -1,17 +1,15 @@
 ---
+title: Ang Manghuli
+created: 2024-08-28 21:52:50+08:00
+modified: 2025-11-22 15:32:32+08:00
 aliases:
 - Ang Manghuli
-created: 2024-08-28 21:52:50+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-22 15:32:32+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Ang Manghuli
 ---
 
 Kailangan nating matutunang  

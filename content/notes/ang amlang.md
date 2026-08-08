@@ -1,16 +1,14 @@
 ---
-aliases: null
+title: Ang Amlang
 created: 2025-08-12 22:01:51+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-08-12 22:20:36+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Ang Amlang
 ---
 
 Sa tayog at lapad ni Apo Amlang  

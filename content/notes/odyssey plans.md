@@ -1,16 +1,14 @@
 ---
+title: Odyssey plans
+created: 2026-01-29 11:26:22+08:00
+modified: 2026-01-29 11:27:56+08:00
 aliases:
 - Odyssey plans
-created: 2026-01-29 11:26:22+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-29 11:27:56+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Odyssey plans
 ---
 
 Odyssey Plans are sketches of possibilities that can animate your imagination and help you choose which direction you will actually take to start prototyping.

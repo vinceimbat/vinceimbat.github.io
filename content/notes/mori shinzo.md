@@ -1,16 +1,14 @@
 ---
+title: Mori Shinzo
+created: 2025-12-16 16:46:22+08:00
+modified: 2025-12-16 16:51:37+08:00
 aliases:
 - Mori Shinzo
-created: 2025-12-16 16:46:22+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-16 16:51:37+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Mori Shinzo
 ---
 
 The following is from [[miki nakura|Miki Nakura]]:

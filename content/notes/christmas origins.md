@@ -1,17 +1,15 @@
 ---
+title: Christmas Origins
+created: 2025-12-20 09:26:52+08:00
+modified: 2026-01-22 10:39:31+08:00
 aliases:
 - Christmas Origins
-created: 2025-12-20 09:26:52+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-22 10:39:31+08:00
 publish: true
 tags:
 - species/haibun
 - language/english
 - status/seedling
-title: Christmas Origins
 ---
 
 In my last year in high school, our teacher, a devout Catholic, asked us to make Christmas decorations out of empty tissue rolls. My classmates set out to work, all forty or so of them, cutting green and red papers, pasting them, sprinkling glitter on pulled cotton. Having never known what Christmas really was, only being fed historical facts about it at church—like how it had a pagan origin or something, Saturnalia and all, a celebration of the sun's return in ancient Rome, how Jesus could never had been born in December because there were shepherds out in the fields that day and, who brings out cattle on a cold winter day?—I went ahead and took a roll. Around it, I wrote a few bullet points explaining why we, as "true Christians," didn't celebrate Christmas.

@@ -1,16 +1,14 @@
 ---
+title: Ela, As I Pass By
+created: 2026-01-22 15:40:54+08:00
+modified: 2026-03-08 17:32:27+08:00
 aliases:
 - Ela, As I Pass By
-created: 2026-01-22 15:40:54+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-08 17:32:27+08:00
 publish: true
 tags:
 - species/translation
 - status/seedling
-title: Ela, As I Pass By
 ---
 
 I cannot hear

@@ -1,16 +1,14 @@
 ---
+title: Ginger Ale Portfolio
+created: 2024-11-26 21:01:13+08:00
+modified: 2025-10-14 11:48:40+08:00
 aliases:
 - Ginger Ale Portfolio
-created: 2024-11-26 21:01:13+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-14 11:48:40+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Ginger Ale Portfolio
 ---
 
 This is the portfolio of the author of Optimized Potfolio, [[John Tyler Williamson]]. Here are its allocations and the [[ETFs]] he uses for each:

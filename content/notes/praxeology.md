@@ -1,16 +1,14 @@
 ---
+title: Praxeology
+created: 2024-07-22 17:20:04+08:00
+modified: 2025-12-12 21:48:26+08:00
 aliases:
 - Praxeology
-created: 2024-07-22 17:20:04+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 21:48:26+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Praxeology
 ---
 
 - [[praxeology is about choosing means]]

@@ -1,18 +1,16 @@
 ---
+title: Journal
+created: 2024-05-07 16:43:59+08:00
+modified: 2026-08-01T15:52:01+08:00
 aliases:
   - Diary
   - diary
   - Journal
-created: 2024-05-07 16:43:59+08:00
-dg-home:
-dg-publish: true
 draft: false
-modified: 2026-08-01T15:52:01+08:00
 publish: true
 tags:
   - species/thought
   - status/seedling
-title: Journal
 ---
 Writing on my diary every morning is my method of listening to myself at a regular basis. I dedicate an entire hour after the pre-desk routine of [[my daily routine]] to just writing on my diary. It doesn’t have to take up an entire hour, but I’m giving it that much leeway.
 

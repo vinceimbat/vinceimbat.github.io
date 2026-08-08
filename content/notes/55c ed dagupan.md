@@ -1,17 +1,15 @@
 ---
+title: 55°C ëd Dagupan
+created: 2024-08-28 21:58:21+08:00
+modified: 2026-05-31 09:53:49+08:00
 aliases:
 - 55°C ëd Dagupan
-created: 2024-08-28 21:58:21+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-31 09:53:49+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/seedling
-title: 55°C ëd Dagupan
 ---
 
 Mikakasi kalamor iray taloran nganak min  

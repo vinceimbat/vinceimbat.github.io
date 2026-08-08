@@ -1,16 +1,14 @@
 ---
+title: Say Bulan ëd Lleyn nën R.S. Thomas
+created: 2026-06-12 09:16:20+08:00
+modified: 2026-06-12 09:16:33+08:00
 aliases:
 - Say Bulan ëd Lleyn nën R.S. Thomas
-created: 2026-06-12 09:16:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-12 09:16:33+08:00
 publish: true
 tags:
 - species/translation
 - status/seedling
-title: Say Bulan ëd Lleyn nën R.S. Thomas
 ---
 
 Say Bulan ëd Lleyn

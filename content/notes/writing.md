@@ -1,17 +1,15 @@
 ---
+title: writing
+created: 2024-10-20 23:20:52+08:00
+modified: 2025-12-18 10:46:45+08:00
 aliases:
 - Writing
 - thoughts/writing
-created: 2024-10-20 23:20:52+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-18 10:46:45+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: writing
 ---
 
 Writing is my main craft. I've cultivated an intimate relationship with writing since the [[depression]] diaries I kept in 2012, the notebooks I wrote on to cope with my health issues, the blogs I've written, the diaries I've been keeping since 2018, the [[talahardin]], the writing I've done with others—FLOW, Rem, Tungko, writing with Uwa and Lea, and even the writings I've sent for workshops and publications.

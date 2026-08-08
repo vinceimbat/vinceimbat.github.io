@@ -1,17 +1,15 @@
 ---
+title: Nais Kitang Ipagdiwang
+created: 2024-08-24 22:44:33+08:00
+modified: 2025-10-13 10:21:56+08:00
 aliases:
 - Nais Kitang Ipagdiwang
-created: 2024-08-24 22:44:33+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-13 10:21:56+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Nais Kitang Ipagdiwang
 ---
 
 Bente siyeteng taong ika'y narito  

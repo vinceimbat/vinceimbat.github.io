@@ -1,17 +1,15 @@
 ---
+title: Amoralism
+created: 2024-10-09 21:55:24+08:00
+modified: 2025-06-18 11:37:36+08:00
 aliases:
 - Amoralism
 - thoughts/amoralism
-created: 2024-10-09 21:55:24+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-06-18 11:37:36+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Amoralism
 ---
 
 Amoralism, also known as [[moral nihilism]] denies the existence of morals. It is essentially saying that morality is a fiction. Amoralists believe that there are no moral facts, nothing is right or wrong, nothing is morally good or bad, and that moral language is infected with massive false presuppositions.

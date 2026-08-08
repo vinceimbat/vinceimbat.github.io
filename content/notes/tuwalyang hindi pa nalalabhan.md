@@ -1,17 +1,15 @@
 ---
+title: Tuwalyang Hindi Pa Nalalabhan
+created: 2025-08-12 22:09:12+08:00
+modified: 2026-05-28 08:17:33+08:00
 aliases:
 - Tuwalyang Hindi Pa Nalalabhan
-created: 2025-08-12 22:09:12+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-28 08:17:33+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Tuwalyang Hindi Pa Nalalabhan
 ---
 
 Paalam inay  

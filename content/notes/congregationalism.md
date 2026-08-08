@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Congregationalism
 created: 2024-05-18 17:45:18+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-07-11 09:57:14+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Congregationalism
 ---
 
 What is it?

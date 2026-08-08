@@ -1,17 +1,15 @@
 ---
+title: Pakete
+created: 2024-08-24 22:40:15+08:00
+modified: 2026-05-27 21:06:13+08:00
 aliases:
 - Pakete
-created: 2024-08-24 22:40:15+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 21:06:13+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Pakete
 ---
 
 May nakatabi akong aleng  

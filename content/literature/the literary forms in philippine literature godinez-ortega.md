@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: The Literary Forms in Philippine Literature by Christine F. Godinez-Ortega
 created: 2025-04-22 14:06:49+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-04-22 15:01:53+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: The Literary Forms in Philippine Literature by Christine F. Godinez-Ortega
 ---
 
 # Highlights

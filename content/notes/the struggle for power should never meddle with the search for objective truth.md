@@ -1,16 +1,14 @@
 ---
+title: The struggle for power should never meddle with the search for objective truth
+created: 2024-09-06 10:43:15+08:00
+modified: 2025-12-12 22:55:59+08:00
 aliases:
 - The struggle for power should never meddle with the search for objective truth
-created: 2024-09-06 10:43:15+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 22:55:59+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: The struggle for power should never meddle with the search for objective truth
 ---
 
 Even if it is difficult, it is wise to recontextualize what I consume, especially if these are prescriptive, to my unique point of view (i.e., as a Filipino, PWD, etc.).

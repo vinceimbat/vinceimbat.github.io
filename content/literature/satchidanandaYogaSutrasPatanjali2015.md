@@ -1,16 +1,14 @@
 ---
+title: Yoga Sutras of Patanjali trans. by Satchidananda
+created: 2024-12-02 10:45:06+08:00
+modified: 2025-12-12 22:24:30+08:00
 aliases:
 - Yoga Sutras of Patanjali trans. by Satchidananda
-created: 2024-12-02 10:45:06+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 22:24:30+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Yoga Sutras of Patanjali trans. by Satchidananda
 ---
 
 # Citation

@@ -1,16 +1,14 @@
 ---
+title: Yearning
+created: 2026-06-08 20:47:34+08:00
+modified: 2026-06-28 10:27:34+08:00
 aliases:
 - Yearning
-created: 2026-06-08 20:47:34+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-28 10:27:34+08:00
 publish: true
 tags:
 - species/translation
 - status/seedling
-title: Yearning
 ---
 
 v2

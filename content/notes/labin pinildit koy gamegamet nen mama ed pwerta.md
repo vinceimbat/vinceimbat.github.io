@@ -1,16 +1,14 @@
 ---
+title: Labin Pinildit Ko'y Gamëgamët Nën Mama ëd Pwerta
+created: 2026-05-09 10:07:09+08:00
+modified: 2026-06-26 09:28:27+08:00
 aliases:
 - Labin Pinildit Ko'y Gamëgamët Nën Mama ëd Pwerta
-created: 2026-05-09 10:07:09+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-26 09:28:27+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Labin Pinildit Ko'y Gamëgamët Nën Mama ëd Pwerta
 ---
 
 Ibong so bilungët ëd saraman a labi'y  

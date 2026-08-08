@@ -1,19 +1,17 @@
 ---
+title: “Things Themselves, by Their Very Nature, Belong to No One. All Things Belong
+  to the Whole.” by Andrew James Brown
+created: 2025-10-21 11:56:05+08:00
+modified: 2026-05-06 21:04:24+08:00
 aliases:
 - “Things Themselves, by Their Very Nature, Belong to No One. All Things Belong to
   the Whole.” by Andrew James Brown
-created: 2025-10-21 11:56:05+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-06 21:04:24+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “Things Themselves, by Their Very Nature, Belong to No One. All Things Belong
-  to the Whole.” by Andrew James Brown
 ---
 
 # Citation
@@ -40,7 +38,7 @@ Per Andrew James Brown the word "property" fundamentally refers to what? :: Fund
 <!--SR:!2026-11-06,243,270-->
 
 Per Andrew James Brown, why are fundamental properties not possessions. :: They can't be possessed; they make the thing what it is.
-<!--SR:!2026-08-08,53,210-->
+<!--SR:!2026-11-27,111,210-->
 
 Per Andrew James Brown, what is the property shared by all things, sentient and non-sentient? :: Not having property but being the property of the whole.
 <!--SR:!2026-08-23,24,210-->

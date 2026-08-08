@@ -1,16 +1,14 @@
 ---
+title: '"Introduction" by Bruce Ross'
+created: 2025-11-19 10:23:50+08:00
+modified: 2025-11-19 10:24:40+08:00
 aliases:
 - '"Introduction" by Bruce Ross'
-created: 2025-11-19 10:23:50+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-19 10:24:40+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: '"Introduction" by Bruce Ross'
 ---
 
 # Citation

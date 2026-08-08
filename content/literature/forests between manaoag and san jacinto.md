@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Forests between Manaoag and San Jacinto
 created: 2024-11-12 21:00:51+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-04-04 21:39:29+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Forests between Manaoag and San Jacinto
 ---
 
 These are the exact quotes from the first book of [[rosario mendoza cortes|Rosario Mendoza Cortes]]' trilogy on [[notes/pangasinan|Pangasinan]] history that forever changed how I looked at [[san jacinto|San Jacinto]] and [[manaoag|Manaoag]].

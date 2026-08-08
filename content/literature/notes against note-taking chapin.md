@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Notes against note-taking by Sasha Chapin
 created: 2024-12-02 09:57:50+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-03-26 16:50:03+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Notes against note-taking by Sasha Chapin
 ---
 
 ## Highlights

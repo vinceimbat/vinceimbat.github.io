@@ -1,16 +1,14 @@
 ---
+title: America Is in the Heart by Carlos Bulosan
+created: 2026-07-10 09:35:43+08:00
+modified: 2026-07-10 09:36:00+08:00
 aliases:
 - America Is in the Heart by Carlos Bulosan
-created: 2026-07-10 09:35:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-10 09:36:00+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: America Is in the Heart by Carlos Bulosan
 ---
 
 # Citation

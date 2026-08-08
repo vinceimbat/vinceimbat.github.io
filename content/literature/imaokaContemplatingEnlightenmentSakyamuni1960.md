@@ -1,17 +1,15 @@
 ---
+title: '"Contemplating the Enlightenment of Śākyamuni" by Shin''ichirō Imaoka'
+created: 2025-07-31 11:31:41+08:00
+modified: 2025-07-31 14:58:11+08:00
 aliases:
 - '"Contemplating the Enlightenment of Śākyamuni" by Shin''ichirō Imaoka'
-created: 2025-07-31 11:31:41+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-31 14:58:11+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: '"Contemplating the Enlightenment of Śākyamuni" by Shin''ichirō Imaoka'
 ---
 
 # Citation

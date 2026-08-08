@@ -1,17 +1,15 @@
 ---
+title: '"Introduction" by Nobuo Haneda'
+created: 2025-07-01 11:45:49+08:00
+modified: 2025-08-25 17:57:51+08:00
 aliases:
 - '"Introduction" by Nobuo Haneda'
-created: 2025-07-01 11:45:49+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-25 17:57:51+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: '"Introduction" by Nobuo Haneda'
 ---
 
 # Citation

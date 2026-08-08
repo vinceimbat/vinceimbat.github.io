@@ -5,8 +5,6 @@ modified: 2026-07-30T21:52:46+08:00
 aliases:
   - Emotions are fleeting
 draft: false
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/thought

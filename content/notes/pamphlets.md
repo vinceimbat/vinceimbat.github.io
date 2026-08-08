@@ -1,17 +1,15 @@
 ---
+title: Pamphlets
+created: 2026-03-28 11:04:54+08:00
+modified: 2026-03-29 10:21:02+08:00
 aliases:
 - Pamphlets
-created: 2026-03-28 11:04:54+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-29 10:21:02+08:00
 publish: true
 tags:
 - species/poem
 - language/english
 - status/seedling
-title: Pamphlets
 ---
 
 I beg you not to follow

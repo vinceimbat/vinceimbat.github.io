@@ -1,18 +1,16 @@
 ---
+title: “What Is Called ‘Profit’ Disappears without a Trace . . .” by Andrew James
+  Brown
+created: 2025-10-27 10:54:05+08:00
+modified: 2026-05-06 21:02:19+08:00
 aliases:
 - “What Is Called ‘Profit’ Disappears without a Trace . . .” by Andrew James Brown
-created: 2025-10-27 10:54:05+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-06 21:02:19+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “What Is Called ‘Profit’ Disappears without a Trace . . .” by Andrew James
-  Brown
 ---
 
 # Citation

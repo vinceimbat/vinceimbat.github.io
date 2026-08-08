@@ -1,16 +1,14 @@
 ---
+title: “Buddhists, Why Do You Lack Self-Esteem?" by Manshi Kiyozawa
+created: 2025-06-28 00:47:28+08:00
+modified: 2025-06-29 15:05:30+08:00
 aliases:
 - “Buddhists, Why Do You Lack Self-Esteem?" by Manshi Kiyozawa
-created: 2025-06-28 00:47:28+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-06-29 15:05:30+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “Buddhists, Why Do You Lack Self-Esteem?" by Manshi Kiyozawa
 ---
 
 # Citation

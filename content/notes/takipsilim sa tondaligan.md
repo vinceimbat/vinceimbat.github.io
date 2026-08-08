@@ -1,19 +1,17 @@
 ---
+title: “Such Largness—The Quiet Opening of Imaoka Shin’ichirō’s Free-Religion—A Draft
+  Foreword to the Selected Essays of Imaoka Shin’ichirō (1881-1988)” by Brown
+created: 2025-12-23 11:44:58+08:00
+modified: 2025-12-23 15:33:45+08:00
 aliases:
 - “Such Largness—The Quiet Opening of Imaoka Shin’ichirō’s Free-Religion—A Draft Foreword
   to the Selected Essays of Imaoka Shin’ichirō (1881-1988)” by Brown
-created: 2025-12-23 11:44:58+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-23 15:33:45+08:00
 publish: true
 tags:
 - species/literature
 - species/flashcards
 - status/seedling
-title: “Such Largness—The Quiet Opening of Imaoka Shin’ichirō’s Free-Religion—A Draft
-  Foreword to the Selected Essays of Imaoka Shin’ichirō (1881-1988)” by Brown
 ---
 
 # Citation

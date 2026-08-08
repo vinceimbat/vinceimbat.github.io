@@ -1,16 +1,14 @@
 ---
+title: “Excerpts from the December Fan Diary” by Manshi Kiyozawa
+created: 2025-06-21 00:24:07+08:00
+modified: 2025-06-21 09:15:25+08:00
 aliases:
 - “Excerpts from the December Fan Diary” by Manshi Kiyozawa
-created: 2025-06-21 00:24:07+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-06-21 09:15:25+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “Excerpts from the December Fan Diary” by Manshi Kiyozawa
 ---
 
 # Citation

@@ -1,16 +1,14 @@
 ---
+title: The writing style of Thoreau
+created: 2024-11-12 21:00:00+08:00
+modified: 2025-08-02 09:46:04+08:00
 aliases:
 - The writing style of Thoreau
-created: 2024-11-12 21:00:00+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-02 09:46:04+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: The writing style of Thoreau
 ---
 
 From Seybold:

@@ -1,17 +1,15 @@
 ---
+title: My sustainability model
+created: 2024-11-13 16:41:30+08:00
+modified: 2025-04-11 16:51:39+08:00
 aliases:
 - My-sustainability-model
 - thoughts/my-sustainability-model
-created: 2024-11-13 16:41:30+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-04-11 16:51:39+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My sustainability model
 ---
 
 There are only two ideal sustainability models I can pursue in order to do what I want to do effectively.

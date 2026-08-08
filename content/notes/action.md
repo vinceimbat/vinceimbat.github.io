@@ -1,18 +1,16 @@
 ---
+title: Action
+created: 2024-12-08 16:41:37+08:00
+modified: 2025-07-10 11:32:06+08:00
 aliases:
 - Action
 - thoughts/action
 - actions
-created: 2024-12-08 16:41:37+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-10 11:32:06+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Action
 ---
 
 The word action is a concept, a mental model used to describe a phenomena that occurs in the real world. The phenomena is this: Action is behavior with intention that intervenes in one’s status quo and results in an end state that may or may not approximate one’s original goal. It is the employment of means to attain a [[desire]].

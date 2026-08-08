@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: The goal of the spiritual life
 created: 2025-07-10 11:23:42+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-07-10 11:35:15+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: The goal of the spiritual life
 ---
 
 The goal of the spiritual life is to bring our attention to a process in the universe that is not and will not be completely understood and yet is fundamental—a part of our everyday life. It is the process that makes all of these happen, that brought all of these, and yet is also hidden and made hidden by all the distraction and worries of modern life, which one could argue is also part of that process.

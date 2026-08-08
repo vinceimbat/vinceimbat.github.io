@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Writing slows down my activism
 created: 2023-10-18 20:28:24+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-04-12 11:10:08+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Writing slows down my activism
 ---
 
 Writing slows down my activism

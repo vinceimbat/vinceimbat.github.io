@@ -1,19 +1,17 @@
 ---
+title: Talahardin
+created: 2024-12-08
+modified: 2025-12-13 21:57:14+08:00
 aliases:
 - thoughts/talahardin
 - Talahardin
 - thoughts/my-forest-garden-of-the-mind
 - my-forest-garden-of-the-mind
-created: 2024-12-08
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 21:57:14+08:00
 publish: true
 tags:
 - species/outline
 - status/seedling
-title: Talahardin
 ---
 
 My talahardin is what I use to refer to the collection of contents of the mind, recorded in media or unrecorded, that I have actively and consciously collected, curated, and cultivated. Therefore, it includes my digital notes and documents, analog materials, and photos.

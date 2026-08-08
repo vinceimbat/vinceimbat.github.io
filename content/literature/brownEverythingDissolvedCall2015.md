@@ -1,19 +1,17 @@
 ---
+title: “. . . And Everything Is Dissolved into the Call to Justice and Charity to
+  One’s Neighbour” by Andrew James Brown
+created: 2026-01-19 10:35:30+08:00
+modified: 2026-02-02 14:42:11+08:00
 aliases:
 - “. . . And Everything Is Dissolved into the Call to Justice and Charity to One’s
   Neighbour” by Andrew James Brown
-created: 2026-01-19 10:35:30+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-02 14:42:11+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “. . . And Everything Is Dissolved into the Call to Justice and Charity to
-  One’s Neighbour” by Andrew James Brown
 ---
 
 # Citation
@@ -195,7 +193,7 @@ Per Sheehan, by interpreting Jesus as savior, the Christian church surrendered w
 <!--SR:!2026-12-16,252,330-->
 
 Per Sheehan, what is Jesus' radical present-future sense of time? :: Forgiveness; grace is already everywhere
-<!--SR:!2026-08-08,24,170-->
+<!--SR:!2026-08-19,11,150-->
 
 Per Sheehan, the Christian church replaced Jesus's radical present-future with what? :: Mythical past-present-future
 <!--SR:!2027-03-31,263,250-->
@@ -204,4 +202,4 @@ Per Sheehan, what is the Christian church's mythical past-present-future it used
 <!--SR:!2026-09-04,34,210-->
 
 Per Sheehan, the paradox of Jesus' message is that in order for God to be ever present in mankind, God must ==disappear==.
-<!--SR:!2026-08-08,136,290-->
+<!--SR:!2027-08-31,388,290-->

@@ -1,20 +1,18 @@
 ---
+title: Night Is
+created: 2024-08-24 22:47:03+08:00
+modified: 2026-01-04 11:14:12+08:00
 aliases:
 - Night Is
-created: 2024-08-24 22:47:03+08:00
-dg-home: null
-dg-publish: true
-draft: false
 location:
 - 14.16370672284056
 - 121.2343332823366
-modified: 2026-01-04 11:14:12+08:00
+draft: false
 publish: true
 tags:
 - species/poem
 - language/english
 - status/seedling
-title: Night Is
 ---
 
 # Version 2

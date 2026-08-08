@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Tools should be embedded in a system to be effective
 created: 2024-11-26 21:27:23+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-03-28 10:43:49+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Tools should be embedded in a system to be effective
 ---
 
 Tools by themselves are not enough to improve processes. They need to be embedded into a system to be effective. In a [[life management system]], tools should be part of intelligently designed [[routines]] and workflows in order to make a difference. This is why, when we design routines, we need to articulate the principles first before choosing or building the tools. Tools need to help us execute our systems. An efficient system is a holistic system.

@@ -1,16 +1,14 @@
 ---
+title: Hanggang Hangganan by Daryl Alcantara
+created: 2025-05-05 08:39:02+08:00
+modified: 2025-05-08 11:47:55+08:00
 aliases:
 - Hanggang Hangganan by Alcantara
-created: 2025-05-05 08:39:02+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-05-08 11:47:55+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Hanggang Hangganan by Daryl Alcantara
 ---
 
 # Highlights

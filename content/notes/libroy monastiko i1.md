@@ -1,16 +1,14 @@
 ---
+title: Libro'y Monastiko I1
+created: 2026-06-01 17:49:56+08:00
+modified: 2026-06-01 17:50:58+08:00
 aliases:
 - Libro'y Monastiko I1
-created: 2026-06-01 17:49:56+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-01 17:50:58+08:00
 publish: true
 tags:
 - species/translation
 - status/seedling
-title: Libro'y Monastiko I1
 ---
 
 Say oras napepelag asingsingger ed uloan ko

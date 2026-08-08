@@ -1,16 +1,14 @@
 ---
-aliases: null
+title: More Affordable God! My Filipino Way of Spirituality Through Lived Theology
+  by Paul Mark Andres
 created: 2025-04-22 15:02:40+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-05-06 15:04:04+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: More Affordable God! My Filipino Way of Spirituality Through Lived Theology
-  by Paul Mark Andres
 ---
 
 # Highlights

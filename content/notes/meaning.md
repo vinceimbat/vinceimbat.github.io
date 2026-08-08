@@ -1,16 +1,14 @@
 ---
+title: Meaning
+created: 2024-11-18 16:42:19+08:00
+modified: 2025-12-12 21:38:29+08:00
 aliases:
 - Meaning
-created: 2024-11-18 16:42:19+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 21:38:29+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Meaning
 ---
 
 Meaning is a desirable mental content on top of happiness that improves one's well-being.

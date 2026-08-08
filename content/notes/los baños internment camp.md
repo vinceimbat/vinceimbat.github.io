@@ -1,16 +1,14 @@
 ---
+title: The Los Baños internment camp
+created: 2024-04-03 10:31:48+08:00
+modified: 2026-03-13 11:18:57+08:00
 aliases:
 - The Los Baños internment camp
-created: 2024-04-03 10:31:48+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-13 11:18:57+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: The Los Baños internment camp
 ---
 
 # My research

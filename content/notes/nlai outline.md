@@ -1,16 +1,14 @@
 ---
+title: NLAI outline
+created: 2024-02-20 13:22:43+08:00
+modified: 2026-05-29 09:46:34+08:00
 aliases:
 - NLAI outline
-created: 2024-02-20 13:22:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-29 09:46:34+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: NLAI outline
 ---
 
 # Introduksyon

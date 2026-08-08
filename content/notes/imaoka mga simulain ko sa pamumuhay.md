@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Mga Simulain ko sa Pamumuhay ni Imaoka Shin’ichirō
 created: 2024-06-12 14:13:30+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-07-15 09:17:12+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/translation
 - status/seedling
-title: Mga Simulain ko sa Pamumuhay ni Imaoka Shin’ichirō
 ---
 
 # Rebisyon noong 1973

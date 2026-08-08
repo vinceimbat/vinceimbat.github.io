@@ -1,21 +1,19 @@
 ---
+title: “The Eternal Buddha Is No One Else but the Eternal Christ—a Talk given to a
+  United Reformed Church Advent Online Retreat Called ‘Waiting for the Light’ on December
+  2nd, 2025” by Andrew James Brown
+created: 2025-12-08 11:24:04+08:00
+modified: 2025-12-08 12:07:28+08:00
 aliases:
 - “The Eternal Buddha Is No One Else but the Eternal Christ—a Talk given to a United
   Reformed Church Advent Online Retreat Called ‘Waiting for the Light’ on December
   2nd, 2025” by Andrew James Brown
-created: 2025-12-08 11:24:04+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-08 12:07:28+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “The Eternal Buddha Is No One Else but the Eternal Christ—a Talk given to a
-  United Reformed Church Advent Online Retreat Called ‘Waiting for the Light’ on December
-  2nd, 2025” by Andrew James Brown
 ---
 
 # Citation

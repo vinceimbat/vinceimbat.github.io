@@ -1,16 +1,14 @@
 ---
+title: Gifts I can impart
+created: 2024-02-20 13:22:43+08:00
+modified: 2025-08-25 10:45:20+08:00
 aliases:
 - Gifts I can impart
-created: 2024-02-20 13:22:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-25 10:45:20+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Gifts I can impart
 ---
 
 If the life is the gift received, then it is the gift to be shared through deeds, words, stories, and learnings.

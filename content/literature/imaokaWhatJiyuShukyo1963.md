@@ -1,17 +1,15 @@
 ---
+title: '"What Is Jiyū Shūkyō" by Shin''ichirō Imaoka'
+created: 2025-08-01 22:14:05+08:00
+modified: 2025-08-25 17:59:50+08:00
 aliases:
 - '"What Is Jiyū Shūkyō" by Shin''ichirō Imaoka'
-created: 2025-08-01 22:14:05+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-25 17:59:50+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: '"What Is Jiyū Shūkyō" by Shin''ichirō Imaoka'
 ---
 
 # Citation

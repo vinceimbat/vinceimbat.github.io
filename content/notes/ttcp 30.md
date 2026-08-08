@@ -1,17 +1,15 @@
 ---
+title: TTCP 30
+created: 2023-10-18 20:28:24+08:00
+modified: 2025-12-19 23:01:23+08:00
 aliases:
 - TTCP 30
-created: 2023-10-18 20:28:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-19 23:01:23+08:00
 publish: true
 tags:
 - species/translation
 - language/pangasinan
 - status/seedling
-title: TTCP 30
 ---
 
 Say manmamatalek ed Tao agto papasuotey uuleyan to  

@@ -1,11 +1,9 @@
 ---
 title: Perseverance per Lee
-modified: 2025-12-13T11:14:42+08:00
 created: 2023-10-18T20:28:24+08:00
+modified: 2025-12-13T11:14:42+08:00
 aliases:
 draft: false
-dg-home:
-dg-publish:
 tags:
   - species/quote
   - status/evergreen

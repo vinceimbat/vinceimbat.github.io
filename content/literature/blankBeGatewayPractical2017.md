@@ -1,16 +1,14 @@
 ---
+title: Be the Gateway by Blank
+created: 2024-05-09 15:57:50+08:00
+modified: 2026-03-11 11:04:14+08:00
 aliases:
 - Be the Gateway by Blank
-created: 2024-05-09 15:57:50+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-11 11:04:14+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Be the Gateway by Blank
 ---
 
 # Citation

@@ -1,17 +1,15 @@
 ---
+title: “Demand Destruction as a Free‑Religious Discipline” by Andrew James Brown
+created: 2026-05-07 10:36:52+08:00
+modified: 2026-05-07 11:09:26+08:00
 aliases:
 - “Demand Destruction as a Free‑Religious Discipline” by Andrew James Brown
-created: 2026-05-07 10:36:52+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-07 11:09:26+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “Demand Destruction as a Free‑Religious Discipline” by Andrew James Brown
 ---
 
 # Citation

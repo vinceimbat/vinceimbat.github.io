@@ -1,18 +1,16 @@
 ---
+title: '“From Nostalgia to Hüzün: Rethinking Our Free-Religious Path” by Andrew James
+  Brown'
+created: 2026-01-12 10:28:29+08:00
+modified: 2026-01-12 11:00:57+08:00
 aliases:
 - '“From Nostalgia to Hüzün: Rethinking Our Free-Religious Path” by Andrew James Brown'
-created: 2026-01-12 10:28:29+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-12 11:00:57+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: '“From Nostalgia to Hüzün: Rethinking Our Free-Religious Path” by Andrew James
-  Brown'
 ---
 
 # Citation

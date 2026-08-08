@@ -1,16 +1,14 @@
 ---
+title: What happens when we price things
+created: 2023-10-18 20:28:24+08:00
+modified: 2025-12-13 11:05:45+08:00
 aliases:
 - What happens when we price things
-created: 2023-10-18 20:28:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 11:05:45+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: What happens when we price things
 ---
 
 Example when you price your retreat for 15,000, does it mean that it is less “valuable” than say a sports car worth 20,000? Or is it more valuable than a (blank) worth 10,000?

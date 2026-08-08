@@ -1,17 +1,15 @@
 ---
+title: Dati
+created: 2024-08-28 14:31:06+08:00
+modified: 2026-01-04 09:54:07+08:00
 aliases:
 - Dati
-created: 2024-08-28 14:31:06+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-04 09:54:07+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Dati
 ---
 
 Dati  

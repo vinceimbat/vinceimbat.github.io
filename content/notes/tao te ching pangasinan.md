@@ -1,16 +1,14 @@
 ---
+title: Tao te Ching ëd Pangasinan
+created: 2025-12-18 11:00:52+08:00
+modified: 2025-12-19 23:01:33+08:00
 aliases:
 - Tao te Ching ëd Pangasinan
-created: 2025-12-18 11:00:52+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-19 23:01:33+08:00
 publish: true
 tags:
 - species/outline
 - status/seedling
-title: Tao te Ching ëd Pangasinan
 ---
 
 Below are my current translations of the [[tzuTaoTeChing2006|Tao Te Ching by Lao Tzu (trans. by Mitchell)]] into [[notes/pangasinan|Pangasinan]]. In Pangasinan, the name "Tao te Ching" could be translated as "Libro'y Dalan tan Kamaongan."

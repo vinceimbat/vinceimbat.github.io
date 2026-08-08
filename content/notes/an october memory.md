@@ -1,17 +1,15 @@
 ---
+title: An October Memory
+created: 2023-08-21 22:57:20+08:00
+modified: 2025-12-14 23:27:19+08:00
 aliases:
 - An October Memory
-created: 2023-08-21 22:57:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-14 23:27:19+08:00
 publish: true
 tags:
 - species/poem
 - language/english
 - status/seedling
-title: An October Memory
 ---
 
 I can still smell  

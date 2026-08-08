@@ -1,16 +1,14 @@
 ---
+title: Consume information selectively
+created: 2021-02-12
+modified: 2025-03-27 16:49:38+08:00
 aliases:
 - Only-consume-information-that-is-relevant-to-your-purpose
-created: 2021-02-12
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-03-27 16:49:38+08:00
 publish: true
 tags:
 - species/thought
 - status/evergreen
-title: Consume information selectively
 ---
 
 Information consumption is part of [[my creative workflow]]. The cardinal rule in my information consumption is this: I will only consume information that is relevant to my life work and current projects.

@@ -1,16 +1,14 @@
 ---
+title: “Literature Under Spanish Colonialism (1565–1897)” by Lumbera and Lumbera
+created: 2025-09-13 10:27:14+08:00
+modified: 2025-09-13 10:29:08+08:00
 aliases:
 - “Literature Under Spanish Colonialism (1565–1897)” by Lumbera and Lumbera
-created: 2025-09-13 10:27:14+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-09-13 10:29:08+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “Literature Under Spanish Colonialism (1565–1897)” by Lumbera and Lumbera
 ---
 
 # Citation

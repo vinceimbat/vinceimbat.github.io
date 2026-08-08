@@ -1,16 +1,14 @@
 ---
+title: Cautious sharing (I) - Set up a strong foundation
+created: 2024-11-26 23:04:30+08:00
+modified: 2025-10-07 14:56:50+08:00
 aliases:
 - Cautious sharing (I) - Set up a strong foundation
-created: 2024-11-26 23:04:30+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-07 14:56:50+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Cautious sharing (I) - Set up a strong foundation
 ---
 
 The first part in the [[cautious sharing process]] is to set up a strong foundation. To do that, do the following:

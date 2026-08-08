@@ -1,16 +1,14 @@
 ---
+title: The 5 principles of learning anything
+created: 2024-08-23 22:57:42+08:00
+modified: 2025-08-14 10:56:20+08:00
 aliases:
 - literature/the-5-principles-of-learning-anything
-created: 2024-08-23 22:57:42+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-14 10:56:20+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: The 5 principles of learning anything
 ---
 
 # Citation

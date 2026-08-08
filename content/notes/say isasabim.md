@@ -1,16 +1,14 @@
 ---
+title: Say Isasabim
+created: 2024-11-04
+modified: 2026-05-28 07:35:46+08:00
 aliases:
 - Say Isasabim
-created: 2024-11-04
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-28 07:35:46+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Say Isasabim
 ---
 
 Tanol na tingting ëd semento...

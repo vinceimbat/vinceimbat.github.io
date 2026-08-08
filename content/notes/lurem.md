@@ -1,16 +1,14 @@
 ---
+title: Lurëm
+created: 2024-03-17 17:11:12+08:00
+modified: 2025-12-13 14:29:24+08:00
 aliases:
 - Lurëm
-created: 2024-03-17 17:11:12+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 14:29:24+08:00
 publish: true
 tags:
 - species/story
 - status/seedling
-title: Lurëm
 ---
 
 ![Lurem](Lurem.jpg)

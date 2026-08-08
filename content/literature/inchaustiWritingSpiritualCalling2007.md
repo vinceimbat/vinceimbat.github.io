@@ -1,16 +1,14 @@
 ---
+title: “Writing as a Spiritual Calling” by Robert Inchausti
+created: 2025-08-22 12:02:12+08:00
+modified: 2025-08-22 12:02:38+08:00
 aliases:
 - “Writing as a Spiritual Calling” by Robert Inchausti
-created: 2025-08-22 12:02:12+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-22 12:02:38+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “Writing as a Spiritual Calling” by Robert Inchausti
 ---
 
 # Citation

@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Wesley Verhoeve TBOT photo discussion by Mod
 created: 2025-05-19 18:34:40+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-05-30 10:15:17+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Wesley Verhoeve TBOT photo discussion by Mod
 ---
 
 # Highlights

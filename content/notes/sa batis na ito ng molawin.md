@@ -1,16 +1,14 @@
 ---
+title: Sa Batis na Ito ng Molawin
+created: 2025-10-27 16:00:14+08:00
+modified: 2026-01-28 15:17:28+08:00
 aliases:
 - Sa Batis na Ito ng Molawin
-created: 2025-10-27 16:00:14+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-28 15:17:28+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Sa Batis na Ito ng Molawin
 ---
 
 Sa batis na ito ng Molawin  

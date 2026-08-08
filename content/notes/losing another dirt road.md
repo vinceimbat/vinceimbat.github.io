@@ -1,17 +1,15 @@
 ---
+title: Losing another dirt road
+created: 2024-09-09 23:44:04+08:00
+modified: 2025-05-01 14:58:36+08:00
 aliases:
 - vignettes/losing-another-dirt-road
 - Losing another dirt road
-created: 2024-09-09 23:44:04+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-05-01 14:58:36+08:00
 publish: true
 tags:
 - species/vignette
 - status/seedling
-title: Losing another dirt road
 ---
 
 Are we going to lose another dirt road? Looks like it. Not a single tree was left standing on what used to be a heavily canopied path. It took me so long before giving this trail a try. But when I did, I found the solitude I was looking for.

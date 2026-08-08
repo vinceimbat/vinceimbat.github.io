@@ -1,16 +1,14 @@
 ---
+title: Why
+created: 2023-08-21 22:57:21+08:00
+modified: 2026-05-28 08:36:35+08:00
 aliases:
 - Why
-created: 2023-08-21 22:57:21+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-28 08:36:35+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Why
 ---
 
 I found a hut  

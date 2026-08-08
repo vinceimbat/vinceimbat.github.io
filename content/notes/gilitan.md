@@ -1,16 +1,14 @@
 ---
+title: gilitan
+created: 2024-09-11 18:19:47+08:00
+modified: 2025-07-14 09:20:56+08:00
 aliases:
 - vignettes/gilitan
-created: 2024-09-11 18:19:47+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-14 09:20:56+08:00
 publish: true
 tags:
 - species/vignette
 - status/seedling
-title: gilitan
 ---
 
 Sometimes, the best things happen just before the walk.

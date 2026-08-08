@@ -1,16 +1,14 @@
 ---
+title: Say Dilak
+created: 2024-05-01 14:39:18+08:00
+modified: 2026-05-28 07:34:01+08:00
 aliases:
 - Say Dilak
-created: 2024-05-01 14:39:18+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-28 07:34:01+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Say Dilak
 ---
 
 Et sankatlo

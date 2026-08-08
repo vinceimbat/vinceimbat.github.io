@@ -1,16 +1,14 @@
 ---
+title: Decide whether to read for fun or for learning
+created: 2024-10-27 16:38:13+08:00
+modified: 2025-03-28 22:10:26+08:00
 aliases:
 - Decide-whether-to-read-for-fun-or-for-learning
-created: 2024-10-27 16:38:13+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-03-28 22:10:26+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Decide whether to read for fun or for learning
 ---
 
 Your decision on whether to read for fun or for learning determines:

@@ -1,17 +1,15 @@
 ---
+title: Beyond Morality by Richard Garner
+created: 2025-06-27 10:34:01+08:00
+modified: 2025-06-27 10:35:08+08:00
 aliases:
 - Beyond Morality by Richard Garner
 - Beyond Morality
-created: 2025-06-27 10:34:01+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-06-27 10:35:08+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Beyond Morality by Richard Garner
 ---
 
 # Citation

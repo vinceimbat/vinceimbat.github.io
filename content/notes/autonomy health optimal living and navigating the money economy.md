@@ -1,16 +1,14 @@
 ---
+title: Autonomy, Health, Optimal Living, and Navigating the Money Economy
+created: 2023-10-18 20:28:24+08:00
+modified: 2025-12-17 11:15:33+08:00
 aliases:
 - Autonomy, Health, Optimal Living, and Navigating the Money Economy
-created: 2023-10-18 20:28:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-17 11:15:33+08:00
 publish: true
 tags:
 - species/outline
 - status/seedling
-title: Autonomy, Health, Optimal Living, and Navigating the Money Economy
 ---
 
 Metaphysically speaking, I believe that there are a quite multiple primary substances in the world.

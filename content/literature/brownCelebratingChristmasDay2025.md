@@ -1,19 +1,17 @@
 ---
+title: '“Celebrating Christmas Day without a Founder: Jesus, Śākyamuni Buddha and
+  the Great Life” by Brown'
+created: 2025-12-29 10:59:28+08:00
+modified: 2026-05-11 14:35:05+08:00
 aliases:
 - '“Celebrating Christmas Day without a Founder: Jesus, Śākyamuni Buddha and the Great
   Life” by Brown'
-created: 2025-12-29 10:59:28+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-11 14:35:05+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: '“Celebrating Christmas Day without a Founder: Jesus, Śākyamuni Buddha and
-  the Great Life” by Brown'
 ---
 
 # Citation

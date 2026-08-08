@@ -1,19 +1,17 @@
 ---
+title: “Some More Information on the Term ‘Daiseimei’ [大生命]—‘Great Life’” by Andrew
+  James Brown
+created: 2026-04-07 10:38:31+08:00
+modified: 2026-04-13 11:06:10+08:00
 aliases:
 - “Some More Information on the Term ‘Daiseimei’ [大生命]—‘Great Life’” by Andrew James
   Brown
-created: 2026-04-07 10:38:31+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-04-13 11:06:10+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “Some More Information on the Term ‘Daiseimei’ [大生命]—‘Great Life’” by Andrew
-  James Brown
 ---
 
 # Citation

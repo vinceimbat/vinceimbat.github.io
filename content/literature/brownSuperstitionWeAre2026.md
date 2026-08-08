@@ -1,19 +1,17 @@
 ---
+title: “‘By Superstition We Are Driven to Deeds of Such Great Evil.’—From the Sacrifice
+  of Iphigenia to Iran, Israel and the USA” by Andrew James Brown
+created: 2026-03-23 10:02:29+08:00
+modified: 2026-03-23 11:17:58+08:00
 aliases:
 - “‘By Superstition We Are Driven to Deeds of Such Great Evil.’—From the Sacrifice
   of Iphigenia to Iran, Israel and the USA” by Andrew James Brown
-created: 2026-03-23 10:02:29+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-23 11:17:58+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “‘By Superstition We Are Driven to Deeds of Such Great Evil.’—From the Sacrifice
-  of Iphigenia to Iran, Israel and the USA” by Andrew James Brown
 ---
 
 # Citation

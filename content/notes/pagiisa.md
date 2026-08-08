@@ -1,17 +1,15 @@
 ---
+title: Pagiisa
+created: 2025-10-28 09:47:54+08:00
+modified: 2025-12-14 22:37:19+08:00
 aliases:
 - Pagiisa
-created: 2025-10-28 09:47:54+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-14 22:37:19+08:00
 publish: true
 tags:
 - species/essay
 - species/translation
 - status/seedling
-title: Pagiisa
 ---
 
 Pagiisa ang puno't dulo ng pagiral—ang simula at hantungan ng buhay. Gaano man katotoo ang pagibig, gaano man karami ang umiibig sa isa, darating at aalis lamang siya sa kaniyang kalooban. Mistulang kabalintunaan ang lahat dahil ang isa ay nakapagiisa subalit nakikiisa rin. Lumiliit, lumalawak itong sakop ng ating pagkatao batay sa hinihingi ng pagkakataon, dahil hindi tayo maaaring pumirme sa iisang lugar. Malawak, malayo, masukal ang kalawakan at gaano man kaiksi ang buhay, malayo pa rin ang lakarin. Maraming mangyayari. Ang pagiisa ay pagpigil sa pagpapatuloy ng lakbay dahil kailangang munang bumalik sa mapa, sa kompas. Kailangan munang tumingala sa langit at magbasa ng mga bituin upang malaman kung naglalakad ba tayo sa tamang bulaos. Sa mga panahong ito na lumalayo muna tayo sa karabana, sinusubukan rin nating pakinggan ang pagkakaisa ng awit ng ating puso at ng awit ng buong kalawakan. Minsan sumisintunado tayo, pero mas madalas naghahanap lang talaga tayo ng ibang awitin. Heto ang isa pang kabalintunaan: minsan ang natatagpuan nating awitin—dahil totoong totoo ito sa atin—ang siya ring nagbabalik sa atin sa karabana, sa mas malaki at mas mahabang awit na nagdadala sa ating lahat sa susunod na bukal o ilog o pahingahan.

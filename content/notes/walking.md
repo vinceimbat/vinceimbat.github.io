@@ -1,19 +1,16 @@
 ---
-aliases:
-- Walking
-- thoughts/walking
+title: Walking
 created: 2024-11-10 00:08:11+08:00
-dg-home: null
-dg-publish: true
-draft: null
-modified: 2025-06-17 23:51:03+08:00
+modified: 2026-08-08T19:02:01+08:00
+aliases:
+  - Walking
+  - thoughts/walking
+draft:
 publish: true
 tags:
-- species/thought
-- status/evergreen
-title: Walking
+  - species/thought
+  - status/evergreen
 ---
-
 ![[20231206-111406-rxg-walking-man.jpg]]
 
 This page, like most pages in this website, is a work in progress. Its aim is to become a comprehensive source on walking in the Philippines.

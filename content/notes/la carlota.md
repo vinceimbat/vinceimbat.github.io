@@ -1,17 +1,15 @@
 ---
+title: La Carlota
+created: 2023-10-18 20:28:24+08:00
+modified: 2025-11-17 22:45:26+08:00
 aliases:
 - La Carlota
-created: 2023-10-18 20:28:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-17 22:45:26+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: La Carlota
 ---
 
 Bagong taon, bagong pagasa  

@@ -5,8 +5,6 @@ modified: 2026-07-27T12:02:07+08:00
 aliases:
   - "“Beyond the Feather Bed: A Haven for the Modern ‘Somethingist’?” by Andrew James Brown"
 draft: false
-dg-home:
-dg-publish: true
 tags:
   - species/literature
   - status/seedling

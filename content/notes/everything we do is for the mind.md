@@ -5,8 +5,6 @@ modified: 2026-07-30T21:55:06+08:00
 aliases:
   - Everything we do is for the mind
 draft: false
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/thought

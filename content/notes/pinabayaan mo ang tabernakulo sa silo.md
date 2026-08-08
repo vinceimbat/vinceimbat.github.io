@@ -1,16 +1,14 @@
 ---
+title: Pinabayaan Mo Ang Tabernakulo sa Silo
+created: 2026-05-24 16:00:24+08:00
+modified: 2026-05-24 16:00:36+08:00
 aliases:
 - Pinabayaan Mo Ang Tabernakulo sa Silo
-created: 2026-05-24 16:00:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-24 16:00:36+08:00
 publish: true
 tags:
 - species/translation
 - status/seedling
-title: Pinabayaan Mo Ang Tabernakulo sa Silo
 ---
 
 Ngayon

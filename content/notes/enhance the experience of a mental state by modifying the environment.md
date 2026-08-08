@@ -1,16 +1,14 @@
 ---
+title: Enhance the experience of a mental state by modifying the environment
+created: 2024-07-24 18:47:35+08:00
+modified: 2025-12-12 21:27:27+08:00
 aliases:
 - Enhance the experience of a mental state by modifying the environment
-created: 2024-07-24 18:47:35+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 21:27:27+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Enhance the experience of a mental state by modifying the environment
 ---
 
 Modifying one's environment is one of some [[actions to take to experience an emotion intentionally]]. In my case, it could involve modifying my immediate environment as well as the bigger environment where I am located (geographical and sociopolitical location). People are part of that environment, so influencing them to change their behavior in a way that enhances my personal experience of a [[mental state]] like [[ginhawa]] is part of this process.

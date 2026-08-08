@@ -1,16 +1,14 @@
 ---
+title: Introduction to Ethics of Spinoza by Santayana
+created: 2025-05-12 10:51:08+08:00
+modified: 2025-06-05 10:49:51+08:00
 aliases:
 - Introduction to Ethics of Spinoza by Santayana
-created: 2025-05-12 10:51:08+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-06-05 10:49:51+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Introduction to Ethics of Spinoza by Santayana
 ---
 
 # Highlights

@@ -1,19 +1,17 @@
 ---
+title: '“Pas à Pas (Step by Step): Marriage as the Journey of Becoming” by Andrew
+  James Brown'
+created: 2026-06-09 09:55:34+08:00
+modified: 2026-06-09 10:05:32+08:00
 aliases:
 - '“Pas à Pas (Step by Step): Marriage as the Journey of Becoming” by Andrew James
   Brown'
-created: 2026-06-09 09:55:34+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-09 10:05:32+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: '“Pas à Pas (Step by Step): Marriage as the Journey of Becoming” by Andrew
-  James Brown'
 ---
 
 # Citation

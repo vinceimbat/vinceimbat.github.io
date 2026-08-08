@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Five years of evergreen notes by Andy Matuschak
 created: 2024-12-02 23:28:04+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-03-26 16:52:22+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Five years of evergreen notes by Andy Matuschak
 ---
 
 ## Highlights

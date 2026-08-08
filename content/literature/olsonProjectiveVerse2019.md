@@ -1,16 +1,14 @@
 ---
+title: “Projective Verse” by Charles Olson
+created: 2025-09-14 23:59:07+08:00
+modified: 2025-09-14 23:59:30+08:00
 aliases:
 - “Projective Verse” by Charles Olson
-created: 2025-09-14 23:59:07+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-09-14 23:59:30+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “Projective Verse” by Charles Olson
 ---
 
 # Citation

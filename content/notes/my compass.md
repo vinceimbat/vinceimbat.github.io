@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: My compass
 created: 2025-04-05 23:52:57+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2026-01-29 11:06:37+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My compass
 ---
 
 While destinations in life isn't always clear, one can be clear in one's direction. To achieve this measure of clarity, a life compass could be useful.

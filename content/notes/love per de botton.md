@@ -1,16 +1,14 @@
 ---
+title: Love per de Botton
+created: 2023-10-18 20:28:23+08:00
+modified: 2025-12-14 23:14:53+08:00
 aliases:
 - Love per de Botton
-created: 2023-10-18 20:28:23+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-14 23:14:53+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Love per de Botton
 ---
 
 The concept of rightness is the error

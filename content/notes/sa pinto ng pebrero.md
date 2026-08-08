@@ -1,17 +1,15 @@
 ---
+title: Sa Pinto ng Pebrero
+created: 2026-03-01 18:37:01+08:00
+modified: 2026-03-01 18:39:10+08:00
 aliases:
 - Sa Pinto ng Pebrero
-created: 2026-03-01 18:37:01+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-01 18:39:10+08:00
 publish: true
 tags:
 - species/translation
 - language/filipino
 - status/seedling
-title: Sa Pinto ng Pebrero
 ---
 
 Malakas ang hampas ng hangin sa labas.  

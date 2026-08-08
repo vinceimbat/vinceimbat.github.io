@@ -1,16 +1,14 @@
 ---
+title: Areas evaluation
+created: 2024-05-01 14:15:20+08:00
+modified: 2025-12-13 14:09:41+08:00
 aliases:
 - Areas evaluation
-created: 2024-05-01 14:15:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 14:09:41+08:00
 publish: true
 tags:
 - species/log
 - status/evergreen
-title: Areas evaluation
 ---
 
 Here is a list of notes evaluating my life areas a few months in 2021.

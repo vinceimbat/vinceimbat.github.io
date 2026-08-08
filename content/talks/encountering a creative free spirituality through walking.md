@@ -6,8 +6,6 @@ aliases:
   - Encountering a Creative Free, Spirituality (Jiyū Shūkyō 自由宗教) Through Walking
   - essays/encountering-a-creative-free-spirituality-jiyu-shukyo-through-walking
 draft: false
-dg-home:
-dg-publish:
 publish: true
 tags:
   - species/talk

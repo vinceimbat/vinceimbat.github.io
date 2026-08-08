@@ -1,16 +1,14 @@
 ---
+title: The economics of Thoreau is similar to YMOYL
+created: 2024-10-15 11:40:30+08:00
+modified: 2025-12-12 17:25:35+08:00
 aliases:
 - The economics of Thoreau is similar to YMOYL
-created: 2024-10-15 11:40:30+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 17:25:35+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: The economics of Thoreau is similar to YMOYL
 ---
 
 Money is life energy.

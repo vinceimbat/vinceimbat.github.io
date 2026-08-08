@@ -1,16 +1,14 @@
 ---
+title: With No Fractures Visible
+created: 2026-02-10 10:32:51+08:00
+modified: 2026-02-10 10:33:55+08:00
 aliases:
 - With No Fractures Visible
-created: 2026-02-10 10:32:51+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-10 10:33:55+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: With No Fractures Visible
 ---
 
 The backhoe drills the street

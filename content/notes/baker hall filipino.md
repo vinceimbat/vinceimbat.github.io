@@ -1,14 +1,13 @@
 ---
+title: Baker Hall, 1927– (Filipino)
+created: 2024-11-04 23:24:01+08:00
+modified: 2025-12-07 11:18:00+08:00
 aliases:
 - Baker Hall, 1927– (Filipino)
-created: 2024-11-04 23:24:01+08:00
-dg-home: null
-dg-publish: true
-draft: false
 location:
 - 14.16175835
 - 121.24277101674961
-modified: 2025-12-07 11:18:00+08:00
+draft: false
 publish: true
 tags:
 - species/translation
@@ -16,7 +15,6 @@ tags:
 - language/filipino
 - status/seedling
 - buhian
-title: Baker Hall, 1927– (Filipino)
 ---
 
 Tagamasid ka noon  

@@ -1,16 +1,14 @@
 ---
+title: Sounds of Water
+created: 2026-04-26 10:04:31+08:00
+modified: 2026-04-26 10:08:41+08:00
 aliases:
 - Sounds of Water
-created: 2026-04-26 10:04:31+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-04-26 10:08:41+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Sounds of Water
 ---
 
 When I was a child, I realized that the texture of the surface of water in a pail was different and interesting. Different from how it feels like when it's poured on my body. I touched it with my palm spread. When I did so, it made a flapping sound.

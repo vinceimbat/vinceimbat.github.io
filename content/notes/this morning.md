@@ -1,21 +1,19 @@
 ---
+title: This Morning
+created: 2024-03-18 16:26:07+08:00
+modified: 2026-05-28 08:03:30+08:00
 aliases:
 - This Morning
-created: 2024-03-18 16:26:07+08:00
-dg-home: null
-dg-publish: true
-draft: false
 location:
 - 14.170505852672585
 - 121.23988543404268
-modified: 2026-05-28 08:03:30+08:00
+draft: false
 publish: true
 tags:
 - species/poem
 - newsletter/tlw
 - status/evergreen
 - status/seedling
-title: This Morning
 ---
 
 Walking back from buying  

@@ -1,17 +1,15 @@
 ---
+title: God
+created: 2024-06-12 10:42:15+08:00
+modified: 2025-09-08 10:46:12+08:00
 aliases:
 - thoughts/god
 - God
-created: 2024-06-12 10:42:15+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-09-08 10:46:12+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: God
 ---
 
 Here is [[wieman minimalist definition of god|Wieman's minimalist definition of God]].

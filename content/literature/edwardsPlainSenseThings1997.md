@@ -1,17 +1,15 @@
 ---
+title: The Plain Sense of Things by James C. Edwards
+created: 2024-11-25 11:23:07+08:00
+modified: 2026-08-01T19:04:26+08:00
 aliases:
   - The Plain Sense of Things by James C. Edwards
-created: 2024-11-25 11:23:07+08:00
-dg-home:
-dg-publish: true
 draft: false
-modified: 2026-08-01T19:04:26+08:00
 publish: true
 tags:
   - species/literature
   - status/seedling
   - species/flashcards
-title: The Plain Sense of Things by James C. Edwards
 ---
 # Citation
 

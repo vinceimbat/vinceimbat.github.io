@@ -1,17 +1,15 @@
 ---
+title: Limang paninindigan at mahahalagang kasanayan ng AWA
+created: 2025-10-13 17:29:56+08:00
+modified: 2025-10-13 17:31:17+08:00
 aliases:
 - Limang paninindigan at mahahalagang kasanayan ng AWA
-created: 2025-10-13 17:29:56+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-13 17:31:17+08:00
 publish: true
 tags:
 - species/translation
 - status/seedling
 - language/filipino
-title: Limang paninindigan at mahahalagang kasanayan ng AWA
 ---
 
 # Limang Paninindigan ng AWA

@@ -1,16 +1,14 @@
 ---
+title: Bondage of the Mind by Gold
+created: 2025-12-12 22:05:19+08:00
+modified: 2025-12-12 22:06:07+08:00
 aliases:
 - Bondage of the Mind by Gold
-created: 2025-12-12 22:05:19+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 22:06:07+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Bondage of the Mind by Gold
 ---
 
 # Citation

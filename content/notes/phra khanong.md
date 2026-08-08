@@ -1,16 +1,14 @@
 ---
+title: Phra Khanong
+created: 2025-03-17 16:34:37+08:00
+modified: 2026-01-22 11:06:48+08:00
 aliases:
 - Phra Khanong
-created: 2025-03-17 16:34:37+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-22 11:06:48+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Phra Khanong
 ---
 
 I got into this really solemn, sad place at the end of the derive in the wet market. Wet markets are the remaining soul of cities like Bangkok.

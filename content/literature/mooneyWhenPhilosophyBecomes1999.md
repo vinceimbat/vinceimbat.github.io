@@ -1,16 +1,14 @@
 ---
+title: “When Philosophy Becomes Lyric” by Edward F. Mooney
+created: 2025-08-16 09:53:16+08:00
+modified: 2025-08-16 09:53:43+08:00
 aliases:
 - “When Philosophy Becomes Lyric” by Edward F. Mooney
-created: 2025-08-16 09:53:16+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-16 09:53:43+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “When Philosophy Becomes Lyric” by Edward F. Mooney
 ---
 
 # Citation

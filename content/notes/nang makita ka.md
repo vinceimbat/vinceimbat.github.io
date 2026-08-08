@@ -1,17 +1,15 @@
 ---
+title: Nang Makita Ka
+created: 2026-04-15 11:52:57+08:00
+modified: 2026-05-10 20:38:45+08:00
 aliases:
 - Nang Makita Ka
-created: 2026-04-15 11:52:57+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-10 20:38:45+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Nang Makita Ka
 ---
 
 Kapag tiniklop ko ang ulap  

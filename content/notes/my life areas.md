@@ -1,16 +1,14 @@
 ---
+title: My life areas
+created: 2024-10-12 23:38:20+08:00
+modified: 2026-01-13 00:23:45+08:00
 aliases:
 - My life areas
-created: 2024-10-12 23:38:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-13 00:23:45+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My life areas
 ---
 
 I have six [[life area|life areas]]:

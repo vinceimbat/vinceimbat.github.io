@@ -1,16 +1,14 @@
 ---
+title: Three kinds of freedoms in walking
+created: 2024-03-15 16:03:22+08:00
+modified: 2025-12-13 10:49:55+08:00
 aliases:
 - Three kinds of freedoms in walking
-created: 2024-03-15 16:03:22+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 10:49:55+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Three kinds of freedoms in walking
 ---
 
 According to Frédéric Gros, there are three kinds of [[freedom]] that [[notes/walking]] bestows upon the walker:

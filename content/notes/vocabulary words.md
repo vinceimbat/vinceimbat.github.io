@@ -1,14 +1,12 @@
 ---
+title: Vocabulary words
 created: 2024-04-15 16:33:28+08:00
-dg-home: null
-dg-publish: true
-draft: null
 modified: 2025-04-21 15:51:02+08:00
+draft: null
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Vocabulary words
 ---
 
 - [[english vocabs|English vocabulary words]]

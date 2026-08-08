@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: A brief address on the occasion of my kikyoshiki by Brown
 created: 2025-06-10 18:58:13+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-06-10 18:59:37+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: A brief address on the occasion of my kikyoshiki by Brown
 ---
 
 # Highlights

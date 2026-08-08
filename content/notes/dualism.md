@@ -1,16 +1,14 @@
 ---
+title: Dualism
+created: 2024-02-20 13:22:43+08:00
+modified: 2025-12-16 11:58:39+08:00
 aliases:
 - Dualism
-created: 2024-02-20 13:22:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-16 11:58:39+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Dualism
 ---
 
 As long as you cant experience the physical world in the same exact manner that I experienced it, then i can't conclude that there is nothing that makes me unique. It doesn't matter what you call it. I am unique in a way that I can safely conclude that there are clear boundaries between me and you and between me and the world.

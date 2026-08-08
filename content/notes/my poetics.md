@@ -1,16 +1,14 @@
 ---
+title: My poetics
+created: 2025-09-26 16:00:18+08:00
+modified: 2026-03-11 11:07:11+08:00
 aliases:
 - My poetics
-created: 2025-09-26 16:00:18+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-11 11:07:11+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My poetics
 ---
 
 While I came to [[writing]] earlier in childhood and was fortunate to develop some measure of skill during high school and college, I only started entertaining the possibility of embracing writing as a way of life after my life-changing depressive episode in 2011, which also led to my exodus from my initial religious calling. Writing was instrumental in my healing process and it naturally replaced my initial religious calling. Through writing, I slowly built a new life, which surprisingly still had a strongly spiritual and religious flavor.

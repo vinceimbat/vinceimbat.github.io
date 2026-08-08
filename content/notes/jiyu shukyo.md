@@ -5,8 +5,6 @@ modified: 2026-07-31T21:59:47+08:00
 aliases:
   - Jiyū shūkyō
 draft: false
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/thought

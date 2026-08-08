@@ -1,16 +1,14 @@
 ---
+title: Restoring
+created: 2024-10-12 23:38:20+08:00
+modified: 2026-01-13 10:19:23+08:00
 aliases:
 - Restoring
-created: 2024-10-12 23:38:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-13 10:19:23+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Restoring
 ---
 
 This [[life area|life area]] involves optimizing and maintaining the health of my mind and body. This also involves curating my immediate environment to encourage habits and systems that support my values.

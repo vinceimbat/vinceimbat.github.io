@@ -1,17 +1,15 @@
 ---
+title: My daily routine
+created: 2024-11-01 23:50:59+08:00
+modified: 2026-01-13 10:49:27+08:00
 aliases:
 - My-daily-routine
 - thoughts/my-daily-routine
-created: 2024-11-01 23:50:59+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2026-01-13 10:49:27+08:00
 publish: true
 tags:
 - species/thought
 - status/evergreen
-title: My daily routine
 ---
 
 My daily objective is to nurture all [[my life areas|my life areas]] as much as possible by doing something for each. This isn't a hard rule, but I use the following time block as guide.

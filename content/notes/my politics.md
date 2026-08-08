@@ -1,16 +1,14 @@
 ---
+title: My politics
+created: 2024-11-19 16:57:48+08:00
+modified: 2026-05-27 07:26:45+08:00
 aliases:
 - My politics
-created: 2024-11-19 16:57:48+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 07:26:45+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My politics
 ---
 
 I grew up apolitical. It wasn't until around 19 years old when I left the [[jw|JWs]] that I began thinking about the possibility of having a political position. And even then it felt weird. Being an outsider stays with you. I was skeptical about [[politics]] even after I left my [[religion]]. I identified with the Left and joined a political party during my last year and a half at [[upb|UPB]]. I voted only once. [[I want to dedicate the large portion of my life within.]]

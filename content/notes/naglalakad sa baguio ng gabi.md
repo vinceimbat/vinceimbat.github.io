@@ -1,17 +1,15 @@
 ---
+title: Naglalakad sa Baguio ng Gabi
+created: 2023-10-18 20:28:22+08:00
+modified: 2025-12-14 23:16:40+08:00
 aliases:
 - Naglalakad sa Baguio ng Gabi
-created: 2023-10-18 20:28:22+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-14 23:16:40+08:00
 publish: true
 tags:
 - species/vignette
 - language/filipino
 - status/seedling
-title: Naglalakad sa Baguio ng Gabi
 ---
 
 Alas nwebe ng gabi. Linggo. Hindi umuusad ang linya ng mga sasakyang papasok at palabas ng Baguio. Galing ako sa isang salu-salo kasama ang pinsan ko at dalawang classmates niya sa med school. Dahil wala akong masakyan, ginawa ko ang ginagawa ng mga taga-Baguio tuwing usad pagong ang traffic: maglakad.

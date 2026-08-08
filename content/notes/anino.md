@@ -5,8 +5,6 @@ modified: 2025-11-30T10:44:36+08:00
 aliases:
   - Anino
 draft: false
-dg-home:
-dg-publish:
 tags:
   - species/poem
   - status/seedling

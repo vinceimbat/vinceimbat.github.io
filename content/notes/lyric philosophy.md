@@ -1,16 +1,14 @@
 ---
+title: Lyric philosophy
+created: 2024-10-19 23:24:35+08:00
+modified: 2025-10-08 10:42:03+08:00
 aliases:
 - Lyric philosophy
-created: 2024-10-19 23:24:35+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-08 10:42:03+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Lyric philosophy
 ---
 
 Lyric philosophy seems to be a more accepted term in the academe compared to [[lyrical philosophy]], which [[edward mooney|Edward Mooney]] uses. The central work behind the concept of lyric philosophy is [[jan zwicky|Jan Zwicky]]'s 600-page book of the same title. Like lyrical philosophy, lyric philosophy is a reaction to the dominance of [[analytic philosophy]].

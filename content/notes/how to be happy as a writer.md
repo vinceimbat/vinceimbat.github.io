@@ -1,16 +1,14 @@
 ---
+title: How to be happy as a writer?
+created: 2024-11-26 23:06:57+08:00
+modified: 2025-10-14 11:34:04+08:00
 aliases:
 - How to be happy as a writer
-created: 2024-11-26 23:06:57+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-14 11:34:04+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: How to be happy as a writer?
 ---
 
 [[We only need one person to be heard]]

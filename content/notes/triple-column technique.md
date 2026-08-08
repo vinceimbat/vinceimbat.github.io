@@ -1,16 +1,14 @@
 ---
+title: Triple-column technique
+created: 2024-11-26 17:59:50+08:00
+modified: 2025-10-14 11:49:48+08:00
 aliases:
 - Triple-column technique
-created: 2024-11-26 17:59:50+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-14 11:49:48+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Triple-column technique
 ---
 
 The aim of the triple-column technique is to substitute illogical and harsh thoughts that automatically flood your mind during negative events with more objective rational thoughts. It is a [[cognitive behavioral therapy]] technique.

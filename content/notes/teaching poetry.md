@@ -5,8 +5,6 @@ modified: 2026-07-31T16:31:53+08:00
 aliases:
   - Teaching poetry
 draft: false
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/thought

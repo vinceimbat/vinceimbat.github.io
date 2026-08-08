@@ -1,16 +1,14 @@
 ---
+title: Queer art vs straight art
+created: 2024-10-07 23:25:54+08:00
+modified: 2026-05-23 11:06:23+08:00
 aliases:
 - Queer art vs Straight art
-created: 2024-10-07 23:25:54+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-23 11:06:23+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Queer art vs straight art
 ---
 
 Notes from Butiki Baboy

@@ -1,18 +1,16 @@
 ---
+title: Maternalisation Is Materialisation—A Happy, and Cosmic, Mothering Sunday to
+  You All! by Andrew James Brown
+created: 2025-04-04 14:35:49+08:00
+modified: 2025-05-06 10:50:03+08:00
 aliases:
 - Maternalisation Is Materialisation—A Happy, and Cosmic, Mothering Sunday to You
   All! by Andrew James Brown
-created: 2025-04-04 14:35:49+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-05-06 10:50:03+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Maternalisation Is Materialisation—A Happy, and Cosmic, Mothering Sunday to
-  You All! by Andrew James Brown
 ---
 
 ## Highlights

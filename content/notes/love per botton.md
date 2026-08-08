@@ -1,16 +1,14 @@
 ---
+title: Love per Botton
+created: 2023-08-21 22:57:20+08:00
+modified: 2025-12-12 17:13:16+08:00
 aliases:
 - Love per Botton
-created: 2023-08-21 22:57:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 17:13:16+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Love per Botton
 ---
 
 The concept of rightness is the error

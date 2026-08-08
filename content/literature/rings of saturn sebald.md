@@ -5,8 +5,6 @@ modified: 2025-05-18T23:15:47+08:00
 aliases:
   - Rings of Saturn by Sebald
 draft: false
-dg-home: 
-dg-publish: 
 tags:
   - species/literature
   - status/seedling

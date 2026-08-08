@@ -1,16 +1,14 @@
 ---
+title: Alain de Botton
+created: 2024-11-13 15:39:41+08:00
+modified: 2025-12-12 17:14:52+08:00
 aliases:
 - Alain de Botton
-created: 2024-11-13 15:39:41+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 17:14:52+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Alain de Botton
 ---
 
 Alain de Botton is the founder of School of Life. That is where I first met him. He is influential in my understanding of [[love]] ([[minimum requirements for a relationship per botton]]). I listened several times to his interview in On Being where he elaborated on his ideas about thriving in romantic relationships. Aside from his views on love, he was influential in helping me understand how to practice religious tolerance as an atheist. His argument that even atheists can benefit from social and cultural artifacts from religious traditions is fascinating although can be quite tricky to apply. I also view Alain as a model for writing philosophy in a more attractive manner. He said that he is a philosopher who leans towards its humanistic rather than analytic variant (someone like [[michel de montaigne|Michel de Montaigne]]).

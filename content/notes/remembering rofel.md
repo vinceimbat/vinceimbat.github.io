@@ -1,16 +1,14 @@
 ---
+title: Remembering Rofel
+created: 2026-06-11 08:38:22+08:00
+modified: 2026-06-14 11:39:07+08:00
 aliases:
 - Remembering Rofel
-created: 2026-06-11 08:38:22+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-14 11:39:07+08:00
 publish: true
 tags:
 - species/essay
 - status/evergreen
-title: Remembering Rofel
 ---
 
 On June 8, 2026, Rofel G. Brion, the poet from San Pablo City, died.

@@ -1,21 +1,19 @@
 ---
+title: “‘It Is One Thing to Dance as Though Nothing Has Happened; It Is Another to
+  Acknowledge That Something Singularly Awful Has Happened . . . and Then Decide to
+  Dance’” by Andrew James Brown
+created: 2026-05-28 11:05:47+08:00
+modified: 2026-05-28 11:17:13+08:00
 aliases:
 - “‘It Is One Thing to Dance as Though Nothing Has Happened; It Is Another to Acknowledge
   That Something Singularly Awful Has Happened . . . and Then Decide to Dance’” by
   Andrew James Brown
-created: 2026-05-28 11:05:47+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-28 11:17:13+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “‘It Is One Thing to Dance as Though Nothing Has Happened; It Is Another to
-  Acknowledge That Something Singularly Awful Has Happened . . . and Then Decide to
-  Dance’” by Andrew James Brown
 ---
 
 # Citation

@@ -1,16 +1,14 @@
 ---
+title: “Meditation and Poetics” by Allen Ginsberg
+created: 2025-09-09 09:46:22+08:00
+modified: 2026-02-15 15:56:24+08:00
 aliases:
 - “Meditation and Poetics” by Allen Ginsberg
-created: 2025-09-09 09:46:22+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-15 15:56:24+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “Meditation and Poetics” by Allen Ginsberg
 ---
 
 # Citation

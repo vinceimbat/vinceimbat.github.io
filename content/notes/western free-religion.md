@@ -1,16 +1,14 @@
 ---
+title: Western free-religion
+created: 2024-11-18 23:31:08+08:00
+modified: 2025-07-23 09:51:27+08:00
 aliases:
 - Western free-religion
-created: 2024-11-18 23:31:08+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-23 09:51:27+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Western free-religion
 ---
 
 # Topics

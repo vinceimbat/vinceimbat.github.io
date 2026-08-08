@@ -5,8 +5,6 @@ modified: 2026-07-30T22:24:47+08:00
 aliases:
   - Gabing
 draft: false
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/poem

@@ -1,16 +1,14 @@
 ---
+title: Random
+created: 2024-08-24 22:42:22+08:00
+modified: 2026-05-27 21:17:47+08:00
 aliases:
 - Random
-created: 2024-08-24 22:42:22+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 21:17:47+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Random
 ---
 
 Stars born at random  

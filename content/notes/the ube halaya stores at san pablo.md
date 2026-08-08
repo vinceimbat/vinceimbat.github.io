@@ -1,18 +1,16 @@
 ---
+title: The Ube Halaya Stores at San Pablo
+created: 2024-09-11 18:07:51+08:00
+modified: 2025-05-26 11:52:00+08:00
 aliases:
 - The-ube-halaya-stores-at-San-Pablo
 - the-ube-halaya-stores-at-san-pablo
 - The Ube Halaya Stores at San Pablo
-created: 2024-09-11 18:07:51+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-05-26 11:52:00+08:00
 publish: true
 tags:
 - species/vignette
 - status/seedling
-title: The Ube Halaya Stores at San Pablo
 ---
 
 When you enter [[san pablo|San Pablo]], before the city proper, there is a very long stretch of ube halaya vendors. Almost everyone is the same. They painted their stores in violet. The only way to standout is to make a really good product, and perhaps change your branding. There are  some stores that are not colored violet.

@@ -1,16 +1,14 @@
 ---
+title: Journaling
+created: 2024-11-21 21:13:06+08:00
+modified: 2025-08-14 11:32:24+08:00
 aliases:
 - thoughts/journaling
-created: 2024-11-21 21:13:06+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-14 11:32:24+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Journaling
 ---
 
 I've been keeping two journals:

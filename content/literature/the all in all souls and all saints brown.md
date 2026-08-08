@@ -1,16 +1,14 @@
 ---
+title: The 'All' in All Souls and All Saints by Brown
+created: 2025-05-10 14:28:44+08:00
+modified: 2025-05-10 14:29:27+08:00
 aliases:
 - The 'All' in All Souls and All Saints by Brown
-created: 2025-05-10 14:28:44+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-05-10 14:29:27+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: The 'All' in All Souls and All Saints by Brown
 ---
 
 # Highlights

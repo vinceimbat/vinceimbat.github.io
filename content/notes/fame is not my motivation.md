@@ -1,16 +1,14 @@
 ---
+title: Fame is not my motivation
+created: 2024-05-25 10:59:20+08:00
+modified: 2025-12-13 10:19:20+08:00
 aliases:
 - Fame is not my motivation
-created: 2024-05-25 10:59:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 10:19:20+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Fame is not my motivation
 ---
 
 Touching a million people does not turn me on. If it happens in the future, I don’t think it will turn me on. The best moments in my life happened when I was alone—discovering a certain thread of thought (e.g., discovering [[steve patterson|Steve Patterson’s]] work), experiencing a rich cultural environment (e.g., seing Melaka), or being in nature (e.g., traveling to Palaui).

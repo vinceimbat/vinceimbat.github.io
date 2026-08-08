@@ -1,16 +1,14 @@
 ---
+title: When I Decided To Stay
+created: 2026-03-02 14:30:37+08:00
+modified: 2026-03-02 14:31:05+08:00
 aliases:
 - When I Decided To Stay
-created: 2026-03-02 14:30:37+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-02 14:31:05+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: When I Decided To Stay
 ---
 
 People think we are weak  

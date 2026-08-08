@@ -1,17 +1,15 @@
 ---
+title: “The Ninth Day - A Manner of Humbleness” by Harrington
+created: 2026-02-27 21:56:44+08:00
+modified: 2026-02-27 22:07:47+08:00
 aliases:
 - “The Ninth Day - A Manner of Humbleness” by Harrington
-created: 2026-02-27 21:56:44+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-27 22:07:47+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “The Ninth Day - A Manner of Humbleness” by Harrington
 ---
 
 # Citation

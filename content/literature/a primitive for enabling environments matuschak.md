@@ -1,16 +1,14 @@
 ---
-aliases: null
+title: A primitive for enabling environments; early work on machine-generated prompts
+  by Andy Matuschak
 created: 2024-12-02 09:53:54+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-03-26 16:58:23+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: A primitive for enabling environments; early work on machine-generated prompts
-  by Andy Matuschak
 ---
 
 ## Highlights

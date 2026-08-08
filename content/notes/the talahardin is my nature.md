@@ -1,16 +1,14 @@
 ---
+title: The talahardin is my nature
+created: 2024-07-27 09:56:24+08:00
+modified: 2025-12-12 23:17:46+08:00
 aliases:
 - The talahardin is my nature
-created: 2024-07-27 09:56:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 23:17:46+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: The talahardin is my nature
 ---
 
 [[henry david thoreau|Thoreau]] practiced mornings are for knowledge work. He pieced together notes from his walks the other day, and wrote a long journal entry about them (see [[the fieldwork routine of thoreau]]). I tried this in the past but decided to study [[zettelkasten]] and realized that this kind of knowledge work is better for me.

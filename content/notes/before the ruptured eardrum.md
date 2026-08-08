@@ -1,16 +1,14 @@
 ---
+title: Before the Ruptured Eardrum
+created: 2025-11-14 23:54:28+08:00
+modified: 2026-06-02 09:53:25+08:00
 aliases:
 - Before the Ruptured Eardrum
-created: 2025-11-14 23:54:28+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-02 09:53:25+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Before the Ruptured Eardrum
 ---
 
 I remember the tremor

@@ -1,16 +1,14 @@
 ---
+title: Life is a project
+created: 2024-11-12 20:43:21+08:00
+modified: 2025-12-12 21:19:27+08:00
 aliases:
 - Life is a project
-created: 2024-11-12 20:43:21+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 21:19:27+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Life is a project
 ---
 
 Life involves goals. For some, it involves one big [[goal]]. Life involves actions that can be taken to achieve goals. The actions that fulfill one's goals in life are restricted by rules—the rules of [[nature]] and society.

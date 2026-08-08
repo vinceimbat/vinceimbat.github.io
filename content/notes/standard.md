@@ -1,16 +1,14 @@
 ---
+title: Standard
+created: 2024-10-12 23:38:20+08:00
+modified: 2025-12-12 21:29:33+08:00
 aliases:
 - Standard
-created: 2024-10-12 23:38:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 21:29:33+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Standard
 ---
 
 A standard is a description of an [[end state]]. However, unlike a [[goal]], this end state is something that results from reconstructing a particular mental state again and again, which creates a sense that this end state is maintained over time ([[pursuing a mental state as a purpose requires reconstruction]]).

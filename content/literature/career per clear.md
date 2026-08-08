@@ -1,16 +1,14 @@
 ---
+title: Career per Clear
+created: 2023-10-18 20:28:24+08:00
+modified: 2025-12-13 23:33:52+08:00
 aliases:
 - Career per Clear
-created: 2023-10-18 20:28:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 23:33:52+08:00
 publish: true
 tags:
 - species/quote
 - status/evergreen
-title: Career per Clear
 ---
 
 The 4 qualities of a great career:

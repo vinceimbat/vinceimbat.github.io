@@ -1,16 +1,14 @@
 ---
+title: Observations from members of Pinoy Stoics
+created: 2024-07-16 10:53:05+08:00
+modified: 2025-12-13 09:58:12+08:00
 aliases:
 - Observations from members of Pinoy Stoics
-created: 2024-07-16 10:53:05+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 09:58:12+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Observations from members of Pinoy Stoics
 ---
 
 As part of defining [[my audience and community]], [[my ideal audience persona]] and applying [[dan blank|Dan Blank]]'s [[hone your craft and engage your audience]] and [[hone your gateway]], I started participating in the Pinoy Stoics Facebook group where I discovered the following about my target audience:

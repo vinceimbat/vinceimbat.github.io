@@ -1,12 +1,10 @@
 ---
 title: How to express your beliefs
-modified: 2026-07-30T22:40:18+08:00
 created: 2023-10-18T20:28:24+08:00
+modified: 2026-07-30T22:40:18+08:00
 aliases:
   - How to express your beliefs
 draft: false
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/thought

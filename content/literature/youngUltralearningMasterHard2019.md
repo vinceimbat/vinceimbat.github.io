@@ -1,16 +1,14 @@
 ---
+title: Ultralearning by Scott Young
+created: 2024-10-11 11:42:49+08:00
+modified: 2025-11-26 11:43:20+08:00
 aliases:
 - Ultralearning by Scott Young
-created: 2024-10-11 11:42:49+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-26 11:43:20+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Ultralearning by Scott Young
 ---
 
 # Citation

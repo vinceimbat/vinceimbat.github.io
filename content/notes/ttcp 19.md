@@ -1,17 +1,15 @@
 ---
+title: TTCP 19
+created: 2023-10-18 20:28:21+08:00
+modified: 2025-12-18 11:47:43+08:00
 aliases:
 - TTCP 19
-created: 2023-10-18 20:28:21+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-18 11:47:43+08:00
 publish: true
 tags:
 - species/translation
 - language/pangasinan
 - status/seedling
-title: TTCP 19
 ---
 
 Onliket na maminlasus iray totoo  

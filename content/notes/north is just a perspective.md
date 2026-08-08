@@ -1,16 +1,14 @@
 ---
+title: North is Just a Perspective
+created: 2026-07-17 17:03:14+08:00
+modified: 2026-07-17 17:08:26+08:00
 aliases:
 - North is Just a Perspective
-created: 2026-07-17 17:03:14+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-17 17:08:26+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: North is Just a Perspective
 ---
 
 In August 1, 2026, a crowd of over thirteen thousand people gathered in front of Malacañang. Their demand: to move the Philippine map upside down. Instead of a dog with an oversized head, the Philippines now looked like a flower blooming.

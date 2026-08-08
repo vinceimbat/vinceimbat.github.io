@@ -1,16 +1,14 @@
 ---
+title: The writing life of Thoreau
+created: 2024-11-12 16:00:47+08:00
+modified: 2025-11-26 23:07:55+08:00
 aliases:
 - The writing life of Thoreau
-created: 2024-11-12 16:00:47+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-26 23:07:55+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: The writing life of Thoreau
 ---
 
 - [[the writing and walking routine of thoreau 1850-1862|The writing and walking routine of Thoreau (1850–1862)]]

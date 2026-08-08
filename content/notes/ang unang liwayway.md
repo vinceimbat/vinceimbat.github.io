@@ -1,17 +1,15 @@
 ---
+title: Ang Unang Liwayway
+created: 2024-09-08 12:08:33+08:00
+modified: 2025-11-30 10:06:01+08:00
 aliases:
 - Ang Unang Liwayway
-created: 2024-09-08 12:08:33+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-30 10:06:01+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Ang Unang Liwayway
 ---
 
 Sa kailalimlaliman  

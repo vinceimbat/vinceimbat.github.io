@@ -1,16 +1,14 @@
 ---
+title: Outer work enhances inner work
+created: 2024-10-11 10:28:01+08:00
+modified: 2025-12-12 21:30:34+08:00
 aliases:
 - Outer work enhances inner work
-created: 2024-10-11 10:28:01+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 21:30:34+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Outer work enhances inner work
 ---
 
 If, based on the science, rich relationships lead to happiness, then we can argue that working on our relationships (an outer work) enhances our inner state and with that how we perform inner work.

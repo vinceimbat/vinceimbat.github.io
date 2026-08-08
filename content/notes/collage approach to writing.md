@@ -1,16 +1,14 @@
 ---
+title: Collage approach to writing
+created: 2024-08-19 12:00:50+08:00
+modified: 2025-12-12 23:11:10+08:00
 aliases:
 - Collage approach to writing
-created: 2024-08-19 12:00:50+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 23:11:10+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Collage approach to writing
 ---
 
 A collage approach to writing is when you take individual pieces of text taken from different contexts and bring them together into a new artifact, where they take on a new meaning in a new context.

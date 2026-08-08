@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Rizal
 created: 2025-07-24 22:05:05+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-07-24 22:17:55+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Rizal
 ---
 
 # Rizal's religion

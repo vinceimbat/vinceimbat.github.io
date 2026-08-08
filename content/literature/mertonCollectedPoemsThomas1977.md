@@ -1,16 +1,14 @@
 ---
+title: The Collected Poems of Thomas Merton by Thomas Merton
+created: 2025-09-02 09:27:33+08:00
+modified: 2025-09-02 09:27:52+08:00
 aliases:
 - The Collected Poems of Thomas Merton by Thomas Merton
-created: 2025-09-02 09:27:33+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-09-02 09:27:52+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: The Collected Poems of Thomas Merton by Thomas Merton
 ---
 
 # Citation

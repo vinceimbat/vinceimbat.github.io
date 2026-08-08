@@ -1,16 +1,14 @@
 ---
+title: Poetry Fridays prompts
+created: 2026-06-08 20:49:52+08:00
+modified: 2026-08-07T15:55:20+08:00
 aliases:
   - Poetry Fridays prompts
-created: 2026-06-08 20:49:52+08:00
-dg-home:
-dg-publish: true
 draft: false
-modified: 2026-08-07T15:55:20+08:00
 publish: true
 tags:
   - species/thought
   - status/seedling
-title: Poetry Fridays prompts
 ---
 [[2026-06-05]]
 

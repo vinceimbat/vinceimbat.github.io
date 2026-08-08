@@ -1,16 +1,14 @@
 ---
+title: I Was Almost Led to Believe
+created: 2026-07-17 14:45:52+08:00
+modified: 2026-07-17 14:46:43+08:00
 aliases:
 - I Was Almost Led to Believe
-created: 2026-07-17 14:45:52+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-17 14:46:43+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: I Was Almost Led to Believe
 ---
 
 a flower will not grow here  

@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Use an outline to study
 created: 2025-03-27 15:34:41+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-11-26 11:21:51+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Use an outline to study
 ---
 
 Aside from writing I use [[notes/outline|outlines]] to guide my thinking while studying a subject. I write [[metalearning]] information throughout [[my studying process]] in a single note, which serves as the master note of the learning project. Often I begin with a clear topic, but sometimes all I have is a question. I use either of these as the title of my note.

@@ -1,17 +1,15 @@
 ---
+title: In This Stream of Molawin
+created: 2026-01-22 10:59:43+08:00
+modified: 2026-01-22 11:00:14+08:00
 aliases:
 - In This Stream of Molawin
-created: 2026-01-22 10:59:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-22 11:00:14+08:00
 publish: true
 tags:
 - species/translation
 - language/english
 - status/seedling
-title: In This Stream of Molawin
 ---
 
 In this stream of Molawin  

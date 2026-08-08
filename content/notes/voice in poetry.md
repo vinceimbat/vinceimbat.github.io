@@ -1,16 +1,14 @@
 ---
+title: Voice in poetry
+created: 2026-07-16 09:34:23+08:00
+modified: 2026-07-16 09:34:37+08:00
 aliases:
 - Voice in poetry
-created: 2026-07-16 09:34:23+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-16 09:34:37+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Voice in poetry
 ---
 
 We have voices in us whatever our age.

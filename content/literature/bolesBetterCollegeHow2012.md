@@ -1,16 +1,14 @@
 ---
+title: Better Than College by Boles
+created: 2023-10-18 20:28:24+08:00
+modified: 2025-12-13 11:17:57+08:00
 aliases:
 - Better Than College by Boles
-created: 2023-10-18 20:28:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 11:17:57+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Better Than College by Boles
 ---
 
 # Citation

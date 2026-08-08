@@ -1,16 +1,14 @@
 ---
+title: The fieldwork routine of Thoreau
+created: 2024-04-02 16:19:14+08:00
+modified: 2025-12-13 23:02:39+08:00
 aliases:
 - The fieldwork routine of Thoreau
-created: 2024-04-02 16:19:14+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 23:02:39+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: The fieldwork routine of Thoreau
 ---
 
 [[henry david thoreau|Henry David Thoreau]]'s fieldwork routine involved [[notes/walking]] in the afternoon, writing notes while walking, and processing those notes into long journal entries in the following morning. Sometimes, he modified this routine, but he always tried to spend equal times between writing and walking. He wanted to write based on experience and not based on books alone ([[words written outdoors vs indoors]]).

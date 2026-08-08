@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Haibun
 created: 2025-11-22 16:00:25+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-11-25 17:17:07+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Haibun
 ---
 
 From [[rossTellingStoryHaibun2002|“Telling a Story: Haibun” by Bruce Ross]]:

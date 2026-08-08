@@ -1,16 +1,14 @@
 ---
+title: My ministry
+created: 2024-05-16 10:56:46+08:00
+modified: 2025-12-13 18:41:16+08:00
 aliases:
 - My ministry
-created: 2024-05-16 10:56:46+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 18:41:16+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My ministry
 ---
 
 # Daily

@@ -1,16 +1,14 @@
 ---
+title: Capek's ten principles of living
+created: 2024-12-12 14:22:54+08:00
+modified: 2025-12-08 10:46:52+08:00
 aliases:
 - Capek's ten principles of living
-created: 2024-12-12 14:22:54+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-08 10:46:52+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Capek's ten principles of living
 ---
 
 1) Live simply. Live in such a way that you have few needs. Don’t worry unnecessarily, especially don’t let other people’s worries trouble you. Be content with what you have.  

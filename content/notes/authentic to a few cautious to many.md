@@ -1,16 +1,14 @@
 ---
+title: Authentic to a few, cautious to many
+created: 2023-08-21 22:57:20+08:00
+modified: 2025-12-17 11:08:11+08:00
 aliases:
 - Authentic to a few, cautious to many
-created: 2023-08-21 22:57:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-17 11:08:11+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Authentic to a few, cautious to many
 ---
 
 Underneath all public image is a messy complicated human being. This is ok. We don't have to live in public. Being authentic does not require that one comprehensively displays that authenticity to the public all the time. Doing so can hurt us because we are putting our sensitive selves in the middle of a harsh context.

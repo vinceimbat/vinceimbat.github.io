@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: hilum awa workshop 1
 created: 2024-10-21 22:09:59+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-10-01 15:46:10+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/evergreen
-title: hilum awa workshop 1
 ---
 
 # Intro

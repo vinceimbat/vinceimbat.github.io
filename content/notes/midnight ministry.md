@@ -1,16 +1,14 @@
 ---
+title: Midnight Ministry
+created: 2026-02-15 10:43:48+08:00
+modified: 2026-06-28 09:56:07+08:00
 aliases:
 - Midnight Ministry
-created: 2026-02-15 10:43:48+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-28 09:56:07+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Midnight Ministry
 ---
 
 # v2

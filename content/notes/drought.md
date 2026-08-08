@@ -1,16 +1,14 @@
 ---
+title: Drought
+created: 2026-06-08 09:10:33+08:00
+modified: 2026-06-08 09:12:07+08:00
 aliases:
 - Drought
-created: 2026-06-08 09:10:33+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-08 09:12:07+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Drought
 ---
 
 In Santa Maria,  

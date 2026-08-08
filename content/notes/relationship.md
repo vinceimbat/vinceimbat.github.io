@@ -1,16 +1,14 @@
 ---
+title: Relationship
+created: 2024-02-20 13:22:43+08:00
+modified: 2025-12-17 11:14:50+08:00
 aliases:
 - Relationship
-created: 2024-02-20 13:22:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-17 11:14:50+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Relationship
 ---
 
 Why do I feel a stronger pull towards people I've been physically around with? Distance, physics, matter matter.

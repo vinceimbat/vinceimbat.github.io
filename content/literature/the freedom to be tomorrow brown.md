@@ -1,16 +1,14 @@
 ---
+title: The freedom to be tomorrow what we are not today - Brown
+created: 2024-10-15 23:05:49+08:00
+modified: 2025-06-24 16:14:38+08:00
 aliases:
 - literature/the-freedom-to-be-tomorrow-brown
-created: 2024-10-15 23:05:49+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-06-24 16:14:38+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: The freedom to be tomorrow what we are not today - Brown
 ---
 
 # Citation

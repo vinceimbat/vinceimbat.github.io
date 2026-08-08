@@ -1,16 +1,14 @@
 ---
+title: Walking as jiyū shūkyō
+created: 2024-07-29 16:46:11+08:00
+modified: 2025-07-23 10:35:39+08:00
 aliases:
 - Walking as jiyū shūkyō
-created: 2024-07-29 16:46:11+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-23 10:35:39+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Walking as jiyū shūkyō
 ---
 
 [[notes/walking|Walking]] is continuous movement. Because of this, it is both metaphor and physical manifestation of [[jiyu shukyo|jiyū shūkyō's]] commitment: an active faith to the unity of being that requires deep listening and openness to change.

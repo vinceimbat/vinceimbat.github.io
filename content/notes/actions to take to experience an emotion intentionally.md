@@ -1,16 +1,14 @@
 ---
+title: Actions to take to experience an emotion intentionally
+created: 2024-05-07 16:32:06+08:00
+modified: 2025-12-12 21:23:43+08:00
 aliases:
 - Actions to take to experience an emotion intentionally
-created: 2024-05-07 16:32:06+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 21:23:43+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Actions to take to experience an emotion intentionally
 ---
 
 I just want to be happy and fulfilled. I didn't choose to be alive, but I am. I want to enjoy life.

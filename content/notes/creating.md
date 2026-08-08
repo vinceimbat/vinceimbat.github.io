@@ -1,17 +1,15 @@
 ---
+title: Creating
+created: 2024-10-12 23:38:20+08:00
+modified: 2026-01-13 10:37:48+08:00
 aliases:
 - Creating
 - thoughts/creating
-created: 2024-10-12 23:38:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-13 10:37:48+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Creating
 ---
 
 This [[life area|life area]] involves working on crafts that I identify as integral to who I show up in the world and those that I do mainly as a hobby.

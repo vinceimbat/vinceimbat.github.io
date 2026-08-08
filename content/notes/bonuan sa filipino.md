@@ -1,16 +1,14 @@
 ---
+title: Bonuan (Sa Filipino)
+created: 2026-02-23 21:36:01+08:00
+modified: 2026-02-23 21:36:48+08:00
 aliases:
 - Bonuan (Sa Filipino)
-created: 2026-02-23 21:36:01+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-23 21:36:48+08:00
 publish: true
 tags:
 - species/translation
 - status/seedling
-title: Bonuan (Sa Filipino)
 ---
 
 Ingat din ako  

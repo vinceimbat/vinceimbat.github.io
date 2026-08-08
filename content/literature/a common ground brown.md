@@ -1,18 +1,16 @@
 ---
+title: A common ground? A Unitarian and Universalist religious naturalist meditation
+  on Darwin’s 207th birthday by Brown
+created: 2025-05-10 11:41:41+08:00
+modified: 2025-05-10 12:02:12+08:00
 aliases:
 - A common ground? A Unitarian and Universalist religious naturalist meditation on
   Darwin’s 207th birthday by Brown
-created: 2025-05-10 11:41:41+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-05-10 12:02:12+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: A common ground? A Unitarian and Universalist religious naturalist meditation
-  on Darwin’s 207th birthday by Brown
 ---
 
 # Highlights

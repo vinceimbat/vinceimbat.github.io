@@ -1,16 +1,14 @@
 ---
+title: Do projects that target multiple goals
+created: 2024-11-26 21:24:02+08:00
+modified: 2025-10-14 11:43:00+08:00
 aliases:
 - Do projects that target multiple goals
-created: 2024-11-26 21:24:02+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-14 11:43:00+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Do projects that target multiple goals
 ---
 
 You can only work on a finite number of [[project]]s at any given time due to cognitive, physical, and logistical limits.

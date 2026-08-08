@@ -1,16 +1,14 @@
 ---
+title: '"The Real Friend" by Manshi Kiyozawa'
+created: 2025-06-24 09:25:01+08:00
+modified: 2025-06-25 11:14:18+08:00
 aliases:
 - '"The Real Friend" by Manshi Kiyozawa'
-created: 2025-06-24 09:25:01+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-06-25 11:14:18+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: '"The Real Friend" by Manshi Kiyozawa'
 ---
 
 # Citation

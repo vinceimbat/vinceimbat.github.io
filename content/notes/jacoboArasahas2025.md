@@ -1,16 +1,14 @@
 ---
+title: Arasahas by Jaya Jacobo
+created: 2026-05-18 23:23:34+08:00
+modified: 2026-05-18 23:24:15+08:00
 aliases:
 - Arasahas by Jaya Jacobo
-created: 2026-05-18 23:23:34+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-18 23:24:15+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Arasahas by Jaya Jacobo
 ---
 
 # Citation

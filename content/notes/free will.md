@@ -5,8 +5,6 @@ modified: 2026-07-30T22:17:03+08:00
 aliases:
   - Free will
 draft: false
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/thought

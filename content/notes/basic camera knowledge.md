@@ -1,17 +1,15 @@
 ---
+title: Basic camera knowledge
+created: 2024-02-20 13:22:43+08:00
+modified: 2025-04-06 22:36:17+08:00
 aliases:
 - Basic-camera-knowledge
-created: 2024-02-20 13:22:43+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-04-06 22:36:17+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
 - species/flashcards
-title: Basic camera knowledge
 ---
 
 # Set primary settings
@@ -54,7 +52,7 @@ Camera's default auto focus mode (hint: Miki). :: One Shot / Single Shot
 <!--SR:!2026-08-31,146,210-->
 
 Camera's metering mode (hint: test). :: Evaluative
-<!--SR:!2026-08-08,59,210-->
+<!--SR:!2026-12-10,124,210-->
 
 Three main factors that control exposure in photography. :: ISO, aperture, and shutter speed
 <!--SR:!2026-12-10,164,210-->

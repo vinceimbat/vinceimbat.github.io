@@ -1,16 +1,14 @@
 ---
-aliases: null
+title: Wieman's minimalist definition of god
 created: 2024-05-17 22:14:11+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-09-07 11:26:17+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: Wieman's minimalist definition of god
 ---
 
 Here is [[henry nelson wieman|Henry Nelson Wieman's]] minimalist definition of [[god|God]]. I first learned of it from [[andrew j brown|Andrew James Brown]] who proposed to his congregation that it is the minimalist definition that everyone, despite their different maximalist conceptions of God could agree on.

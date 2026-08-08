@@ -1,16 +1,14 @@
 ---
+title: 'Henry David Thoreau: A Life by Laura Dassow Walls'
+created: 2024-11-02 20:51:07+08:00
+modified: 2025-11-26 16:28:03+08:00
 aliases:
 - 'Henry David Thoreau: A Life by Laura Dassow Walls'
-created: 2024-11-02 20:51:07+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-26 16:28:03+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: 'Henry David Thoreau: A Life by Laura Dassow Walls'
 ---
 
 # Citation

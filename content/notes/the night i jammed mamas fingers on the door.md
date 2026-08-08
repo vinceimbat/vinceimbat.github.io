@@ -1,16 +1,14 @@
 ---
+title: The Night I Jammed Mama's Fingers on the Door
+created: 2026-06-25 11:24:28+08:00
+modified: 2026-06-29 19:40:02+08:00
 aliases:
 - The Night I Jammed Mama's Fingers on the Door
-created: 2026-06-25 11:24:28+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-29 19:40:02+08:00
 publish: true
 tags:
 - species/translation
 - status/seedling
-title: The Night I Jammed Mama's Fingers on the Door
 ---
 
 What is deepest and truest?

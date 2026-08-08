@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: My photo editing process
 created: 2025-05-14 16:05:06+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-05-17 14:18:23+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My photo editing process
 ---
 
 # Culling

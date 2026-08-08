@@ -1,17 +1,15 @@
 ---
+title: Lyrical philosophy
+created: 2024-10-21 22:43:01+08:00
+modified: 2025-05-30 15:00:31+08:00
 aliases:
 - Lyrical-philosophy
 - thoughts/lyrical-philosophy
-created: 2024-10-21 22:43:01+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-05-30 15:00:31+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Lyrical philosophy
 ---
 
 # Lyrical or lyric philosophy vs analytical philosophy

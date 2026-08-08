@@ -1,16 +1,14 @@
 ---
+title: What is a literary draft? by Biassi and Wassenaar
+created: 2024-08-22 18:20:41+08:00
+modified: 2025-11-14 23:59:44+08:00
 aliases:
 - literature/what-is-a-literary-draft-by-biassi-and-wassenaar
-created: 2024-08-22 18:20:41+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-14 23:59:44+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: What is a literary draft? by Biassi and Wassenaar
 ---
 
 # Citation

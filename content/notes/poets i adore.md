@@ -1,16 +1,14 @@
 ---
+title: Poets I adore
+created: 2024-10-08 23:08:57+08:00
+modified: 2026-07-16 09:35:54+08:00
 aliases:
 - Poets I adore
-created: 2024-10-08 23:08:57+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-16 09:35:54+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Poets I adore
 ---
 
 The poets I will study and let inspire me will not necessarily be a strict lineage but a combination of many from different cultures.

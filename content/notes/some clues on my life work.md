@@ -1,16 +1,14 @@
 ---
+title: Some clues on my life work
+created: 2025-08-22 18:29:48+08:00
+modified: 2025-10-14 11:32:24+08:00
 aliases:
 - Some clues on my life work
-created: 2025-08-22 18:29:48+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-14 11:32:24+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Some clues on my life work
 ---
 
 How much publicity do I want? 

@@ -1,17 +1,15 @@
 ---
+title: Life area
+created: 2024-10-12 23:47:55+08:00
+modified: 2025-08-17 10:12:51+08:00
 aliases:
 - Life-area
 - thoughts/life-area
-created: 2024-10-12 23:47:55+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-17 10:12:51+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Life area
 ---
 
 According to Tiago Forte, an area of responsibility, is a "sphere of activity with a standard to be maintained over time." It is different from a [[project]] by its lack of a deadline and a [[goal]]. Instead of a goal, it requires a standard that has to be maintained. This standard is maintained through projects or [[habits]] (see [[starting a habit is a project]]). When an area is reduced into sub-areas ([[divide areas into sub-areas for easier tracking]]) and projects, it is connected to individual tasks and, therefore, the present moment.

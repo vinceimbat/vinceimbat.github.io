@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: The talahardin is a draft
 created: 2024-07-29 15:51:07+08:00
-dg-home: null
-dg-publish: true
-draft: null
 modified: 2025-03-25 16:59:12+08:00
+aliases: null
+draft: null
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: The talahardin is a draft
 ---
 
 Like the material it preserves (the [[notes/draft|draft]]), the [[talahardin|talahardin]] being an [[archive]], follows the qualities of fragmentation, partiality, and incompletion. If a draft is never complete ([[art is never finished|art is never finished]]), working on the talahardin archive is also never finished. Therefore, both the draft and the archive are more process than thing ([[talahardin emphasizes process|talahardin emphasizes process]]). The talahardin is a perpetual draft.

@@ -1,17 +1,15 @@
 ---
+title: “The First Day (Ash Wednesday) - A Way of Growing” by Harrington
+created: 2026-02-18 20:24:41+08:00
+modified: 2026-02-23 17:20:33+08:00
 aliases:
 - “The First Day (Ash Wednesday) - A Way of Growing” by Harrington
-created: 2026-02-18 20:24:41+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-23 17:20:33+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “The First Day (Ash Wednesday) - A Way of Growing” by Harrington
 ---
 
 # Citation

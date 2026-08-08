@@ -1,21 +1,19 @@
 ---
+title: Ang Pakikipagkaibigan ng Makata sa Dilim at Liwanag
+created: 2024-06-11 11:35:02+08:00
+modified: 2026-05-27 07:56:52+08:00
 aliases:
 - Ang Pakikipagkaibigan ng Makata sa Dilim at Liwanag
-created: 2024-06-11 11:35:02+08:00
-dg-home: null
-dg-publish: true
-draft: false
 location:
 - 16.057106
 - 120.45388
-modified: 2026-05-27 07:56:52+08:00
+draft: false
 publish: true
 tags:
 - species/poem
 - species/translation
 - language/filipino
 - status/seedling
-title: Ang Pakikipagkaibigan ng Makata sa Dilim at Liwanag
 ---
 
 Madilim ang langit  

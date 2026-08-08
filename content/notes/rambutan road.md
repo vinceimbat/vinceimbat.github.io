@@ -1,16 +1,14 @@
 ---
+title: Rambutan Road
+created: 2024-06-30 12:25:05+08:00
+modified: 2026-05-27 21:17:11+08:00
 aliases:
 - Rambutan Road
-created: 2024-06-30 12:25:05+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 21:17:11+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Rambutan Road
 ---
 
 The moon  

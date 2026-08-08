@@ -1,15 +1,13 @@
 ---
+title: Augmenting long-term memory - Nielsen
 created: 2024-12-10 10:37:38+08:00
-dg-home: null
-dg-publish: true
-draft: null
 modified: 2025-07-31 21:53:28+08:00
+draft: null
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: Augmenting long-term memory - Nielsen
 ---
 
 Why use intuition to guide what to memorize? :: To cultivate taste in what to memorize.
@@ -64,7 +62,7 @@ Complex questions are allowed in spaced repetition prompts only when ... :: They
 <!--SR:!2026-10-31,122,214-->
 
 Prompts weakly related to others ::: Orphan questions
-<!--SR:!2026-08-08,445,314!2026-10-18,92,174-->
+<!--SR:!2030-06-05,1397,314!2026-10-18,92,174-->
 
 How to avoid orphan questions :: Write more than one question about a new subject.
 <!--SR:!2026-08-18,231,214-->

@@ -1,17 +1,15 @@
 ---
+title: Sa Dilim
+created: 2024-06-24 17:59:50+08:00
+modified: 2026-05-28 07:21:18+08:00
 aliases:
 - Sa Dilim
-created: 2024-06-24 17:59:50+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-28 07:21:18+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Sa Dilim
 ---
 
 Bakit kaya kapag  

@@ -1,16 +1,14 @@
 ---
+title: Kay Hele
+created: 2025-12-06 09:18:04+08:00
+modified: 2025-12-14 11:29:35+08:00
 aliases:
 - Kay Hele
-created: 2025-12-06 09:18:04+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-14 11:29:35+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Kay Hele
 ---
 
 Sa mga gabing maramot ang idlip,  

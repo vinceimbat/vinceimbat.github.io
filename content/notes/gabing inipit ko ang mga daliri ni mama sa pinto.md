@@ -1,16 +1,14 @@
 ---
+title: Gabing Inipit Ko Ang Mga Daliri Ni Mama Sa Pinto
+created: 2026-05-11 14:35:42+08:00
+modified: 2026-05-11 14:36:37+08:00
 aliases:
 - Gabing Inipit Ko Ang Mga Daliri Ni Mama Sa Pinto
-created: 2026-05-11 14:35:42+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-11 14:36:37+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Gabing Inipit Ko Ang Mga Daliri Ni Mama Sa Pinto
 ---
 
 Buhos ang kadiliman sa mga gabing iyon

@@ -1,16 +1,14 @@
 ---
+title: Today I Buried a Kitten
+created: 2024-09-08 10:30:29+08:00
+modified: 2025-11-18 10:34:32+08:00
 aliases:
 - Today I Buried a Kitten
-created: 2024-09-08 10:30:29+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-18 10:34:32+08:00
 publish: true
 tags:
 - species/poem
 - status/evergreen
-title: Today I Buried a Kitten
 ---
 
 This afternoon  

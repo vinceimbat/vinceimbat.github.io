@@ -1,16 +1,14 @@
 ---
+title: See things as they really are
+created: 2024-11-13 17:02:27+08:00
+modified: 2026-01-13 10:13:58+08:00
 aliases:
 - See things as they really are
-created: 2024-11-13 17:02:27+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-13 10:13:58+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: See things as they really are
 ---
 
 Experiencing the world as it is means seeing it beyond bias. It might be totally impossible to see the world as it really exists but we could try. We need to try because our thinking and judgment become sharper if we describe what is there and not what we want to be there.

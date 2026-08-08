@@ -1,16 +1,14 @@
 ---
+title: Teodora Alonzo's walks
+created: 2024-06-22 16:26:07+08:00
+modified: 2025-11-09 10:28:35+08:00
 aliases:
 - Teodora Alonzo's walks
-created: 2024-06-22 16:26:07+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-09 10:28:35+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Teodora Alonzo's walks
 ---
 
 ~1872

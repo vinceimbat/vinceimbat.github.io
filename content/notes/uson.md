@@ -1,16 +1,14 @@
 ---
+title: Uson
+created: 2026-05-06 20:42:39+08:00
+modified: 2026-05-06 20:43:27+08:00
 aliases:
 - Uson
-created: 2026-05-06 20:42:39+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-06 20:43:27+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Uson
 ---
 
 Pinipigilan ng Mayon ang muli nating pagkikita  

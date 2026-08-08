@@ -5,8 +5,6 @@ modified: 2026-07-30T22:25:49+08:00
 aliases:
   - Hanggat Walang Makinang Makapagpupunla ng Palay
 draft: false
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/poem

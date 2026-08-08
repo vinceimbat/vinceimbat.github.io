@@ -1,16 +1,14 @@
 ---
+title: Backroads To Far Towns by Basho (trans. Corman)
+created: 2025-11-27 09:14:32+08:00
+modified: 2025-11-27 09:15:48+08:00
 aliases:
 - Backroads To Far Towns by Basho (trans. Corman)
-created: 2025-11-27 09:14:32+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-27 09:15:48+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Backroads To Far Towns by Basho (trans. Corman)
 ---
 
 # Citation

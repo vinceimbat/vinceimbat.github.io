@@ -1,16 +1,14 @@
 ---
+title: Ang Katapusan ng Libro
+created: 2026-07-18 09:50:07+08:00
+modified: 2026-07-18 09:50:40+08:00
 aliases:
 - Ang Katapusan ng Libro
-created: 2026-07-18 09:50:07+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-18 09:50:40+08:00
 publish: true
 tags:
 - species/essay
 - status/evergreen
-title: Ang Katapusan ng Libro
 ---
 
 Minsan, nabasa ko ang isang headline sa isang online na peryodiko—"The End of Books" ang sabi nito. Ipinanukala ng mayakda ang dahandahang paglaho ng pisikal na mga libro, ng mga pabalat na yari sa balat, ng mga pahinang dahandahang naninilaw at lumulutong kapag tumatagal sa istante.

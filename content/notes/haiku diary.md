@@ -1,16 +1,14 @@
 ---
+title: Haiku diary
+created: 2025-11-05 09:35:24+08:00
+modified: 2025-12-16 11:59:41+08:00
 aliases:
 - Haiku diary
-created: 2025-11-05 09:35:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-16 11:59:41+08:00
 publish: true
 tags:
 - species/log
 - status/seedling
-title: Haiku diary
 ---
 
 # From before 2025

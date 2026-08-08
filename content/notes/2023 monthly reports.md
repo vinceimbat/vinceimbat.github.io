@@ -1,15 +1,13 @@
 ---
-aliases: []
+title: 2023 monthly reports
 created: 2024-10-14 23:30:17+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-12-13 10:38:52+08:00
+aliases: []
+draft: false
 publish: true
 tags:
 - species/log
 - status/evergreen
-title: 2023 monthly reports
 ---
 
 Here are my [[monthly reports|monthly reports]] for 2023.

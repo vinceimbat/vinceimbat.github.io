@@ -1,16 +1,14 @@
 ---
+title: Meditation
+created: 2024-05-07 16:29:35+08:00
+modified: 2025-10-14 11:56:02+08:00
 aliases:
 - Meditation
-created: 2024-05-07 16:29:35+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-14 11:56:02+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Meditation
 ---
 
 - [[Meditation does not require silence or nonthinking]]

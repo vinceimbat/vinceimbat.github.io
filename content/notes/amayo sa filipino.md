@@ -1,18 +1,16 @@
 ---
+title: Amayo sa Filipino
+created: 2024-09-06 23:23:30+08:00
+modified: 2026-02-04 18:46:09+08:00
 aliases:
 - Amayo (sa Filipino)
-created: 2024-09-06 23:23:30+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-04 18:46:09+08:00
 publish: true
 tags:
 - species/translation
 - language/filipino
 - status/seedling
 - species/poem
-title: Amayo sa Filipino
 ---
 
 Lumalamig lahat ng dinadampian  

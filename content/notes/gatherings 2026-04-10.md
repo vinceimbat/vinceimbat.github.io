@@ -1,16 +1,14 @@
 ---
+title: Gatherings 2026-04-10
+created: 2026-04-12 11:23:32+08:00
+modified: 2026-04-12 18:39:43+08:00
 aliases:
 - Gatherings 2026-04-10
-created: 2026-04-12 11:23:32+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-04-12 18:39:43+08:00
 publish: true
 tags:
 - species/essay
 - status/evergreen
-title: Gatherings 2026-04-10
 ---
 
 ![[20260410-064753-gatherings-1-field.jpg]]

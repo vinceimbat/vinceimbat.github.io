@@ -1,16 +1,14 @@
 ---
+title: The Existentialist's Survival Guide by Gordon Marino
+created: 2024-11-17 23:57:48+08:00
+modified: 2025-05-01 15:29:33+08:00
 aliases:
 - literature/the-existentialists-survival-guide-marino
-created: 2024-11-17 23:57:48+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-05-01 15:29:33+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: The Existentialist's Survival Guide by Gordon Marino
 ---
 
 # Authenticity

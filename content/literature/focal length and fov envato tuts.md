@@ -1,16 +1,14 @@
 ---
-aliases: null
+title: Focal length and FOV by Envato Tuts+
 created: 2025-05-08 11:48:01+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-05-08 17:10:52+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: Focal length and FOV by Envato Tuts+
 ---
 
 What is a focal length of a lens?

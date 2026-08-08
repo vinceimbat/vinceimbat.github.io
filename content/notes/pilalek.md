@@ -1,16 +1,14 @@
 ---
+title: Pilalëk
+created: 2026-06-07 07:37:37+08:00
+modified: 2026-06-08 20:48:44+08:00
 aliases:
 - Pilalëk
-created: 2026-06-07 07:37:37+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-08 20:48:44+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Pilalëk
 ---
 
 Kapaway ko'd pwerta  

@@ -1,16 +1,14 @@
 ---
+title: Sutran Amianën
+created: 2026-02-01 11:25:33+08:00
+modified: 2026-05-28 07:53:36+08:00
 aliases:
 - Sutran Amianën
-created: 2026-02-01 11:25:33+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-28 07:53:36+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Sutran Amianën
 ---
 
 Aliwan aya labat so sinukuan mo.  

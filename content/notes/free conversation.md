@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Free conversation
 created: 2025-07-22 10:04:06+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-07-22 10:05:26+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Free conversation
 ---
 
 From Michael Oakeshott:

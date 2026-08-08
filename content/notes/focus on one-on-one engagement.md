@@ -1,16 +1,14 @@
 ---
+title: Focus on one-on-one engagement
+created: 2024-05-09 10:19:21+08:00
+modified: 2026-03-11 10:44:28+08:00
 aliases:
 - Focus on one-on-one engagement
-created: 2024-05-09 10:19:21+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-11 10:44:28+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Focus on one-on-one engagement
 ---
 
 Seek validation in reaching one person and engaging with them deeply. Focus on one person at a time. Begin to do this long before you even create or launch your work. If you already have an audience in front of you, start with them.

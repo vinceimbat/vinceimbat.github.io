@@ -1,16 +1,14 @@
 ---
-aliases: null
+title: 'Camera basics: Aperture by Apalapse'
 created: 2025-05-08 16:43:01+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-05-08 17:08:54+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: 'Camera basics: Aperture by Apalapse'
 ---
 
 # Highlights

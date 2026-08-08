@@ -1,17 +1,15 @@
 ---
+title: Bonuan
+created: 2026-02-15 10:49:34+08:00
+modified: 2026-05-27 10:03:04+08:00
 aliases:
 - Bonuan
-created: 2026-02-15 10:49:34+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 10:03:04+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/seedling
-title: Bonuan
 ---
 
 Alwar ak mët  

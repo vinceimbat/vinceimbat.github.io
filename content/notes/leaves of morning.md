@@ -1,16 +1,14 @@
 ---
+title: Leaves of Morning
+created: 2025-08-04 09:35:19+08:00
+modified: 2025-08-04 09:36:26+08:00
 aliases:
 - Leaves of Morning
-created: 2025-08-04 09:35:19+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-04 09:36:26+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Leaves of Morning
 ---
 
 # Mga Dahon ng Umaga

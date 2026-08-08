@@ -1,16 +1,14 @@
 ---
+title: Okada Torajiro
+created: 2024-05-14 14:58:39+08:00
+modified: 2025-12-16 16:52:29+08:00
 aliases:
 - Okada Torajiro
-created: 2024-05-14 14:58:39+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-16 16:52:29+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Okada Torajiro
 ---
 
 Founder of [[seiza]] meditation.

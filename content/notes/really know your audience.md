@@ -1,16 +1,14 @@
 ---
+title: Really know your audience
+created: 2024-05-09 11:07:31+08:00
+modified: 2026-03-13 11:47:46+08:00
 aliases:
 - Really know your audience
-created: 2024-05-09 11:07:31+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-13 11:47:46+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Really know your audience
 ---
 
 For your creative work to be meaningful for both you and your reader, you have to know them really well. Find and explore the path that your reader already walks along every day. Have empathy for who they are, what they already know, their habits, their interests, and who they trust. This involves spending adequate time directly with your reader. Then, use this knowledge to determine where you need to put your efforts and better serve your reader. Be willing to make adjustments to ensure you are truly engaging your reader.

@@ -1,16 +1,14 @@
 ---
+title: A swarm of little birds
+created: 2023-08-21 22:57:20+08:00
+modified: 2025-12-14 17:45:16+08:00
 aliases:
 - A swarm of little birds
-created: 2023-08-21 22:57:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-14 17:45:16+08:00
 publish: true
 tags:
 - species/vignette
 - status/seedling
-title: A swarm of little birds
 ---
 
 A swarm of little birds made me stopped on the trail. I still don't know what they are. Are they maya due to their number? There's a lot of them despite their tiny size.

@@ -1,16 +1,14 @@
 ---
+title: Di Pa
+created: 2023-10-18 20:28:24+08:00
+modified: 2026-05-27 10:44:18+08:00
 aliases:
 - Di Pa
-created: 2023-10-18 20:28:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 10:44:18+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Di Pa
 ---
 
 Nakasuot ang maliit na sumbrero  

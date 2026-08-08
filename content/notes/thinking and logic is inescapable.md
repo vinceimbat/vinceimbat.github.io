@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Thinking and Logic is Inescapable
 created: 2023-10-18 20:28:24+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-04-12 11:20:58+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Thinking and Logic is Inescapable
 ---
 
 Imagine that I am one of the first apes to think. What happens when I see a plant? From here, the primal action is simply being aware of its existence. But the moment I became aware, almost instantly, I have also formed a concept. My mind through my brain has interpreted what my eyes saw as a separate form. And also almost instantly after being aware of the form, I am called to think of this thing as a separate entity in need of an identity. Almost instantly I need a tool to help me make this happen: a concept.

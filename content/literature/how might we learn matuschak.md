@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: How might we learn? by Andy Matuschak
 created: 2024-12-02 09:52:37+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-09-05 22:19:52+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: How might we learn? by Andy Matuschak
 ---
 
 ## Highlights

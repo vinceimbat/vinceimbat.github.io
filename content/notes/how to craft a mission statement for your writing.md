@@ -1,16 +1,14 @@
 ---
+title: How to craft a mission statement for your writing
+created: 2024-05-09 10:35:36+08:00
+modified: 2026-03-11 11:28:24+08:00
 aliases:
 - How to craft a mission statement for your writing
-created: 2024-05-09 10:35:36+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-11 11:28:24+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: How to craft a mission statement for your writing
 ---
 
 Write a simple sentence that:

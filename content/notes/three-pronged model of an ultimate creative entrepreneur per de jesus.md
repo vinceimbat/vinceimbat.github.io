@@ -1,16 +1,14 @@
 ---
+title: Three-pronged model of an ultimate creative entrepreneur per de jesus
+created: 2024-07-16 12:27:51+08:00
+modified: 2025-12-12 23:34:45+08:00
 aliases:
 - Three-pronged model of an ultimate creative entrepreneur per de jesus
-created: 2024-07-16 12:27:51+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 23:34:45+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Three-pronged model of an ultimate creative entrepreneur per de jesus
 ---
 
 According to Gian de Jesus, an ultimate creative entrepreneur is someone who is:

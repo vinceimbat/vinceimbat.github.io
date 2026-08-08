@@ -1,16 +1,14 @@
 ---
+title: Perform direct primary audience research
+created: 2024-05-09 11:11:03+08:00
+modified: 2026-03-13 11:49:08+08:00
 aliases:
 - Perform direct primary audience research
-created: 2024-05-09 11:11:03+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-13 11:49:08+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Perform direct primary audience research
 ---
 
 Direct primary research means you can put names and faces to your readers because you have engaged with them directly.

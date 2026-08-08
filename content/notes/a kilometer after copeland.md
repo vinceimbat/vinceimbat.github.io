@@ -1,16 +1,14 @@
 ---
+title: A Kilometer after Copeland
+created: 2025-05-01 15:48:16+08:00
+modified: 2026-05-27 07:31:50+08:00
 aliases:
 - A Kilometer after Copeland
-created: 2025-05-01 15:48:16+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 07:31:50+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: A Kilometer after Copeland
 ---
 
 I walk in the night

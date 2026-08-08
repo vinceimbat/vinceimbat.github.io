@@ -1,16 +1,14 @@
 ---
+title: Copyediting resources
+created: 2024-02-20 13:22:43+08:00
+modified: 2025-12-13 13:49:00+08:00
 aliases:
 - Copyediting resources
-created: 2024-02-20 13:22:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 13:49:00+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Copyediting resources
 ---
 
 # Prompts

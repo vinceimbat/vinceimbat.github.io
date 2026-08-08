@@ -1,16 +1,14 @@
 ---
+title: Children don’t seem to think about purpose
+created: 2024-11-26 21:29:01+08:00
+modified: 2025-10-14 11:40:56+08:00
 aliases:
 - Children don’t seem to think about purpose
-created: 2024-11-26 21:29:01+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-14 11:40:56+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Children don’t seem to think about purpose
 ---
 
 Children don’t seem to care about the meaning of life or the purpose of their lives. They just follow what feels good and pour their attention to that. Per [[maslows hierarchy of needs|Maslow's hierarchy of needs]], they are motivated by lower-level needs—physiological needs, the need for safety, and the need for connection.

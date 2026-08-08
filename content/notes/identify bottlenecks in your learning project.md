@@ -1,18 +1,15 @@
 ---
-aliases:
-- Identify bottlenecks in your learning project
+title: Identify bottlenecks in your learning project
 created: 2024-10-11 11:42:49+08:00
-dg-home: null
-dg-publish: true
+modified: 2026-08-08T19:58:48+08:00
+aliases:
+  - Identify bottlenecks in your learning project
 draft: false
-modified: 2025-09-11 10:41:14+08:00
 publish: true
 tags:
-- species/thought
-- status/seedling
-title: Identify bottlenecks in your learning project
+  - species/thought
+  - status/seedling
 ---
-
 In [[metalearning]], after you [[understand the knowledge structure of a subject]], you have to analyze them using the following process:
 
 1. Underline the concepts, facts, and procedures that you are most unfamiliar with. These will be your major bottlenecks.

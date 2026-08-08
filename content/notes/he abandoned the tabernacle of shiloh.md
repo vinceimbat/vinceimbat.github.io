@@ -1,16 +1,14 @@
 ---
+title: He Abandoned the Tabernacle of Shiloh
+created: 2026-06-28 10:56:03+08:00
+modified: 2026-06-28 16:19:47+08:00
 aliases:
 - He Abandoned the Tabernacle of Shiloh
-created: 2026-06-28 10:56:03+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-28 16:19:47+08:00
 publish: true
 tags:
 - species/translation
 - status/seedling
-title: He Abandoned the Tabernacle of Shiloh
 ---
 
 Now  

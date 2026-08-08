@@ -1,17 +1,15 @@
 ---
+title: “The Second Day - All The Glory” by Harrington
+created: 2026-02-19 22:46:43+08:00
+modified: 2026-02-19 22:55:03+08:00
 aliases:
 - “The Second Day - All The Glory” by Harrington
-created: 2026-02-19 22:46:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-19 22:55:03+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “The Second Day - All The Glory” by Harrington
 ---
 
 # Citation

@@ -1,16 +1,14 @@
 ---
+title: Your Name Means An Open Meadow
+created: 2026-03-09 09:01:33+08:00
+modified: 2026-03-09 09:03:02+08:00
 aliases:
 - Your Name Means An Open Meadow
-created: 2026-03-09 09:01:33+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-09 09:03:02+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Your Name Means An Open Meadow
 ---
 
 Nothing my father told me  

@@ -1,18 +1,16 @@
 ---
+title: My studying process
+created: 2021-12-09
+modified: 2025-08-04 09:46:19+08:00
 aliases:
 - Talahardin-cycle
 - thoughts/my-studying-process
 - My studying process
-created: 2021-12-09
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-08-04 09:46:19+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My studying process
 ---
 
 Whenever I study a specific subject or engage in a learning project, no matter its breadth, especially when this learning process involves reading, I tend to go through the following steps or phases:

@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: The Arising of Presence from Absence by Brown
 created: 2025-05-05 17:11:21+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-05-08 11:47:50+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: The Arising of Presence from Absence by Brown
 ---
 
 # Highlights

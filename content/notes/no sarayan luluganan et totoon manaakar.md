@@ -1,17 +1,15 @@
 ---
+title: No Sarayan Luluganan ët Totoon Manaakar
+created: 2024-08-24 22:18:29+08:00
+modified: 2026-05-27 20:58:14+08:00
 aliases:
 - No Sarayan Luluganan ët Totoon Manaakar
-created: 2024-08-24 22:18:29+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 20:58:14+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/seedling
-title: No Sarayan Luluganan ët Totoon Manaakar
 ---
 
 Nabantag so kalsada manlapud diya  

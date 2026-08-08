@@ -1,16 +1,14 @@
 ---
+title: Imagine a clearing into which the light pours by Brown
+created: 2025-05-10 11:58:52+08:00
+modified: 2025-05-10 11:59:53+08:00
 aliases:
 - Imagine a clearing into which the light pours by Brown
-created: 2025-05-10 11:58:52+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-05-10 11:59:53+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Imagine a clearing into which the light pours by Brown
 ---
 
 # Highlights

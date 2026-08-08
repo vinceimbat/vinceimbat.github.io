@@ -1,16 +1,14 @@
 ---
+title: '"Preface" by Denise Levertov'
+created: 2025-10-24 09:08:15+08:00
+modified: 2025-10-24 09:08:39+08:00
 aliases:
 - '"Preface" by Denise Levertov'
-created: 2025-10-24 09:08:15+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-24 09:08:39+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: '"Preface" by Denise Levertov'
 ---
 
 # Citation

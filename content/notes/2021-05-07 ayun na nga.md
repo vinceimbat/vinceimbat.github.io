@@ -1,16 +1,14 @@
 ---
+title: 2021-05-07 Ayun na nga
+created: 2023-08-21 22:57:20+08:00
+modified: 2025-12-14 17:18:36+08:00
 aliases:
 - 2021-05-07 Ayun na nga
-created: 2023-08-21 22:57:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-14 17:18:36+08:00
 publish: true
 tags:
 - species/vignette
 - status/seedling
-title: 2021-05-07 Ayun na nga
 ---
 
 ![Cotton candy o shingaling.jpeg](https://res.craft.do/user/full/63534923-d6b9-bddc-93d1-c854ccf112a8/doc/C12E44C4-F732-45E2-A3AC-BACF12390F7A/1A38331E-6865-486D-9AF9-6494CA84B46E_2/Cotton%20candy%20o%20shingaling.jpeg)

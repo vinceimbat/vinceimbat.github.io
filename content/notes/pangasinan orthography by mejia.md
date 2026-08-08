@@ -1,16 +1,14 @@
 ---
+title: Pangasinan orthography by Mejia
+created: 2024-11-23 15:39:51+08:00
+modified: 2026-01-11 10:48:32+08:00
 aliases:
 - Pangasinan orthography by Mejia
-created: 2024-11-23 15:39:51+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-11 10:48:32+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Pangasinan orthography by Mejia
 ---
 
 Here are the rules of [[notes/pangasinan|Pangasinan]] [[orthography]] proposed by [[pablo mejia|Pablo Mejia]] in his book [[bilay tan kalkalar nen rizal mejia|Bilay tan Kalkalar nen Rizal]].

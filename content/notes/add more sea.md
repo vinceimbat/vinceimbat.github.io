@@ -1,16 +1,14 @@
 ---
+title: Add More Sea
+created: 2026-01-22 11:56:08+08:00
+modified: 2026-06-02 09:46:59+08:00
 aliases:
 - Add More Sea
-created: 2026-01-22 11:56:08+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-02 09:46:59+08:00
 publish: true
 tags:
 - species/translation
 - status/seedling
-title: Add More Sea
 ---
 
 Even the soles of my feet scowl,  

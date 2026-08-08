@@ -1,18 +1,16 @@
 ---
+title: My creative workflow
+created: 2024-10-23 22:10:11+08:00
+modified: 2025-04-11 18:49:19+08:00
 aliases:
 - My-workflow
 - thoughts/my-workflow
 - My creative workflow
-created: 2024-10-23 22:10:11+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-04-11 18:49:19+08:00
 publish: true
 tags:
 - species/thought
 - status/evergreen
-title: My creative workflow
 ---
 
 My ultimate goal with my [[writing]], [[photography]], and [[notes/walking]] practices is to **create beautiful books that people could return to again and again for spiritual nourishment**. To arrive at books or book-shaped works, I follow the workflow outlined below.

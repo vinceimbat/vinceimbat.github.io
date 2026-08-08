@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Talahardin project log
 created: 2024-07-16 12:06:28+08:00
-dg-home: null
-dg-publish: true
-draft: null
 modified: 2025-03-28 17:28:10+08:00
+aliases: null
+draft: null
 publish: true
 tags:
 - species/log
 - status/evergreen
-title: Talahardin project log
 ---
 
 [[2022-08-10]]

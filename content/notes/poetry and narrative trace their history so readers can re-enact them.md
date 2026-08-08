@@ -3,8 +3,6 @@ title: Poetry and narrative trace their history so readers can re-enact them
 created: 2024-03-02T15:05:21+08:00
 modified: 2025-04-06T22:56:23+08:00
 draft: 
-dg-home: 
-dg-publish: 
 tags:
   - species/thought
   - status/seedling

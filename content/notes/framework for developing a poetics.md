@@ -1,16 +1,14 @@
 ---
+title: A framework for developing a poetics
+created: 2025-09-11 21:15:53+08:00
+modified: 2025-09-26 10:18:49+08:00
 aliases:
 - A framework for developing a poetics
-created: 2025-09-11 21:15:53+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-09-26 10:18:49+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: A framework for developing a poetics
 ---
 
 # Step 1. Begin with Origins

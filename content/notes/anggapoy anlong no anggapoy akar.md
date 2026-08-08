@@ -1,17 +1,15 @@
 ---
+title: Anggapo'y Anlong No Anggapo'y Akar
+created: 2025-09-14 09:49:34+08:00
+modified: 2026-05-27 08:00:18+08:00
 aliases:
 - Anggapo'y Anlong No Anggapo'y Akar
-created: 2025-09-14 09:49:34+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 08:00:18+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
 - language/pangasinan
-title: Anggapo'y Anlong No Anggapo'y Akar
 ---
 
 say akar  

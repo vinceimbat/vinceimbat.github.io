@@ -1,16 +1,14 @@
 ---
+title: My sharing strategy
+created: 2024-10-19 23:24:26+08:00
+modified: 2025-10-08 10:56:23+08:00
 aliases:
 - My sharing strategy
-created: 2024-10-19 23:24:26+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-08 10:56:23+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My sharing strategy
 ---
 
 The core of [[my jiyu shukyo|my jiyū shūkyō]] life is the daily practice of mindfulness, writing, and study. This daily practice at the center of [[my daily routine]] births intermediate writing artifacts in my [[talahardin]]. Whatever I share out into the world (except when sharing something spontaneously) begins in my talahardin. Therefore, whatever I share is rooted in this daily practice of mindfulness, writing, and study. They move outwards. I try my best to resist turning the process upside-down (i.e., responding to an outside prompt, need, or call). This is not a hard and fast rule and I allow myself to break it sometimes. But it is an ideal I want to aspire to and keep.

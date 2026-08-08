@@ -1,17 +1,15 @@
 ---
+title: Anong Klaseng Buhay
+created: 2023-08-21 22:57:20+08:00
+modified: 2025-12-16 11:45:22+08:00
 aliases:
 - Anong Klaseng Buhay
-created: 2023-08-21 22:57:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-16 11:45:22+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Anong Klaseng Buhay
 ---
 
 Anong klaseng buhay ang tingin nating prinoprotektahan natin?  

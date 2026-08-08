@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Connection with space, object, or scene is the most important part of my walk
 created: 2024-02-20 13:22:41+08:00
-dg-home: null
-dg-publish: true
-draft: null
 modified: 2025-05-26 18:00:43+08:00
+aliases: null
+draft: null
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Connection with space, object, or scene is the most important part of my walk
 ---
 
 I think that I am more of a daily walk guy.

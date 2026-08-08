@@ -1,18 +1,16 @@
 ---
+title: “‘If One Hears the Way in the Morning, Even Dying in the Evening Is Acceptable’
+  [朝に道を聞けば夕に死すとも可なり]” by Andrew James Brown
+created: 2026-06-15 10:17:04+08:00
+modified: 2026-06-15 10:17:26+08:00
 aliases:
 - “‘If One Hears the Way in the Morning, Even Dying in the Evening Is Acceptable’
   [朝に道を聞けば夕に死すとも可なり]” by Andrew James Brown
-created: 2026-06-15 10:17:04+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-15 10:17:26+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “‘If One Hears the Way in the Morning, Even Dying in the Evening Is Acceptable’
-  [朝に道を聞けば夕に死すとも可なり]” by Andrew James Brown
 ---
 
 # Citation

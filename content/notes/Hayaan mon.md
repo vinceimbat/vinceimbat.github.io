@@ -5,8 +5,6 @@ modified: 2026-07-30T22:30:11+08:00
 aliases:
   - Hayaan mong
 draft: false
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/poem

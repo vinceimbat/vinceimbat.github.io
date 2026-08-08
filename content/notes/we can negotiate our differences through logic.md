@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: We can negotiate our differences through logic
 created: 2023-10-18 20:28:24+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-04-12 11:30:51+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: We can negotiate our differences through logic
 ---
 
 A spiritual reflection on Aristotles Classical Laws of Logic

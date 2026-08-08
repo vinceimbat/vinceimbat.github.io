@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Literature notes
 created: 2021-04-17
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-03-20 15:17:55+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Literature notes
 ---
 
 My literature notes capture information I gain from my [[reading]] that are most relevant to my projects and thinking. These notes represent my best understanding of the ideas of other people on subjects I care about. Because of these, I separate my literature notes from my talas, which are notes that capture my own thinking. This separation reminds me that I should always aspire to write original thoughts.

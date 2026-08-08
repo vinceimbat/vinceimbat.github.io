@@ -1,16 +1,14 @@
 ---
+title: Every human being has a life management system
+created: 2024-10-11 09:30:24+08:00
+modified: 2025-12-12 21:51:33+08:00
 aliases:
 - Every human being has a life management system
-created: 2024-10-11 09:30:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 21:51:33+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Every human being has a life management system
 ---
 
 Whether consciously or unconsciously, every human being is already living according to a rough understanding of the natural world ([[theory]]) and reasons for acting a certain way.

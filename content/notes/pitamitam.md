@@ -1,17 +1,15 @@
 ---
+title: Pitamitam
+created: 2026-01-04 10:13:51+08:00
+modified: 2026-06-02 11:05:36+08:00
 aliases:
 - Pitamitam
-created: 2026-01-04 10:13:51+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-02 11:05:36+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/seedling
-title: Pitamitam
 ---
 
 Pitamitam ko'y

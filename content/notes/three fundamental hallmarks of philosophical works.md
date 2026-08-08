@@ -1,16 +1,14 @@
 ---
+title: Three fundamental hallmarks of philosophical works
+created: 2023-08-21 22:57:21+08:00
+modified: 2025-12-13 09:46:59+08:00
 aliases:
 - Three fundamental hallmarks of philosophical works
-created: 2023-08-21 22:57:21+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 09:46:59+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Three fundamental hallmarks of philosophical works
 ---
 
 According to Napoleon Mabaquiao Jr., in the strict use of the word philosophy in the academe ([[strict use of philosophy]]), there are three fundamental hallmarks of philosophical works:

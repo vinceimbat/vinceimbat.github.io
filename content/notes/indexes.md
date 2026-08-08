@@ -1,14 +1,12 @@
 ---
+title: Index
 created: 2024-02-20 13:22:43+08:00
-dg-home:
-dg-publish: true
-draft: false
 modified: 2026-07-24T11:59:06+08:00
+draft: false
 publish: true
 tags:
   - species/thought
   - status/seedling
-title: Index
 ---
 Indexes are helpful in retrieving specific information in the [[talahardin]]. Currently, I use indexes in three ways: I use them for my journals ([[index of my journals]]), for my outlines ([[index of speculative outlines]]) and as a jump-off point for the talahardin.
 

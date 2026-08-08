@@ -1,16 +1,14 @@
 ---
+title: Selected Poems and Interviews by Kristian Sendon Cordero
+created: 2026-06-20 22:59:31+08:00
+modified: 2026-06-20 22:59:55+08:00
 aliases:
 - Selected Poems and Interviews by Kristian Sendon Cordero
-created: 2026-06-20 22:59:31+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-20 22:59:55+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Selected Poems and Interviews by Kristian Sendon Cordero
 ---
 
 # Citation

@@ -1,17 +1,15 @@
 ---
+title: Kay Rem
+created: 2024-08-24 22:33:14+08:00
+modified: 2025-12-22 09:09:39+08:00
 aliases:
 - Kay Rem
-created: 2024-08-24 22:33:14+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-22 09:09:39+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Kay Rem
 ---
 
 Palabiro ang gabi

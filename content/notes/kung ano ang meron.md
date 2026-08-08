@@ -1,20 +1,18 @@
 ---
+title: Kung Ano Ang Meron
+created: 2024-09-01 23:22:11+08:00
+modified: 2026-01-10 10:53:22+08:00
 aliases:
 - Kung Ano Ang Meron
-created: 2024-09-01 23:22:11+08:00
-dg-home: null
-dg-publish: true
-draft: false
 location:
 - 16.0979954
 - 120.3659589
-modified: 2026-01-10 10:53:22+08:00
+draft: false
 publish: true
 tags:
 - species/translation
 - language/filipino
 - status/seedling
-title: Kung Ano Ang Meron
 ---
 
 Tinatakpan ng bakod ang dagat  

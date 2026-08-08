@@ -1,16 +1,14 @@
 ---
+title: Nora
+created: 2026-05-25 16:42:26+08:00
+modified: 2026-05-25 16:44:01+08:00
 aliases:
 - Nora
-created: 2026-05-25 16:42:26+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-25 16:44:01+08:00
 publish: true
 tags:
 - species/translation
 - status/seedling
-title: Nora
 ---
 
 At the well  

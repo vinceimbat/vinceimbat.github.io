@@ -1,16 +1,14 @@
 ---
+title: Walang Ibang Landas Pabalik
+created: 2025-11-19 10:25:58+08:00
+modified: 2025-12-02 11:38:07+08:00
 aliases:
 - Walang Ibang Landas Pabalik
-created: 2025-11-19 10:25:58+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-02 11:38:07+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Walang Ibang Landas Pabalik
 ---
 
 Tula ang bulaos na nagbabalik sa'tin sa isa't-isa.  

@@ -1,16 +1,14 @@
 ---
+title: A short story in Pangasinan
+created: 2024-05-01 15:02:38+08:00
+modified: 2025-12-13 14:28:40+08:00
 aliases:
 - A short story in Pangasinan
-created: 2024-05-01 15:02:38+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 14:28:40+08:00
 publish: true
 tags:
 - species/story
 - status/seedling
-title: A short story in Pangasinan
 ---
 
 What to focus on?

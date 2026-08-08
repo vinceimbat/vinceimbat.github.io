@@ -1,15 +1,13 @@
 ---
+title: Norbert Fabian Capeks Ten Principles of Living - Brown
 created: 2024-12-12 10:42:28+08:00
-dg-home: null
-dg-publish: true
-draft: null
 modified: 2025-04-06 22:48:47+08:00
+draft: null
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: Norbert Fabian Capeks Ten Principles of Living - Brown
 ---
 
 "where all is ==rotten== it is our ==work== to cry ==stinking fish==" - ==F. H. Bradley==, ==Appearance and Reality==

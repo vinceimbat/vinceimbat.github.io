@@ -1,16 +1,14 @@
 ---
+title: Poetry is less accurate in its description of what we know
+created: 2024-03-01 14:40:07+08:00
+modified: 2025-12-13 10:53:05+08:00
 aliases:
 - Poetry is less accurate in its description of what we know
-created: 2024-03-01 14:40:07+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 10:53:05+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Poetry is less accurate in its description of what we know
 ---
 
 [[poetry|Poetry]] has the following uses:

@@ -1,16 +1,14 @@
 ---
+title: Collection of spiritual writing methods
+created: 2025-10-28 10:25:43+08:00
+modified: 2025-11-22 15:23:46+08:00
 aliases:
 - Collection of spiritual writing methods
-created: 2025-10-28 10:25:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-22 15:23:46+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Collection of spiritual writing methods
 ---
 
 # Autobiographical meditation

@@ -1,17 +1,15 @@
 ---
+title: Ang Ginhawa
+created: 2023-10-18 20:28:24+08:00
+modified: 2025-12-14 23:34:56+08:00
 aliases:
 - Ang Ginhawa
-created: 2023-10-18 20:28:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-14 23:34:56+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Ang Ginhawa
 ---
 
 Ay hindi nakikita  

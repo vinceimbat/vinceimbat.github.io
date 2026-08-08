@@ -1,16 +1,14 @@
 ---
+title: Unfare
+created: 2026-02-01 15:34:06+08:00
+modified: 2026-02-01 15:46:20+08:00
 aliases:
 - Unfare
-created: 2026-02-01 15:34:06+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-01 15:46:20+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Unfare
 ---
 
 The poem was talking about stars

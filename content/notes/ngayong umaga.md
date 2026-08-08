@@ -1,14 +1,13 @@
 ---
+title: Ngayong Umaga
+created: 2024-09-11 22:29:40+08:00
+modified: 2026-05-27 19:59:03+08:00
 aliases:
 - Ngayong Umaga
-created: 2024-09-11 22:29:40+08:00
-dg-home: null
-dg-publish: true
-draft: false
 location:
 - 14.170505852672585
 - 121.23988543404268
-modified: 2026-05-27 19:59:03+08:00
+draft: false
 publish: true
 tags:
 - species/translation
@@ -16,7 +15,6 @@ tags:
 - language/filipino
 - status/seedling
 - buhian
-title: Ngayong Umaga
 ---
 
 Habang naglalakad pauwi sa Data  

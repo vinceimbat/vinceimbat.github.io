@@ -1,16 +1,14 @@
 ---
+title: Ambrosia
+created: 2026-03-01 11:25:58+08:00
+modified: 2026-03-01 11:55:53+08:00
 aliases:
 - Ambrosia
-created: 2026-03-01 11:25:58+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-01 11:55:53+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Ambrosia
 ---
 
 Nilamon na ng arnibal

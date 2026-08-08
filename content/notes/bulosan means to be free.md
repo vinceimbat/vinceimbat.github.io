@@ -1,16 +1,14 @@
 ---
+title: Bulosan Means To Free
+created: 2026-07-06 18:40:15+08:00
+modified: 2026-07-07 07:36:57+08:00
 aliases:
 - Bulosan Means To Free
-created: 2026-07-06 18:40:15+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-07 07:36:57+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Bulosan Means To Free
 ---
 
 We are always being measured  

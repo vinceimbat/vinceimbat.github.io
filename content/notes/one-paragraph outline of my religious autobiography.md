@@ -1,16 +1,14 @@
 ---
+title: One-paragraph outline of my religious autobiography
+created: 2024-10-08 23:08:29+08:00
+modified: 2025-12-12 22:44:29+08:00
 aliases:
 - One-paragraph outline of my religious autobiography
-created: 2024-10-08 23:08:29+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 22:44:29+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: One-paragraph outline of my religious autobiography
 ---
 
 **Act 1: The story of my life as a JW**

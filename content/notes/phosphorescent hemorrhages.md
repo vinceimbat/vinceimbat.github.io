@@ -1,16 +1,14 @@
 ---
+title: Phosphorescent Hemorrhages
+created: 2026-04-19 14:09:08+08:00
+modified: 2026-04-19 14:21:20+08:00
 aliases:
 - Phosphorescent Hemorrhages
-created: 2026-04-19 14:09:08+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-04-19 14:21:20+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Phosphorescent Hemorrhages
 ---
 
 There is light  

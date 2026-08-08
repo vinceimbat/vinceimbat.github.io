@@ -1,17 +1,15 @@
 ---
+title: Obong
+created: 2024-07-13 17:32:13+08:00
+modified: 2026-05-27 21:00:22+08:00
 aliases:
 - Obong
-created: 2024-07-13 17:32:13+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 21:00:22+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/seedling
-title: Obong
 ---
 
 Nen saman diya'd Sta. Maria  

@@ -1,7 +1,7 @@
 ---
 title: Manañgili
 created: 2026-08-08T09:06:16+08:00
-modified: 2026-08-08T11:23:02+08:00
+modified: 2026-08-08T19:07:02+08:00
 aliases:
   - Manañgili
 draft: false
@@ -30,3 +30,7 @@ But "manañgili" also reminds me of two other Pangasinan words: "manañgi" and "
 Cosgaya adds "nañguili" (perhaps a shorter version of mananguíli) in his definition of "ili." In other Filipino languages, "ili" could mean town or village, but in Pangasinan, it is meaningless as a standalone root, requiring an affix to form a usable word (e.g., "sanka" + "ili" = "sankaili"). By adding "nañguili" is his list of examples of Pangasinan words using the root word "ili," Cosgaya suggests that "nañguili" or "manañguili" is tightly connected to the the meanings entailed by "ili" in other Filipino languages. The "manañguili" is someone who moves from one "ili" to another. Since Pangasinan at the time of Cosgaya lacks a direct translation to the word travel or traveller, "manañguili" could've been the language's catch-all word for all forms of travel, whether religious or not.
   
 However, I find the more recent word "manañgali" more semantically interesting to play with. "Ñgali" is closest in sound to "ñgalñgali," which means "almost, nearly, or just about" and, therefore, triggers thoughts of an unfinished pilgrimage perhaps due to a storm, a robbery on the road, or being struck down by an illness. But "manañgali" also sounds like "managsali," where sali means "to try"—i.e., the pilgrim as someone who tries, the pilgrim as essayist. And here's another turn in the road: "sali", pronounced with the accent on the last syllable, also means "feet," and for obvious reasons I love this semantic coincidence.
+
+# Related
+
+- [[manangili project|Manañgili Project]]

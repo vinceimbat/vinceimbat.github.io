@@ -1,17 +1,15 @@
 ---
+title: Literary Transcendentalism by Buell
+created: 2024-08-24 12:07:25+08:00
+modified: 2025-06-05 09:54:02+08:00
 aliases:
 - literature/literary-transcendentalism-buell
 - Literary Transcendentalism by Buell
-created: 2024-08-24 12:07:25+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-06-05 09:54:02+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Literary Transcendentalism by Buell
 ---
 
 # Highlights

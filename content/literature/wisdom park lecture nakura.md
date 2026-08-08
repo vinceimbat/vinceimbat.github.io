@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Wisdom Park lecture by Nakura
 created: 2025-06-10 19:02:00+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-06-10 22:19:18+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Wisdom Park lecture by Nakura
 ---
 
 # Highlights

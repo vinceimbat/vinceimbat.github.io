@@ -1,16 +1,14 @@
 ---
+title: Spirituality
+created: 2024-10-27 16:34:45+08:00
+modified: 2025-09-09 10:09:47+08:00
 aliases:
 - Spirituality
-created: 2024-10-27 16:34:45+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-09-09 10:09:47+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Spirituality
 ---
 
 In relation to [[jiyu shukyo|jiyū shūkyō]], I define it as an attitude of caring. It is a reverence we feel toward anything, which usually begins in [[faith]], and which inspires us to attend to it with [[love]] and quality of [[action]].

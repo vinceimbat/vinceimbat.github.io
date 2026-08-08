@@ -1,18 +1,16 @@
 ---
+title: Jesa Suganob
+created: 2024-11-19 16:56:31+08:00
+modified: 2025-06-10 22:07:52+08:00
 aliases:
 - contacts/jesa-suganob
 - thoughts/jesa-suganob
 - Jesa Suganob
-created: 2024-11-19 16:56:31+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-06-10 22:07:52+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Jesa Suganob
 ---
 
 # Title ideas

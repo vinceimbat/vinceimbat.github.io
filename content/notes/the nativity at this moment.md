@@ -1,17 +1,15 @@
 ---
+title: The Nativity at This Moment
+created: 2025-12-21 11:04:53+08:00
+modified: 2025-12-21 11:21:29+08:00
 aliases:
 - The Nativity at This Moment
-created: 2025-12-21 11:04:53+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-21 11:21:29+08:00
 publish: true
 tags:
 - species/poem
 - language/english
 - status/seedling
-title: The Nativity at This Moment
 ---
 
 In Sint Jans' "The Nativity at Night," the birth of the blessed child pulls everything at the center. Brightened it conceals all the other births around it. But without them, what would be of the child?

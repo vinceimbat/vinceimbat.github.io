@@ -1,17 +1,15 @@
 ---
+title: Pure Land Buddhism
+created: 2025-06-16 10:59:51+08:00
+modified: 2025-07-26 11:21:21+08:00
 aliases:
 - Pure Land Buddhism
-created: 2025-06-16 10:59:51+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-26 11:21:21+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
 - species/flashcards
-title: Pure Land Buddhism
 ---
 
 # Prompts

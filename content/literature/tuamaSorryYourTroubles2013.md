@@ -1,16 +1,14 @@
 ---
+title: Sorry For Your Troubles by Pádraig Ó. Tuama
+created: 2026-03-31 09:54:14+08:00
+modified: 2026-03-31 09:54:34+08:00
 aliases:
 - Sorry For Your Troubles by Pádraig Ó. Tuama
-created: 2026-03-31 09:54:14+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-31 09:54:34+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Sorry For Your Troubles by Pádraig Ó. Tuama
 ---
 
 # Citation

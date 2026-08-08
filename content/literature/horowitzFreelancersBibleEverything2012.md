@@ -1,16 +1,14 @@
 ---
+title: The Freelancer’s Bible by Sara Horowitz and Toni Sciarra Poynter
+created: 2025-08-02 10:04:52+08:00
+modified: 2025-08-02 10:06:11+08:00
 aliases:
 - The Freelancer’s Bible by Sara Horowitz and Toni Sciarra Poynter
-created: 2025-08-02 10:04:52+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-02 10:06:11+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: The Freelancer’s Bible by Sara Horowitz and Toni Sciarra Poynter
 ---
 
 # Citation

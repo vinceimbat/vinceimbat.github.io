@@ -1,17 +1,15 @@
 ---
+title: Sky level
+created: 2024-11-01 23:52:50+08:00
+modified: 2025-07-02 15:52:22+08:00
 aliases:
 - Sky-level
 - thoughts/sky-level
-created: 2024-11-01 23:52:50+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-02 15:52:22+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Sky level
 ---
 
 Since you have to [[build a life management system that helps you take intentional action]], your [[life management system]] must have a component that encourages the discovery and awareness of your intentions and motivations. This is what the sky level accomplishes.

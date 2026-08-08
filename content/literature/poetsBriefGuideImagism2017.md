@@ -1,16 +1,14 @@
 ---
+title: “A Brief Guide to Imagism” by Poets.org
+created: 2025-09-07 09:25:57+08:00
+modified: 2025-09-07 09:26:21+08:00
 aliases:
 - “A Brief Guide to Imagism” by Poets.org
-created: 2025-09-07 09:25:57+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-09-07 09:26:21+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “A Brief Guide to Imagism” by Poets.org
 ---
 
 # Citation

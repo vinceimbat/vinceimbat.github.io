@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: The art of living is my gift
 created: 2024-10-19 23:24:26+08:00
-dg-home: null
-dg-publish: true
-draft: null
 modified: 2025-05-30 11:27:20+08:00
+aliases: null
+draft: null
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: The art of living is my gift
 ---
 
 [[we did not choose to exist]]. We seem to be thrown here. But we can [[our thrownness is a gift]]. The life that I am living is the ultimate gift I have ever received. Therefore, I am called to treat living as my ultimate art. This is the very reason why [[my work is religious in nature]]. Its religious nature is an attempt to live it intentionally.

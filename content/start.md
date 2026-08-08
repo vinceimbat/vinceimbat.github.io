@@ -4,8 +4,6 @@ created: 2025-03-19
 modified: 2026-08-01T16:31:17+08:00
 aliases:
 draft: false
-dg-home: true
-dg-publish: true
 publish: true
 ---
 This [[talahardin]] tracks my footprints both in my [[mental wilderness]] and the [[geographical wilderness]]. I use the word "footprints" as [[herbert fingarette|Herbert Fingarette]] used it when he said:

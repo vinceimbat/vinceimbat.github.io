@@ -1,16 +1,14 @@
 ---
+title: Anitism
+created: 2024-11-22 22:29:32+08:00
+modified: 2025-07-23 10:12:47+08:00
 aliases:
 - Anitism
-created: 2024-11-22 22:29:32+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-23 10:12:47+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Anitism
 ---
 
 Anitism is the pre-colonial Filipino spirituality. It is similar to [[animism]].

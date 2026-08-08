@@ -1,17 +1,15 @@
 ---
+title: Inuman kina Mang Ador
+created: 2024-09-06 23:24:09+08:00
+modified: 2026-01-22 09:46:14+08:00
 aliases:
 - Inuman kina Mang Ador
-created: 2024-09-06 23:24:09+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-22 09:46:14+08:00
 publish: true
 tags:
 - species/translation
 - language/filipino
 - status/seedling
-title: Inuman kina Mang Ador
 ---
 
 Maganda kung kakukuha lang ng ibinilad na butil ng palay  

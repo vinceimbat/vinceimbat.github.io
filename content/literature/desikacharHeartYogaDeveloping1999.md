@@ -1,16 +1,14 @@
 ---
+title: The Heart of Yoga by Desikachar
+created: 2024-02-20 13:22:41+08:00
+modified: 2025-12-12 22:26:05+08:00
 aliases:
 - The Heart of Yoga by Desikachar
-created: 2024-02-20 13:22:41+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 22:26:05+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: The Heart of Yoga by Desikachar
 ---
 
 # Citation

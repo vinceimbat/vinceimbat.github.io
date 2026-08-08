@@ -1,16 +1,14 @@
 ---
+title: Benjamen Walker
+created: 2023-08-21 22:57:20+08:00
+modified: 2025-12-17 11:50:24+08:00
 aliases:
 - Benjamen Walker
-created: 2023-08-21 22:57:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-17 11:50:24+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Benjamen Walker
 ---
 
 Walker was a college graduate, but college only worked for him because his program allowed him to build his own course of study and he had a lot of control over his education. He had various interests and he was able to integrate all of those in his studies.

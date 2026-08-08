@@ -1,16 +1,14 @@
 ---
+title: '"Introduction" by Robert Inchausti'
+created: 2025-08-18 09:08:17+08:00
+modified: 2025-08-21 11:00:57+08:00
 aliases:
 - '"Introduction" by Robert Inchausti'
-created: 2025-08-18 09:08:17+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-21 11:00:57+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: '"Introduction" by Robert Inchausti'
 ---
 
 # Citation

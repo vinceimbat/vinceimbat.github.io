@@ -1,16 +1,14 @@
 ---
+title: Genza
+created: 2025-12-08 18:02:09+08:00
+modified: 2026-04-02 12:00:06+08:00
 aliases:
 - Genza
-created: 2025-12-08 18:02:09+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-04-02 12:00:06+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Genza
 ---
 
 Last night's reading on Genza was inspiring. He was a Buddha, for he was fast to forgive and kind. Instead of criticizing and judging and trying to sway people into what his self wants, he understands that people follow their own nature, their unique refractions of the Light. And I think he responds with forgiveness and kindness and acceptance because he knows that everything is part of the Great Life. Despite the social and political changes happening around him that encourages people to be protective of their properties, Genza seems to have full belief that he will not lack and the Great Life will provide for him abundantly. And if not, then it is the Great Life's will. He welcomes whatever happens. The constant recitation of the nembutsu reminds him of this.

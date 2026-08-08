@@ -1,16 +1,14 @@
 ---
+title: Forest of Moments per Aguinaldo
+created: 2025-12-18 10:32:13+08:00
+modified: 2025-12-18 10:45:31+08:00
 aliases:
 - Forest of Moments per Aguinaldo
-created: 2025-12-18 10:32:13+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-18 10:45:31+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Forest of Moments per Aguinaldo
 ---
 
 In a chat conversation with [[dennis aguinaldo|Dennis Aguinaldo]], he raised what he claims to be his preferred writing practice and way of being that follows an anti-refinement approach that could also be noticed in the writing of Dada and the Beat. He said that he wants to move away from the view of the writing process as evolutionary, where the first draft progresses toward the fair copy, and move toward a writing practice that treats each iteration of a piece as variants, with each variant seen as its truest at its particular moment. In the former, iterations are viewed as "imperfect steps," while in the latter they are viewed as "moments-in-themselves." He does raise that how to "inflict" this on a reader is a conversation of itself and that he fears being drowned in a sea of variants.

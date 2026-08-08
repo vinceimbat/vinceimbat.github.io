@@ -5,8 +5,6 @@ modified: 2026-07-26T09:29:54+08:00
 aliases:
   - Mga Hindi Maapuhap na Pinto
 draft: false
-dg-home:
-dg-publish: true
 tags:
   - species/poem
   - status/seedling

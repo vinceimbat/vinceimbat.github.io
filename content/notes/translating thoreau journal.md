@@ -1,16 +1,14 @@
 ---
+title: Translating Thoreau's journal
+created: 2024-05-18 11:25:17+08:00
+modified: 2026-05-26 10:50:00+08:00
 aliases:
 - Translating Thoreau's journal
-created: 2024-05-18 11:25:17+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-26 10:50:00+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Translating Thoreau's journal
 ---
 
 This is the process I follow in translating [[henry david thoreau|Henry David Thoreau]]'s journal entries from English to Filipino:

@@ -1,16 +1,14 @@
 ---
+title: Filipino vocabulary words
+created: 2024-08-28 21:29:13+08:00
+modified: 2026-06-14 11:55:30+08:00
 aliases:
 - Filipino vocabulary words
-created: 2024-08-28 21:29:13+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2026-06-14 11:55:30+08:00
 publish: true
 tags:
 - species/thought
 - status/evergreen
-title: Filipino vocabulary words
 ---
 
 # A

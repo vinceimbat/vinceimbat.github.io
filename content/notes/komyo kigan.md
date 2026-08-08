@@ -5,8 +5,6 @@ modified: 2025-12-22T18:09:22+08:00
 aliases:
   - Kōmyō Kigan
 draft: false
-dg-home:
-dg-publish:
 tags:
   - species/thought
   - status/seedling

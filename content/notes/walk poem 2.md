@@ -1,17 +1,15 @@
 ---
+title: Walk Poem 2
+created: 2024-08-24 22:26:53+08:00
+modified: 2025-12-27 10:08:30+08:00
 aliases:
 - Walk Poem 2
-created: 2024-08-24 22:26:53+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-27 10:08:30+08:00
 publish: true
 tags:
 - species/poem
 - language/english
 - status/seedling
-title: Walk Poem 2
 ---
 
 Mormons  

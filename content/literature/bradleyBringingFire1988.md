@@ -1,16 +1,14 @@
 ---
+title: “Bringing Down the Fire” by David Bradley
+created: 2025-12-05 09:30:58+08:00
+modified: 2025-12-05 09:31:25+08:00
 aliases:
 - “Bringing Down the Fire” by David Bradley
-created: 2025-12-05 09:30:58+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-05 09:31:25+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “Bringing Down the Fire” by David Bradley
 ---
 
 # Citation

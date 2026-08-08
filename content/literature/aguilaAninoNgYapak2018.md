@@ -1,16 +1,14 @@
 ---
+title: Anino Ng Yapak by Reuel Molina Aguila
+created: 2025-11-23 12:19:08+08:00
+modified: 2025-11-23 12:19:29+08:00
 aliases:
 - Anino Ng Yapak by Reuel Molina Aguila
-created: 2025-11-23 12:19:08+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-23 12:19:29+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Anino Ng Yapak by Reuel Molina Aguila
 ---
 
 # Citation

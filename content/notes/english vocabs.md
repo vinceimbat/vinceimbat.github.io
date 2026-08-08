@@ -1,17 +1,15 @@
 ---
+title: English vocabulary words
+created: 2024-02-20 13:22:41+08:00
+modified: 2026-01-28 15:36:03+08:00
 aliases:
 - English vocabulary words
-created: 2024-02-20 13:22:41+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2026-01-28 15:36:03+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
 - species/flashcards
-title: English vocabulary words
 ---
 
 # A

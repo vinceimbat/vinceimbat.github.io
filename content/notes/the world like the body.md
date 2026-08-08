@@ -1,16 +1,14 @@
 ---
+title: The World Like the Body
+created: 2025-10-19 09:33:23+08:00
+modified: 2025-10-19 15:23:43+08:00
 aliases:
 - The World Like the Body
-created: 2025-10-19 09:33:23+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-19 15:23:43+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: The World Like the Body
 ---
 
 The world like the body

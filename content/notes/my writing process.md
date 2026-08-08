@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: My writing process
 created: 2025-03-25
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-04-12 09:47:51+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My writing process
 ---
 
 Given [[thoughts on my poetics]] and my ultimate goal to **create beautiful books that people could return to again and again for spiritual nourishment**, I've chosen to practice writing through a practice that relies on [[habits]], [[routines]], and a system called [[talahardin]].

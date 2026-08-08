@@ -1,16 +1,14 @@
 ---
+title: The Beauty of a Poem
+created: 2024-08-24 22:38:35+08:00
+modified: 2026-04-25 09:19:26+08:00
 aliases:
 - The Beauty of a Poem
-created: 2024-08-24 22:38:35+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-04-25 09:19:26+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: The Beauty of a Poem
 ---
 
 Is not in the words chosen  

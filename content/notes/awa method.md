@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Amherst Writers and Artists (AWA) method
 created: 2024-10-29 16:29:08+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2026-06-23 10:28:47+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Amherst Writers and Artists (AWA) method
 ---
 
 The AWA method follows a philosophy of writing guided by five affirmations and six essential practices.

@@ -1,16 +1,14 @@
 ---
+title: Evening at Pili Drive
+created: 2022-10-16
+modified: 2026-05-27 11:06:54+08:00
 aliases:
 - Evening at Pili Drive
-created: 2022-10-16
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 11:06:54+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Evening at Pili Drive
 ---
 
 Here along Pili Drive  

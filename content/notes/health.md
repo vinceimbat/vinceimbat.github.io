@@ -1,16 +1,14 @@
 ---
+title: Health
+created: 2024-10-11 09:50:01+08:00
+modified: 2025-12-14 17:38:31+08:00
 aliases:
 - Health
-created: 2024-10-11 09:50:01+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-14 17:38:31+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Health
 ---
 
 Health is an interesting concept. Is health subjective? Or can we objectively make sense of it?

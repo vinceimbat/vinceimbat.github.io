@@ -1,17 +1,15 @@
 ---
+title: My jiyū shūkyō walking practice
+created: 2024-11-01 23:50:54+08:00
+modified: 2025-08-05 11:41:52+08:00
 aliases:
 - My jiyū shūkyō walking practice
 - my jiyū shūkyō walking practice
-created: 2024-11-01 23:50:54+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-05 11:41:52+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My jiyū shūkyō walking practice
 ---
 
 Since [[walking accomplishes multiple goals]], I try to take daily walks as often as I can to make progress in several areas of my life. However, my most important goal when walking is to practice [[my jiyu shukyo|my jiyū shūkyō]]. This means that a walk is an opportunity to:

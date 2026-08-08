@@ -1,16 +1,14 @@
 ---
+title: Essay on sex and religion
+created: 2026-07-16 09:36:08+08:00
+modified: 2026-07-16 09:36:31+08:00
 aliases:
 - Essay on sex and religion
-created: 2026-07-16 09:36:08+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-16 09:36:31+08:00
 publish: true
 tags:
 - species/essay
 - status/seedling
-title: Essay on sex and religion
 ---
 
 Pangasinan essay

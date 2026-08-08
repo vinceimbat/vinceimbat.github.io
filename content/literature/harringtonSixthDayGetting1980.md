@@ -1,17 +1,15 @@
 ---
+title: “The Sixth Day - Getting Free of the Debris" by Harrington
+created: 2026-02-24 18:45:49+08:00
+modified: 2026-02-24 18:47:39+08:00
 aliases:
 - “The Sixth Day - Getting Free of the Debris" by Harrington
-created: 2026-02-24 18:45:49+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-24 18:47:39+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “The Sixth Day - Getting Free of the Debris" by Harrington
 ---
 
 # Citation

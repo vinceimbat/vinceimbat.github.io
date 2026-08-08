@@ -1,16 +1,14 @@
 ---
+title: Research comps
+created: 2024-05-09 11:13:33+08:00
+modified: 2026-03-13 16:06:05+08:00
 aliases:
 - Research comps
-created: 2024-05-09 11:13:33+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-13 16:06:05+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Research comps
 ---
 
 To begin, find five comps. These comps should have the following characteristics:

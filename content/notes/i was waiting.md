@@ -1,16 +1,14 @@
 ---
+title: I Was Waiting
+created: 2024-08-28 13:48:26+08:00
+modified: 2026-05-27 11:30:35+08:00
 aliases:
 - I Was Waiting
-created: 2024-08-28 13:48:26+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 11:30:35+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: I Was Waiting
 ---
 
 I was waiting  

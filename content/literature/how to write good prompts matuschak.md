@@ -1,15 +1,13 @@
 ---
+title: How to write good prompts - Matuschak
 created: 2025-01-09 16:16:08+08:00
-dg-home: null
-dg-publish: true
-draft: null
 modified: 2025-04-06 22:41:26+08:00
+draft: null
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: How to write good prompts - Matuschak
 ---
 
 Prompt design is ... design. :: task

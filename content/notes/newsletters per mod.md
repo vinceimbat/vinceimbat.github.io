@@ -1,16 +1,14 @@
 ---
+title: Newsletters per Mod
+created: 2023-08-21 22:57:20+08:00
+modified: 2025-12-13 10:31:24+08:00
 aliases:
 - Newsletters per Mod
-created: 2023-08-21 22:57:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 10:31:24+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Newsletters per Mod
 ---
 
 Who are you? Answer this question in every [[04 notes/newsletter]], preferably in the first paragraph.

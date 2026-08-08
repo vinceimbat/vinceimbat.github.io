@@ -1,16 +1,14 @@
 ---
+title: How to write a personal writing poetics
+created: 2025-09-11 10:23:24+08:00
+modified: 2025-10-06 11:55:44+08:00
 aliases:
 - How to write a personal writing poetics
-created: 2025-09-11 10:23:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-06 11:55:44+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: How to write a personal writing poetics
 ---
 
 # Motivation

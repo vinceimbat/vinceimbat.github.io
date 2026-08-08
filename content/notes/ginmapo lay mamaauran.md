@@ -1,17 +1,15 @@
 ---
+title: Ginmapo La'y Mamaauran
+created: 2024-08-28 15:05:41+08:00
+modified: 2026-05-27 11:27:15+08:00
 aliases:
 - Ginmapo La'y Mamaauran
-created: 2024-08-28 15:05:41+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 11:27:15+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/seedling
-title: Ginmapo La'y Mamaauran
 ---
 
 Kibatiktik la ray utot ëd uma  

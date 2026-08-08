@@ -1,16 +1,14 @@
 ---
+title: Walking Under a Thunderstorm
+created: 2024-08-24 22:27:58+08:00
+modified: 2026-02-06 10:00:43+08:00
 aliases:
 - Walking Under a Thunderstorm
-created: 2024-08-24 22:27:58+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-06 10:00:43+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Walking Under a Thunderstorm
 ---
 
 What is it like to walk under a thunderstorm?  

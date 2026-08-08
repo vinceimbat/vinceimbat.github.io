@@ -1,16 +1,14 @@
 ---
+title: A Purgatory of Sunday Clothes
+created: 2026-01-18 17:49:08+08:00
+modified: 2026-06-28 11:58:00+08:00
 aliases:
 - A Purgatory of Sunday Clothes
-created: 2026-01-18 17:49:08+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-28 11:58:00+08:00
 publish: true
 tags:
 - species/vignette
 - status/seedling
-title: A Purgatory of Sunday Clothes
 ---
 
 # v3

@@ -1,16 +1,14 @@
 ---
+title: My implementation of a reading inbox
+created: 2024-11-26 21:22:17+08:00
+modified: 2025-11-28 23:45:56+08:00
 aliases:
 - My implementation of a reading inbox
-created: 2024-11-26 21:22:17+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-11-28 23:45:56+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My implementation of a reading inbox
 ---
 
 I apply [[getting things done allen|GTD]] principles in managing my reading inbox.

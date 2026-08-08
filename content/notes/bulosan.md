@@ -1,16 +1,14 @@
 ---
+title: Bulosan
+created: 2026-07-06 08:13:08+08:00
+modified: 2026-07-17 17:09:11+08:00
 aliases:
 - Bulosan
-created: 2026-07-06 08:13:08+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-17 17:09:11+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Bulosan
 ---
 
 Susukatën da kamin lanang  

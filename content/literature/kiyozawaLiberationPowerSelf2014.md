@@ -1,16 +1,14 @@
 ---
+title: “Liberation through Power Beyond the Self” by Manshi Kiyozawa
+created: 2025-06-26 00:56:33+08:00
+modified: 2025-06-26 00:56:51+08:00
 aliases:
 - “Liberation through Power Beyond the Self” by Manshi Kiyozawa
-created: 2025-06-26 00:56:33+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-06-26 00:56:51+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “Liberation through Power Beyond the Self” by Manshi Kiyozawa
 ---
 
 # Citation

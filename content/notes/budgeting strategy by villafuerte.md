@@ -1,16 +1,14 @@
 ---
+title: Budgeting strategy by Villafuerte
+created: 2024-10-15 11:40:30+08:00
+modified: 2025-12-12 17:22:16+08:00
 aliases:
 - Budgeting strategy by Villafuerte
-created: 2024-10-15 11:40:30+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 17:22:16+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Budgeting strategy by Villafuerte
 ---
 
 The following steps are Fitz Villafuerte's budgeting strategy:

@@ -1,16 +1,14 @@
 ---
+title: Kapag Nawala Ako
+created: 2025-10-13 17:19:56+08:00
+modified: 2025-11-16 13:29:42+08:00
 aliases:
 - Kapag Nawala Ako
-created: 2025-10-13 17:19:56+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-16 13:29:42+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Kapag Nawala Ako
 ---
 
 Saan ako pupulutin?  

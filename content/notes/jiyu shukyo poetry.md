@@ -1,16 +1,14 @@
 ---
+title: Jiyū shūkyō poetry
+created: 2025-09-26 16:05:39+08:00
+modified: 2025-09-26 16:05:53+08:00
 aliases:
 - Jiyū shūkyō poetry
-created: 2025-09-26 16:05:39+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-09-26 16:05:53+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Jiyū shūkyō poetry
 ---
 
 ## Poetry is placing trust in oneself.

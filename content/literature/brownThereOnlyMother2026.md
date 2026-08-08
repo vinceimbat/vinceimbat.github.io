@@ -1,19 +1,17 @@
 ---
+title: “There Is Only Mother Love All the Way down—Mothering Sunday 2026” by Andrew
+  James Brown
+created: 2026-03-15 11:28:44+08:00
+modified: 2026-03-15 11:57:04+08:00
 aliases:
 - “There Is Only Mother Love All the Way down—Mothering Sunday 2026” by Andrew James
   Brown
-created: 2026-03-15 11:28:44+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-15 11:57:04+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “There Is Only Mother Love All the Way down—Mothering Sunday 2026” by Andrew
-  James Brown
 ---
 
 # Citation

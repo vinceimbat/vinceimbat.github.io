@@ -1,16 +1,14 @@
 ---
+title: Financial congruence in a relationship is beneficial
+created: 2023-10-18 20:28:24+08:00
+modified: 2025-12-13 11:22:23+08:00
 aliases:
 - Financial congruence in a relationship is beneficial
-created: 2023-10-18 20:28:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 11:22:23+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Financial congruence in a relationship is beneficial
 ---
 
 I mean I know that love could conquer all etc. pero finding someone who has similar sensibilities on [[money]] will make things a lot easier in a [[relationship]].

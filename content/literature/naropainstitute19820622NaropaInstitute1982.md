@@ -1,16 +1,14 @@
 ---
+title: '"Dharma Poetics: Talk 1" by Chögyam Trungpa'
+created: 2025-09-28 11:28:15+08:00
+modified: 2025-09-28 11:29:03+08:00
 aliases:
 - '"Dharma Poetics: Talk 1" by Chögyam Trungpa'
-created: 2025-09-28 11:28:15+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-09-28 11:29:03+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: '"Dharma Poetics: Talk 1" by Chögyam Trungpa'
 ---
 
 # Citation

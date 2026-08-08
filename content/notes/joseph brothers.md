@@ -1,16 +1,14 @@
 ---
+title: Joseph's Brothers
+created: 2026-01-18 10:13:29+08:00
+modified: 2026-06-26 11:27:04+08:00
 aliases:
 - Joseph's Brothers
-created: 2026-01-18 10:13:29+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-26 11:27:04+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Joseph's Brothers
 ---
 
 v2

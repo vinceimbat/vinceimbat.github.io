@@ -1,16 +1,14 @@
 ---
+title: How to find your audience
+created: 2024-05-09 14:15:13+08:00
+modified: 2026-03-13 11:38:28+08:00
 aliases:
 - How to find your audience
-created: 2024-05-09 14:15:13+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-13 11:38:28+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: How to find your audience
 ---
 
 Landmarks or comps are creative works or platforms that are examples of the creative work you aspire to create and that your reader universally know are the best examples of the kind of work you want to do. 

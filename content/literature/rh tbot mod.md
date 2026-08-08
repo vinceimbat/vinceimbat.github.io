@@ -5,8 +5,6 @@ modified: 2025-05-21T08:43:09+08:00
 aliases:
   - "Things Become Other Things: A Walking Memoir by Mod"
 draft: false
-dg-home: 
-dg-publish: 
 tags:
   - species/literature
   - status/seedling

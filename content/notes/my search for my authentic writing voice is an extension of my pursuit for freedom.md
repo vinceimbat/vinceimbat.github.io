@@ -1,17 +1,15 @@
 ---
+title: My search for my authentic writing voice is an extension of my pursuit for
+  freedom
+created: 2024-05-01 16:11:12+08:00
+modified: 2025-12-12 23:00:28+08:00
 aliases:
 - My search for my authentic writing voice is an extension of my pursuit for freedom
-created: 2024-05-01 16:11:12+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 23:00:28+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My search for my authentic writing voice is an extension of my pursuit for
-  freedom
 ---
 
 To find [[my writing voice]], I need to let go of writing conventions. This is easier said than done because [[it is uncomfortable to write against writing conventions]].

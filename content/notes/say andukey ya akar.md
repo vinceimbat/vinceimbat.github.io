@@ -1,17 +1,15 @@
 ---
+title: Say Andukëy A Akar
+created: 2024-08-24 22:35:28+08:00
+modified: 2026-05-28 07:32:26+08:00
 aliases:
 - Say Andukëy A Akar
-created: 2024-08-24 22:35:28+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-28 07:32:26+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/seedling
-title: Say Andukëy A Akar
 ---
 
 Say bilay ko et sakey a andukey a akar. Ag ak makapanpirmi. Ag ak makaalagar.

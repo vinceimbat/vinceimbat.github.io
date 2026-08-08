@@ -1,16 +1,14 @@
 ---
+title: Kiitsu Kyōkai meeting notes
+created: 2025-12-13 22:14:26+08:00
+modified: 2026-07-27T10:58:47+08:00
 aliases:
   - Kiitsu Kyōkai meeting notes
-created: 2025-12-13 22:14:26+08:00
-dg-home:
-dg-publish: true
 draft: false
-modified: 2026-07-27T10:58:47+08:00
 publish: true
 tags:
   - species/log
   - status/seedling
-title: Kiitsu Kyōkai meeting notes
 ---
 
 Here are my notes from our Kiitsu Kyōkai meetings

@@ -1,18 +1,16 @@
 ---
+title: “The Missing Link between Meiji Universalism and Postwar Pacifism, and What
+  It Means for the Future” by Michel Mohr
+created: 2025-10-25 09:34:24+08:00
+modified: 2025-10-25 09:35:24+08:00
 aliases:
 - “The Missing Link between Meiji Universalism and Postwar Pacifism, and What It Means
   for the Future” by Michel Mohr
-created: 2025-10-25 09:34:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-25 09:35:24+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “The Missing Link between Meiji Universalism and Postwar Pacifism, and What
-  It Means for the Future” by Michel Mohr
 ---
 
 # Citation

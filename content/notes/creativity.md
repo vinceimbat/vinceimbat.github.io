@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Creativity
 created: 2024-11-18 16:34:59+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-12-16 12:03:59+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Creativity
 ---
 
 Today, I subscribe to the following beliefs about the act of creation:

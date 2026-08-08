@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Most spiritual films
 created: 2025-03-30 13:14:31+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-04-04 14:05:16+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Most spiritual films
 ---
 
 Here are the films I watched, which I think best capture an element of the kind of spirituality and life I wanted to develop.

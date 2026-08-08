@@ -1,16 +1,14 @@
 ---
+title: The Professor
+created: 2026-02-24 10:30:36+08:00
+modified: 2026-02-24 10:38:09+08:00
 aliases:
 - The Professor
-created: 2026-02-24 10:30:36+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-24 10:38:09+08:00
 publish: true
 tags:
 - species/vignette
 - status/seedling
-title: The Professor
 ---
 
 The man living alone in the two-house property adjacent to the apartment complex where I live in is an eccentric character. Before a group of men cut all the trees that covered his yard, it was filled with glass aquariums with plants inside them. Once during a storm, some of these aquariums broke to pieces after a tree fell on them.

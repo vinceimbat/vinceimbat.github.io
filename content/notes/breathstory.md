@@ -1,16 +1,14 @@
 ---
+title: Breathstory
+created: 2020-11-30
+modified: 2026-05-27 10:04:25+08:00
 aliases:
 - Breathstory
-created: 2020-11-30
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 10:04:25+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Breathstory
 ---
 
 ![Lake](lake.jpg)

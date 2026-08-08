@@ -1,16 +1,14 @@
 ---
+title: Dilam
+created: 2026-01-18 11:30:08+08:00
+modified: 2026-01-18 11:30:29+08:00
 aliases:
 - Dilam
-created: 2026-01-18 11:30:08+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-18 11:30:29+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Dilam
 ---
 
 Time spent writing in this tongue ay panahong  

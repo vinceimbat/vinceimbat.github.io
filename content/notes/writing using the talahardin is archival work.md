@@ -1,13 +1,11 @@
 ---
+title: Writing using the talahardin is archival work
 created: 2024-07-29 15:51:07+08:00
-dg-home: null
-dg-publish: true
-draft: null
 modified: 2025-03-25 17:39:40+08:00
+draft: null
 publish: true
 tags:
 - status/seedling
-title: Writing using the talahardin is archival work
 ---
 
 Since the [[talahardin|talahardin]] is an [[archive|archive]], writing using it is archival work. Archival work involves an attempt to create coherence by looking for interconnections among  fragments (i.e., [[05 notes/seeds|seeds]], [[05 notes/seedlings|seedlings]], and [[05 notes/evergreens|evergreens]]).

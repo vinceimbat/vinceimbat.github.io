@@ -1,16 +1,14 @@
 ---
+title: Workview
+created: 2024-03-28 14:14:25+08:00
+modified: 2026-01-29 10:55:00+08:00
 aliases:
 - Workview
-created: 2024-03-28 14:14:25+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-29 10:55:00+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Workview
 ---
 
 According to [[burnettDesigningYourLife2016|Designing Your Life by Burnett and Evans]], workview is your philosophy of work. It states what work means to you in general. It defines what good work deserves to be. However, it is not a job description.

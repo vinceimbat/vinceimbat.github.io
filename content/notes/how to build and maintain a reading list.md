@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: How to build and maintain a reading list
 created: 2025-04-13 18:17:12+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-11-28 11:29:43+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: How to build and maintain a reading list
 ---
 
 I maintain a [[reading inbox]] to cast a wider net for possible useful materials for all my projects. However, to keep my reading more focused on my writing projects, I maintain a reading list. I focus my reading list and make it my own by narrowing down on books that help me work on my specific writing projects, improve my writing in general, and expand my understanding of literature as a whole.

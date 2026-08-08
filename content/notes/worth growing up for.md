@@ -1,16 +1,14 @@
 ---
+title: Worth Growing Up For
+created: 2024-08-24 22:30:14+08:00
+modified: 2026-05-18 23:25:52+08:00
 aliases:
 - Worth Growing Up For
-created: 2024-08-24 22:30:14+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-18 23:25:52+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Worth Growing Up For
 ---
 
 When I see a little helpless hungry child  

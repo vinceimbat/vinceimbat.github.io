@@ -1,17 +1,15 @@
 ---
+title: At February's Door
+created: 2026-03-01 20:41:26+08:00
+modified: 2026-03-01 20:42:21+08:00
 aliases:
 - At February's Door
-created: 2026-03-01 20:41:26+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-01 20:42:21+08:00
 publish: true
 tags:
 - species/translation
 - language/english
 - status/seedling
-title: At February's Door
 ---
 
 Outside,  

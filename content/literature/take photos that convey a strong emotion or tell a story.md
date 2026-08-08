@@ -1,16 +1,14 @@
 ---
+title: Take photos that convey a strong emotion or tell a story
+created: 2024-11-20 23:15:34+08:00
+modified: 2025-06-05 11:19:11+08:00
 aliases:
 - Take-photos-that-convey-a-strong-emotion-or-tell-a-story
-created: 2024-11-20 23:15:34+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-06-05 11:19:11+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Take photos that convey a strong emotion or tell a story
 ---
 
 To convey strong emotion in [[photography]], take photos of people who are already experiencing them.

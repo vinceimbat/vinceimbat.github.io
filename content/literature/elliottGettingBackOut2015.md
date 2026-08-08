@@ -1,16 +1,14 @@
 ---
+title: Getting Back Out There by Elliott
+created: 2023-12-27 23:10:38+08:00
+modified: 2025-12-13 11:04:26+08:00
 aliases:
 - Getting Back Out There by Elliott
-created: 2023-12-27 23:10:38+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 11:04:26+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Getting Back Out There by Elliott
 ---
 
 # Citation

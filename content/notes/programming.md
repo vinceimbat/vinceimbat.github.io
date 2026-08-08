@@ -2,13 +2,11 @@
 title: Programming
 created: 2024-12-11T14:31:36+08:00
 modified: 2025-04-06T22:59:25+08:00
+draft: 
 tags:
   - species/thought
   - status/seedling
   - species/flashcards
-draft: 
-dg-home: 
-dg-publish:
 ---
 Force Quit an app in Mac (hint: hockey) :: Command + Option + Esc
 <!--SR:!2026-08-26,99,170-->

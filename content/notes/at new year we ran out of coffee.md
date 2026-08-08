@@ -1,16 +1,14 @@
 ---
+title: At New Year We Ran Out of Coffee
+created: 2026-01-04 10:02:24+08:00
+modified: 2026-01-04 10:19:55+08:00
 aliases:
 - At New Year We Ran Out of Coffee
-created: 2026-01-04 10:02:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-04 10:19:55+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: At New Year We Ran Out of Coffee
 ---
 
 In our kitchen I see  

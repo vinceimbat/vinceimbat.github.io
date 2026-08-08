@@ -1,17 +1,15 @@
 ---
+title: Wasak
+created: 2024-09-08 14:39:28+08:00
+modified: 2026-05-28 08:30:22+08:00
 aliases:
 - Wasak
-created: 2024-09-08 14:39:28+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-28 08:30:22+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Wasak
 ---
 
 Nakayuko akong naglalakad  

@@ -1,18 +1,16 @@
 ---
+title: “Some Thoughts on ‘Christian Mysticism’ by Imaoka Shin’ichirō (1881-1988)”
+  by Brown
+created: 2025-12-16 10:54:23+08:00
+modified: 2025-12-16 11:00:18+08:00
 aliases:
 - “Some Thoughts on ‘Christian Mysticism’ by Imaoka Shin’ichirō (1881-1988)” by Brown
-created: 2025-12-16 10:54:23+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-16 11:00:18+08:00
 publish: true
 tags:
 - species/literature
 - species/flashcards
 - status/seedling
-title: “Some Thoughts on ‘Christian Mysticism’ by Imaoka Shin’ichirō (1881-1988)”
-  by Brown
 ---
 
 # Citation

@@ -1,16 +1,14 @@
 ---
-aliases: null
+title: Enlightenment
 created: 2025-08-12 22:14:09+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-08-12 22:16:40+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Enlightenment
 ---
 
 21 April 2016  

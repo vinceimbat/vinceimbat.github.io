@@ -1,16 +1,14 @@
 ---
+title: '“Telling a Story: Haibun” by Bruce Ross'
+created: 2025-11-20 08:58:53+08:00
+modified: 2025-11-20 08:59:10+08:00
 aliases:
 - '“Telling a Story: Haibun” by Bruce Ross'
-created: 2025-11-20 08:58:53+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-20 08:59:10+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: '“Telling a Story: Haibun” by Bruce Ross'
 ---
 
 # Citation

@@ -1,16 +1,14 @@
 ---
+title: Photographic storytelling by Soth
+created: 2025-06-06 17:08:04+08:00
+modified: 2025-06-07 00:50:04+08:00
 aliases:
 - Photographic storytelling by Soth
-created: 2025-06-06 17:08:04+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-06-07 00:50:04+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Photographic storytelling by Soth
 ---
 
 # Highlights

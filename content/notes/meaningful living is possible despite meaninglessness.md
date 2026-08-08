@@ -1,16 +1,14 @@
 ---
+title: Meaningful living is possible despite meaninglessness
+created: 2024-11-18 16:42:20+08:00
+modified: 2026-01-16 17:51:37+08:00
 aliases:
 - Meaningful living is possible despite meaninglessness
-created: 2024-11-18 16:42:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-16 17:51:37+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Meaningful living is possible despite meaninglessness
 ---
 
 [[The universe has a beginning]]. It exists, so it cannot come from infinity ([[Infinity cannot exist]]). [[there is no single purpose everyone must follow]] and [[there is no destiny|there is no destiny]].

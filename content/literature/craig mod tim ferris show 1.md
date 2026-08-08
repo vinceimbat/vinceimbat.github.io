@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Craig Mod in the Tim Ferris Show (#802)
 created: 2025-04-05 16:26:20+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-04-08 22:33:32+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Craig Mod in the Tim Ferris Show (#802)
 ---
 
 ## Highlights

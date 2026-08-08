@@ -1,16 +1,14 @@
 ---
+title: Filipino free-religion
+created: 2024-11-18 15:17:04+08:00
+modified: 2025-07-16 22:52:00+08:00
 aliases:
 - Filipino free-religion
-created: 2024-11-18 15:17:04+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-16 22:52:00+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Filipino free-religion
 ---
 
 As a free-religionist, who also comes from the Filipino tradition, the religious expressions of my ancestors are still valuable to me because they remind me of this living, dynamic, creative impulse in all humans to name what is sacred. It also reminds me, of course, of "the great life of free and selfless creative evolution" that makes Filipino religious expressions possible.

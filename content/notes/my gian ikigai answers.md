@@ -1,16 +1,14 @@
 ---
+title: My Gian ikigai answers
+created: 2024-04-29 10:36:49+08:00
+modified: 2025-12-13 10:42:28+08:00
 aliases:
 - My Gian ikigai answers
-created: 2024-04-29 10:36:49+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 10:42:28+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My Gian ikigai answers
 ---
 
 Here are my answers to [[gian ikigai template|Gian's ikigai template]] that I could use to understand my life plan better.

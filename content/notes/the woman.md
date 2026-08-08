@@ -1,16 +1,14 @@
 ---
+title: The Woman
+created: 2025-08-22 21:38:49+08:00
+modified: 2025-08-22 21:43:47+08:00
 aliases:
 - The Woman
-created: 2025-08-22 21:38:49+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-22 21:43:47+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: The Woman
 ---
 
 Created: 3 May 2015

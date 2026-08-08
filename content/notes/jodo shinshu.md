@@ -1,17 +1,15 @@
 ---
+title: Jōdo Shinshū
+created: 2024-11-21 22:45:40+08:00
+modified: 2026-07-27T10:52:23+08:00
 aliases:
   - Jōdo Shinshū
-created: 2024-11-21 22:45:40+08:00
-dg-home:
-dg-publish: true
 draft: false
-modified: 2026-07-27T10:52:23+08:00
 publish: true
 tags:
   - species/thought
   - status/seedling
   - species/flashcards
-title: Jōdo Shinshū
 ---
 
 In English, it is called Shin Buddhism. Per [[miki nakura|Miki Nakura]], Jōdo Shinshū (浄土真宗) means "True Essence of the Pure Land Buddhism." It is the most popular form of [[buddhism|Buddhism]] in Japan clarified by [[shinran shonin|Shinran Shōnin (1173–1263)]]. Jōdo Shinshū grew out of [[mahayana buddhism|Mahayana buddhism]].
@@ -74,7 +72,7 @@ Year Nishi Honganji was built. :: 1591
 <!--SR:!2026-09-16,102,170-->
 
 Year Higashi Honganji was built. :: 1604
-<!--SR:!2026-08-08,12,230-->
+<!--SR:!2026-08-14,6,210-->
 
 Who encouraged a split within the Honganji sect in 1602? :: Tokugawa Ieyasu
 <!--SR:!2027-12-03,636,320-->

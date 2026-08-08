@@ -1,18 +1,16 @@
 ---
+title: My annual review routine
+created: 2024-10-22 22:26:40+08:00
+modified: 2026-01-29 11:04:53+08:00
 aliases:
 - My-annual-review-routine
 - thoughts/my-annual-review-routine
-created: 2024-10-22 22:26:40+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-29 11:04:53+08:00
 publish: true
 tags:
 - species/thought
 - status/evergreen
 - status/seedling
-title: My annual review routine
 ---
 
 There are three parts to my [[annual review]] process:

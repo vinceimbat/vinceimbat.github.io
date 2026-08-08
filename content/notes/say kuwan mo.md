@@ -1,16 +1,14 @@
 ---
+title: Say Kuwan Mo
+created: 2026-05-25 14:08:18+08:00
+modified: 2026-05-25 14:13:00+08:00
 aliases:
 - Say Kuwan Mo
-created: 2026-05-25 14:08:18+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-25 14:13:00+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Say Kuwan Mo
 ---
 
 Say kuwan mo matalino ak lapud malukon ka'd siak nen ginmapo kan nanarala ed kolehiyo. Tinmunda ka lapud siak.

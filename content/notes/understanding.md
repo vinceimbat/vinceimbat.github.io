@@ -1,16 +1,14 @@
 ---
+title: Understanding
+created: 2024-11-13
+modified: 2026-01-13 10:17:27+08:00
 aliases:
 - Understanding
-created: 2024-11-13
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-13 10:17:27+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Understanding
 ---
 
 [[understanding mainly informs action|Understanding mainly informs action]]. I do not try to understand to decorate myself or to win arguments. I try to understand to develop wisdom, feel good, and always act appropriately.

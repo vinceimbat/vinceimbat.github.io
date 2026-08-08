@@ -1,17 +1,15 @@
 ---
+title: Pure Land (English Translation)
+created: 2026-01-28 15:16:03+08:00
+modified: 2026-01-28 15:16:15+08:00
 aliases:
 - Pure Land (English Translation)
-created: 2026-01-28 15:16:03+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-28 15:16:15+08:00
 publish: true
 tags:
 - species/translation
 - language/english
 - status/seedling
-title: Pure Land (English Translation)
 ---
 
 A while ago

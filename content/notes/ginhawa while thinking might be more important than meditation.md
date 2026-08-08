@@ -1,16 +1,14 @@
 ---
+title: Ginhawa while thinking might be more important than meditation
+created: 2024-11-26 17:59:50+08:00
+modified: 2025-10-14 11:55:48+08:00
 aliases:
 - Ginhawa while thinking might be more important than meditation
-created: 2024-11-26 17:59:50+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-14 11:55:48+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Ginhawa while thinking might be more important than meditation
 ---
 
 Did Buddha reject all kinds of reasoning? Did he simply say stop thinking, meditate and you will be released of suffering?

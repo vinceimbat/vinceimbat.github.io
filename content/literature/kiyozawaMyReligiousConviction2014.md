@@ -1,16 +1,14 @@
 ---
+title: “My Religious Conviction” by Manshi Kiyozawa
+created: 2025-06-27 10:27:14+08:00
+modified: 2025-06-27 10:52:41+08:00
 aliases:
 - “My Religious Conviction” by Manshi Kiyozawa
-created: 2025-06-27 10:27:14+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-06-27 10:52:41+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “My Religious Conviction” by Manshi Kiyozawa
 ---
 
 # Citation

@@ -1,16 +1,14 @@
 ---
+title: 'The New Testament: A Translation by David Bentley Hart'
+created: 2025-07-23 09:30:29+08:00
+modified: 2025-08-04 17:07:27+08:00
 aliases:
 - 'The New Testament: A Translation by David Bentley Hart'
-created: 2025-07-23 09:30:29+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-04 17:07:27+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: 'The New Testament: A Translation by David Bentley Hart'
 ---
 
 # Citation

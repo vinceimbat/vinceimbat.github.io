@@ -1,16 +1,14 @@
 ---
+title: Gian's ikigai template
+created: 2024-06-28 16:18:36+08:00
+modified: 2025-12-18 10:09:52+08:00
 aliases:
 - Gian's ikigai template
-created: 2024-06-28 16:18:36+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-18 10:09:52+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Gian's ikigai template
 ---
 
 This is Gian de Jesus's [[ikigai]] template I can use to improve how articulate my life plan.

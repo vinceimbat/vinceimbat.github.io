@@ -1,16 +1,14 @@
 ---
+title: Ivan Labayne
+created: 2024-09-27 23:44:45+08:00
+modified: 2026-01-25 14:12:04+08:00
 aliases:
 - Ivan Labayne
-created: 2024-09-27 23:44:45+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-25 14:12:04+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Ivan Labayne
 ---
 
 Member/leader of [[pedantic pedestrians]]. [[upb]] BALL and MALL student who relocated to [[los banos|Los Baños]] in 2023 and whom I met through [[jesa suganob]] although I've seen his face many times back in UPB.

@@ -5,8 +5,6 @@ modified: 2026-08-01T16:01:27+08:00
 aliases:
   - Contemplative photography
 draft: false
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/thought

@@ -1,16 +1,14 @@
 ---
+title: Kensho
+created: 2024-05-13 11:33:02+08:00
+modified: 2025-06-17 23:54:20+08:00
 aliases:
 - thoughts/kensho
-created: 2024-05-13 11:33:02+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-06-17 23:54:20+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Kensho
 ---
 
 I had a kensho-like experience around 2018 or 2019, probably my last sesshin. But it was not declared a kensho by my sensei back then, which made me realize and curious that [[zen]], at least in the community where I practiced it, may have a taxonomy of transcendental experiences and several requirements for each kind.

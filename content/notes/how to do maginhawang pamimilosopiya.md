@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: How to do maginhawang pamimilosopiya
 created: 2024-11-26 23:04:30+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-10-14 11:37:21+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: How to do maginhawang pamimilosopiya
 ---
 
 [[Philosophy has to be maginhawa to motivate everyone to think for themselves]]. Here are top of the mind ideas on how to make philosophy more accessible through [[maginhawang pamimilosopiya]]:

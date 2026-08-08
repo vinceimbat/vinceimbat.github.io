@@ -1,16 +1,14 @@
 ---
+title: Ruins
+created: 2025-03-17 16:32:33+08:00
+modified: 2026-05-27 21:19:26+08:00
 aliases:
 - Ruins
-created: 2025-03-17 16:32:33+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 21:19:26+08:00
 publish: true
 tags:
 - species/vignette
 - status/seedling
-title: Ruins
 ---
 
 A hundred bhat for a tuktuk could've easily brought me there. Yet I opted to walk. Again.

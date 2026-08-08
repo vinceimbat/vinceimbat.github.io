@@ -1,16 +1,14 @@
 ---
+title: Sustaining
+created: 2024-10-12 23:38:20+08:00
+modified: 2026-01-13 10:34:39+08:00
 aliases:
 - Sustaining
-created: 2024-10-12 23:38:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-13 10:34:39+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Sustaining
 ---
 
 This [[life area]] involves all activities related to supporting my material existence.

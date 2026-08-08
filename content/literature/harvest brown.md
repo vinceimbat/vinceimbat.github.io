@@ -1,16 +1,14 @@
 ---
+title: Harvest - Step out onto the planet by Brown
+created: 2025-05-10 11:53:03+08:00
+modified: 2025-05-10 12:00:40+08:00
 aliases:
 - Harvest - Step out onto the planet by Brown
-created: 2025-05-10 11:53:03+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-05-10 12:00:40+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Harvest - Step out onto the planet by Brown
 ---
 
 # Highlights

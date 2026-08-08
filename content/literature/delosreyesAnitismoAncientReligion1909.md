@@ -1,16 +1,14 @@
 ---
+title: 'Anitismo: The Ancient Religion of the Philippines by Isabelo de los Reyes'
+created: 2025-07-07 10:45:33+08:00
+modified: 2025-07-07 10:46:00+08:00
 aliases:
 - 'Anitismo: The Ancient Religion of the Philippines by Isabelo de los Reyes'
-created: 2025-07-07 10:45:33+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-07 10:46:00+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: 'Anitismo: The Ancient Religion of the Philippines by Isabelo de los Reyes'
 ---
 
 # Citation

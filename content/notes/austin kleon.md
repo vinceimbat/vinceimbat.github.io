@@ -1,18 +1,16 @@
 ---
+title: Austin Kleon
+created: 2024-11-10 23:40:55+08:00
+modified: 2025-08-14 11:32:11+08:00
 aliases:
 - Austin-Kleon
 - thoughts/austin-kleon
 - Austin Kleon
-created: 2024-11-10 23:40:55+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-14 11:32:11+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Austin Kleon
 ---
 
 Smart People Podcast

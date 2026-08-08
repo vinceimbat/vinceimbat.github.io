@@ -1,17 +1,15 @@
 ---
+title: Ang Makasabay Umihi si Ka Bien
+created: 2023-08-21 22:57:20+08:00
+modified: 2025-12-14 23:36:40+08:00
 aliases:
 - Ang Makasabay Umihi si Ka Bien
-created: 2023-08-21 22:57:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-14 23:36:40+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Ang Makasabay Umihi si Ka Bien
 ---
 
 Nakapicturan at selfie  

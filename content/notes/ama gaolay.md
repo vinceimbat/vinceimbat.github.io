@@ -1,16 +1,14 @@
 ---
+title: Ama Gaolay
+created: 2026-07-16 09:20:56+08:00
+modified: 2026-07-16 09:21:45+08:00
 aliases:
 - Ama Gaolay
-created: 2026-07-16 09:20:56+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-16 09:21:45+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Ama Gaolay
 ---
 
 Panon kon naralan yan salita  

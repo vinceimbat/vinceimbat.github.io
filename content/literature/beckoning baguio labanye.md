@@ -1,16 +1,14 @@
 ---
+title: Beckoning Baguio by Ivan Labanye
+created: null
+modified: 2025-05-01 14:48:08+08:00
 aliases:
 - Beckoning Baguio
-created: null
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-05-01 14:48:08+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Beckoning Baguio by Ivan Labanye
 ---
 
 I was four years out of [[baguio]] when [[ivan labanye]] started writing these columns in 2018, but for some reason, a measure of nostalgia creeps from every page of Ivan's writing. I have a feeling that anyone who've had the opportunity to call Baguio a home for at least a year will feel the same feeling when reading anything written about Baguio.

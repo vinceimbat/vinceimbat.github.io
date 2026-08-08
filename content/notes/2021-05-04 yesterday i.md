@@ -1,16 +1,14 @@
 ---
+title: 2021-05-04 Yesterday, I…
+created: 2023-08-21 22:57:20+08:00
+modified: 2025-12-14 17:17:52+08:00
 aliases:
 - 2021-05-04 Yesterday, I…
-created: 2023-08-21 22:57:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-14 17:17:52+08:00
 publish: true
 tags:
 - species/vignette
 - status/seedling
-title: 2021-05-04 Yesterday, I…
 ---
 
 Yesterday, I…

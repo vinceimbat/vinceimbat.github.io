@@ -1,17 +1,15 @@
 ---
+title: The core process of intentional living
+created: 2024-10-12 23:38:48+08:00
+modified: 2025-04-04 21:30:28+08:00
 aliases:
 - The-core-process-of-intentional-living
 - thoughts/the-core-process-of-intentional-living
-created: 2024-10-12 23:38:48+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-04-04 21:30:28+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: The core process of intentional living
 ---
 
 [[intentional living|Intentional living]] follows the following process:

@@ -1,16 +1,14 @@
 ---
+title: Manlua
+created: 2026-06-11 09:23:14+08:00
+modified: 2026-06-11 09:24:16+08:00
 aliases:
 - Manlua
-created: 2026-06-11 09:23:14+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-11 09:24:16+08:00
 publish: true
 tags:
 - species/translation
 - status/seedling
-title: Manlua
 ---
 
 Manlua so kiëw na salumagi,  

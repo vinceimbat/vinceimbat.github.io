@@ -1,12 +1,10 @@
 ---
 title: Sliding scale of certainty
-modified: 2026-07-30T22:32:17+08:00
 created: 2023-10-18T20:28:24+08:00
+modified: 2026-07-30T22:32:17+08:00
 aliases:
   - Sliding scale of certainty
 draft: false
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/thought

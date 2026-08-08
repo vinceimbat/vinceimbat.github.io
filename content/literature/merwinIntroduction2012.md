@@ -1,16 +1,14 @@
 ---
+title: “Introduction” by W.S. Merwin
+created: 2026-06-23 08:39:51+08:00
+modified: 2026-06-24 08:55:46+08:00
 aliases:
 - “Introduction” by W.S. Merwin
-created: 2026-06-23 08:39:51+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-24 08:55:46+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “Introduction” by W.S. Merwin
 ---
 
 # Citation

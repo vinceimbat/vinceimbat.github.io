@@ -1,18 +1,16 @@
 ---
+title: '“But I Say to You: Love Not Only Your Own Countrymen, but Also the People
+  of Other Nations” by Andrew James Brown'
+created: 2026-04-13 09:04:36+08:00
+modified: 2026-04-13 10:21:05+08:00
 aliases:
 - '“But I Say to You: Love Not Only Your Own Countrymen, but Also the People of Other
   Nations” by Andrew James Brown'
-created: 2026-04-13 09:04:36+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-04-13 10:21:05+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: '“But I Say to You: Love Not Only Your Own Countrymen, but Also the People
-  of Other Nations” by Andrew James Brown'
 ---
 
 # Citation

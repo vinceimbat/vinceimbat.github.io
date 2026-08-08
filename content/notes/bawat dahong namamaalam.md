@@ -1,21 +1,19 @@
 ---
+title: Bawat Dahong Namamaalam
+created: 2022-05-09
+modified: 2025-12-14 11:51:29+08:00
 aliases:
 - Bawat Dahong Namamaalam
-created: 2022-05-09
-dg-home: null
-dg-publish: true
-draft: null
 location:
 - 14.160514
 - 121.232721
-modified: 2025-12-14 11:51:29+08:00
+draft: null
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
 - buhian
-title: Bawat Dahong Namamaalam
 ---
 
 Ang dakong ito ng Molawin ay himlayan  

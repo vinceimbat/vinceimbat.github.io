@@ -1,18 +1,16 @@
 ---
+title: We are all manifestations of the Great Spirit, children of God, containing
+  infinite treasures within ourselves . . . by Brown
+created: 2025-05-10 14:32:31+08:00
+modified: 2025-05-10 14:35:11+08:00
 aliases:
 - We are all manifestations of the Great Spirit, children of God, containing infinite
   treasures within ourselves . . . by Brown
-created: 2025-05-10 14:32:31+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-05-10 14:35:11+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: We are all manifestations of the Great Spirit, children of God, containing
-  infinite treasures within ourselves . . . by Brown
 ---
 
 # Highlights

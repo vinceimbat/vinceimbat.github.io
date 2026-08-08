@@ -1,17 +1,15 @@
 ---
+title: “What Would a Free-Religious Company Look Like?” by Andrew James Brown
+created: 2025-11-05 10:38:00+08:00
+modified: 2025-11-05 10:46:59+08:00
 aliases:
 - “What Would a Free-Religious Company Look Like?” by Andrew James Brown
-created: 2025-11-05 10:38:00+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-05 10:46:59+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “What Would a Free-Religious Company Look Like?” by Andrew James Brown
 ---
 
 # Citation

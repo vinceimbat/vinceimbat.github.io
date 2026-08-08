@@ -1,16 +1,14 @@
 ---
+title: Pagpapatawad
+created: 2025-10-17 10:03:25+08:00
+modified: 2025-10-26 21:58:06+08:00
 aliases:
 - Pagpapatawad
-created: 2025-10-17 10:03:25+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-26 21:58:06+08:00
 publish: true
 tags:
 - species/essay
 - status/evergreen
-title: Pagpapatawad
 ---
 
 Pagpapatawad ang pino't manipis na telang namamagitan sa kapayapaan at karahasan. Dito nagsisimula ang posibilidad ng pagpapatuloy. Ang kawalan nito ay pagguho ng pagmamahalan. Sa mahabang listahan ng mga kasalanan, pagpapatawad ang pambura—o ang apoy na susunog na mismo sa listahan.

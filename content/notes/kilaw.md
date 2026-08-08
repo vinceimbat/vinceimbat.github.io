@@ -1,20 +1,18 @@
 ---
+title: Kilaw
+created: 2024-10-27 16:49:38+08:00
+modified: 2026-05-27 14:21:54+08:00
 aliases:
 - Kilaw
-created: 2024-10-27 16:49:38+08:00
-dg-home: null
-dg-publish: true
-draft: false
 location:
 - 16.065806
 - 120.462327
-modified: 2026-05-27 14:21:54+08:00
+draft: false
 publish: true
 tags:
 - species/poem
 - status/seedling
 - language/pangasinan
-title: Kilaw
 ---
 
 Inmalagey so baka  

@@ -1,17 +1,15 @@
 ---
+title: Self
+created: 2024-10-22 22:41:01+08:00
+modified: 2025-07-10 11:27:09+08:00
 aliases:
 - Self
 - thoughts/self
-created: 2024-10-22 22:41:01+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-10 11:27:09+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Self
 ---
 
 There is a unique boundary between our experiences. We know enough to know that we don't know enough. The boundaries of our experiences might be porous and artificial.

@@ -1,20 +1,18 @@
 ---
+title: Sa Labas
+created: 2024-08-24 22:20:12+08:00
+modified: 2026-05-28 07:25:29+08:00
 aliases:
 - Sa Labas
-created: 2024-08-24 22:20:12+08:00
-dg-home: null
-dg-publish: true
-draft: false
 location:
 - 14.1697666
 - 121.2389133
-modified: 2026-05-28 07:25:29+08:00
+draft: false
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Sa Labas
 ---
 
 Sa gitna ng ilang oras  

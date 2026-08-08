@@ -1,17 +1,15 @@
 ---
+title: Alabok
+created: 2026-01-28 15:12:40+08:00
+modified: 2026-01-28 15:13:35+08:00
 aliases:
 - Alabok
-created: 2026-01-28 15:12:40+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-28 15:13:35+08:00
 publish: true
 tags:
 - species/translation
 - language/filipino
 - status/seedling
-title: Alabok
 ---
 
 Yaan na ang pagwawalis dahil   sa kalangitan 

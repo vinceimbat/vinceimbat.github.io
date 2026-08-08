@@ -1,16 +1,14 @@
 ---
+title: Contemplation
+created: 2024-07-16 11:40:04+08:00
+modified: 2025-12-13 23:35:06+08:00
 aliases:
 - Contemplation
-created: 2024-07-16 11:40:04+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 23:35:06+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Contemplation
 ---
 
 I defined it as the lifelong pursuit to:

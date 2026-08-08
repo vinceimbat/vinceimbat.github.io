@@ -1,16 +1,14 @@
 ---
+title: Writing workshops
+created: 2025-12-18 10:46:36+08:00
+modified: 2025-12-18 10:54:05+08:00
 aliases:
 - Writing workshops
-created: 2025-12-18 10:46:36+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-18 10:54:05+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Writing workshops
 ---
 
 Why do they have a certain pull to me? I think because I have an ego and they promise additional status boost. But there is also the opportunity to meet new people. What happens in those meetings could either be good and bad. And, of course, writing workshops offer an opportunity to learn and visit new places. Among these last two, only the latter is an unadulterated pro of these events. Overall, even the most well-meaning ones could reinforce prevailing toxic norms in writing.

@@ -1,16 +1,14 @@
 ---
+title: Things Become Other Things by Craig Mod
+created: 2024-08-23 22:56:22+08:00
+modified: 2025-06-17 09:01:44+08:00
 aliases:
 - literature/things-become-other-things-mod
-created: 2024-08-23 22:56:22+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-06-17 09:01:44+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Things Become Other Things by Craig Mod
 ---
 
 # Structure

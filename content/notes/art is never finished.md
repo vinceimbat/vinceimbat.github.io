@@ -1,17 +1,15 @@
 ---
+title: Art is never finished
+created: 2024-10-31 23:46:58+08:00
+modified: 2025-04-30 11:11:41+08:00
 aliases:
 - thoughts/art-is-never-finished
 - Art is never finished
-created: 2024-10-31 23:46:58+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-04-30 11:11:41+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Art is never finished
 ---
 
 The tension between the pursuit of finality and perpetual liminality in art has been persistent from the 20th century to the present. While the late 19th century Western literati generally agreed that art is never finished, the tide turned during the 20th century, particularly with the rise of [[new criticism]], when the literati began to aspire for the wholeness of art.

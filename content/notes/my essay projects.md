@@ -1,16 +1,14 @@
 ---
+title: My essay projects
+created: 2026-06-09 07:38:47+08:00
+modified: 2026-06-09 07:48:09+08:00
 aliases:
 - My essay projects
-created: 2026-06-09 07:38:47+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-09 07:48:09+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My essay projects
 ---
 
 # Possible essays

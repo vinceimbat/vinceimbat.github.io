@@ -1,17 +1,15 @@
 ---
+title: Bago Dumulas ang Araw na Ito
+created: 2025-11-22 16:56:04+08:00
+modified: 2025-11-22 18:11:19+08:00
 aliases:
 - Bago Dumulas ang Araw na Ito
-created: 2025-11-22 16:56:04+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-22 18:11:19+08:00
 publish: true
 tags:
 - species/haibun
 - language/filipino
 - status/seedling
-title: Bago Dumulas ang Araw na Ito
 ---
 
 Basa ang berdeng lumot sa harapan ng bahay noong magsimula kaming maglakad. Nilamon na ng lilim ng ligaw na punong tumubo sa bakanteng lote sa labas ng bakod ang katiting na sinag ng araw na nakalulusot sa mga ulap. Dahil sa lilim at sa sunod-sunod na ulan nitong mga nakaraang araw, binalot na ng makapal na lumot ang buong daan sa compound palabas ng gate.

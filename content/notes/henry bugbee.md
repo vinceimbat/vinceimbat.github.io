@@ -1,18 +1,16 @@
 ---
+title: Henry Bugbee
+created: 2024-11-18 23:29:43+08:00
+modified: 2025-06-25 21:54:03+08:00
 aliases:
 - Henry-Bugbee
 - thoughts/henry-bugbee
 - Henry Bugbee
-created: 2024-11-18 23:29:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-06-25 21:54:03+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Henry Bugbee
 ---
 
 Henry Bugbee is perhaps the closest to [[henry david thoreau|Henry David Thoreau]] that I have encountered in my readings in terms of resonance. I see and feel Thoreau in him without him even trying to copy Thoreau's writing (unlike what [[annie dillard|Annie Dillard]] did). His life is what is most Thoreauvian.

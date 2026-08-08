@@ -1,16 +1,14 @@
 ---
+title: Writing is meditation
+created: 2024-10-31 23:46:10+08:00
+modified: 2025-08-14 11:42:10+08:00
 aliases:
 - thoughts/writing-is-meditation
-created: 2024-10-31 23:46:10+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-14 11:42:10+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Writing is meditation
 ---
 
 The [[transcendentalism|transcendentalists]] were torn between the relationship of inspiration and craft. They went to nature to find inspiration. They were romantics on steroids. And yet inspiration is so hard to come by. You seek the right moment and place and then you get bitten by ants.

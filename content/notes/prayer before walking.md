@@ -1,16 +1,14 @@
 ---
+title: Prayer Before Walking
+created: 2025-08-05 11:41:05+08:00
+modified: 2025-08-05 11:42:05+08:00
 aliases:
 - Prayer Before Walking
-created: 2025-08-05 11:41:05+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-05 11:42:05+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Prayer Before Walking
 ---
 
 # Panalangin Bago Maglakad

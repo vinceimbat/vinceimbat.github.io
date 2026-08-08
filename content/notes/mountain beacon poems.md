@@ -1,16 +1,14 @@
 ---
+title: Mountain Beacon poems
+created: 2026-01-28 17:31:11+08:00
+modified: 2026-04-02 10:08:11+08:00
 aliases:
 - Mountain Beacon poems
-created: 2026-01-28 17:31:11+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-04-02 10:08:11+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Mountain Beacon poems
 ---
 
 Here's a list to track the poems I've sent to Mountain Beacon, including both those published and unpublished. Those marked unpublished were received but unpublished.

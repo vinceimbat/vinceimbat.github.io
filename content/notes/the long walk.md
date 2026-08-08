@@ -1,16 +1,14 @@
 ---
+title: The long walk
+created: 2024-07-22 17:20:01+08:00
+modified: 2025-07-18 22:15:58+08:00
 aliases:
 - The long walk
-created: 2024-07-22 17:20:01+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-18 22:15:58+08:00
 publish: true
 tags:
 - status/seedling
 - species/thought
-title: The long walk
 ---
 
 The long walk is life itself.

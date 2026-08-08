@@ -1,18 +1,16 @@
 ---
+title: “This Monument Is for the Unknown Good in Our Enemies—A Thought for the Day
+  on Remembrance Sunday” by Andrew James Brown
+created: 2025-11-10 10:10:47+08:00
+modified: 2025-11-10 10:37:54+08:00
 aliases:
 - “This Monument Is for the Unknown Good in Our Enemies—A Thought for the Day on Remembrance
   Sunday” by Andrew James Brown
-created: 2025-11-10 10:10:47+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-10 10:37:54+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “This Monument Is for the Unknown Good in Our Enemies—A Thought for the Day
-  on Remembrance Sunday” by Andrew James Brown
 ---
 
 # Citation

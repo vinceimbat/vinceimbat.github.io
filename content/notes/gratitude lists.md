@@ -1,19 +1,17 @@
 ---
+title: Gratitude lists
+created: 2024-10-07 23:25:16+08:00
+modified: 2026-01-09 09:37:35+08:00
 aliases:
 - gratitude-lists
 - thoughts/gratitude-lists
-created: 2024-10-07 23:25:16+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-09 09:37:35+08:00
 publish: true
 tags:
 - species/thought
 - status/evergreen
 - species/log
 - status/seedling
-title: Gratitude lists
 ---
 
 Use the following template: [[gratitude list|Gratitude list]]

@@ -1,17 +1,15 @@
 ---
+title: “The Fifth Day - New Threads for the Weaving” by Harrington
+created: 2026-02-24 18:32:56+08:00
+modified: 2026-02-24 18:40:26+08:00
 aliases:
 - “The Fifth Day - New Threads for the Weaving” by Harrington
-created: 2026-02-24 18:32:56+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-24 18:40:26+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “The Fifth Day - New Threads for the Weaving” by Harrington
 ---
 
 # Citation

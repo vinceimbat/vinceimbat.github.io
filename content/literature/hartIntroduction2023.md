@@ -1,16 +1,14 @@
 ---
+title: Introduction by David Bentley Hart
+created: 2025-07-24 11:47:16+08:00
+modified: 2025-07-24 11:47:38+08:00
 aliases:
 - Introduction by David Bentley Hart
-created: 2025-07-24 11:47:16+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-24 11:47:38+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Introduction by David Bentley Hart
 ---
 
 # Citation

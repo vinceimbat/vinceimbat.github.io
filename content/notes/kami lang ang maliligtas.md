@@ -1,16 +1,14 @@
 ---
+title: Kami Lang Ang Maliligtas
+created: 2025-11-18 10:41:16+08:00
+modified: 2026-01-28 15:15:00+08:00
 aliases:
 - Kami Lang Ang Maliligtas
-created: 2025-11-18 10:41:16+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-28 15:15:00+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Kami Lang Ang Maliligtas
 ---
 
 Ganito dumadaloy ang banal na espiritu—  

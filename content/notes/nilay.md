@@ -1,16 +1,14 @@
 ---
+title: Nilay
+created: 2025-10-06 17:17:01+08:00
+modified: 2026-03-10 14:29:02+08:00
 aliases:
 - Nilay
-created: 2025-10-06 17:17:01+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-10 14:29:02+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Nilay
 ---
 
 # Meetings

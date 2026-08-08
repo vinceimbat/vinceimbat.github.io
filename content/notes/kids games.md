@@ -1,16 +1,14 @@
 ---
+title: Kids games
+created: 2026-06-08 20:48:58+08:00
+modified: 2026-06-08 20:49:13+08:00
 aliases:
 - Kids games
-created: 2026-06-08 20:48:58+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-08 20:49:13+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Kids games
 ---
 
 Game 1: Kumot Game

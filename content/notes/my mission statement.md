@@ -5,8 +5,6 @@ modified: 2026-08-02T14:19:50+08:00
 aliases:
   - My mission statement
 draft:
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/thought

@@ -1,17 +1,15 @@
 ---
+title: TTCP 20
+created: 2023-10-18 20:28:24+08:00
+modified: 2025-12-18 11:50:40+08:00
 aliases:
 - TTCP 20
-created: 2023-10-18 20:28:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-18 11:50:40+08:00
 publish: true
 tags:
 - species/translation
 - language/pangasinan
 - status/seedling
-title: TTCP 20
 ---
 
 Itundam so panononot mo, tan ontunda so gonigon mo.  

@@ -1,16 +1,14 @@
 ---
+title: Pakikinig
+created: 2025-10-26 11:31:50+08:00
+modified: 2025-11-16 23:36:04+08:00
 aliases:
 - Pakikinig
-created: 2025-10-26 11:31:50+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-16 23:36:04+08:00
 publish: true
 tags:
 - species/essay
 - status/evergreen
-title: Pakikinig
 ---
 
 Ang pakikinig ay pagpapatuloy ng aking mga kaisipan sa mga kaisipan ng iba. Hindi kailangang bago ang dapat kong marinig. Malamang sa malamang narinig ko na ito noon—naisip ko na. Ngunit, hindi sa boses ng kasalukuyang nagsasalita. Pakikinig ang paglilipat natin ng ating kamalayan sa iba—ang paghiram natin ng antipara ng ating kapwa upang mas tignan ng malapitan ang isang penomeno.

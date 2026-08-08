@@ -1,17 +1,15 @@
 ---
+title: An Almost Perfect Day
+created: 2023-10-18 20:28:23+08:00
+modified: 2025-12-14 23:21:11+08:00
 aliases:
 - An Almost Perfect Day
-created: 2023-10-18 20:28:23+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-14 23:21:11+08:00
 publish: true
 tags:
 - species/poem
 - language/english
 - status/seedling
-title: An Almost Perfect Day
 ---
 
 This is an almost perfect day.  

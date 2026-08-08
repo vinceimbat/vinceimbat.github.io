@@ -1,16 +1,14 @@
 ---
+title: “Contemplation in Education” by Arthur Zajonc
+created: 2025-08-03 09:35:16+08:00
+modified: 2025-08-03 09:35:42+08:00
 aliases:
 - “Contemplation in Education” by Arthur Zajonc
-created: 2025-08-03 09:35:16+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-03 09:35:42+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “Contemplation in Education” by Arthur Zajonc
 ---
 
 # Citation

@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Guidelines on what to add to your reading inbox
 created: 2024-07-29 13:49:13+08:00
-dg-home: null
-dg-publish: true
-draft: null
 modified: 2025-04-14 11:22:51+08:00
+aliases: null
+draft: null
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Guidelines on what to add to your reading inbox
 ---
 
 When deciding reading materials to add to my [[reading inbox]], I prioritize the following:

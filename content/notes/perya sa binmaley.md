@@ -1,18 +1,16 @@
 ---
+title: Perya sa Binmalëy
+created: 2024-09-06 23:27:26+08:00
+modified: 2025-12-21 11:40:58+08:00
 aliases:
 - Perya sa Binmalëy
-created: 2024-09-06 23:27:26+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-21 11:40:58+08:00
 publish: true
 tags:
 - species/translation
 - language/filipino
 - status/seedling
 - species/poem
-title: Perya sa Binmalëy
 ---
 
 Tumaya kami ng  

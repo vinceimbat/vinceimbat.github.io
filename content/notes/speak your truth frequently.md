@@ -1,16 +1,14 @@
 ---
+title: Speak your truth frequently
+created: 2024-07-27 10:00:55+08:00
+modified: 2026-06-27 09:58:37+08:00
 aliases:
 - Speak your truth frequently
-created: 2024-07-27 10:00:55+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-27 09:58:37+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Speak your truth frequently
 ---
 
 This is the reason why I can’t be totally like [[andy matuschak]], who prioritizes insight over everything else. Although insight is important, equally important to me is self-expression. And there is no better way to get better at self-expression than practicing it as often as I can, preferably in a regular basis, ideally daily.

@@ -1,16 +1,14 @@
 ---
+title: Pillion
+created: 2026-01-22 10:18:53+08:00
+modified: 2026-01-22 10:27:38+08:00
 aliases:
 - Pillion
-created: 2026-01-22 10:18:53+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-22 10:27:38+08:00
 publish: true
 tags:
 - species/translation
 - status/seedling
-title: Pillion
 ---
 
 Those rides with you were long,

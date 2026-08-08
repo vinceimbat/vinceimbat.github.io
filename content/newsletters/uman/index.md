@@ -4,8 +4,6 @@ created: 2022-02-02
 modified: 2026-08-01
 aliases:
 draft: false
-dg-home: false
-dg-publish: false
 publish: true
 ---
 

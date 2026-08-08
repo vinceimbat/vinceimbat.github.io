@@ -5,8 +5,6 @@ modified: 2026-07-30T22:13:47+08:00
 aliases:
   - Free will and action
 draft: false
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/thought

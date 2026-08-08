@@ -1,16 +1,14 @@
 ---
+title: Walking as a relieving stroll
+created: 2024-03-15 15:50:22+08:00
+modified: 2025-12-12 23:13:36+08:00
 aliases:
 - Walking as a relieving stroll
-created: 2024-03-15 15:50:22+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 23:13:36+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Walking as a relieving stroll
 ---
 
 Walking can be a ritualistic expression of childish play that one can do after a gruelling work session. This is the kind of walk that I usually take.

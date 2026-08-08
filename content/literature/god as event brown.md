@@ -1,16 +1,14 @@
 ---
+title: “Look, there! That’s what I mean by God!” — God as event by Brown
+created: 2025-05-10 14:22:44+08:00
+modified: 2025-05-10 14:23:34+08:00
 aliases:
 - “Look, there! That’s what I mean by God!” — God as event by Brown
-created: 2025-05-10 14:22:44+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-05-10 14:23:34+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “Look, there! That’s what I mean by God!” — God as event by Brown
 ---
 
 # Highlights

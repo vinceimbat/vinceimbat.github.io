@@ -1,16 +1,14 @@
 ---
+title: Childhood Sweetheart
+created: 2025-08-22 21:31:40+08:00
+modified: 2025-08-22 21:35:55+08:00
 aliases:
 - Childhood Sweetheart
-created: 2025-08-22 21:31:40+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-22 21:35:55+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Childhood Sweetheart
 ---
 
 Created: 9 July 2015

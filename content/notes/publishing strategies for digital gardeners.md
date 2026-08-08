@@ -1,17 +1,15 @@
 ---
+title: Publishing strategies for digital gardeners
+created: 2024-10-21 22:47:01+08:00
+modified: 2025-03-28 17:22:45+08:00
 aliases:
 - Publishing-strategies-for-digital-gardeners
 - Publishing strategies for digital gardeners
-created: 2024-10-21 22:47:01+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-03-28 17:22:45+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Publishing strategies for digital gardeners
 ---
 
 An important idea when I was thinking about building the [[talahardin]] is to [[work with the garage door up]]. This involves publishing an archive of [[notes/draft|drafts]]. How can this be done? I looked into how other people do it.

@@ -1,16 +1,14 @@
 ---
+title: Ichimai Kishomon (One-Sheet Testament)
+created: 2026-02-17 17:55:23+08:00
+modified: 2026-02-17 17:59:13+08:00
 aliases:
 - Ichimai Kishomon (One-Sheet Testament)
-created: 2026-02-17 17:55:23+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-17 17:59:13+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Ichimai Kishomon (One-Sheet Testament)
 ---
 
 # Citation

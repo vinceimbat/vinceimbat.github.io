@@ -1,16 +1,14 @@
 ---
+title: How to write an effective bio
+created: 2024-05-09 10:36:15+08:00
+modified: 2026-03-12 14:35:35+08:00
 aliases:
 - How to write an effective bio
-created: 2024-05-09 10:36:15+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-12 14:35:35+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: How to write an effective bio
 ---
 
 Your bio is the centerpiece of the narrative that connects the work you create and who you are. Your bio should embody not just a chronological view of your life, but the narratives that fuel you.

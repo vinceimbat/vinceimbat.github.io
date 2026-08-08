@@ -5,8 +5,6 @@ modified: 2026-07-27T10:01:31+08:00
 aliases:
   - When I Come Home
 draft: false
-dg-home:
-dg-publish: true
 tags:
   - species/poem
   - status/seedling

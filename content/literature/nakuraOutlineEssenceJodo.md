@@ -1,17 +1,15 @@
 ---
+title: '"The Outline and Essence of Jōdo Shinshū Buddhism" by Miki Nakura'
+created: 2025-07-26 11:31:15+08:00
+modified: 2025-07-26 12:25:36+08:00
 aliases:
 - '"The Outline and Essence of Jōdo Shinshū Buddhism" by Miki Nakura'
-created: 2025-07-26 11:31:15+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-26 12:25:36+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: '"The Outline and Essence of Jōdo Shinshū Buddhism" by Miki Nakura'
 ---
 
 # Citation
@@ -32,7 +30,7 @@ Nakura, Miki. _The Outline and Essence of Jōdo Shinshū Bddhism_.
 # Prompts
 
 Translation of _Jōdo Shinshū_ :: True Essence of Pure Land Buddhism
-<!--SR:!2026-08-08,23,210-->
+<!--SR:!2026-10-16,69,230-->
 
 Jōdo Shinshū is asking one for what percentage of faith in the Original Vow of Amida's tariki? :: 100%
 <!--SR:!2030-02-12,1293,350-->

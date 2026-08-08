@@ -1,16 +1,14 @@
 ---
+title: Financial freedom is not creative freedom
+created: 2024-02-28 12:03:03+08:00
+modified: 2025-12-13 10:55:38+08:00
 aliases:
 - Financial freedom is not creative freedom
-created: 2024-02-28 12:03:03+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 10:55:38+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Financial freedom is not creative freedom
 ---
 
 Financial freedom means not working for [[money]], while [[creative freedom]] means not creating for money. You can argue that creating is still the same as work. And you are right. But it is a specific kind of work. We should see FF as a state with varying duration rather than one state with one duration. Actually FF is easier to achieve than usual.

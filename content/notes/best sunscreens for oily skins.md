@@ -1,16 +1,14 @@
 ---
+title: Best sunscreens for oily skins
+created: 2023-08-21 22:57:20+08:00
+modified: 2025-12-17 12:03:13+08:00
 aliases:
 - Best sunscreens for oily skins
-created: 2023-08-21 22:57:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-17 12:03:13+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Best sunscreens for oily skins
 ---
 
 Here are the best sunscreens for oily skins in the Philippines:

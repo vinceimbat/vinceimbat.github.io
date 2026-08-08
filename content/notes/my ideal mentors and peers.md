@@ -1,16 +1,14 @@
 ---
+title: My ideal mentors and peers
+created: 2024-07-16 11:46:59+08:00
+modified: 2026-01-13 10:29:36+08:00
 aliases:
 - My ideal mentors and peers
-created: 2024-07-16 11:46:59+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-13 10:29:36+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My ideal mentors and peers
 ---
 
 A criteria for choosing individuals to learn from and work with is necessary because the work I want to do may not fit in any existing field and, therefore, [[my criteria for choosing a field]] may not work at all. Right now, I see my field as creative writing informed by spirituality, but this could change.

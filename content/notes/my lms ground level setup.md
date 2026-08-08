@@ -1,18 +1,16 @@
 ---
+title: My LMS ground level setup
+created: 2024-11-12 20:58:58+08:00
+modified: 2025-07-02 15:58:43+08:00
 aliases:
 - My LMS ground level setup
 - thoughts/my-lms-ground-level-setup
 - my LMS ground level setup
-created: 2024-11-12 20:58:58+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-02 15:58:43+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My LMS ground level setup
 ---
 
 This is my current [[life management system]] [[ground level]] setup.

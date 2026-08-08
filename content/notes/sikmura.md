@@ -1,20 +1,18 @@
 ---
+title: Sikmura
+created: 2024-08-24 22:39:08+08:00
+modified: 2026-05-28 07:41:54+08:00
 aliases:
 - Sikmura
-created: 2024-08-24 22:39:08+08:00
-dg-home: null
-dg-publish: true
-draft: false
 location:
 - 14.0717458
 - 121.3145728
-modified: 2026-05-28 07:41:54+08:00
+draft: false
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Sikmura
 ---
 
 Gusto kong magsulat,  

@@ -1,17 +1,15 @@
 ---
+title: Unti-unti, Dahan-dahan
+created: 2023-10-18 20:28:24+08:00
+modified: 2026-05-28 08:24:08+08:00
 aliases:
 - Unti-unti, Dahan-dahan
-created: 2023-10-18 20:28:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-28 08:24:08+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
 - language/filipino
-title: Unti-unti, Dahan-dahan
 ---
 
 Nababanaag ko na  

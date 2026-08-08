@@ -1,16 +1,14 @@
 ---
+title: “Peace beyond Ethics” by Manshi Kiyozawa
+created: 2025-06-23 09:36:47+08:00
+modified: 2025-06-24 10:25:58+08:00
 aliases:
 - “Peace beyond Ethics” by Manshi Kiyozawa
-created: 2025-06-23 09:36:47+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-06-24 10:25:58+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “Peace beyond Ethics” by Manshi Kiyozawa
 ---
 
 # Citation

@@ -1,16 +1,14 @@
 ---
+title: Poetry techniques
+created: 2025-09-29 18:21:09+08:00
+modified: 2025-09-29 18:21:21+08:00
 aliases:
 - Poetry techniques
-created: 2025-09-29 18:21:09+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-09-29 18:21:21+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Poetry techniques
 ---
 
 - Combine thoughts with images.

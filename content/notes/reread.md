@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Reread
 created: 2024-02-20 13:22:41+08:00
-dg-home: null
-dg-publish: true
-draft: null
 modified: 2025-03-28 22:29:11+08:00
+aliases: null
+draft: null
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Reread
 ---
 
 ## To do

@@ -1,17 +1,15 @@
 ---
+title: Paano Maging Miserableng Artist
+created: 2024-09-06 23:26:31+08:00
+modified: 2026-05-25 08:30:01+08:00
 aliases:
 - Paano Maging Miserableng Artist
-created: 2024-09-06 23:26:31+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-25 08:30:01+08:00
 publish: true
 tags:
 - species/translation
 - language/filipino
 - status/seedling
-title: Paano Maging Miserableng Artist
 ---
 
 1. Sige lang, makipagtaasan ka pa ng ihi sa ibang artist.

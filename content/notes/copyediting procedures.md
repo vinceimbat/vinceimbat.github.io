@@ -1,16 +1,14 @@
 ---
+title: Copyediting procedures
+created: 2024-02-20 13:22:43+08:00
+modified: 2025-12-13 13:48:31+08:00
 aliases:
 - Copyediting procedures
-created: 2024-02-20 13:22:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 13:48:31+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Copyediting procedures
 ---
 
 Cleanup ::: incorporating query responses

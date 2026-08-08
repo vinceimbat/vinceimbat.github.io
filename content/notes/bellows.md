@@ -1,16 +1,14 @@
 ---
+title: Bellows
+created: 2026-06-28 08:58:40+08:00
+modified: 2026-06-28 08:59:35+08:00
 aliases:
 - Bellows
-created: 2026-06-28 08:58:40+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-28 08:59:35+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Bellows
 ---
 
 Can you blame me?  

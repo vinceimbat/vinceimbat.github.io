@@ -1,10 +1,8 @@
 ---
-aliases: null
 created: 2024-07-29 13:58:58+08:00
-dg-home: null
-dg-publish: true
-draft: null
 modified: 2025-12-12 23:30:04+08:00
+aliases: null
+draft: null
 publish: true
 tags: null
 ---

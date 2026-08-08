@@ -1,16 +1,14 @@
 ---
+title: Bonsaic Verses by Santiago B. Villafania
+created: 2026-02-01 09:07:24+08:00
+modified: 2026-02-01 09:07:46+08:00
 aliases:
 - Bonsaic Verses by Santiago B. Villafania
-created: 2026-02-01 09:07:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-01 09:07:46+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Bonsaic Verses by Santiago B. Villafania
 ---
 
 # Citation

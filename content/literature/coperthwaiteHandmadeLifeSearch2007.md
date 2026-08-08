@@ -1,16 +1,14 @@
 ---
+title: A Handmade Life by Coperthwaite
+created: 2024-10-10 23:46:45+08:00
+modified: 2025-12-13 13:35:35+08:00
 aliases:
 - A Handmade Life by Coperthwaite
-created: 2024-10-10 23:46:45+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 13:35:35+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: A Handmade Life by Coperthwaite
 ---
 
 # Citation

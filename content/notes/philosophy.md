@@ -1,16 +1,14 @@
 ---
+title: Philosophy
+created: 2024-05-18 11:28:10+08:00
+modified: 2025-12-12 21:35:43+08:00
 aliases:
 - Philosophy
-created: 2024-05-18 11:28:10+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 21:35:43+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Philosophy
 ---
 
 I read hard philo texts but it doesnt mean that I want to write similar texts. I admire how steve writes but i dont think i will enjoy my work enough if I am going to write in a similar way.

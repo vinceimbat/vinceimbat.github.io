@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Spring springs by Tuama
 created: 2025-04-21 15:53:32+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-04-21 15:57:30+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Spring springs by Tuama
 ---
 
 # Highlights

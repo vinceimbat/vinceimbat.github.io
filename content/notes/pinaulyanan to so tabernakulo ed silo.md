@@ -1,16 +1,14 @@
 ---
+title: Pinaulyan To So Tabernakulo Ëd Silo
+created: 2026-05-24 15:59:26+08:00
+modified: 2026-06-28 10:56:09+08:00
 aliases:
 - Pinaulyan To So Tabernakulo Ëd Silo
-created: 2026-05-24 15:59:26+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-28 10:56:09+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Pinaulyan To So Tabernakulo Ëd Silo
 ---
 
 Natan  

@@ -1,17 +1,15 @@
 ---
+title: Improv
+created: 2025-12-08 22:24:08+08:00
+modified: 2026-05-27 11:31:51+08:00
 aliases:
 - Improv
-created: 2025-12-08 22:24:08+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 11:31:51+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
 - language/filipino
-title: Improv
 ---
 
 Sa ngayon  

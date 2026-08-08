@@ -1,16 +1,14 @@
 ---
+title: A Midsummer Rain in LB
+created: 2024-09-08 10:04:34+08:00
+modified: 2026-05-27 07:33:08+08:00
 aliases:
 - A Midsummer Rain in LB
-created: 2024-09-08 10:04:34+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 07:33:08+08:00
 publish: true
 tags:
 - species/poem
 - status/evergreen
-title: A Midsummer Rain in LB
 ---
 
 When water dies  

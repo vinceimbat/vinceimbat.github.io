@@ -1,16 +1,14 @@
 ---
+title: My journaling process
+created: 2024-12-08
+modified: 2025-04-21 16:04:44+08:00
 aliases:
 - My journaling process
-created: 2024-12-08
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-04-21 16:04:44+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My journaling process
 ---
 
 My [[journal]] is the center of my work. It uses the day as the unit of intellectual work.

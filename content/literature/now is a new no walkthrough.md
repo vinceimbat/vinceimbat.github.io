@@ -1,16 +1,14 @@
 ---
+title: Now is a New No Walkthrough
+created: 2024-11-18 16:37:21+08:00
+modified: 2026-02-08 09:42:31+08:00
 aliases:
 - Now is a new no walkthrough
-created: 2024-11-18 16:37:21+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-08 09:42:31+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Now is a New No Walkthrough
 ---
 
 # Outline

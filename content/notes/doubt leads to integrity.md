@@ -1,16 +1,14 @@
 ---
+title: Doubt leads to integrity
+created: 2024-11-02 20:53:58+08:00
+modified: 2025-11-29 10:08:06+08:00
 aliases:
 - Doubt leads to integrity
-created: 2024-11-02 20:53:58+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-29 10:08:06+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Doubt leads to integrity
 ---
 
 [[doubt|Doubt]] helps us become truer to ourselves.

@@ -1,17 +1,15 @@
 ---
+title: Si Inak
+created: 2026-05-08 10:31:27+08:00
+modified: 2026-05-28 07:40:13+08:00
 aliases:
 - Si Inak
-created: 2026-05-08 10:31:27+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-28 07:40:13+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/seedling
-title: Si Inak
 ---
 
 mareen ag oneesel angga'd sano agmo tepetan

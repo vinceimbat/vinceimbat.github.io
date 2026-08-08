@@ -1,17 +1,15 @@
 ---
+title: Weekly review
+created: 2024-11-01 23:52:50+08:00
+modified: 2025-03-28 22:05:04+08:00
 aliases:
 - Weekly-review
 - thoughts/weekly-review
-created: 2024-11-01 23:52:50+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-03-28 22:05:04+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Weekly review
 ---
 
 A weekly review is one of the four kinds of [[review|reviews]] necessary to maintain a functional [[life management system|life management system]]. It is a critical habit to maintain the system.

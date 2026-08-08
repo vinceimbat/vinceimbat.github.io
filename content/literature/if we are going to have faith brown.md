@@ -1,18 +1,16 @@
 ---
+title: If we are going to have faith that _______ to guide all our religious activities,
+  what proposition should fill the blank? On an Evolutionary Religion by Brown
+created: 2025-05-10 11:56:45+08:00
+modified: 2025-05-10 12:00:25+08:00
 aliases:
 - If we are going to have faith that _______ to guide all our religious activities,
   what proposition should fill the blank? On an Evolutionary Religion by Brown
-created: 2025-05-10 11:56:45+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-05-10 12:00:25+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: If we are going to have faith that _______ to guide all our religious activities,
-  what proposition should fill the blank? On an Evolutionary Religion by Brown
 ---
 
 # Highlights

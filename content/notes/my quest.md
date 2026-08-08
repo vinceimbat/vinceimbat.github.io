@@ -1,16 +1,14 @@
 ---
+title: My quest
+created: 2024-10-09 22:18:19+08:00
+modified: 2025-10-08 16:20:38+08:00
 aliases:
 - My quest
-created: 2024-10-09 22:18:19+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-08 16:20:38+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My quest
 ---
 
 # The Setting

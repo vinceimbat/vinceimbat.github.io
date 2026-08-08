@@ -1,16 +1,14 @@
 ---
+title: Walk projects
+created: 2024-05-07 16:41:22+08:00
+modified: 2026-03-08 10:50:22+08:00
 aliases:
 - Walk projects
-created: 2024-05-07 16:41:22+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-08 10:50:22+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Walk projects
 ---
 
 Here are some ideas for walks:

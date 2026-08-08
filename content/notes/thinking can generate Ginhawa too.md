@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Thinking can generate Ginhawa too
 created: 2024-11-26 17:59:50+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-10-14 11:53:07+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Thinking can generate Ginhawa too
 ---
 
 [[cognitive behavioral therapy|Cognitive Behavioral-Therapy]] (CBT) employs rational thinking to generate [[ginhawa]]. Whenever we use words, we are thinking, so practices that use words like journaling and [[poetry]] can produce [[ginhawa]] too (also see [[Meditation does not reside in the wordless]]).

@@ -1,16 +1,14 @@
 ---
+title: “My Family’s Slave” by Alex Tizon
+created: 2026-07-02 08:59:31+08:00
+modified: 2026-07-02 08:59:51+08:00
 aliases:
 - “My Family’s Slave” by Alex Tizon
-created: 2026-07-02 08:59:31+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-02 08:59:51+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “My Family’s Slave” by Alex Tizon
 ---
 
 # Citation

@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Experimental writing
 created: 2025-04-28 17:38:53+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-05-01 15:33:05+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Experimental writing
 ---
 
 # Experimental writing authors and books

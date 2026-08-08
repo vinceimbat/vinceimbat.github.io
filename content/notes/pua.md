@@ -1,16 +1,14 @@
 ---
+title: Pua
+created: 2025-12-08 10:13:04+08:00
+modified: 2025-12-08 10:34:33+08:00
 aliases:
 - Pua
-created: 2025-12-08 10:13:04+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-08 10:34:33+08:00
 publish: true
 tags:
 - species/vignette
 - status/seedling
-title: Pua
 ---
 
 I am at our old house in Sta. Maria, Pangasinan. I was upstairs at the second floor. That house had only two floors. I was looking outside the window, which was a jalousie-type with grills. The jalousies were open, giving me a clear sight of what is outdoors. A strong wind suddenly comes in. The rice fields—green and golden—were being blown hard by the same wind.

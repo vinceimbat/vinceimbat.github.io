@@ -1,16 +1,14 @@
 ---
+title: After Santiago Villafania
+created: 2025-11-16 09:55:19+08:00
+modified: 2025-11-17 22:04:39+08:00
 aliases:
 - After Santiago Villafania
-created: 2025-11-16 09:55:19+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-17 22:04:39+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: After Santiago Villafania
 ---
 
 I found myself once more in Bocboc West today  

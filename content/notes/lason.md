@@ -1,17 +1,15 @@
 ---
+title: Lasón
+created: 2024-10-28 11:02:00+08:00
+modified: 2026-06-02 10:22:22+08:00
 aliases:
 - Lasón
-created: 2024-10-28 11:02:00+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-02 10:22:22+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/seedling
-title: Lasón
 ---
 
 Andukëy iraman a impanlalason ko'd sikayo,  

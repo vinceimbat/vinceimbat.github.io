@@ -1,17 +1,15 @@
 ---
+title: Sandalyas
+created: 2026-07-17 09:23:32+08:00
+modified: 2026-07-17 09:24:40+08:00
 aliases:
 - Sandalyas
-created: 2026-07-17 09:23:32+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-17 09:24:40+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/seedling
-title: Sandalyas
 ---
 
 Ag nayarin natabunay sandalyas  

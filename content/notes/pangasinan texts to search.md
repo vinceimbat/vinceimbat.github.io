@@ -1,16 +1,14 @@
 ---
+title: Pangasinan texts to search
+created: 2026-06-09 07:26:49+08:00
+modified: 2026-06-09 07:27:11+08:00
 aliases:
 - Pangasinan texts to search
-created: 2026-06-09 07:26:49+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-09 07:27:11+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Pangasinan texts to search
 ---
 
 - Pangasinan: Pinablin Dalin

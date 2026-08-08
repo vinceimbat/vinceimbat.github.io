@@ -1,18 +1,16 @@
 ---
+title: Tilas
+created: 2025-09-08 19:59:40+08:00
+modified: 2025-10-26 23:20:02+08:00
 aliases:
 - Tilas
-created: 2025-09-08 19:59:40+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-26 23:20:02+08:00
 publish: true
 tags:
 - species/translation
 - species/poem
 - language/filipino
 - status/seedling
-title: Tilas
 ---
 
 Tilas ako ngayon!  

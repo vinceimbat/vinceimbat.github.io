@@ -1,19 +1,16 @@
 ---
-aliases:
-- Cooperative society
+title: Co-operative society
 created: 2025-07-08 14:57:31+08:00
-dg-home: null
-dg-publish: true
+modified: 2026-08-08T19:22:40+08:00
+aliases:
+  - Cooperative society
 draft: false
-modified: 2025-07-08 15:19:24+08:00
 publish: true
 tags:
-- species/thought
-- status/seedling
-- species/flashcards
-title: Co-operative society
+  - species/thought
+  - status/seedling
+  - species/flashcards
 ---
-
 Co-operative society is Shin'ichirō Imaoka's chosen English translation of *kyōdō shakai* (共同社会), a term influenced by the German term *gemeinschaft* by the 19th-century sociologist Ferdinand Tönnies, which loosely translates to "community."
 
 The Japanese Unitarian (Yuniterian) movement used *kyōdō shakai* to refer to mutual, close-knit communities, which differs from *rieki shakai* (利益社会 *gesellschaft*) or contractual/interest-based communities.

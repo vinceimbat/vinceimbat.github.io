@@ -1,18 +1,16 @@
 ---
+title: Openness to the future grounded in the giftedness of life received as a gift
+  by Brown
+created: 2024-05-17 22:19:46+08:00
+modified: 2025-05-10 14:27:00+08:00
 aliases:
 - Openness to the future grounded in the giftedness of life received as a gift by
   Brown
-created: 2024-05-17 22:19:46+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-05-10 14:27:00+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Openness to the future grounded in the giftedness of life received as a gift
-  by Brown
 ---
 
 # Highlights

@@ -1,17 +1,15 @@
 ---
+title: “The Third Day - Growth of Meaning in the World” by Harrington
+created: 2026-02-20 21:07:03+08:00
+modified: 2026-02-20 21:12:12+08:00
 aliases:
 - “The Third Day - Growth of Meaning in the World” by Harrington
-created: 2026-02-20 21:07:03+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-20 21:12:12+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “The Third Day - Growth of Meaning in the World” by Harrington
 ---
 
 # Citation

@@ -1,16 +1,14 @@
 ---
+title: How to engage with your audience one-on-one
+created: 2024-05-09 11:44:13+08:00
+modified: 2026-03-11 10:46:04+08:00
 aliases:
 - How to engage with your audience one-on-one
-created: 2024-05-09 11:44:13+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-11 10:46:04+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: How to engage with your audience one-on-one
 ---
 
 Since you want to [[focus on one-on-one engagement]], here are some ideas on how to build relationships with your audience one-on-one:

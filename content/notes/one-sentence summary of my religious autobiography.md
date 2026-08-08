@@ -1,16 +1,14 @@
 ---
+title: One-sentence summary of my religious autobiography
+created: 2025-12-12 21:59:14+08:00
+modified: 2025-12-12 22:43:31+08:00
 aliases:
 - One-sentence summary of my religious autobiography
-created: 2025-12-12 21:59:14+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 22:43:31+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: One-sentence summary of my religious autobiography
 ---
 
 # Current favorite

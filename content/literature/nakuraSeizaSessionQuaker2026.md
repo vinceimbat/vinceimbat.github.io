@@ -5,8 +5,6 @@ modified: 2026-07-27T10:13:53+08:00
 aliases:
   - “Seiza Session at Quaker Meeting House in Dublin” by Miki Nakura
 draft: false
-dg-home:
-dg-publish: true
 tags:
   - species/literature
   - status/seedling

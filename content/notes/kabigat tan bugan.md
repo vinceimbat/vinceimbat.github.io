@@ -1,17 +1,15 @@
 ---
+title: Kabigat tan Bugan
+created: 2024-10-28 11:09:46+08:00
+modified: 2026-06-02 10:19:02+08:00
 aliases:
 - Kabigat tan Bugan
-created: 2024-10-28 11:09:46+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-02 10:19:02+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/seedling
-title: Kabigat tan Bugan
 ---
 
 Aliwan saray istorya manlapud saman a sagradon libro  

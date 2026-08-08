@@ -1,16 +1,14 @@
 ---
+title: Die With Zero by Bill Perkins
+created: 2026-03-29 09:36:13+08:00
+modified: 2026-04-07 20:53:28+08:00
 aliases:
 - Die With Zero by Bill Perkins
-created: 2026-03-29 09:36:13+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-04-07 20:53:28+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Die With Zero by Bill Perkins
 ---
 
 # Citation

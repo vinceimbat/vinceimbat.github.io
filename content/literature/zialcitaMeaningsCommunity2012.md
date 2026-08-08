@@ -1,17 +1,15 @@
 ---
+title: “The Meanings of Community” by Fernando Zialcita
+created: 2025-07-12 09:47:11+08:00
+modified: 2025-07-14 12:07:50+08:00
 aliases:
 - “The Meanings of Community” by Fernando Zialcita
-created: 2025-07-12 09:47:11+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-14 12:07:50+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “The Meanings of Community” by Fernando Zialcita
 ---
 
 # Citation

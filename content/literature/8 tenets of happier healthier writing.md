@@ -1,16 +1,14 @@
 ---
+title: 8 Tenets of Happier, Healthier Writing
+created: 2023-10-18 20:28:18+08:00
+modified: 2025-12-14 16:54:28+08:00
 aliases:
 - 8 Tenets of Happier, Healthier Writing
-created: 2023-10-18 20:28:18+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-14 16:54:28+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: 8 Tenets of Happier, Healthier Writing
 ---
 
 # Citation

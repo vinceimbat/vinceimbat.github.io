@@ -1,17 +1,15 @@
 ---
+title: Dahil Sa Mga Bagay Na Hindi Nakikita
+created: 2022-10-13
+modified: 2026-05-27 10:22:46+08:00
 aliases:
 - Dahil Sa Mga Bagay Na Hindi Nakikita
-created: 2022-10-13
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 10:22:46+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Dahil Sa Mga Bagay Na Hindi Nakikita
 ---
 
 I  

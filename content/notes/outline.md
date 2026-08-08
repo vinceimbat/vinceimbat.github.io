@@ -1,16 +1,14 @@
 ---
+title: Outline
+created: 2025-03-26 15:51:04+08:00
+modified: 2025-12-13 14:22:52+08:00
 aliases:
 - outlines
-created: 2025-03-26 15:51:04+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 14:22:52+08:00
 publish: true
 tags:
 - species/outline
 - status/seedling
-title: Outline
 ---
 
 # Definition

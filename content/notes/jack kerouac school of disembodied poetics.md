@@ -1,6 +1,6 @@
 ---
-modified: 2025-09-24T23:34:38+08:00
 created: 2025-09-24T23:34:18+08:00
+modified: 2025-09-24T23:34:38+08:00
 ---
 William S. Burroughs, Ken Kesey, Gregory Corso, Joanne Kyger, Philip Whalen, and Lawrence Ferlinghetti
 

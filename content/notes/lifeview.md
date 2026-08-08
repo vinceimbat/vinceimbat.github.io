@@ -1,16 +1,14 @@
 ---
+title: Lifeview
+created: 2024-03-28 14:14:25+08:00
+modified: 2026-01-29 10:59:14+08:00
 aliases:
 - Lifeview
-created: 2024-03-28 14:14:25+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-29 10:59:14+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Lifeview
 ---
 
 A lifeview is your ideas about the world and how it works. It answers the following questions:

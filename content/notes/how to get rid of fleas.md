@@ -1,16 +1,14 @@
 ---
-aliases: null
+title: How to get rid of fleas
 created: 2024-02-20 13:22:41+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-04-30 11:04:35+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/evergreen
 - status/seedling
-title: How to get rid of fleas
 ---
 
 Habits to prevent infestation

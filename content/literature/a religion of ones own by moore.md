@@ -1,16 +1,14 @@
 ---
+title: A Religion of One's Own by Thomas Moore
+created: 2024-02-20 13:22:43+08:00
+modified: 2025-04-27 00:19:45+08:00
 aliases:
 - A Religion of One's Own by Thomas Moore
-created: 2024-02-20 13:22:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-04-27 00:19:45+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: A Religion of One's Own by Thomas Moore
 ---
 
 # Highlights

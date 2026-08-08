@@ -1,18 +1,15 @@
 ---
-aliases:
-- Use benchmarking and emphasizing-excluding to know how to learn effectively
+title: Use benchmarking and emphasizing-excluding to know how to learn effectively
 created: 2024-10-11 11:45:24+08:00
-dg-home: null
-dg-publish: true
+modified: 2026-08-08T20:16:28+08:00
+aliases:
+  - Use benchmarking and emphasizing-excluding to know how to learn effectively
 draft: false
-modified: 2025-12-01 08:37:10+08:00
 publish: true
 tags:
-- species/thought
-- status/evergreen
-title: Use benchmarking and emphasizing-excluding to know how to learn effectively
+  - species/thought
+  - status/evergreen
 ---
-
 When [[metalearning]] a certain skill or subject, spend time looking for existing learning plans. For academic subjects, retrieve curriculum or syllabus. For nonacademic subjects or skills, [[use expert interviews to identify best ways to learn a subject or skill]]. Or you can simply search how people learned the subject or skill. This is called benchmarking.
 
 After retrieving existing plans and choosing one (or creating your own by combining different plans), look closer and remove or postpone elements that don't support your learning objectives. This is called emphasizing-excluding. If you are a complete beginner, avoid emphasizing-excluding until you have learned enough of the subject to make informed decisions.

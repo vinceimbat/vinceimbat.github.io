@@ -5,8 +5,6 @@ modified: 2026-07-25T08:39:22+08:00
 aliases:
   - Main Index
 draft: false
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/index

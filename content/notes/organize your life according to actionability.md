@@ -1,16 +1,14 @@
 ---
+title: Organize your life according to actionability
+created: 2024-10-12 23:38:48+08:00
+modified: 2025-12-12 21:19:50+08:00
 aliases:
 - Organize your life according to actionability
-created: 2024-10-12 23:38:48+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 21:19:50+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Organize your life according to actionability
 ---
 
 [[life is a project|Life is a project]]—the biggest project ever. To manage it efficiently, you have to organize it not according to topic or accuracy but according to actionability.

@@ -1,17 +1,15 @@
 ---
+title: Baker Hall, 1927–
+created: 2024-08-28 15:06:37+08:00
+modified: 2026-05-27 09:15:17+08:00
 aliases:
 - Baker Hall, 1927–
-created: 2024-08-28 15:06:37+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 09:15:17+08:00
 publish: true
 tags:
 - species/poem
 - status/evergreen
 - status/seedling
-title: Baker Hall, 1927–
 ---
 
 You were once an overseer  

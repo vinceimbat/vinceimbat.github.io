@@ -1,16 +1,14 @@
 ---
+title: Kiitsu Kyōkai topics
+created: 2025-07-22 22:43:39+08:00
+modified: 2025-10-27 16:13:09+08:00
 aliases:
 - Kiitsu Kyōkai topics
-created: 2025-07-22 22:43:39+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-27 16:13:09+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Kiitsu Kyōkai topics
 ---
 
 # Jiyū shūkyō topics

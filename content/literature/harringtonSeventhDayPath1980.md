@@ -1,17 +1,15 @@
 ---
+title: “The Seventh Day - A Path Through the Maze” by Harrington
+created: 2026-02-24 20:45:06+08:00
+modified: 2026-02-24 20:50:41+08:00
 aliases:
 - “The Seventh Day - A Path Through the Maze” by Harrington
-created: 2026-02-24 20:45:06+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-24 20:50:41+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “The Seventh Day - A Path Through the Maze” by Harrington
 ---
 
 # Citation

@@ -1,16 +1,14 @@
 ---
+title: “New Directions in American Poetry from 2000 to the Present” by Andrew Epstein
+created: 2026-07-20 08:48:16+08:00
+modified: 2026-07-20 08:48:37+08:00
 aliases:
 - “New Directions in American Poetry from 2000 to the Present” by Andrew Epstein
-created: 2026-07-20 08:48:16+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-20 08:48:37+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “New Directions in American Poetry from 2000 to the Present” by Andrew Epstein
 ---
 
 # Citation

@@ -1,16 +1,14 @@
 ---
+title: Overseeing
+created: 2024-10-12 23:38:20+08:00
+modified: 2026-01-13 00:25:40+08:00
 aliases:
 - Overseeing
-created: 2024-10-12 23:38:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-13 00:25:40+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Overseeing
 ---
 
 This [[life area|life area]] involves establishing and maintaining a [[life management system|life management system]].

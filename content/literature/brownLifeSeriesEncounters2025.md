@@ -1,16 +1,14 @@
 ---
+title: “Life Is a Series of Encounters (with People)” by Brown
+created: 2025-12-16 10:41:07+08:00
+modified: 2025-12-16 10:42:38+08:00
 aliases:
 - “Life Is a Series of Encounters (with People)” by Brown
-created: 2025-12-16 10:41:07+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-16 10:42:38+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “Life Is a Series of Encounters (with People)” by Brown
 ---
 
 # Citation

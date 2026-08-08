@@ -1,16 +1,14 @@
 ---
+title: Focus on foundations, not conclusions
+created: 2023-08-21 22:57:20+08:00
+modified: 2025-12-14 17:48:24+08:00
 aliases:
 - Focus on foundations, not conclusions
-created: 2023-08-21 22:57:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-14 17:48:24+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Focus on foundations, not conclusions
 ---
 
 If you care about the accuracy of your worldview, conclusions are largely irrelevant. They are at the end of a hierarchy. Focus on the foundations (see [[a worldview is like a tree]]).

@@ -1,17 +1,15 @@
 ---
+title: The Purpose of Tokyo Kiitsu Kyōkai [1950] by Shin'ichirō Imaoka
+created: 2025-07-10 16:05:37+08:00
+modified: 2025-07-13 10:05:27+08:00
 aliases:
 - The Purpose of Tokyo Kiitsu Kyōkai [1950] by Shin'ichirō Imaoka
-created: 2025-07-10 16:05:37+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-13 10:05:27+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: The Purpose of Tokyo Kiitsu Kyōkai [1950] by Shin'ichirō Imaoka
 ---
 
 # Citation

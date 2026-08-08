@@ -1,16 +1,14 @@
 ---
+title: Ways to prioritize process over product
+created: 2024-07-27 10:00:55+08:00
+modified: 2025-12-12 23:14:36+08:00
 aliases:
 - Ways to prioritize process over product
-created: 2024-07-27 10:00:55+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 23:14:36+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Ways to prioritize process over product
 ---
 
 To prioritize [[process over product]], do the following:

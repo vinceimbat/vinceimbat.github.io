@@ -1,16 +1,14 @@
 ---
+title: Writing as jiyū shūkyō
+created: 2024-05-17 11:11:09+08:00
+modified: 2025-07-23 10:33:49+08:00
 aliases:
 - Writing as jiyū shūkyō
-created: 2024-05-17 11:11:09+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-23 10:33:49+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Writing as jiyū shūkyō
 ---
 
 Writing is also continuous movement. An essay written freely is like a walk. A stance such as flights of consciousness could be used to experience [[jiyu shukyo|jiyū shūkyō]] in brief intervals. A larger writing practice inspired by jiyū shūkyō could also involve reading a wide and diverse material, walking in the wilderness of the mind, exploring new areas and fields of thought, exploring new genres, adopting a poetics where language is used for self-liberation and liberation of others.

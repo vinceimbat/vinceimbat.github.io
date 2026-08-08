@@ -1,17 +1,15 @@
 ---
+title: Abo
+created: 2024-08-28 22:01:16+08:00
+modified: 2026-02-05 09:51:24+08:00
 aliases:
 - Abo
-created: 2024-08-28 22:01:16+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-05 09:51:24+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Abo
 ---
 
 Sunugin mo ang lahat ng alaala  

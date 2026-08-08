@@ -1,16 +1,14 @@
 ---
+title: Live as if you are walking
+created: 2024-10-11 09:30:24+08:00
+modified: 2026-01-13 00:24:40+08:00
 aliases:
 - Live your life as if it was a walk
-created: 2024-10-11 09:30:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-13 00:24:40+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Live as if you are walking
 ---
 
 Living life like a walk involves a progression of four steps:

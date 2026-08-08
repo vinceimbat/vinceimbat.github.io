@@ -1,16 +1,14 @@
 ---
+title: Kapag Gabi
+created: 2025-10-13 17:27:04+08:00
+modified: 2025-10-13 17:27:16+08:00
 aliases:
 - Kapag Gabi
-created: 2025-10-13 17:27:04+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-13 17:27:16+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Kapag Gabi
 ---
 
 Paglalakad sa gabi

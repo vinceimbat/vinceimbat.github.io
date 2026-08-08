@@ -1,17 +1,15 @@
 ---
+title: Library
+created: 2024-12-02 10:42:50+08:00
+modified: 2026-07-29T22:25:36+08:00
 aliases:
   - reading-list
   - thoughts/library
-created: 2024-12-02 10:42:50+08:00
-dg-home:
-dg-publish: true
 draft:
-modified: 2026-07-29T22:25:36+08:00
 publish: true
 tags:
   - species/log
   - status/evergreen
-title: Library
 ---
 This is where I keep track of the books I read. The books are arranged in reverse chronological order with the most recent on top.
 
@@ -62,7 +60,7 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 
 # 2024
 
-- [[facture de borja|facture by Raymond de Borja]]
+- [[deborjaFacture2024|facture by Raymond de Borja]]
 - [[2024-11-12]]: [[this is how to mean no harm villanueva|This is How to Mean No Harm by Martin Villanueva]]
 - [[2024-11-20]]: [[edwardsPlainSenseThings1997|The Plain Sense of Things by James C. Edwards]] ★★ 
 - [[2024-11-02]]: [[schneiderWritingAloneOthers2003|Writing Alone and With Others by Pat Schneider]] ★★

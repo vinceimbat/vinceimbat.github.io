@@ -1,16 +1,14 @@
 ---
+title: Molawin River
+created: 2024-04-02 17:53:59+08:00
+modified: 2025-10-27 15:59:03+08:00
 aliases:
 - Molawin River
-created: 2024-04-02 17:53:59+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-27 15:59:03+08:00
 publish: true
 tags:
 - species/essay
 - status/seedling
-title: Molawin River
 ---
 
 The sound of the palm leaves shaking is like water falling. I say goodbye to the trees and move on.

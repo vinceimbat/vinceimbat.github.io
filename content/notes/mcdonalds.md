@@ -1,16 +1,14 @@
 ---
+title: McDonald's
+created: 2026-07-18 11:13:06+08:00
+modified: 2026-07-20 21:48:04+08:00
 aliases:
 - McDonald's
-created: 2026-07-18 11:13:06+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-20 21:48:04+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: McDonald's
 ---
 
 After shouting at the ground personnel  

@@ -1,16 +1,14 @@
 ---
+title: Anti-marketing
+created: 2024-07-27 09:53:42+08:00
+modified: 2025-12-12 23:20:33+08:00
 aliases:
 - Anti-marketing
-created: 2024-07-27 09:53:42+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 23:20:33+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Anti-marketing
 ---
 
 It is better to use anti-marketing when using a [[patronage model]] in building sustainability for one's creative work.

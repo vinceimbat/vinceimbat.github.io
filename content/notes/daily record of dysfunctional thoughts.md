@@ -1,16 +1,14 @@
 ---
+title: Daily Record of Dysfunctional Thoughts
+created: 2024-11-26 21:59:04+08:00
+modified: 2025-10-14 11:37:45+08:00
 aliases:
 - Daily Record of Dysfunctional Thoughts
-created: 2024-11-26 21:59:04+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-14 11:37:45+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Daily Record of Dysfunctional Thoughts
 ---
 
 The Daily Record of Dysfunctional Thoughts is a more elaborate version of the [[triple-column technique]] in [[cognitive behavioral therapy]].

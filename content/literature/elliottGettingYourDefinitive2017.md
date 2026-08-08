@@ -1,16 +1,14 @@
 ---
+title: Getting Past Your Past by Elliott
+created: 2025-12-14 23:04:31+08:00
+modified: 2025-12-14 23:04:56+08:00
 aliases:
 - Getting Past Your Past by Elliott
-created: 2025-12-14 23:04:31+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-14 23:04:56+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Getting Past Your Past by Elliott
 ---
 
 # Citation

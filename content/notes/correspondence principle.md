@@ -1,16 +1,14 @@
 ---
+title: Correspondence Principle
+created: 2026-06-14 11:40:13+08:00
+modified: 2026-06-14 11:40:59+08:00
 aliases:
 - Correspondence Principle
-created: 2026-06-14 11:40:13+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-14 11:40:59+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Correspondence Principle
 ---
 
 When I woke up from my desk  

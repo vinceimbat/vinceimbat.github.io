@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: 2021-01-30 bahay-bahayan notes
 created: 2023-08-21 22:57:20+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-12-14 17:14:17+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: 2021-01-30 bahay-bahayan notes
 ---
 
 # Citation

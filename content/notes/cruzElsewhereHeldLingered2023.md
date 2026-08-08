@@ -1,16 +1,14 @@
 ---
+title: Elsewhere Held and Lingered by Conchitina Cruz
+created: 2026-05-03 11:04:01+08:00
+modified: 2026-05-03 11:04:22+08:00
 aliases:
 - Elsewhere Held and Lingered by Conchitina Cruz
-created: 2026-05-03 11:04:01+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-03 11:04:22+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Elsewhere Held and Lingered by Conchitina Cruz
 ---
 
 # Citation

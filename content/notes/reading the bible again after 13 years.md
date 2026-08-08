@@ -1,17 +1,15 @@
 ---
+title: Reading the Bible Again After 13 Years
+created: 2025-12-19 10:03:19+08:00
+modified: 2026-06-28 14:43:52+08:00
 aliases:
 - Reading the Bible Again After 13 Years
-created: 2025-12-19 10:03:19+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-28 14:43:52+08:00
 publish: true
 tags:
 - species/poem
 - language/english
 - status/seedling
-title: Reading the Bible Again After 13 Years
 ---
 
 # v2

@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: My photography process
 created: 2025-05-14 16:17:28+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-05-30 10:15:54+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My photography process
 ---
 
 # Taking shots

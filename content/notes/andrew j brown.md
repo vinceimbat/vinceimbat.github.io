@@ -1,17 +1,15 @@
 ---
+title: Andrew J. Brown
+created: 2024-10-31 23:44:20+08:00
+modified: 2026-07-16 09:46:41+08:00
 aliases:
 - Andrew J. Brown
 - Andrew James Brown
-created: 2024-10-31 23:44:20+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2026-07-16 09:46:41+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Andrew J. Brown
 ---
 
 Brown has sympathies with the [[jiyu shukyo|Free Religion]] (自由宗教 — _jiju shukyo_) advocated by [[shinichiro imaoka|Shin'ichirō Imaoka]].

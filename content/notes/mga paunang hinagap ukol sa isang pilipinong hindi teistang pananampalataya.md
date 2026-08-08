@@ -1,16 +1,14 @@
 ---
+title: Mga Paunang Hinagap Ukol sa Isang Pilipinong Hindi Teistang Pananampalataya
+created: 2026-07-16 10:36:32+08:00
+modified: 2026-07-16 10:37:02+08:00
 aliases:
 - Mga Paunang Hinagap Ukol sa Isang Pilipinong Hindi Teistang Pananampalataya
-created: 2026-07-16 10:36:32+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-16 10:37:02+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Mga Paunang Hinagap Ukol sa Isang Pilipinong Hindi Teistang Pananampalataya
 ---
 
 Sa Pilipinas, ang ateo ay madalas against sa relihiyon. Militante ang ateismo at maraming Pilipinong ateo ang nagnanais na mabura ang relihiyon. Subalit hindi lahat ng hindi naniniwala sa nakagawiang monoteistang Diyos ng Kristiyanismo, Hudaismo, at Islam ay nagnanais mawala ang relihiyon. Maraming ateo ang nakauunawa sa ginagampanan ng relihiyon sa lipunan. Marami rin sa kanila ang relihyoso mismo. Kung kaya, kinakailangan ng panibagong tawag upang iiba sila sa dominanteng ateong Pilipino. Maaring gamitin ang "hindi teista" para tukuyin sila.

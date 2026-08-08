@@ -1,16 +1,14 @@
 ---
+title: Mga Simulain ng Nilay
+created: 2025-12-08 09:58:02+08:00
+modified: 2025-12-08 10:04:42+08:00
 aliases:
 - Mga Simulain ng Nilay
-created: 2025-12-08 09:58:02+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-08 10:04:42+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Mga Simulain ng Nilay
 ---
 
 1. Bawat tao ay may kakayahang lumikha, magpahayag ng saloobin, at umunlad gamit ang pagsusulat.

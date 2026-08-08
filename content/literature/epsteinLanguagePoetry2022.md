@@ -1,16 +1,14 @@
 ---
+title: “Language Poetry” by Andrew Epstein
+created: 2026-07-19 08:41:39+08:00
+modified: 2026-07-19 08:41:59+08:00
 aliases:
 - “Language Poetry” by Andrew Epstein
-created: 2026-07-19 08:41:39+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-19 08:41:59+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “Language Poetry” by Andrew Epstein
 ---
 
 # Citation

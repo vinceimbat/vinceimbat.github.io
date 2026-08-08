@@ -1,16 +1,14 @@
 ---
+title: The writing and walking routine of Thoreau (1850–1862)
+created: 2025-11-26 17:47:07+08:00
+modified: 2025-11-27 09:41:47+08:00
 aliases:
 - The writing and walking routine of Thoreau (1850–1862)
-created: 2025-11-26 17:47:07+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-27 09:41:47+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: The writing and walking routine of Thoreau (1850–1862)
 ---
 
 Beginning on November 8, 1850, Thoreau implemented a new writing system that placed his journal at the center of what he was doing. On that day, Thoreau wrote everything he noticed and thought during his daily walk in his journal. He wrote through streams of consciousness (drift, jumps). Thoreau did this almost every day for twelve years until he died in 1962.

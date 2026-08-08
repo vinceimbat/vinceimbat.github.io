@@ -1,17 +1,15 @@
 ---
+title: Lingët, Diad Gapo
+created: 2026-03-22 11:16:22+08:00
+modified: 2026-05-27 17:03:03+08:00
 aliases:
 - Lingët, Diad Gapo
-created: 2026-03-22 11:16:22+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 17:03:03+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/seedling
-title: Lingët, Diad Gapo
 ---
 
 1 Tan inkua'y Ama: "Onlësay lingët." Ët linmësay lingët. 2 Ët anëngnëng ton say lingët ët maabig, tan ginapoan ton pambiiga'y laman a nanlingët tan laman a ag alingëtan. Tinawag to'y unona ya Irap tan say komadua ya Inawa. Tan walay mairap tan mainawa. Unonan agëw.

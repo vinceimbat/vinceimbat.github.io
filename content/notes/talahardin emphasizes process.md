@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Talahardin emphasizes process
 created: 2024-07-29 15:51:07+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-03-25 15:40:55+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Talahardin emphasizes process
 ---
 
 Since it works primarily with digital files that are easy to revise, the [[talahardin]] emphasizes process more than product. We can even say that the talahardin itself is a process rather than a solid thing. In other words, [[the talahardin is a draft]].

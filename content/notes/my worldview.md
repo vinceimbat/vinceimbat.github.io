@@ -1,16 +1,14 @@
 ---
+title: My worldview
+created: 2024-10-11 09:50:01+08:00
+modified: 2025-10-08 16:21:39+08:00
 aliases:
 - My worldview
-created: 2024-10-11 09:50:01+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-08 16:21:39+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My worldview
 ---
 
 Note: The most necessary parts of my worldview are: metaphysics and epistemology (to help me understand), ethics (to help me act), and poetics (to help me create better). A good way to balance these three is to prioritize understanding and living and let writing follow naturally.

@@ -1,21 +1,19 @@
 ---
+title: “A New Recording of Five, Very Short, Morning Reflections on the Philosophy
+  of Epicurus, First Broadcast on BBC Radio Cambridgeshire during September 2018”
+  by Andrew James Brown
+created: 2025-07-14 10:04:50+08:00
+modified: 2025-07-14 10:45:01+08:00
 aliases:
 - “A New Recording of Five, Very Short, Morning Reflections on the Philosophy of Epicurus,
   First Broadcast on BBC Radio Cambridgeshire during September 2018” by Andrew James
   Brown
-created: 2025-07-14 10:04:50+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-14 10:45:01+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “A New Recording of Five, Very Short, Morning Reflections on the Philosophy
-  of Epicurus, First Broadcast on BBC Radio Cambridgeshire during September 2018”
-  by Andrew James Brown
 ---
 
 # Citation

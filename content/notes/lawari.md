@@ -1,17 +1,15 @@
 ---
+title: Lawari
+created: 2024-08-28 13:29:09+08:00
+modified: 2026-05-27 17:00:47+08:00
 aliases:
 - Lawari
-created: 2024-08-28 13:29:09+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 17:00:47+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/seedling
-title: Lawari
 ---
 
 Alay santing mon bulan  

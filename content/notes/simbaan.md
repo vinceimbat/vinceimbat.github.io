@@ -1,16 +1,14 @@
 ---
+title: Simbaan
+created: 2026-07-16 09:32:06+08:00
+modified: 2026-07-16 09:32:35+08:00
 aliases:
 - Simbaan
-created: 2026-07-16 09:32:06+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-16 09:32:35+08:00
 publish: true
 tags:
 - species/essay
 - status/seedling
-title: Simbaan
 ---
 
 Nen -- taon ak wala'y ginawak a nampagonigon a maong ed konsiyansiak a pigay simba kayarik a ginawa tan wadman ak akayurong ed arapan na amak, nababaingan a maong leleg kon ikukpisal ed sikato so ginawak.

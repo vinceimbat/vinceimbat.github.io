@@ -1,16 +1,14 @@
 ---
+title: How to Compile a Collection of Poetry
+created: 2026-06-02 09:33:12+08:00
+modified: 2026-06-02 09:33:50+08:00
 aliases:
 - How to Compile a Collection of Poetry
-created: 2026-06-02 09:33:12+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-02 09:33:50+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: How to Compile a Collection of Poetry
 ---
 
 # Citation

@@ -1,16 +1,14 @@
 ---
+title: Solitude while walking
+created: 2024-03-15 15:54:35+08:00
+modified: 2025-12-13 10:51:58+08:00
 aliases:
 - Solitude while walking
-created: 2024-03-15 15:54:35+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 10:51:58+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Solitude while walking
 ---
 
 [[notes/walking|Walking]] with too many people (and the wrong kind of people) can prevent one from experiencing the many benefits of walking in one’s thought processes ([[walking changes your perspective]]). Too many people leads in people being alienated from one another as they form smaller groups. The wrong kinds of people will not allow for solitude to happen.

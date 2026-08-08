@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: (Article Idea) 26 Lessons in 26 Years of Existence
 created: 2023-10-18 20:28:24+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-04-12 11:11:44+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: (Article Idea) 26 Lessons in 26 Years of Existence
 ---
 
 1. The fire that burns fast, dies fast. Take things slowly.

@@ -1,20 +1,18 @@
 ---
+title: Dawal
+created: 2023-01-15
+modified: 2026-05-27 10:24:27+08:00
 aliases:
 - Dawal
-created: 2023-01-15
-dg-home: null
-dg-publish: true
-draft: false
 location:
 - 14.161886651979716
 - 121.24073551090994
-modified: 2026-05-27 10:24:27+08:00
+draft: false
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Dawal
 ---
 
 Nang mabasa ko ang paliwanag  

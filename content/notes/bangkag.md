@@ -1,16 +1,14 @@
 ---
+title: Bangkag
+created: 2026-02-01 15:15:32+08:00
+modified: 2026-05-27 09:30:58+08:00
 aliases:
 - Bangkag
-created: 2026-02-01 15:15:32+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 09:30:58+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Bangkag
 ---
 
 Sanën  

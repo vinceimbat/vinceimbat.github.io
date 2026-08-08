@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: My writing life inventory
 created: 2024-02-26 10:54:31+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2026-04-15 18:50:12+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My writing life inventory
 ---
 
 # Writing
@@ -45,7 +43,7 @@ I like reading lyrical creative nonfiction books that delve into philosophical, 
 1. [[first we read then we write richardson|First We Read, Then We Write by Robert D. Richardson Jr.]]
 2. Deaf Republic by Ilya Kaminsky
 3. [[will you tell me what i look like coronel|will you tell me what I look like? by Raphael Atienza Coronel]]
-4. [[facture de borja|facture by Raymond de Borja]]
+4. [[deborjaFacture2024|facture by Raymond de Borja]]
 5. [[this is how to mean no harm villanueva|This is How to Mean No Harm by Martin Villanueva]]
 
 # Community

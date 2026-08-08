@@ -1,16 +1,14 @@
 ---
+title: Stockroom
+created: 2026-01-25 10:52:12+08:00
+modified: 2026-01-25 11:34:00+08:00
 aliases:
 - Stockroom
-created: 2026-01-25 10:52:12+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-25 11:34:00+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Stockroom
 ---
 
 Umiiyak kang dumating ng bahay    

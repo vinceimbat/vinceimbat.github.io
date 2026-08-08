@@ -1,15 +1,13 @@
 ---
+title: A nascent form of integral, liberal, free religious worship - Brown
 created: 2025-02-13 10:05:04+08:00
-dg-home: null
-dg-publish: true
-draft: null
 modified: 2025-07-31 22:41:58+08:00
+draft: null
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: A nascent form of integral, liberal, free religious worship - Brown
 ---
 
 Three key nineteenth-century Hindu thinkers who introduced the four religious or spiritual tendencies, paths, or disciplines in the Hindu tradition:

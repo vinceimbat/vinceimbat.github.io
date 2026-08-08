@@ -1,16 +1,14 @@
 ---
+title: David Whyte
+created: 2025-10-07 10:09:37+08:00
+modified: 2025-10-21 00:15:41+08:00
 aliases:
 - David Whyte
-created: 2025-10-07 10:09:37+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-21 00:15:41+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: David Whyte
 ---
 
 # David Whyte's strategy

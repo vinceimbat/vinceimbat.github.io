@@ -1,16 +1,14 @@
 ---
+title: Copyediting
+created: 2024-02-20 13:22:43+08:00
+modified: 2025-12-13 13:47:55+08:00
 aliases:
 - Copyediting
-created: 2024-02-20 13:22:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 13:47:55+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Copyediting
 ---
 
 # Prompts

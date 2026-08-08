@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: iPad Lightroom usability/Interface notes by Mod
 created: 2025-05-19 18:42:22+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-05-30 10:15:11+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: iPad Lightroom usability/Interface notes by Mod
 ---
 
 # Highlights

@@ -1,16 +1,14 @@
 ---
+title: De Jesus' translation process
+created: 2024-10-05 20:34:00+08:00
+modified: 2026-05-26 10:54:28+08:00
 aliases:
 - De Jesus' translation process
-created: 2024-10-05 20:34:00+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-26 10:54:28+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: De Jesus' translation process
 ---
 
 Noelle de Jesus accepted [[rofel brion|Rofel Brion]]'s invitation to edit the English translations of his poems without hesitation despite the fact that she was not a poet and not a learned speaker and writer of Filipino. Constraints are what allows creativity and often becomes the asset of a creative work. This was the case with Noelle's translations. Because she was not a poet nor a learned writer and speaker in Filipino, she embraced literalness as a guiding principle in her work.

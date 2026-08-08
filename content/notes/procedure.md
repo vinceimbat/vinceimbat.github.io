@@ -1,17 +1,15 @@
 ---
+title: Procedure
+created: 2024-05-10 11:36:02+08:00
+modified: 2025-11-29 16:28:19+08:00
 aliases:
 - Procedure
 - procedures
-created: 2024-05-10 11:36:02+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-29 16:28:19+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Procedure
 ---
 
 # References

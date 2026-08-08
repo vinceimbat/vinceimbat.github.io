@@ -1,16 +1,14 @@
 ---
+title: A worldview is like a tree
+created: 2023-08-21 22:57:20+08:00
+modified: 2025-12-14 17:49:08+08:00
 aliases:
 - A worldview is like a tree
-created: 2023-08-21 22:57:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-14 17:49:08+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: A worldview is like a tree
 ---
 
 A good metaphor for a worldview is a tree:

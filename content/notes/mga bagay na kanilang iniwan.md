@@ -1,17 +1,15 @@
 ---
+title: Mga Bagay na Kanilang Iniwan
+created: 2024-08-28 09:51:06+08:00
+modified: 2026-01-04 10:41:35+08:00
 aliases:
 - Mga Bagay na Kanilang Iniwan
-created: 2024-08-28 09:51:06+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-04 10:41:35+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Mga Bagay na Kanilang Iniwan
 ---
 
 Bundok  

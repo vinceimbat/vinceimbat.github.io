@@ -1,16 +1,14 @@
 ---
+title: Thoreau used the word “philosophy” leniently
+created: 2024-04-02 16:19:14+08:00
+modified: 2025-12-13 09:43:48+08:00
 aliases:
 - Thoreau used the word “philosophy” leniently
-created: 2024-04-02 16:19:14+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 09:43:48+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Thoreau used the word “philosophy” leniently
 ---
 
 Here is a journal entry from [[henry david thoreau|Henry David Thoreau]] that demonstrates how he thinks the word philosophy should be used:

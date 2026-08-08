@@ -1,16 +1,14 @@
 ---
+title: Bato-bato
+created: 2024-12-06 22:30:58+08:00
+modified: 2026-05-27 09:41:42+08:00
 aliases:
 - Bato-bato
-created: 2024-12-06 22:30:58+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 09:41:42+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Bato-bato
 ---
 
 She was there  

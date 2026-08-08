@@ -1,19 +1,17 @@
 ---
+title: A Short Note about Two Key, Untranslated, Terms Used in These Translations
+  (READ FIRST) by Andrew James Brown
+created: 2025-07-10 11:40:53+08:00
+modified: 2025-08-02 10:03:03+08:00
 aliases:
 - A Short Note about Two Key, Untranslated, Terms Used in These Translations (READ
   FIRST) by Andrew James Brown
-created: 2025-07-10 11:40:53+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-02 10:03:03+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: A Short Note about Two Key, Untranslated, Terms Used in These Translations
-  (READ FIRST) by Andrew James Brown
 ---
 
 # Citation

@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Highlight-driven practice and comprehension support by Andy Matuschak
 created: 2024-12-02 15:46:43+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-03-26 16:56:41+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Highlight-driven practice and comprehension support by Andy Matuschak
 ---
 
 ## Highlights

@@ -1,16 +1,14 @@
 ---
+title: Writers that inspire Craig Mod
+created: 2023-08-21 22:57:21+08:00
+modified: 2025-12-13 10:30:54+08:00
 aliases:
 - Writers that inspire Craig Mod
-created: 2023-08-21 22:57:21+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 10:30:54+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Writers that inspire Craig Mod
 ---
 
 Annie Dillard

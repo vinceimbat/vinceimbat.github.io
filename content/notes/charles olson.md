@@ -1,16 +1,14 @@
 ---
+title: Charles Olson
+created: 2024-03-01 15:37:37+08:00
+modified: 2025-11-24 23:37:50+08:00
 aliases:
 - Charles Olson
-created: 2024-03-01 15:37:37+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-24 23:37:50+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Charles Olson
 ---
 
 # On Present as Prologue

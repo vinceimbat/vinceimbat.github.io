@@ -1,16 +1,14 @@
 ---
+title: “A Poet Without Awards” by Jennifer Bartlett
+created: 2026-03-10 14:36:09+08:00
+modified: 2026-03-10 14:36:31+08:00
 aliases:
 - “A Poet Without Awards” by Jennifer Bartlett
-created: 2026-03-10 14:36:09+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-10 14:36:31+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “A Poet Without Awards” by Jennifer Bartlett
 ---
 
 # Citation

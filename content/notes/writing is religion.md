@@ -1,16 +1,14 @@
 ---
+title: Writing Is Religion
+created: 2026-03-23 15:33:58+08:00
+modified: 2026-03-23 15:35:11+08:00
 aliases:
 - Writing Is Religion
-created: 2026-03-23 15:33:58+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-23 15:35:11+08:00
 publish: true
 tags:
 - species/essay
 - status/evergreen
-title: Writing Is Religion
 ---
 
 An intention I set this year was to deepen my seiza meditation practice. By deepen I mean follow the regimen recommended by the founder of the method, Okada Torajiro. The regimen: do seiza for 30 minutes when you wake up in the morning and another 30 minutes when you wake up in the evening. Nearly three months into 2026, I've managed to keep the habit.

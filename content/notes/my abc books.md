@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: My ABC books
 created: 2024-10-27 17:56:49+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-04-14 13:48:23+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My ABC books
 ---
 
 # Anthologies

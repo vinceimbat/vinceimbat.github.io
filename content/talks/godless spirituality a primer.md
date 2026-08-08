@@ -6,8 +6,6 @@ aliases:
   - "Godless Spirituality: A Primer"
   - essays/godless-spirituality-a-primer
 draft: false
-dg-home:
-dg-publish:
 publish: true
 tags:
   - species/talk

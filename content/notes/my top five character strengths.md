@@ -5,8 +5,6 @@ modified: 2025-04-11T11:22:06+08:00
 aliases:
   - My-top-five-character-strengths
 draft: 
-dg-home: 
-dg-publish: 
 tags:
   - species/thought
   - status/evergreen

@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: 100 pieces method
 created: 2023-08-21 22:57:20+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-12-14 16:57:57+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: 100 pieces method
 ---
 
 When Robert D. Richardson studies an individual, he reads all the [[books]] they read in the sequence they read them to trace their intellectual development.

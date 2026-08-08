@@ -1,17 +1,15 @@
 ---
+title: Stomach
+created: 2024-08-24 22:36:09+08:00
+modified: 2026-06-10 11:58:09+08:00
 aliases:
 - Stomach
-created: 2024-08-24 22:36:09+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-10 11:58:09+08:00
 publish: true
 tags:
 - species/poem
 - status/evergreen
 - status/seedling
-title: Stomach
 ---
 
 I wanted to write,

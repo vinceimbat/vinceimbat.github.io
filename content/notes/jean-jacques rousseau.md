@@ -1,16 +1,14 @@
 ---
+title: Jean-Jacques Rousseau
+created: 2024-10-27 16:49:27+08:00
+modified: 2025-12-13 22:54:32+08:00
 aliases:
 - Jean-Jacques Rousseau
-created: 2024-10-27 16:49:27+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 22:54:32+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Jean-Jacques Rousseau
 ---
 
 Rousseau like [[friedrich nietzsche|Friedrich Nietzsche]], did most of his intellectual work while [[notes/walking]].

@@ -1,16 +1,14 @@
 ---
+title: A philosophical work asks questions about foundations
+created: 2023-08-21 22:57:20+08:00
+modified: 2025-12-13 09:48:40+08:00
 aliases:
 - A philosophical work asks questions about foundations
-created: 2023-08-21 22:57:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 09:48:40+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: A philosophical work asks questions about foundations
 ---
 
 An important characteristic of [[philosophy]] (particularly [[strict use of philosophy]]) is that it delves on foundational questions that aim to inquire about the basis of beliefs and frameworks in almost all aspects of life. This is the reason why we have philosophy of [[religion]], [[ethics]], science, education, culture, and society.

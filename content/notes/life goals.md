@@ -6,8 +6,6 @@ aliases:
   - Life-goals
   - thoughts/life-goals
 draft:
-dg-home:
-dg-publish:
 tags:
   - species/thought
   - status/evergreen

@@ -1,17 +1,15 @@
 ---
+title: Agoo
+created: 2025-09-25 16:15:03+08:00
+modified: 2025-11-09 10:04:13+08:00
 aliases:
 - Agoo
-created: 2025-09-25 16:15:03+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-09 10:04:13+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
 - language/pangasinan
-title: Agoo
 ---
 
 Manbukbukor ka'd paway  

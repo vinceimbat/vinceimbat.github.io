@@ -1,16 +1,14 @@
 ---
+title: Hanggat
+created: 2026-07-06 18:52:45+08:00
+modified: 2026-07-06 18:53:14+08:00
 aliases:
 - Hanggat
-created: 2026-07-06 18:52:45+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-07-06 18:53:14+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Hanggat
 ---
 
 Sinusubukan kong magsulat ng tula subalit

@@ -1,16 +1,14 @@
 ---
+title: Taëw
+created: 2026-01-25 11:34:40+08:00
+modified: 2026-01-28 09:27:13+08:00
 aliases:
 - Taëw
-created: 2026-01-25 11:34:40+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-28 09:27:13+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Taëw
 ---
 
 Impunas to'y tamuro to'd luwan

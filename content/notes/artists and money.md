@@ -1,16 +1,14 @@
 ---
+title: Artists and money
+created: 2023-10-18 20:28:23+08:00
+modified: 2025-12-16 11:54:47+08:00
 aliases:
 - Artists and money
-created: 2023-10-18 20:28:23+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-16 11:54:47+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Artists and money
 ---
 
 There is a categorical difference between things given freely in the spirit of gift-giving ([[gift]]) and things that are sold (product).

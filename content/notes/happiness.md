@@ -1,16 +1,14 @@
 ---
+title: Happiness
+created: 2024-11-03 23:03:45+08:00
+modified: 2025-12-14 17:16:03+08:00
 aliases:
 - Happiness
-created: 2024-11-03 23:03:45+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-14 17:16:03+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Happiness
 ---
 
 1. [[Happiness is not the ultimate value]]

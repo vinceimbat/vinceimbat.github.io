@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Bible
 created: 2025-07-07 16:31:26+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-07-11 22:18:07+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Bible
 ---
 
 # The JEDP theory

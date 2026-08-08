@@ -1,16 +1,14 @@
 ---
+title: My first memoir
+created: 2026-06-01 17:37:57+08:00
+modified: 2026-06-01 17:46:16+08:00
 aliases:
 - My first memoir
-created: 2026-06-01 17:37:57+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-01 17:46:16+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My first memoir
 ---
 
 Essay because it has to give enlightenment

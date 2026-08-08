@@ -1,16 +1,14 @@
 ---
+title: Writing against conventions can be positive
+created: 2023-09-17 10:35:34+08:00
+modified: 2025-12-12 23:02:28+08:00
 aliases:
 - Writing against conventions can be positive
-created: 2023-09-17 10:35:34+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 23:02:28+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Writing against conventions can be positive
 ---
 
 While there are good reasons not to write against conventions (i.e., [[it is uncomfortable to write against writing conventions]] and [[it is uncomfortable to read works that break writing conventions]]), there are also good reasons to do it anyway.

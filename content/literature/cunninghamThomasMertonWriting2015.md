@@ -1,17 +1,15 @@
 ---
+title: 'Thomas Merton: The Writing Life and the Contemplative Life by Lawrence S.
+  Cunningham'
+created: 2025-08-17 17:22:46+08:00
+modified: 2025-08-18 09:01:36+08:00
 aliases:
 - 'Thomas Merton: The Writing Life and the Contemplative Life by Lawrence S. Cunningham'
-created: 2025-08-17 17:22:46+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-18 09:01:36+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: 'Thomas Merton: The Writing Life and the Contemplative Life by Lawrence S.
-  Cunningham'
 ---
 
 # Citation

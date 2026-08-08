@@ -1,16 +1,14 @@
 ---
+title: Arguments Against Extraction
+created: 2026-02-23 16:49:11+08:00
+modified: 2026-02-23 16:49:53+08:00
 aliases:
 - Arguments Against Extraction
-created: 2026-02-23 16:49:11+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-23 16:49:53+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Arguments Against Extraction
 ---
 
 I was excited to go to the dentist yesterday.  

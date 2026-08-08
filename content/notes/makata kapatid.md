@@ -1,16 +1,14 @@
 ---
+title: Makata, Kapatid
+created: 2025-11-24 09:38:28+08:00
+modified: 2025-11-24 09:40:02+08:00
 aliases:
 - Makata, Kapatid
-created: 2025-11-24 09:38:28+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-24 09:40:02+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Makata, Kapatid
 ---
 
 Humahanga ako sa'yo—  

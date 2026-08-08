@@ -1,16 +1,14 @@
 ---
+title: Today I Will Teach Him What a Prison Is
+created: 2026-06-22 08:24:31+08:00
+modified: 2026-06-22 08:31:06+08:00
 aliases:
 - Today I Will Teach Him What a Prison Is
-created: 2026-06-22 08:24:31+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-22 08:31:06+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Today I Will Teach Him What a Prison Is
 ---
 
 I told him to walk  

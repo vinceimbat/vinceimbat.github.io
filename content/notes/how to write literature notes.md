@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: How to write literature notes
 created: 2021-09-03
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-03-20 15:58:41+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: How to write literature notes
 ---
 
 When I write [[literature notes]], specifically when I write succinct descriptions of the main ideas of a material and retrieval prompts that help me remember them, I understand what I read better. Here's the process I use to write literature notes:

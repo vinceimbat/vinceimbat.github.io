@@ -1,16 +1,14 @@
 ---
+title: Munggo
+created: 2024-10-19 23:20:09+08:00
+modified: 2026-01-28 17:59:17+08:00
 aliases:
 - Munggo
-created: 2024-10-19 23:20:09+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-28 17:59:17+08:00
 publish: true
 tags:
 - species/translation
 - status/seedling
-title: Munggo
 ---
 
 On his shoulder, he carries  

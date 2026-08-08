@@ -1,20 +1,18 @@
 ---
+title: Kung Paano Tayo Magpapatuloy
+created: 2024-08-02 10:19:45+08:00
+modified: 2026-05-27 16:56:00+08:00
 aliases:
 - Kung Paano Tayo Magpapatuloy
-created: 2024-08-02 10:19:45+08:00
-dg-home: null
-dg-publish: true
-draft: false
 location:
 - 14.1698203
 - 121.2362341
-modified: 2026-05-27 16:56:00+08:00
+draft: false
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Kung Paano Tayo Magpapatuloy
 ---
 
 Ang paraan ng guro  

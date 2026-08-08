@@ -1,16 +1,14 @@
 ---
+title: Talahardin writing strategy
+created: 2021-04-17
+modified: 2025-03-27 15:52:11+08:00
 aliases:
 - Write-using-permanent-notes
-created: 2021-04-17
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-03-27 15:52:11+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Talahardin writing strategy
 ---
 
 All [[writing]] begins with a blank page. A blank page isn't intimidating when it is in a [[journal]] where I usually intend to fill a few pages and I know no one's going to read them. A blank page could be incredibly overwhelming when what is eventually written there has to be shared or published.

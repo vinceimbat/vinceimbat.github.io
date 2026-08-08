@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Villanelle
 created: 2025-11-17 22:02:55+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-11-17 22:03:37+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Villanelle
 ---
 
 # How to write a villanelle

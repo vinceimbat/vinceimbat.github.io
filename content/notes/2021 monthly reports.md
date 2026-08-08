@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: 2021 monthly reports
 created: 2024-10-22 22:06:50+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-12-13 10:38:21+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/log
 - status/evergreen
-title: 2021 monthly reports
 ---
 
 Here are my [[monthly reports|monthly reports]] for 2021.

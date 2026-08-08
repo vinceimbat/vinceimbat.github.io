@@ -1,16 +1,14 @@
 ---
+title: Rofel Brion
+created: 2024-11-12 20:49:21+08:00
+modified: 2026-06-14 08:37:31+08:00
 aliases:
 - Rofel Brion
-created: 2024-11-12 20:49:21+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2026-06-14 08:37:31+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Rofel Brion
 ---
 
 # My observations

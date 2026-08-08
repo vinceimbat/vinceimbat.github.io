@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Maging sa Silid by Vanessa Haro and Arvee Lao
 created: 2024-08-24
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-03-21 16:28:55+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Maging sa Silid by Vanessa Haro and Arvee Lao
 ---
 
 A [[zine]] I got from my first [[bltx|BLTX]].

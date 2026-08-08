@@ -1,17 +1,15 @@
 ---
+title: “The Meaning-Full-Ness of Fragments" by Andrew James Brown
+created: 2026-02-17 09:45:35+08:00
+modified: 2026-02-17 10:25:03+08:00
 aliases:
 - “The Meaning-Full-Ness of Fragments" by Andrew James Brown
-created: 2026-02-17 09:45:35+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-17 10:25:03+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “The Meaning-Full-Ness of Fragments" by Andrew James Brown
 ---
 
 # Citation

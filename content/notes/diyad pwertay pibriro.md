@@ -1,17 +1,15 @@
 ---
+title: Diya'd Pwerta'y Pibriro
+created: 2026-02-22 10:47:52+08:00
+modified: 2026-06-02 10:01:31+08:00
 aliases:
 - Diya'd Pwerta'y Pibriro
-created: 2026-02-22 10:47:52+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-02 10:01:31+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/seedling
-title: Diya'd Pwerta'y Pibriro
 ---
 
 Maksil so siplag na dagëm ëd paway.  

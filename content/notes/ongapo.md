@@ -1,17 +1,15 @@
 ---
+title: Ongapo
+created: 2025-10-05 22:19:13+08:00
+modified: 2026-06-02 10:07:29+08:00
 aliases:
 - Ongapo
-created: 2025-10-05 22:19:13+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-02 10:07:29+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
 - language/pangasinan
-title: Ongapo
 ---
 
 Dia'd pëglëy  

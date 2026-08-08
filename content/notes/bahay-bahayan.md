@@ -1,16 +1,14 @@
 ---
+title: Bahay-bahayan
+created: 2025-12-17 11:18:51+08:00
+modified: 2025-12-17 11:19:38+08:00
 aliases:
 - Bahay-bahayan
-created: 2025-12-17 11:18:51+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-17 11:19:38+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Bahay-bahayan
 ---
 
 # Unprocessed

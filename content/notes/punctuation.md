@@ -1,16 +1,14 @@
 ---
+title: Punctuation
+created: 2024-02-20 13:22:43+08:00
+modified: 2025-12-13 14:27:00+08:00
 aliases:
 - Punctuation
-created: 2024-02-20 13:22:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 14:27:00+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Punctuation
 ---
 
 Define these:

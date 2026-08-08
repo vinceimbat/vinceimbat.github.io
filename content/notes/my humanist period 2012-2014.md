@@ -1,16 +1,14 @@
 ---
+title: My humanist period (2012–2014)
+created: 2024-09-19 22:48:42+08:00
+modified: 2025-12-12 22:11:54+08:00
 aliases:
 - My humanist period (2012–2014)
-created: 2024-09-19 22:48:42+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 22:11:54+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My humanist period (2012–2014)
 ---
 
 This is the period in my intellectual history that I let go of my childhood religion and explore secular humanism.

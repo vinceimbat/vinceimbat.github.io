@@ -1,9 +1,9 @@
 ---
 title: Preparing for a lowercase c christmas - Brown
 created: 2024-12-11
+modified: 2025-04-06T22:58:49+08:00
 tags:
   - species/flashcards
-modified: 2025-04-06T22:58:49+08:00
 ---
 Explain Franco "Bifo" Berardi's notion of futurability :: The capacity of individuals and societies to envision and create alternative futures is innate.
 <!--SR:!2026-11-14,357,230-->

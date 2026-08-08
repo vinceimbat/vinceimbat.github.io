@@ -1,20 +1,18 @@
 ---
+title: Ang Tula ay Pahinga
+created: 2024-08-28 21:57:08+08:00
+modified: 2026-05-27 07:59:19+08:00
 aliases:
 - Ang Tula ay Pahinga
-created: 2024-08-28 21:57:08+08:00
-dg-home: null
-dg-publish: true
-draft: false
 location:
 - 16.065948
 - 120.458962
-modified: 2026-05-27 07:59:19+08:00
+draft: false
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Ang Tula ay Pahinga
 ---
 
 Ang tula ay pahinga  

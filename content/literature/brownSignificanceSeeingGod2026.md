@@ -5,8 +5,6 @@ modified: 2026-04-02T14:52:08+08:00
 aliases:
   - “The Significance of Seeing God in the Modern Age (In Memory of Tsunashima Ryōsen-Kun [綱島梁川君] as a Seer of God) by   Nakagiri Kakutarō [中桐確太郎]” by Andrew James Brown
 draft: false
-dg-home:
-dg-publish: true
 tags:
   - species/literature
   - status/seedling

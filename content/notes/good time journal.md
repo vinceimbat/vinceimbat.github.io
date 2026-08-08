@@ -1,16 +1,14 @@
 ---
+title: Good time journal
+created: 2025-09-17 16:26:15+08:00
+modified: 2026-01-29 11:18:05+08:00
 aliases:
 - Good time journal
-created: 2025-09-17 16:26:15+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-29 11:18:05+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Good time journal
 ---
 
 # Good time journal

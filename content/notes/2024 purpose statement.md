@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: 2024 purpose statement
 created: 2025-04-05 10:32:01+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-09-04 16:29:37+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: 2024 purpose statement
 ---
 
 I want to be as intentional as I can in every moment I am in this universe.

@@ -1,16 +1,14 @@
 ---
+title: Focus on audience experience and personal fulfillment
+created: 2024-05-09 10:20:26+08:00
+modified: 2026-03-11 10:36:06+08:00
 aliases:
 - Focus on audience experience and personal fulfillment
-created: 2024-05-09 10:20:26+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-11 10:36:06+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Focus on audience experience and personal fulfillment
 ---
 
 The real value of your work depends on its ability to produce meaningful reader experience. Therefore, focus your efforts in:

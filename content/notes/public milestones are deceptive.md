@@ -1,16 +1,14 @@
 ---
+title: Public milestones are deceptive
+created: 2024-05-09 10:18:29+08:00
+modified: 2026-03-11 10:38:33+08:00
 aliases:
 - Public milestones are deceptive
-created: 2024-05-09 10:18:29+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-11 10:38:33+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Public milestones are deceptive
 ---
 
 Objects, tokens, and metrics shouldn't be your goal. Treat these as side effects of you doing the real work of learning about your audience, creating the best experiences for them, and building lasting relationships with them.

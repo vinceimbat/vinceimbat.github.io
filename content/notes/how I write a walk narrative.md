@@ -1,16 +1,14 @@
 ---
+title: How I write a walk narrative
+created: 2024-04-02 16:19:14+08:00
+modified: 2025-12-13 10:44:30+08:00
 aliases:
 - How I write a walk narrative
-created: 2024-04-02 16:19:14+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 10:44:30+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: How I write a walk narrative
 ---
 
 I try to walk every day. I take photos if I want to practice mindful photography. I also write field notes. But I don’t write about all of my walks. Doing this everyday like [[henry david thoreau|Henry David Thoreau]] did ([[the fieldwork routine of thoreau|The fieldwork routine of Thoreau]]) is too time-consuming especially because I don't have (yet) a bigger context where such project belongs.

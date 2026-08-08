@@ -1,16 +1,14 @@
 ---
+title: Këlpa
+created: 2025-11-10 09:30:47+08:00
+modified: 2026-05-27 14:20:51+08:00
 aliases:
 - Këlpa
-created: 2025-11-10 09:30:47+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 14:20:51+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Këlpa
 ---
 
 Kwarta la kuwan mo

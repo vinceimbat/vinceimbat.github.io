@@ -1,21 +1,19 @@
 ---
+title: Ang Maglakad sa Ulan
+created: 2024-03-12 16:57:49+08:00
+modified: 2025-10-26 18:29:36+08:00
 aliases:
 - Ang Maglakad sa Ulan
-created: 2024-03-12 16:57:49+08:00
-dg-home: null
-dg-publish: true
-draft: false
 location:
 - 14.161432647882295
 - 121.23412451115946
-modified: 2025-10-26 18:29:36+08:00
+draft: false
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
 - buhian
-title: Ang Maglakad sa Ulan
 ---
 
 Ang paglalakad habang umuulan ay may sarili ring timpla  

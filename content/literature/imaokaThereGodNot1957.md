@@ -1,17 +1,15 @@
 ---
+title: Is There God or Not? by Shin'ichirō Imaoka
+created: 2025-07-30 11:46:50+08:00
+modified: 2025-07-31 10:35:39+08:00
 aliases:
 - Is There God or Not? by Shin'ichirō Imaoka
-created: 2025-07-30 11:46:50+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-31 10:35:39+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: Is There God or Not? by Shin'ichirō Imaoka
 ---
 
 # Citation

@@ -1,16 +1,14 @@
 ---
+title: Testimonials
+created: 2023-08-21 22:57:20+08:00
+modified: 2025-12-14 17:09:06+08:00
 aliases:
 - Testimonials
-created: 2023-08-21 22:57:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-14 17:09:06+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Testimonials
 ---
 
 I am humbled by what a handful of people have said to me about my writing. These are all people who are in the path to being the best version of themselves.

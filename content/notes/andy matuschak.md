@@ -1,17 +1,15 @@
 ---
+title: Andy Matuschak
+created: 2021-01-05
+modified: 2025-12-12 23:19:50+08:00
 aliases:
 - Andy-Matuschak
 - Andy Matuschak
-created: 2021-01-05
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-12-12 23:19:50+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Andy Matuschak
 ---
 
 Andy was one of the most influential figures to me when I was setting up the [[talahardin]].

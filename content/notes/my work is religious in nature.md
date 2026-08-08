@@ -1,18 +1,16 @@
 ---
+title: My work is religious in nature
+created: 2024-07-17 18:45:44+08:00
+modified: 2025-07-18 22:23:06+08:00
 aliases:
 - My-life-work-is-religious-in-nature
 - thoughts/my-work-is-religious-in-nature
 - My work is religious in nature
-created: 2024-07-17 18:45:44+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-18 22:23:06+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My work is religious in nature
 ---
 
 My work has some pastoral elements in it. My calling, my gift, is to remind people and to call them toward their state of depth. In a way, I'm a pastor of free religion—a religion that starts within me first. One of the things I want to do is eventually help people one-on-one—a life of retreat and communion, of going back to my well but going out to help others. I want to build a purely naturalistic belief system then from there, get out and have an adventure into the wilderness of compassion.

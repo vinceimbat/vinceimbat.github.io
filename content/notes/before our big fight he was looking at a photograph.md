@@ -1,16 +1,14 @@
 ---
+title: Before Our Big Fight He Was Looking at A Photograph
+created: 2026-02-01 14:32:47+08:00
+modified: 2026-06-28 09:42:48+08:00
 aliases:
 - Before Our Big Fight He Was Looking at A Photograph
-created: 2026-02-01 14:32:47+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-28 09:42:48+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Before Our Big Fight He Was Looking at A Photograph
 ---
 
 v2

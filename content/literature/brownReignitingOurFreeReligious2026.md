@@ -1,19 +1,17 @@
 ---
+title: '“Reigniting Our Free-Religious Tradition: From Being to Buildings and Back
+  Again” by Brown'
+created: 2026-01-08 16:59:57+08:00
+modified: 2026-01-08 17:06:07+08:00
 aliases:
 - '“Reigniting Our Free-Religious Tradition: From Being to Buildings and Back Again”
   by Brown'
-created: 2026-01-08 16:59:57+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-08 17:06:07+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: '“Reigniting Our Free-Religious Tradition: From Being to Buildings and Back
-  Again” by Brown'
 ---
 
 # Citation

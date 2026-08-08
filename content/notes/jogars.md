@@ -1,16 +1,14 @@
 ---
+title: Jogars
+created: 2024-08-28 13:37:13+08:00
+modified: 2026-04-06 09:44:12+08:00
 aliases:
 - Jogars
-created: 2024-08-28 13:37:13+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-04-06 09:44:12+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Jogars
 ---
 
 The color of the sky, I remember the color of the marker, the chalk that the tailor used whenever me and Papa went to Jogars to have new pants made for u. Before this we would buy abel to pasadya. What happened to those pants I used to wear. When I left the church, I didn't bring them with me. One day I just saw Tito Joel wearing them and felt a mix of nostalgia and annoyance that my mom just gave them to someone else without my permission. But the annoyance was tamed when I pictured her teary-eyed while looking at my clothes which she will wrap inside a supot to give my poor uncle.

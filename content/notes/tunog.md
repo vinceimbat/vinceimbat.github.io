@@ -1,20 +1,18 @@
 ---
+title: Tunog
+created: 2024-08-24 22:19:44+08:00
+modified: 2026-05-28 08:15:49+08:00
 aliases:
 - Tunog
-created: 2024-08-24 22:19:44+08:00
-dg-home: null
-dg-publish: true
-draft: false
 location:
 - 14.1697666
 - 121.2389133
-modified: 2026-05-28 08:15:49+08:00
+draft: false
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Tunog
 ---
 
 Akala ko noong una'y  

@@ -1,18 +1,16 @@
 ---
+title: “A Philosophy of Wonder Born of an Ancient Disappointment” by Andrew James
+  Brown
+created: 2026-01-12 11:50:04+08:00
+modified: 2026-01-12 12:01:00+08:00
 aliases:
 - “A Philosophy of Wonder Born of an Ancient Disappointment” by Andrew James Brown
-created: 2026-01-12 11:50:04+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-12 12:01:00+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “A Philosophy of Wonder Born of an Ancient Disappointment” by Andrew James
-  Brown
 ---
 
 # Citation

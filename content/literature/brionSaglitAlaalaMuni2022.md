@@ -1,16 +1,14 @@
 ---
+title: Saglit by Rofel Brion
+created: 2026-03-03 09:31:28+08:00
+modified: 2026-03-03 09:32:47+08:00
 aliases:
 - Saglit by Rofel Brion
-created: 2026-03-03 09:31:28+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-03 09:32:47+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Saglit by Rofel Brion
 ---
 
 # Citation

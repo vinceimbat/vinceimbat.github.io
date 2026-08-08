@@ -1,15 +1,13 @@
 ---
+title: The epiphany of there being no capital E epiphany by Brown
 created: 2025-01-08 09:58:41+08:00
-dg-home: null
-dg-publish: true
-draft: null
 modified: 2025-04-06 23:03:26+08:00
+draft: null
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: The epiphany of there being no capital E epiphany by Brown
 ---
 
 What is epiphany season? :: Liturgical period in many Christian churches that begins on January 6 and ends depending on denomination.

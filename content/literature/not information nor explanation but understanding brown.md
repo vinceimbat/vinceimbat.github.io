@@ -1,16 +1,14 @@
 ---
+title: Not Information nor Explanation, but Understanding by Brown
+created: 2025-05-10 10:34:49+08:00
+modified: 2025-05-10 11:15:54+08:00
 aliases:
 - Not Information nor Explanation, but Understanding by Brown
-created: 2025-05-10 10:34:49+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-05-10 11:15:54+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Not Information nor Explanation, but Understanding by Brown
 ---
 
 # Highlights

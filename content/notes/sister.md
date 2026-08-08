@@ -1,16 +1,14 @@
 ---
+title: Sister
+created: 2026-06-28 09:16:32+08:00
+modified: 2026-06-28 16:16:23+08:00
 aliases:
 - Sister
-created: 2026-06-28 09:16:32+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-28 16:16:23+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Sister
 ---
 
 It lit on the third match, this poem  

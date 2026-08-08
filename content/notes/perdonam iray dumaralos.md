@@ -1,17 +1,15 @@
 ---
+title: Perdonam Iray Dumaralos
+created: 2024-11-04 23:25:46+08:00
+modified: 2026-06-02 10:58:34+08:00
 aliases:
 - Perdonam Iray Dumaralos
-created: 2024-11-04 23:25:46+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-02 10:58:34+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/seedling
-title: Perdonam Iray Dumaralos
 ---
 
 Lilinisay dumaralos so kaumaan  

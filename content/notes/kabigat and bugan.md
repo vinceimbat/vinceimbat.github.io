@@ -1,17 +1,15 @@
 ---
+title: Kabigat and Bugan
+created: 2026-01-21 17:57:57+08:00
+modified: 2026-01-21 17:58:31+08:00
 aliases:
 - Kabigat and Bugan
-created: 2026-01-21 17:57:57+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-21 17:58:31+08:00
 publish: true
 tags:
 - species/translation
 - language/english
 - status/seedling
-title: Kabigat and Bugan
 ---
 
 I don't remember your stories from that sacred book  

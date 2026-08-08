@@ -1,16 +1,14 @@
 ---
+title: Pananalig
+created: 2025-10-09 10:15:57+08:00
+modified: 2025-10-09 10:27:36+08:00
 aliases:
 - Pananalig
-created: 2025-10-09 10:15:57+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-09 10:27:36+08:00
 publish: true
 tags:
 - species/essay
 - status/evergreen
-title: Pananalig
 ---
 
 Wala rito ang sistematiko, maayos, at masalimuot na istruktura ng pananampalataya. Hindi rin ito ang payak at sekular na tunog ng pagtitiwala. Pagkapit ito kapwa sa lipunang nakalimutan na ang banal at sa banal na nasa lahat ng bagay—ngunit hindi maarok. Pagsandal ito ng aking mahinang katawan at kaluluwa sa mas matibay at makapangyarihang masisilungan. Pagkilala ito ng aking kakapusan bilang tao. Pagkilala ito sa dulo ng aking mga pakay, ng aking mga proposisyon. At paghandusay na sa sahig ng buong mundo—ng buong kalawakan.

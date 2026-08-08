@@ -1,17 +1,15 @@
 ---
+title: “Free-Religion—Millpond Practice, Whitewater Living” by Andrew James Brown
+created: 2026-03-10 10:15:45+08:00
+modified: 2026-03-10 11:18:39+08:00
 aliases:
 - “Free-Religion—Millpond Practice, Whitewater Living” by Andrew James Brown
-created: 2026-03-10 10:15:45+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-10 11:18:39+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “Free-Religion—Millpond Practice, Whitewater Living” by Andrew James Brown
 ---
 
 # Citation

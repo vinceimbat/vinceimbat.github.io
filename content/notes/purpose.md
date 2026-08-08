@@ -1,16 +1,14 @@
 ---
+title: Purpose
+created: 2024-10-27 16:24:07+08:00
+modified: 2025-12-12 17:35:21+08:00
 aliases:
 - Purpose
-created: 2024-10-27 16:24:07+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 17:35:21+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Purpose
 ---
 
 - [[Purpose is a statement that articulates the reason behind an action]]

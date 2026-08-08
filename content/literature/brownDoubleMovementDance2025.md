@@ -1,17 +1,15 @@
 ---
+title: “The Double Movement Dance of a Free-Religious Faith” by Andrew James Brown
+created: 2025-12-01 11:52:01+08:00
+modified: 2025-12-01 13:55:19+08:00
 aliases:
 - “The Double Movement Dance of a Free-Religious Faith” by Andrew James Brown
-created: 2025-12-01 11:52:01+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-01 13:55:19+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “The Double Movement Dance of a Free-Religious Faith” by Andrew James Brown
 ---
 
 # Citation

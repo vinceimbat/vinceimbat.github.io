@@ -1,16 +1,14 @@
 ---
+title: “Billy Collins, The Art of Poetry No. 83” by George Plimpton
+created: 2023-10-18 20:28:24+08:00
+modified: 2025-12-17 12:10:08+08:00
 aliases:
 - “Billy Collins, The Art of Poetry No. 83” by George Plimpton
-created: 2023-10-18 20:28:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-17 12:10:08+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “Billy Collins, The Art of Poetry No. 83” by George Plimpton
 ---
 
 # Citation

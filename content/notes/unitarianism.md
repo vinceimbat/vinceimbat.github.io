@@ -1,17 +1,15 @@
 ---
+title: Unitarianism
+created: 2024-05-17 11:28:00+08:00
+modified: 2025-07-23 09:50:56+08:00
 aliases:
 - thoughts/unitarianism
 - Unitarianism
-created: 2024-05-17 11:28:00+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-23 09:50:56+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Unitarianism
 ---
 
 Unitarianism should be understood vis a vis [[unitarian-universalism]]. While Unitarianism is still attached to Christianity, Unitarian-Universalism positions itself as a new religion that is detached from its Christian roots.

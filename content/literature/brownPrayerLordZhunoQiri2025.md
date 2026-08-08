@@ -1,19 +1,17 @@
 ---
+title: “The Prayer of the Lord (主の祈り) as a ‘Dove That Ventured Outside’—The Lord’s
+  Prayer’s Journey into Japanese and Back to English” by Andrew James Brown
+created: 2025-10-13 10:57:21+08:00
+modified: 2025-10-13 11:19:57+08:00
 aliases:
 - “The Prayer of the Lord (主の祈り) as a ‘Dove That Ventured Outside’—The Lord’s Prayer’s
   Journey into Japanese and Back to English” by Andrew James Brown
-created: 2025-10-13 10:57:21+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-13 11:19:57+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “The Prayer of the Lord (主の祈り) as a ‘Dove That Ventured Outside’—The Lord’s
-  Prayer’s Journey into Japanese and Back to English” by Andrew James Brown
 ---
 
 # Citation

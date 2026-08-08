@@ -1,16 +1,14 @@
 ---
+title: Burning Fields
+created: 2024-03-04
+modified: 2026-05-27 10:05:27+08:00
 aliases:
 - Burning Fields
-created: 2024-03-04
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 10:05:27+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Burning Fields
 ---
 
 I miss  

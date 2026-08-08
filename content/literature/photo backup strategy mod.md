@@ -1,16 +1,14 @@
 ---
+title: Photo Backup Strategy and Editing by Mod
+created: 2024-08-12 17:44:45+08:00
+modified: 2025-05-19 18:41:23+08:00
 aliases:
 - Photo-Backup-Strategy
-created: 2024-08-12 17:44:45+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-05-19 18:41:23+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Photo Backup Strategy and Editing by Mod
 ---
 
 # Highlights

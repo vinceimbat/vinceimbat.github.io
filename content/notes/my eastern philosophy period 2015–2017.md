@@ -1,16 +1,14 @@
 ---
+title: My Eastern philosophy period (2015–2017)
+created: 2024-11-12 20:40:30+08:00
+modified: 2025-12-12 22:32:30+08:00
 aliases:
 - My Eastern philosophy period (2015–2017)
-created: 2024-11-12 20:40:30+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 22:32:30+08:00
 publish: true
 tags:
 - status/seedling
 - species/thought
-title: My Eastern philosophy period (2015–2017)
 ---
 
 The return of my "spiritual" inclinations - exposure to Eastern thought.

@@ -1,17 +1,15 @@
 ---
+title: Dust
+created: 2026-01-22 16:07:58+08:00
+modified: 2026-01-22 16:08:49+08:00
 aliases:
 - Dust
-created: 2026-01-22 16:07:58+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-22 16:08:49+08:00
 publish: true
 tags:
 - species/translation
 - language/english
 - status/seedling
-title: Dust
 ---
 
 Let the sweeping be for later, because in the heavens  

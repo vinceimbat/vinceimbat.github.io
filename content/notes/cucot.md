@@ -1,17 +1,15 @@
 ---
+title: Cucot
+created: 2025-09-08 19:56:31+08:00
+modified: 2026-06-02 09:57:17+08:00
 aliases:
 - Cucot
-created: 2025-09-08 19:56:31+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-02 09:57:17+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/seedling
-title: Cucot
 ---
 
 Cucot ak natan!  

@@ -1,16 +1,14 @@
 ---
+title: Compassion
+created: 2022-02-02
+modified: 2025-12-12 21:31:33+08:00
 aliases:
 - Compassion
-created: 2022-02-02
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 21:31:33+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Compassion
 ---
 
 A belief system that enriches one's relationship with oneself and one's relationship with others.

@@ -1,16 +1,14 @@
 ---
+title: How to compute my earnings in Payoneer
+created: 2024-03-01 09:21:08+08:00
+modified: 2025-12-13 14:10:50+08:00
 aliases:
 - How to compute my earnings in Payoneer
-created: 2024-03-01 09:21:08+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 14:10:50+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: How to compute my earnings in Payoneer
 ---
 
 Every month, I receive money via Payoneer, which I transfer to Gcash. However the money is in USD and is converted into PHP via this service. The process of transferring money from Payoneer to Gcash involves fees and income that have to be logged in my expense and income tracker to make [[my monthly financial review process]] as accurate as possible.

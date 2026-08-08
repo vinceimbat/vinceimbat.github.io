@@ -1,17 +1,15 @@
 ---
+title: Monthly review
+created: 2024-10-30 22:50:14+08:00
+modified: 2025-04-13 18:10:26+08:00
 aliases:
 - Monthly review
 - thoughts/monthly-review
-created: 2024-10-30 22:50:14+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-04-13 18:10:26+08:00
 publish: true
 tags:
 - species/thought
 - status/evergreen
-title: Monthly review
 ---
 
 While the [[weekly review|weekly review]] is designed to maintain my [[ground level|ground level]] ([[my lms ground level setup|my lms ground level setup]]), the monthly review breaks this continuous focus on taking [[action|action]] and provides a space where I can evaluate my [[sky level|sky level]], most especially [[my life areas|my life areas]] and [[life goals|life goals]]. If this is its purpose, a seeming disconnect between what I do and what I would like to do is caused by a problem in my monthly review process. This is why I think reading my [[purpose statement|purpose statement]], [[my mission statement|my mission statement]], etc. is necessary during [[my monthly review routine|my monthly review routine]].

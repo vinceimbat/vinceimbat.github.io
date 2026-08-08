@@ -1,16 +1,14 @@
 ---
+title: “Introduction" by Robert Hass
+created: 2025-11-07 09:55:20+08:00
+modified: 2025-11-07 09:55:46+08:00
 aliases:
 - “Introduction" by Robert Hass
-created: 2025-11-07 09:55:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-07 09:55:46+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “Introduction" by Robert Hass
 ---
 
 # Citation

@@ -1,16 +1,14 @@
 ---
+title: 'Tannisho: A Shin Buddhist Classic by Taitetsu Unno'
+created: 2025-07-28 09:53:27+08:00
+modified: 2025-07-28 09:53:53+08:00
 aliases:
 - 'Tannisho: A Shin Buddhist Classic by Taitetsu Unno'
-created: 2025-07-28 09:53:27+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-28 09:53:53+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: 'Tannisho: A Shin Buddhist Classic by Taitetsu Unno'
 ---
 
 # Citation

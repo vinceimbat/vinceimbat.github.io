@@ -1,19 +1,17 @@
 ---
+title: “A Letter from Nishida Tenkō-San (Nishida Ichitaro) to Count Lev Nikolayevich
+  Tolstoy” by Brown
+created: 2025-12-16 10:32:07+08:00
+modified: 2025-12-16 10:36:21+08:00
 aliases:
 - “A Letter from Nishida Tenkō-San (Nishida Ichitaro) to Count Lev Nikolayevich Tolstoy”
   by Brown
-created: 2025-12-16 10:32:07+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-16 10:36:21+08:00
 publish: true
 tags:
 - species/literature
 - species/flashcards
 - status/seedling
-title: “A Letter from Nishida Tenkō-San (Nishida Ichitaro) to Count Lev Nikolayevich
-  Tolstoy” by Brown
 ---
 
 # Citation

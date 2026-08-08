@@ -1,16 +1,14 @@
 ---
+title: Where Teodora Began Her Walk
+created: 2025-11-09 10:27:35+08:00
+modified: 2025-12-28 09:36:35+08:00
 aliases:
 - Where Teodora Began Her Walk
-created: 2025-11-09 10:27:35+08:00
-dg-home: null
-dg-publish: true
 draft: true
-modified: 2025-12-28 09:36:35+08:00
 publish: true
 tags:
 - species/essay
 - status/evergreen
-title: Where Teodora Began Her Walk
 ---
 
 Nothing remains here but the house. There are no secrets left to unravel; no stones left unturned. The well has drained all its water. Even the air seems irrelevant.  

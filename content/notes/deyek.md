@@ -1,16 +1,14 @@
 ---
+title: Dëyëk
+created: 2026-04-26 09:17:28+08:00
+modified: 2026-05-06 20:50:31+08:00
 aliases:
 - Dëyëk
-created: 2026-04-26 09:17:28+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-06 20:50:31+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Dëyëk
 ---
 
 Dëlëk-dëlëk (kuwan da'y arum) Dëyëk (pangingaran/noun) = say maksil a tanol na danum (dayat o ilog) a singa manlëluwag no agay la'y karakël so siran onsuba ëd agos odino onggilig ëd baybay.*

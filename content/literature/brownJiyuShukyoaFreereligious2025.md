@@ -1,19 +1,17 @@
 ---
+title: “Jiyū Shūkyō—a Free-Religious, Integral Spirituality from within the Unitarian
+  Tradition” by Andrew James Brown
+created: 2025-07-28 11:07:00+08:00
+modified: 2025-07-29 09:23:58+08:00
 aliases:
 - “Jiyū Shūkyō—a Free-Religious, Integral Spirituality from within the Unitarian Tradition”
   by Andrew James Brown
-created: 2025-07-28 11:07:00+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-29 09:23:58+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “Jiyū Shūkyō—a Free-Religious, Integral Spirituality from within the Unitarian
-  Tradition” by Andrew James Brown
 ---
 
 # Citation

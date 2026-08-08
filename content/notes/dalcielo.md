@@ -1,18 +1,16 @@
 ---
+title: Dalcielo
+created: 2024-08-28 21:49:26+08:00
+modified: 2026-01-02 12:02:46+08:00
 aliases:
 - Dalcielo
-created: 2024-08-28 21:49:26+08:00
-dg-home: null
-dg-publish: true
-draft: false
 locations: null
-modified: 2026-01-02 12:02:46+08:00
+draft: false
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Dalcielo
 ---
 
 Nahulog ng aleng  

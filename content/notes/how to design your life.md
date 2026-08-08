@@ -4,8 +4,6 @@ created: 2025-09-07T10:05:13+08:00
 modified: 2026-01-30T11:07:21+08:00
 aliases:
 draft: false
-dg-home:
-dg-publish:
 tags:
   - species/thought
   - status/seedling

@@ -1,17 +1,15 @@
 ---
+title: “The Thirteenth Day - Sudden New Light” by Harrington
+created: 2026-03-02 11:13:11+08:00
+modified: 2026-03-02 11:16:04+08:00
 aliases:
 - “The Thirteenth Day - Sudden New Light” by Harrington
-created: 2026-03-02 11:13:11+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-02 11:16:04+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “The Thirteenth Day - Sudden New Light” by Harrington
 ---
 
 # Citation

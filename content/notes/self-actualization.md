@@ -1,16 +1,14 @@
 ---
+title: Self-actualization
+created: 2024-10-11 09:49:26+08:00
+modified: 2025-12-13 22:02:14+08:00
 aliases:
 - Self-actualization
-created: 2024-10-11 09:49:26+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 22:02:14+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Self-actualization
 ---
 
 Self-actualization is not a [[goal]]. It is an area. It is a continuous journey of discovery and growth.

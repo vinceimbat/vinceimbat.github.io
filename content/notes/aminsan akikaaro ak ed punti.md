@@ -1,17 +1,15 @@
 ---
+title: Aminsan Akikaaro Ak ëd Punti
+created: 2026-05-10 09:31:27+08:00
+modified: 2026-05-27 07:41:32+08:00
 aliases:
 - Aminsan Akikaaro Ak ëd Punti
-created: 2026-05-10 09:31:27+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 07:41:32+08:00
 publish: true
 tags:
 - species/poem
 - language/pangasinan
 - status/seedling
-title: Aminsan Akikaaro Ak ëd Punti
 ---
 
 Nen unaan takan anengneng,

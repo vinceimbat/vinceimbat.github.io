@@ -1,18 +1,16 @@
 ---
+title: Review
+created: 2024-11-01 23:54:26+08:00
+modified: 2025-03-28 21:56:06+08:00
 aliases:
 - Review
 - thoughts/review
 - reviews
-created: 2024-11-01 23:54:26+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-03-28 21:56:06+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Review
 ---
 
 A review in the context of a [[life management system|life management system]] is any process that prompts me to look back at an [[intention|intention]] I set and the [[action|action]] (or series of actions) I took to accomplish the intention. The purpose of looking back ([[pay attention to what we pay attention to|pay attention to what we pay attention to]]) is to know whether I'm living a life of integrity, i.e, my actions produce end states that match my intentions ([[an action succeeds if its end state approximates its intention|an action succeeds if its end state approximates its intention]]). Reviews allow a life management system to perform one of its most important functions: to be at peace with our choices of action.

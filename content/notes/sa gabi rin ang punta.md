@@ -1,17 +1,15 @@
 ---
+title: Sa Gabi Rin ang Punta
+created: 2026-04-26 10:01:54+08:00
+modified: 2026-04-26 10:03:54+08:00
 aliases:
 - Sa Gabi Rin ang Punta
-created: 2026-04-26 10:01:54+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-04-26 10:03:54+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Sa Gabi Rin ang Punta
 ---
 
 Kawangis ng katahimikan  

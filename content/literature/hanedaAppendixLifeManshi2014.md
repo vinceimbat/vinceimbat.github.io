@@ -1,16 +1,14 @@
 ---
+title: '“Appendix: The Life of Manshi Kiyozawa” by Nobuo Haneda'
+created: 2025-06-30 01:06:11+08:00
+modified: 2025-06-30 01:06:32+08:00
 aliases:
 - '“Appendix: The Life of Manshi Kiyozawa” by Nobuo Haneda'
-created: 2025-06-30 01:06:11+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-06-30 01:06:32+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: '“Appendix: The Life of Manshi Kiyozawa” by Nobuo Haneda'
 ---
 
 # Citation

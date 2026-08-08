@@ -1,16 +1,14 @@
 ---
+title: At last, a chance to fulfil the unfulfilled promise of liberal, free-religion
+  - Brown
 created: 2025-02-13 14:30:50+08:00
-dg-home: null
-dg-publish: true
-draft: null
 modified: 2025-06-17 16:43:17+08:00
+draft: null
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: At last, a chance to fulfil the unfulfilled promise of liberal, free-religion
-  - Brown
 ---
 
 Brown (February 02, 2025), claims that Unitarianism has long promised the world this kind of religion but, due to complex reasons, has never achieve it. :: jiyū shūkyō

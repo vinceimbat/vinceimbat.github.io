@@ -1,16 +1,14 @@
 ---
+title: The Talahardin blurs the distinction between draft and published work
+created: 2024-11-26 17:53:10+08:00
+modified: 2025-03-25 17:00:29+08:00
 aliases:
 - thoughts/the-talahardin-blurs-the-distinction-between-draft-and-published-work
-created: 2024-11-26 17:53:10+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-03-25 17:00:29+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: The Talahardin blurs the distinction between draft and published work
 ---
 
 Because it publishes drafts as they are in the process of being developed, the [[talahardin|talahardin]] blurs the modern distinction between [[notes/draft]] and published work. This is possible through cheap and democratized technology (see [[the draft flourishes through cheap and democratized technology|the draft flourishes through cheap and democratized technology]]).

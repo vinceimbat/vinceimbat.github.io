@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: My note-writing rules
 created: 2024-12-09
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-03-26 16:44:21+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My note-writing rules
 ---
 
 1. No daily processing of notes.

@@ -1,16 +1,14 @@
 ---
+title: Good time journal mind map exercise
+created: 2026-01-29 11:23:46+08:00
+modified: 2026-01-29 11:24:37+08:00
 aliases:
 - Good time journal mind map exercise
-created: 2026-01-29 11:23:46+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-29 11:24:37+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Good time journal mind map exercise
 ---
 
 1. Review your historical good time journal and note activities in which you were engaged, energized, and in flow.

@@ -1,16 +1,14 @@
 ---
+title: '"Inside Out, Outside In" by Resil Mojares'
+created: 2026-06-19 08:45:43+08:00
+modified: 2026-06-19 08:46:09+08:00
 aliases:
 - '"Inside Out, Outside In" by Resil Mojares'
-created: 2026-06-19 08:45:43+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-19 08:46:09+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: '"Inside Out, Outside In" by Resil Mojares'
 ---
 
 # Citation

@@ -1,16 +1,14 @@
 ---
+title: Your Money or Your Life by Robin and Dominguez
+created: 2025-12-12 17:19:46+08:00
+modified: 2025-12-12 17:21:16+08:00
 aliases:
 - Your Money or Your Life by Robin and Dominguez
-created: 2025-12-12 17:19:46+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 17:21:16+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Your Money or Your Life by Robin and Dominguez
 ---
 
 # Citation

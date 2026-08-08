@@ -1,16 +1,14 @@
 ---
+title: Hara by Karlfried Graf Dürckheim
+created: 2026-01-19 09:40:59+08:00
+modified: 2026-04-07 14:58:45+08:00
 aliases:
 - Hara by Karlfried Graf Dürckheim
-created: 2026-01-19 09:40:59+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-04-07 14:58:45+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Hara by Karlfried Graf Dürckheim
 ---
 
 # Citation

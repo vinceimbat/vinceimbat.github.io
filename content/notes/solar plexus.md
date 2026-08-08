@@ -1,16 +1,14 @@
 ---
+title: Solar Plexus
+created: 2026-01-18 10:02:35+08:00
+modified: 2026-01-18 10:10:34+08:00
 aliases:
 - Solar Plexus
-created: 2026-01-18 10:02:35+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-18 10:10:34+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Solar Plexus
 ---
 
 My seiza sensei said one must sit  

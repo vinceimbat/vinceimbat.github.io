@@ -1,17 +1,15 @@
 ---
+title: Ito ang Pinakapangit na Tula sa Balat ng Lupa
+created: 2024-08-28 13:39:20+08:00
+modified: 2026-05-27 11:39:15+08:00
 aliases:
 - Ito ang Pinakapangit na Tula sa Balat ng Lupa
-created: 2024-08-28 13:39:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 11:39:15+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Ito ang Pinakapangit na Tula sa Balat ng Lupa
 ---
 
 Walang indayog  

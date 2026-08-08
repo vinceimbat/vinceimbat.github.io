@@ -1,16 +1,14 @@
 ---
+title: Revision per Schneider
+created: 2026-06-25 11:35:12+08:00
+modified: 2026-06-25 11:41:07+08:00
 aliases:
 - Revision per Schneider
-created: 2026-06-25 11:35:12+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-25 11:41:07+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Revision per Schneider
 ---
 
 1. Read it slowly, out loud, to yourself. If the music pleases you, notice that and do not lose the music as you revise.

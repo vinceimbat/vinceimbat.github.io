@@ -1,16 +1,14 @@
 ---
+title: Freedom
+created: 2024-10-22 22:40:51+08:00
+modified: 2025-12-13 23:29:13+08:00
 aliases:
 - Freedom
-created: 2024-10-22 22:40:51+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 23:29:13+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Freedom
 ---
 
 Freedom is a concept that rests on the premise that [[free will exists]], which, in turn, rests on the premise that [[the self exists]]—an autonomous and unique self. Therefore, to believe in freedom is to believe on the [[self]] and to protect freedom is to protect the self. Knowing the self amplifies freedom.

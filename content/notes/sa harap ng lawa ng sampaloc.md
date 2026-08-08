@@ -1,19 +1,17 @@
 ---
+title: Sa Harap ng Lawa ng Sampaloc
+created: 2024-09-11 00:02:13+08:00
+modified: 2025-05-26 11:49:22+08:00
 aliases:
 - Sa-harap-ng-lawa-ng-Sampaloc
 - vignettes/sampaloc-lake
 - Sa Harap ng Lawa ng Sampaloc
-created: 2024-09-11 00:02:13+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-05-26 11:49:22+08:00
 publish: true
 tags:
 - species/vignette
 - language/filipino
 - status/seedling
-title: Sa Harap ng Lawa ng Sampaloc
 ---
 
 Nakaupo ako ngayon sa harap ng lawa ng Sampaloc. Sa malayo, tanaw na tanaw ang tuktok ng Mt. Banahaw. Ang ulap na halos kasing laki nito na kanina pa nakahalik sa kaniya ay unti-unti nang humihiwalay. Malakas ang hanging humahampas sa pahinang ito ng kuwaderno ko, dala ang kaunting tilamsik ng lawa, tanda na malusog ang lawa. Napakarami nilang mangingisda na dumadalaw dito upang makamingwit ng kahit isa man lang. May isang binatang may dalang patpat. Sa dulo ay nakatusok ang ilang huli niya. Sapat na ito. Katuwaan lang naman ito sa kaniya.

@@ -1,16 +1,14 @@
 ---
+title: Cautious sharing process
+created: 2024-11-26 23:04:53+08:00
+modified: 2025-10-07 14:56:50+08:00
 aliases:
 - Cautious sharing process
-created: 2024-11-26 23:04:53+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-07 14:56:50+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Cautious sharing process
 ---
 
 The cautious sharing process is designed for highly sensitive people tired of the 21st century addiction to attentions-seeking behavior. It is a response to [[sharing gone wrong]].

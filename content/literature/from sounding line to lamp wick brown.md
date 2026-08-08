@@ -1,16 +1,14 @@
 ---
+title: From sounding line to lamp wick — faith in the body of the universe by Brown
+created: 2025-05-10 11:49:58+08:00
+modified: 2025-05-10 12:01:32+08:00
 aliases:
 - From sounding line to lamp wick — faith in the body of the universe by Brown
-created: 2025-05-10 11:49:58+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-05-10 12:01:32+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: From sounding line to lamp wick — faith in the body of the universe by Brown
 ---
 
 # Highlights

@@ -1,16 +1,14 @@
 ---
+title: Friedrich Nietzsche
+created: 2024-10-27 16:49:15+08:00
+modified: 2025-12-12 23:12:54+08:00
 aliases:
 - Friedrich Nietzsche
-created: 2024-10-27 16:49:15+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 23:12:54+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Friedrich Nietzsche
 ---
 
 We can divide Nietzsche’s life into four phases:

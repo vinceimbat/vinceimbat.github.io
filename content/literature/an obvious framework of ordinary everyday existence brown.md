@@ -3,8 +3,6 @@ title: An obvious framework of ordinary everyday existence - Brown
 created: 2024-12-29T09:17:15+08:00
 modified: 2025-07-31T21:49:37+08:00
 draft: 
-dg-home: 
-dg-publish: 
 tags:
   - species/literature
   - status/seedling

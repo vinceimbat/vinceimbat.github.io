@@ -1,17 +1,15 @@
 ---
+title: Ako
+created: 2024-08-28 21:51:22+08:00
+modified: 2025-10-23 10:29:42+08:00
 aliases:
 - Ako
-created: 2024-08-28 21:51:22+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-23 10:29:42+08:00
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Ako
 ---
 
 Saan ako nanggaling

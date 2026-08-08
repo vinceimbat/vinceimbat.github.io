@@ -1,21 +1,19 @@
 ---
+title: Patawarin Mo Ang Mga Magsasaka
+created: 2024-08-24 22:22:08+08:00
+modified: 2026-05-27 21:09:11+08:00
 aliases:
 - translations/patawarin-mo-ang-mga-magsasaka
-created: 2024-08-24 22:22:08+08:00
-dg-home: null
-dg-publish: true
-draft: null
 location:
 - 16.057106
 - 120.45388
-modified: 2026-05-27 21:09:11+08:00
+draft: null
 publish: true
 tags:
 - species/poem
 - species/translation
 - language/filipino
 - status/seedling
-title: Patawarin Mo Ang Mga Magsasaka
 ---
 
 Nililinisan ng magsasaka ang bukid  

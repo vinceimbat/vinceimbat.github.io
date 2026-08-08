@@ -1,16 +1,14 @@
 ---
+title: “Tungkol sa makata” by Ramón C. Sunico
+created: 2026-06-10 15:50:50+08:00
+modified: 2026-06-14 09:53:54+08:00
 aliases:
 - “Tungkol sa makata” by Ramón C. Sunico
-created: 2026-06-10 15:50:50+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-06-14 09:53:54+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “Tungkol sa makata” by Ramón C. Sunico
 ---
 
 # Citation

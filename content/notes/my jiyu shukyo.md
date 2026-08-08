@@ -1,18 +1,16 @@
 ---
+title: My jiyū shūkyō (自由宗教)
+created: 2024-11-18 23:27:03+08:00
+modified: 2026-03-15 11:05:23+08:00
 aliases:
 - thoughts/my-jiyu-shukyo
 - my jiyū shūkyō
 - My jiyū shūkyō
-created: 2024-11-18 23:27:03+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-15 11:05:23+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My jiyū shūkyō (自由宗教)
 ---
 
 A deep and sincere spiritual search focused on jiyū shūkyō, seiza, and Jōdo Shinshū, coupled by a serious and sincere walking, writing, and photography practice alongside communities is the current iteration of my jiyū shūkyō.

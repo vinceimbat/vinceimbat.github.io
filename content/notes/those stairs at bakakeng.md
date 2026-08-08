@@ -1,18 +1,16 @@
 ---
+title: Those Stairs at Bakakeng
+created: 2024-03-18 16:30:00+08:00
+modified: 2026-01-22 10:28:36+08:00
 aliases:
 - Those Stairs at Bakakeng
-created: 2024-03-18 16:30:00+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-22 10:28:36+08:00
 publish: true
 tags:
 - species/poem
 - newsletter/tlw
 - language/english
 - status/seedling
-title: Those Stairs at Bakakeng
 ---
 
 And

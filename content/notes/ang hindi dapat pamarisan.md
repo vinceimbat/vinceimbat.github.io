@@ -1,16 +1,14 @@
 ---
+title: Ang Hindi Dapat Pamarisan
+created: 2026-02-26 09:58:30+08:00
+modified: 2026-02-26 10:03:01+08:00
 aliases:
 - Ang Hindi Dapat Pamarisan
-created: 2026-02-26 09:58:30+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-26 10:03:01+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Ang Hindi Dapat Pamarisan
 ---
 
 Hindi kailan man nasubukang matulog

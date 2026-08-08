@@ -1,17 +1,15 @@
 ---
+title: “A Testament and a Postscript 1959–1973” by Denise Levertov
+created: 2025-10-24 09:09:31+08:00
+modified: 2025-10-28 12:00:15+08:00
 aliases:
 - “A Testament and a Postscript 1959–1973” by Denise Levertov
-created: 2025-10-24 09:09:31+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-28 12:00:15+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “A Testament and a Postscript 1959–1973” by Denise Levertov
 ---
 
 # Citation

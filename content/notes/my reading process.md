@@ -1,16 +1,14 @@
 ---
+title: My reading and studying process
+created: 2024-12-09
+modified: 2025-11-28 11:29:43+08:00
 aliases:
 - My reading and studying process
-created: 2024-12-09
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-28 11:29:43+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My reading and studying process
 ---
 
 I have three main intentions when [[reading]]: I read for fun, to be a better writer, and to be a better human being. Accordingly, my reading process depends on what I'm reading.

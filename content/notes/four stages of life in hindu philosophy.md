@@ -1,17 +1,15 @@
 ---
+title: Four stages of life in Hindu philosophy
+created: 2023-08-21 22:57:20+08:00
+modified: 2025-12-13 10:50:12+08:00
 aliases:
 - Four stages of life in Hindu philosophy
 - four stages of life in Hindu philosophy
-created: 2023-08-21 22:57:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 10:50:12+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Four stages of life in Hindu philosophy
 ---
 
 Heinrich Zimmer described these four stages of life in Hindu [[philosophy]]:

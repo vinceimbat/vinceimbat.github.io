@@ -1,17 +1,15 @@
 ---
+title: “The Eighth Day - Grounded Faith” by Harrington
+created: 2026-02-27 21:42:57+08:00
+modified: 2026-02-27 21:45:46+08:00
 aliases:
 - “The Eighth Day - Grounded Faith” by Harrington
-created: 2026-02-27 21:42:57+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-27 21:45:46+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “The Eighth Day - Grounded Faith” by Harrington
 ---
 
 # Citation

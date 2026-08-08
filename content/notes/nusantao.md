@@ -1,16 +1,14 @@
 ---
+title: Nusantao
+created: 2025-11-17 23:05:34+08:00
+modified: 2025-12-02 11:31:08+08:00
 aliases:
 - Nusantao
-created: 2025-11-17 23:05:34+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-02 11:31:08+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Nusantao
 ---
 
 What is home but the sea,  

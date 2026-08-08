@@ -1,19 +1,17 @@
 ---
+title: Pure Land
+created: 2024-03-12 17:03:09+08:00
+modified: 2026-01-28 15:16:53+08:00
 aliases:
 - Pure Land
-created: 2024-03-12 17:03:09+08:00
-dg-home: null
-dg-publish: true
-draft: false
 locations: null
-modified: 2026-01-28 15:16:53+08:00
+draft: false
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
 - buhian
-title: Pure Land
 ---
 
 Kanina  

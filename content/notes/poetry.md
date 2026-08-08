@@ -1,16 +1,14 @@
 ---
+title: Poetry
+created: 2024-10-27 16:54:23+08:00
+modified: 2026-07-31T08:29:19+08:00
 aliases:
   - Poetry
-created: 2024-10-27 16:54:23+08:00
-dg-home:
-dg-publish: true
 draft: false
-modified: 2026-07-31T08:29:19+08:00
 publish: true
 tags:
   - species/thought
   - status/seedling
-title: Poetry
 ---
 Poetry is about being as intentional as one can be with one's words. Being economical. Minimalistic. About how one can transmit meaning with as little tools as one can.
 

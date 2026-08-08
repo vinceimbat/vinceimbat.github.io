@@ -1,16 +1,14 @@
 ---
-aliases: null
+title: Bad Words
 created: 2025-08-12 22:12:00+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-08-12 22:13:48+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/poem
 - language/filipino
 - status/seedling
-title: Bad Words
 ---
 
 Bulag!  

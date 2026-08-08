@@ -1,16 +1,14 @@
 ---
+title: Writing is coding
+created: 2024-10-17 15:33:16+08:00
+modified: 2025-08-14 11:41:08+08:00
 aliases:
 - thoughts/writing-is-coding
-created: 2024-10-17 15:33:16+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-14 11:41:08+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Writing is coding
 ---
 
 Words are also code. Like code, they can be a used to program what is perhaps the most powerful software of all: the mind.

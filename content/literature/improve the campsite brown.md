@@ -1,16 +1,14 @@
 ---
+title: Improve the campsite, teach children, oust tyrants by Brown
+created: 2025-05-10 12:03:30+08:00
+modified: 2025-05-10 12:04:18+08:00
 aliases:
 - Improve the campsite, teach children, oust tyrants by Brown
-created: 2025-05-10 12:03:30+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-05-10 12:04:18+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Improve the campsite, teach children, oust tyrants by Brown
 ---
 
 # Highlights

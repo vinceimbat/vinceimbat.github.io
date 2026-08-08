@@ -5,8 +5,6 @@ modified: 2025-12-07T11:34:26+08:00
 aliases:
   - Kanina sa Kiosk
 draft: false
-dg-home:
-dg-publish:
 tags:
   - species/poem
   - status/seedling

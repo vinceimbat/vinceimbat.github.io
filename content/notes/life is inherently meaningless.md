@@ -1,17 +1,15 @@
 ---
+title: Life is inherently meaningless
+created: 2024-11-18 16:42:19+08:00
+modified: 2025-05-01 15:25:36+08:00
 aliases:
 - Life-is-inherently-meaningless
 - thoughts/life-is-inherently-meaningless
-created: 2024-11-18 16:42:19+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-05-01 15:25:36+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Life is inherently meaningless
 ---
 
 One argument that supports this conclusion is our eventual non-existence. If we all are going to die anyway, nothing we do right now ultimately matters. Our entire life does not mean anything.

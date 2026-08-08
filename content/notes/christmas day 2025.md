@@ -1,17 +1,15 @@
 ---
+title: Christmas Day 2025
+created: 2025-12-31 16:25:10+08:00
+modified: 2025-12-31 17:30:04+08:00
 aliases:
 - Christmas Day 2025
-created: 2025-12-31 16:25:10+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-31 17:30:04+08:00
 publish: true
 tags:
 - species/vignette
 - language/filipino
 - status/seedling
-title: Christmas Day 2025
 ---
 
 Kagabi pinilit kong umuwi ng Los Baños galing Calamba pagkatapos ng Christmas celebration. Sa terminal sa crossing, kukurba na sa dalawang sulok ng terminal ang pila ng mga naghihintay ng jeep galing Los Baños. ang katotohanan: bibihira na ang jeep ganitong oras kapag hindi Pasko, paano pa kaya ngayong kakaunti ang bumyahe?

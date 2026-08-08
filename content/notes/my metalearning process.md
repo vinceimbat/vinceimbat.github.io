@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: My metalearning process
 created: 2025-03-25
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-11-26 11:42:34+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My metalearning process
 ---
 
 I perform [[metalearning]] to create a personalized plan for a learning project. My metalearning process is inspired by that outlined in [[youngUltralearningMasterHard2019|Ultralearning by Scott Young]].

@@ -1,16 +1,14 @@
 ---
+title: Traslación
+created: 2026-04-09 10:14:24+08:00
+modified: 2026-05-28 08:13:51+08:00
 aliases:
 - Traslación
-created: 2026-04-09 10:14:24+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-28 08:13:51+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Traslación
 ---
 
 ëd _Sakbay ya Onsëlëk so Banwa_

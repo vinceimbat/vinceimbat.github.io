@@ -1,17 +1,15 @@
 ---
+title: Photography
+created: 2024-08-12 17:55:38+08:00
+modified: 2025-05-14 16:12:38+08:00
 aliases:
 - Photography
 - thoughts/photography
-created: 2024-08-12 17:55:38+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-05-14 16:12:38+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Photography
 ---
 
 Some initial thoughts curated about photography:

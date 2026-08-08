@@ -1,16 +1,14 @@
 ---
+title: Norbert Fabian Čapek
+created: 2025-12-08 10:47:14+08:00
+modified: 2025-12-08 10:51:17+08:00
 aliases:
 - Norbert Fabian Čapek
-created: 2025-12-08 10:47:14+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-08 10:51:17+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Norbert Fabian Čapek
 ---
 
 # References

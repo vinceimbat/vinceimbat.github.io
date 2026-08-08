@@ -1,16 +1,14 @@
 ---
+title: Sa Simula Noong Wala Pang Mga Paa
+created: 2025-10-21 11:23:39+08:00
+modified: 2025-10-21 11:28:49+08:00
 aliases:
 - Sa Simula Noong Wala Pang Mga Paa
-created: 2025-10-21 11:23:39+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-21 11:28:49+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Sa Simula Noong Wala Pang Mga Paa
 ---
 
 Halika, umakyat tayo sa burol  

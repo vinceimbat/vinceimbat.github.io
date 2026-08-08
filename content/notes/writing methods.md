@@ -1,16 +1,14 @@
 ---
+title: Writing methods
+created: 2025-09-26 10:21:30+08:00
+modified: 2025-09-29 18:12:40+08:00
 aliases:
 - Writing methods
-created: 2025-09-26 10:21:30+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-09-29 18:12:40+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Writing methods
 ---
 
 # Main methods

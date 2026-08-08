@@ -5,8 +5,6 @@ modified: 2025-05-06T11:14:45+08:00
 aliases:
   - The Ecstasy of Influence by Jonathan Lethem
 draft: false
-dg-home: 
-dg-publish: 
 tags:
   - species/literature
   - status/seedling

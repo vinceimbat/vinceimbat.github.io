@@ -1,17 +1,15 @@
 ---
+title: Ascent
+created: 2024-08-28 21:55:53+08:00
+modified: 2026-05-27 09:07:29+08:00
 aliases:
 - Ascent
-created: 2024-08-28 21:55:53+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-27 09:07:29+08:00
 publish: true
 tags:
 - species/poem
 - status/evergreen
 - status/seedling
-title: Ascent
 ---
 
 ![Sunset and tower](sunset_and_tower.jpg)

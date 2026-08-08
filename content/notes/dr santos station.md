@@ -1,17 +1,15 @@
 ---
+title: Dr. Santos Station
+created: 2026-01-22 15:51:27+08:00
+modified: 2026-01-22 15:52:19+08:00
 aliases:
 - Dr. Santos Station
-created: 2026-01-22 15:51:27+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-22 15:52:19+08:00
 publish: true
 tags:
 - species/translation
 - language/filipino
 - status/seedling
-title: Dr. Santos Station
 ---
 
 Here,  

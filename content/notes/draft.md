@@ -1,16 +1,14 @@
 ---
+title: Draft
+created: 2024-06-26 11:44:09+08:00
+modified: 2026-08-01T14:44:19+08:00
 aliases:
   - Draft
-created: 2024-06-26 11:44:09+08:00
-dg-home:
-dg-publish: true
 draft: false
-modified: 2026-08-01T14:44:19+08:00
 publish: true
 tags:
   - species/thought
   - status/seedling
-title: Draft
 ---
 Draft is a category of a wide variety of materials that are unified by not being printed or published. A select number of drafts are kept in archives. However, the bulk of materials considered drafts are never archived. The majority have been forgotten or purposefully destroyed. In the electronic age, drafts also include even the tiny revisions we make in electronic files that may or may not have been tracked. This category also includes thoughts and experiences that were never written down.
 

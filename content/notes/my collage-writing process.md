@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: My collage-writing process
 created: 2025-04-15 14:18:06+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-04-15 15:05:37+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My collage-writing process
 ---
 
 - Collecting quotes and materials

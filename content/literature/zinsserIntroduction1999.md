@@ -1,16 +1,14 @@
 ---
+title: “Introduction” by William Zinsser
+created: 2025-11-30 12:11:00+08:00
+modified: 2025-11-30 12:11:21+08:00
 aliases:
 - “Introduction” by William Zinsser
-created: 2025-11-30 12:11:00+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-30 12:11:21+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: “Introduction” by William Zinsser
 ---
 
 # Citation

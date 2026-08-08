@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: 2024 monthly reports
 created: 2024-12-02 10:12:11+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-12-13 10:39:15+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/log
 - status/evergreen
-title: 2024 monthly reports
 ---
 
 Here are my [[monthly reports|monthly reports]] for 2024.

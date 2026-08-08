@@ -1,18 +1,16 @@
 ---
+title: Tiny Drops
+created: 2024-03-18 16:20:40+08:00
+modified: 2026-05-28 08:05:28+08:00
 aliases:
 - Tiny Drops
-created: 2024-03-18 16:20:40+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-28 08:05:28+08:00
 publish: true
 tags:
 - species/poem
 - newsletter/tlw
 - status/evergreen
 - status/seedling
-title: Tiny Drops
 ---
 
 I hear the tiny drops of rain  

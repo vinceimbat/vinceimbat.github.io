@@ -1,19 +1,17 @@
 ---
+title: “I Am the Life and the Resurrection [1910]—An Early Essay by Imaoka Shin’ichirō
+  (1881-1988)” by Andrew James Brown
+created: 2026-04-13 10:29:06+08:00
+modified: 2026-04-13 11:50:23+08:00
 aliases:
 - “I Am the Life and the Resurrection [1910]—An Early Essay by Imaoka Shin’ichirō
   (1881-1988)” by Andrew James Brown
-created: 2026-04-13 10:29:06+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-04-13 11:50:23+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “I Am the Life and the Resurrection [1910]—An Early Essay by Imaoka Shin’ichirō
-  (1881-1988)” by Andrew James Brown
 ---
 
 # Citation

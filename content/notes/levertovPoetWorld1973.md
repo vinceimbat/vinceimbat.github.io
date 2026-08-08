@@ -1,16 +1,14 @@
 ---
+title: The Poet in the World by Denise Levertov
+created: 2025-10-24 09:10:34+08:00
+modified: 2025-10-24 09:10:51+08:00
 aliases:
 - The Poet in the World by Denise Levertov
-created: 2025-10-24 09:10:34+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-10-24 09:10:51+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: The Poet in the World by Denise Levertov
 ---
 
 # Citation

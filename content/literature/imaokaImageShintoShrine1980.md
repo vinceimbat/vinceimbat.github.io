@@ -1,19 +1,17 @@
 ---
+title: '"The Image of the Shintō Shrine as Drawn by a Free Religionist" by Shin''ichirō
+  Imaoka'
+created: 2025-07-15 10:16:29+08:00
+modified: 2025-07-16 07:27:20+08:00
 aliases:
 - '"The Image of the Shintō Shrine as Drawn by a Free Religionist" by Shin''ichirō
   Imaoka'
-created: 2025-07-15 10:16:29+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-16 07:27:20+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: '"The Image of the Shintō Shrine as Drawn by a Free Religionist" by Shin''ichirō
-  Imaoka'
 ---
 
 # Citation

@@ -1,17 +1,15 @@
 ---
+title: Religion
+created: 2024-06-11 11:50:05+08:00
+modified: 2025-08-02 11:28:29+08:00
 aliases:
 - Religion
 - thoughts/religion
-created: 2024-06-11 11:50:05+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-08-02 11:28:29+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Religion
 ---
 
 - [[Religion is commonly used as a social genus]]

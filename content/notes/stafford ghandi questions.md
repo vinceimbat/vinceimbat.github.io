@@ -1,16 +1,14 @@
 ---
+title: Stafford's Ghandi questions
+created: 2025-11-10 10:36:59+08:00
+modified: 2025-11-10 10:38:45+08:00
 aliases:
 - Stafford's Ghandi questions
-created: 2025-11-10 10:36:59+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-11-10 10:38:45+08:00
 publish: true
 tags:
 - species/thought
 - status/evergreen
-title: Stafford's Ghandi questions
 ---
 
 - Can a good person be a good citizen in a bad country? Is there such a thing?

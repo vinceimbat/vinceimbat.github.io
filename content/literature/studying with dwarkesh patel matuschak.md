@@ -1,15 +1,13 @@
 ---
-aliases: null
+title: Studying with Dwarkesh Patel by Andy Matuschak
 created: 2024-12-09 18:44:59+08:00
-dg-home: null
-dg-publish: true
-draft: false
 modified: 2025-03-26 17:00:23+08:00
+aliases: null
+draft: false
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: Studying with Dwarkesh Patel by Andy Matuschak
 ---
 
 ## Highlights

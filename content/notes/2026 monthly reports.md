@@ -4,8 +4,6 @@ created: 2026-02-01 18:16:12+08:00
 modified: 2026-08-02T10:43:46+08:00
 aliases:
 draft: false
-dg-home:
-dg-publish: true
 publish: true
 tags:
   - species/log

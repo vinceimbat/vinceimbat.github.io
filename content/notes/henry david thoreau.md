@@ -1,18 +1,16 @@
 ---
+title: Henry David Thoreau
+created: 2024-11-24 22:10:46+08:00
+modified: 2025-07-18 22:29:48+08:00
 aliases:
 - thoughts/henry-david-thoreau
 - Henry David Thoreau
 - Thoreau
-created: 2024-11-24 22:10:46+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-18 22:29:48+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Henry David Thoreau
 ---
 
 # Why was Thoreau so in love with Nature?

@@ -1,16 +1,14 @@
 ---
+title: A mystery is something in which I am myself involved by Brown
+created: 2025-05-10 11:45:31+08:00
+modified: 2025-05-10 12:01:57+08:00
 aliases:
 - A mystery is something in which I am myself involved by Brown
-created: 2025-05-10 11:45:31+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-05-10 12:01:57+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
-title: A mystery is something in which I am myself involved by Brown
 ---
 
 # Highlights

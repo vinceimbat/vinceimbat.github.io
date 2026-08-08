@@ -1,19 +1,17 @@
 ---
+title: “We Are at Home Anywhere That We Can Live by the Spirit — Thinking Some More
+  through ‘No-Position.’” by Andrew James Brown
+created: 2026-01-28 10:56:52+08:00
+modified: 2026-02-04 13:55:20+08:00
 aliases:
 - “We Are at Home Anywhere That We Can Live by the Spirit — Thinking Some More through
   ‘No-Position.’” by Andrew James Brown
-created: 2026-01-28 10:56:52+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-04 13:55:20+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “We Are at Home Anywhere That We Can Live by the Spirit — Thinking Some More
-  through ‘No-Position.’” by Andrew James Brown
 ---
 
 # Citation

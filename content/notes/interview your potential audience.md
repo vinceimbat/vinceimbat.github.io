@@ -1,16 +1,14 @@
 ---
+title: Interview your potential audience
+created: 2024-05-09 11:24:59+08:00
+modified: 2026-03-13 16:21:29+08:00
 aliases:
 - Interview your potential audience
-created: 2024-05-09 11:24:59+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-13 16:21:29+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Interview your potential audience
 ---
 
 There are many benefits to interviewing your potential audience.

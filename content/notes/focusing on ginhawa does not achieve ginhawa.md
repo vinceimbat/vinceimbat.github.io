@@ -1,16 +1,14 @@
 ---
+title: Focusing on Ginhawa does not achieve Ginhawa
+created: 2024-10-11 09:48:11+08:00
+modified: 2025-12-12 21:46:57+08:00
 aliases:
 - Focusing on Ginhawa does not achieve Ginhawa
-created: 2024-10-11 09:48:11+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-12 21:46:57+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Focusing on Ginhawa does not achieve Ginhawa
 ---
 
 Abraham Maslow seems to suggest that while [[purpose]] should be an overarching theme of one’s life, a [[mental state]] such as happiness couldn’t be the purpose.

@@ -1,16 +1,14 @@
 ---
+title: Inboxes to capture seeds
+created: 2024-10-17 15:52:54+08:00
+modified: 2025-04-30 10:38:18+08:00
 aliases:
 - Inboxes to capture seeds
-created: 2024-10-17 15:52:54+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-04-30 10:38:18+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Inboxes to capture seeds
 ---
 
 I capture [[notes/seeds]] into three inboxes:

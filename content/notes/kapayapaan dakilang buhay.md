@@ -1,17 +1,15 @@
 ---
+title: Kapayapaan, Dakilang Buhay
+created: 2026-01-28 09:43:16+08:00
+modified: 2026-01-28 09:53:30+08:00
 aliases:
 - Kapayapaan, Dakilang Buhay
-created: 2026-01-28 09:43:16+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-01-28 09:53:30+08:00
 publish: true
 tags:
 - species/meditation
 - language/filipino
 - status/seedling
-title: Kapayapaan, Dakilang Buhay
 ---
 
 Simple at maikli ang proseso subalit tinutuhog nito ang ilang masalimuot na bahagi ng aking kasalukuyang spiritualidad.

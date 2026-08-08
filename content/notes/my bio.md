@@ -1,17 +1,15 @@
 ---
+title: My bio
+created: 2024-11-23 08:22:20+08:00
+modified: 2026-04-18 09:45:03+08:00
 aliases:
 - thoughts/my-bio
 - My bio
-created: 2024-11-23 08:22:20+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-04-18 09:45:03+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: My bio
 ---
 
 # GBL 2024

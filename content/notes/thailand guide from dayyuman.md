@@ -4,8 +4,6 @@ created: 2025-03-03T17:28:19+08:00
 modified: 2025-04-04T15:53:12+08:00
 aliases: 
 draft: false
-dg-home: 
-dg-publish: 
 tags:
   - species/thought
   - status/evergreen

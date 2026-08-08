@@ -1,17 +1,15 @@
 ---
+title: Kasabi Kaagwan
+created: 2024-09-01 23:25:03+08:00
+modified: 2025-12-21 11:26:10+08:00
 aliases:
 - Kasabi Kaagwan
-created: 2024-09-01 23:25:03+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-21 11:26:10+08:00
 publish: true
 tags:
 - language/pangasinan
 - status/seedling
 - species/outline
-title: Kasabi Kaagwan
 ---
 
 Koleksyon na an-anlong ko ed Pangasinan.

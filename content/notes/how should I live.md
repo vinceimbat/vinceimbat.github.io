@@ -1,16 +1,14 @@
 ---
+title: How should I live?
+created: 2024-07-22 17:19:39+08:00
+modified: 2025-12-13 09:54:27+08:00
 aliases:
 - How should I live?
-created: 2024-07-22 17:19:39+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-12-13 09:54:27+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: How should I live?
 ---
 
 This is an "ethical" question (i.e., a question about how one ought to act based on justifications that represent one's beliefs on what is right or wrong). It is different from the question [[how to live|"How to live?"]]. It presupposes that there is a certain way that one “must” live.

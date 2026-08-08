@@ -1,17 +1,15 @@
 ---
+title: '"My Position on Jiyū Shūkyō" by Shin''ichirō Imaoka'
+created: 2025-07-19 09:20:05+08:00
+modified: 2025-07-25 15:17:10+08:00
 aliases:
 - '"My Position on Jiyū Shūkyō" by Shin''ichirō Imaoka'
-created: 2025-07-19 09:20:05+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2025-07-25 15:17:10+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: '"My Position on Jiyū Shūkyō" by Shin''ichirō Imaoka'
 ---
 
 # Citation
@@ -71,7 +69,7 @@ Two subjects Shin'ichirō Imaoka taught upon returning to Japan after studying i
 <!--SR:!2028-05-11,694,290-->
 
 School where Shin'ichirō Imaoka taught after returning to Japan from Harvard. :: Nihon University
-<!--SR:!2026-08-08,17,190-->
+<!--SR:!2026-09-09,32,190-->
 
 Researcher who Shin'ichirō Imaoka accompanied throughout Japan to study shinto. :: J. W. T. Mason
 <!--SR:!2026-08-09,124,270-->

@@ -1,16 +1,14 @@
 ---
+title: Twenty-nine
+created: 2024-11-24 22:13:07+08:00
+modified: 2026-05-28 08:18:09+08:00
 aliases:
 - Twenty-nine
-created: 2024-11-24 22:13:07+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-28 08:18:09+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Twenty-nine
 ---
 
 A gift is something  

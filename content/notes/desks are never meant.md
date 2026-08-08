@@ -1,16 +1,14 @@
 ---
+title: Desks Are Never Meant
+created: 2026-04-14 11:32:39+08:00
+modified: 2026-04-14 11:37:53+08:00
 aliases:
 - Desks Are Never Meant
-created: 2026-04-14 11:32:39+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-04-14 11:37:53+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Desks Are Never Meant
 ---
 
 thousands of desks

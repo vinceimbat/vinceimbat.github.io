@@ -1,17 +1,15 @@
 ---
+title: How to convert literature notes to permanent notes
+created: 2024-10-23 22:11:06+08:00
+modified: 2025-05-01 11:44:20+08:00
 aliases:
 - How-to-convert-literature-notes-to-permanent-notes
 - how to convert literature notes to permanent notes
-created: 2024-10-23 22:11:06+08:00
-dg-home: null
-dg-publish: true
 draft: null
-modified: 2025-05-01 11:44:20+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: How to convert literature notes to permanent notes
 ---
 
 Per [[my note-writing rules]], I try to avoid writing new [[notes/evergreens|evergreen]] notes as much as possible to avoid maintenance burden.

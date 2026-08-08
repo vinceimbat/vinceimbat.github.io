@@ -1,16 +1,14 @@
 ---
+title: Be The Gateway process
+created: 2026-03-11 10:21:55+08:00
+modified: 2026-03-13 11:49:51+08:00
 aliases:
 - Be The Gateway process
-created: 2026-03-11 10:21:55+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-03-13 11:49:51+08:00
 publish: true
 tags:
 - species/thought
 - status/seedling
-title: Be The Gateway process
 ---
 
 # Objective

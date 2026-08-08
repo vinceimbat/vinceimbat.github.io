@@ -1,17 +1,15 @@
 ---
+title: “The Tenth Day - Reinforcement through Fellowship” by Harrington
+created: 2026-02-27 22:03:57+08:00
+modified: 2026-02-27 22:07:16+08:00
 aliases:
 - “The Tenth Day - Reinforcement through Fellowship” by Harrington
-created: 2026-02-27 22:03:57+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-02-27 22:07:16+08:00
 publish: true
 tags:
 - species/literature
 - status/seedling
 - species/flashcards
-title: “The Tenth Day - Reinforcement through Fellowship” by Harrington
 ---
 
 # Citation

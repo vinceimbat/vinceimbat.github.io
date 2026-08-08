@@ -1,16 +1,14 @@
 ---
+title: Fog
+created: 2024-08-28 14:29:03+08:00
+modified: 2026-05-08 09:58:00+08:00
 aliases:
 - Fog
-created: 2024-08-28 14:29:03+08:00
-dg-home: null
-dg-publish: true
 draft: false
-modified: 2026-05-08 09:58:00+08:00
 publish: true
 tags:
 - species/poem
 - status/seedling
-title: Fog
 ---
 
 The rain that should have fallen  
