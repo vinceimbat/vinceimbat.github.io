@@ -12,7 +12,7 @@ tags:
 title: Pangasinan words related to walking
 ---
 
-Here are some Pangasinan words from the [[cosgaya dictionary|Cosgaya dictionary]] (and counterchecked in the [[benton dictionary|Benton dictionary]]) related to walking.
+Here are some Pangasinan words from the [[cosgayaDiccionarioPangasinanEspanol1865|Cosgaya dictionary]] (and counterchecked in the [[benton dictionary|Benton dictionary]]) related to walking.
 
 # Related
 

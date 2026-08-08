@@ -1,20 +1,15 @@
 ---
-aliases:
-- literature/bluets-nelson
-- Bluets by Maggie Nelson
-- Bluets by Nelson
+title: Bluets by Maggie Nelson
 created: 2024-08-24 14:14:40+08:00
-dg-home: null
-dg-publish: true
+modified: 2026-08-08T09:35:35+08:00
+aliases:
+  - Bluets by Maggie Nelson
 draft: false
-modified: 2025-04-15 14:59:47+08:00
 publish: true
 tags:
-- species/literature
-- status/seedling
-title: Bluets by Maggie Nelson
+  - species/literature
+  - status/seedling
 ---
-
 # Highlights
 
 

@@ -12,7 +12,7 @@ tags:
 title: Laineng ed Casborran by Melchor Orpilla
 ---
 
-This book is the first self-published poetry book by [[melchor orpilla|Melchor Orpilla]]. Among all the poetry books in [[notes/pangasinan|Pangasinan]] I read, this book is the most experimental and wide-ranging. However, it uses a lot of unfamiliar words that one needs an access to a good Pangasinan dictionary (e.g., [[cosgaya dictionary|Cosgaya dictionary]] or [[benton dictionary|Benton dictionary]]) to understand a poem. Accessing a Pangasinan dictionary is, of course, difficult.
+This book is the first self-published poetry book by [[melchor orpilla|Melchor Orpilla]]. Among all the poetry books in [[notes/pangasinan|Pangasinan]] I read, this book is the most experimental and wide-ranging. However, it uses a lot of unfamiliar words that one needs an access to a good Pangasinan dictionary (e.g., [[cosgayaDiccionarioPangasinanEspanol1865|Cosgaya dictionary]] or [[benton dictionary|Benton dictionary]]) to understand a poem. Accessing a Pangasinan dictionary is, of course, difficult.
 
 The book is wide in its range of topics and touches on Kuya Mel's life as an OFW in the Middle East and in Japan. It also includes some poems about the Duterte years.
 

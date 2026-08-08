@@ -1,17 +1,30 @@
 ---
-aliases:
-- Cosgaya dictionary
+title: Diccionario Pangasinan-Español by Lorenzo Fernandez Cosgaya
 created: 2024-08-19
-dg-home: null
-dg-publish: true
+modified: 2026-08-08T09:36:49+08:00
+aliases:
+  - Cosgaya dictionary
+  - notes/cosgaya-dictionary
+  - Diccionario Pangasinan-Español by Lorenzo Fernandez Cosgaya
 draft: false
-modified: 2025-05-01 16:33:54+08:00
 publish: true
 tags:
-- species/literature
-- status/seedling
-title: Cosgaya dictionary
+  - species/literature
+  - status/seedling
 ---
+# Citation
+
+Cosgaya, Lorenzo Fernandez. _Diccionario Pangasinan-Español_. Establecimiento Tipografico del Colegio de Santo Tomas, 1865.
+
+# Quotes
+
+- species:
+- themes:
+
+# Collations
+
+
+# Literature notes
 
 This is perhaps the oldest and most comprehensive dictionary of the [[notes/pangasinan|Pangasinan]] language. Compared to the [[benton dictionary|Benton dictionary]], it has more words. However, most of the words contained in this volume are no longer used, making the bulk of this tome a historical reference.
 
@@ -22,6 +35,4 @@ I used this reference while developing a personal essay about different ways to 
 - [[ways of walking in pangasinan alphabetical|ways of walking in Pangasinan alphabetical]]
 - [[ways of walking in pangasinan topical|ways of walking in Pangasinan topical]]
 
-# References
-
-Cosgaya, Lorenzo Fernandez. _Diccionario Pangasinan-Español_. Establecimiento Tipografico del Colegio de Santo Tomas, 1865.
+# Prompts
