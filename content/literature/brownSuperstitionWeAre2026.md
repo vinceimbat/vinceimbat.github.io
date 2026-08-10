@@ -81,7 +81,7 @@ Tell the story of the sacrifice of Iphigenia.
 8. Clytemnestra murders Agamemnon years later in revenge.
 ?
 Greek fleet sails for Troy.
-<!--SR:!2026-08-09,98,290-->
+<!--SR:!2027-05-20,284,290-->
 
 Tell the story of the sacrifice of Iphigenia.
 1. Greek fleet sails for Troy.

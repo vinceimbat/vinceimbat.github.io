@@ -23,7 +23,7 @@ Century when Giovanni Boccaccio lived :: 14th century CE
 <!--SR:!2026-08-16,13,150-->
 
 Where was the setting of The Decameron :: Florence, Italy
-<!--SR:!2026-08-09,374,290-->
+<!--SR:!2027-02-12,187,270-->
 
 What was the social setting of The Decameron :: The Black Death
 <!--SR:!2028-04-06,786,290-->

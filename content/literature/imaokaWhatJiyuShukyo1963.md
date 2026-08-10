@@ -72,7 +72,7 @@ Per Imaoka, what have most conservatives and traditionalists done to supposed dy
 <!--SR:!2027-12-08,581,290-->
 
 Give examples of Western religious leaders Imaoka considers free-religionists. (Hint: Bugalion) :: Jesus, George Fox (Quakers), Martin Luther (Protestants)
-<!--SR:!2026-08-09,61,170-->
+<!--SR:!2026-11-24,107,170-->
 
 Give examples of Buddhist religious leaders Imaoka considers free-religionists.
 -

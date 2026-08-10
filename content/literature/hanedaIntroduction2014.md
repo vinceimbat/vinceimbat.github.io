@@ -135,7 +135,7 @@ Per Shin Buddhism, what can deny the self and liberate people? :: Dharma
 <!--SR:!2027-04-05,469,310-->
 
 Per Shin Buddhism, how does the Dharma liberate people from the self? :: Takes the form of things beyond its control and challenges it.
-<!--SR:!2026-08-09,184,210-->
+<!--SR:!2027-08-30,386,210-->
 
 How does humility and freedom go hand in hand in Buddhism? :: Humility leads to selflessness, which leads to freedom.
 <!--SR:!2026-09-01,38,172-->

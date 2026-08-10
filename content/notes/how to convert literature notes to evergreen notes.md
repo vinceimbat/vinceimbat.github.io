@@ -1,17 +1,16 @@
 ---
 title: How to convert literature notes to permanent notes
 created: 2024-10-23 22:11:06+08:00
-modified: 2025-05-01 11:44:20+08:00
+modified: 2026-08-09T20:26:17+08:00
 aliases:
-- How-to-convert-literature-notes-to-permanent-notes
-- how to convert literature notes to permanent notes
-draft: null
+  - How-to-convert-literature-notes-to-permanent-notes
+  - how to convert literature notes to permanent notes
+draft:
 publish: true
 tags:
-- species/thought
-- status/seedling
+  - species/thought
+  - status/seedling
 ---
-
 Per [[my note-writing rules]], I try to avoid writing new [[notes/evergreens|evergreen]] notes as much as possible to avoid maintenance burden.
 
 # Criteria
@@ -20,7 +19,7 @@ However, some conditions could convince me to write one:
 
 - when it involves articulating my processes
 - when it involves articulating elements of my [[talahardin]] and my larger [[life management system]] (LMS)
-- when it is a large subject or insight I want to pursue further, meriting the creation of an [[notes/outline]] note
+- when it is a large subject or insight I want to pursue further, meriting the creation of an [[outline]] note
 
 # Process
 
@@ -30,7 +29,7 @@ When it is necessary for me to write an evergreen note, I simply review my [[lit
 - How does this cluster influence how I use the talahardin or my LMS?
 - How does this cluster connect or relate to a learning project or a line of thought I'm currently exploring?
 
-Sometimes, while writing literature notes, answers to these questions naturally emerge. When this occurs, I could two either of two things. I could create a separate evergreen note out of what I've written. Sometimes, a cluster is already well-written that I could simply pluck it off. But this only happens if the insight is significant or large enough to merit writing an [[notes/outline]], for example, or if it relates to articulating my processes or elements in my talahardin or LMS. When the insight doesn't fulfill any of these, I simply highlight it then index it to an [[index of insights]].
+Sometimes, while writing literature notes, answers to these questions naturally emerge. When this occurs, I could two either of two things. I could create a separate evergreen note out of what I've written. Sometimes, a cluster is already well-written that I could simply pluck it off. But this only happens if the insight is significant or large enough to merit writing an [[outline]], for example, or if it relates to articulating my processes or elements in my talahardin or LMS. When the insight doesn't fulfill any of these, I simply highlight it then index it to an [[index of insights]].
 
 It is important to remember that when writing evergreen notes from literature notes, one should always aspire to articulate one's own thinking about the subject and should always try to get out of the thinking of the author of a material, which is what literature notes capture. Therefore, when I write evergreen notes, I try to move away from the material's structure and concepts. I create my own concepts and structures based on my individual mental models. Given the limits of my context of use for my talahardin and LMS, this doesn't often happen.
 

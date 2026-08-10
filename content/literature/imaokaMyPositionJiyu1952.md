@@ -72,7 +72,7 @@ School where Shin'ichirō Imaoka taught after returning to Japan from Harvard. :
 <!--SR:!2026-09-09,32,190-->
 
 Researcher who Shin'ichirō Imaoka accompanied throughout Japan to study shinto. :: J. W. T. Mason
-<!--SR:!2026-08-09,124,270-->
+<!--SR:!2027-07-08,333,270-->
 
 Years Shin'ichirō Imaoka accompanied Mason to study Shinto throughout Japan. :: (1932–1940)
 <!--SR:!2026-11-12,147,230-->

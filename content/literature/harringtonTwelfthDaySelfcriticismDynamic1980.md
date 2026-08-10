@@ -56,4 +56,4 @@ Per the Weimans, growing requires balance between these two:
 ?
 1. Dissatisfaction with one's self.
 2. Awaiting the realization of great potential.
-<!--SR:!2026-08-09,25,170-->
+<!--SR:!2026-09-21,43,170-->

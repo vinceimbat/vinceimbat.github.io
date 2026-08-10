@@ -143,7 +143,7 @@ John McNeill ::: Jesuit priest who wrote "The Church and the Homosexual"
 <!--SR:!2025-07-10,3,250!2000-01-01,1,250-->
 
 Most popular book written by the Jesuit priest John McNeill. :: "The Church and the Homosexual"
-<!--SR:!2026-08-09,224,250-->
+<!--SR:!2028-02-19,559,250-->
 
 What does John McNeil's book *The Church and the Homosexual* argue :: The Bible does not condemn homosexuality.
 <!--SR:!2028-01-15,632,310-->
