@@ -42,7 +42,7 @@ Per Tenkō-san, in his Saying 21, why do problems exist? :: One has not died com
 <!--SR:!2026-08-13,12,250-->
 
 Per Tenkō-san, in Saying 15, what is true repentance? :: The great death of self-attachment.
-<!--SR:!2026-08-10,4,130-->
+<!--SR:!2026-08-15,5,130-->
 
 Per Tenkō-san, how can our ego-selves be destroyed? :: By "taking the lower seat"
 <!--SR:!2026-10-15,98,270-->

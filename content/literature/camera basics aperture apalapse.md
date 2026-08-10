@@ -35,7 +35,7 @@ Why does a larger f-stop number translate to a smaller aperture? :: The f-stop n
 <!--SR:!2027-05-04,322,230-->
 
 Why is the max aperture size of a lens more important than the minimum aperture size? :: It determines the lens' speed.
-<!--SR:!2026-08-10,94,230-->
+<!--SR:!2027-03-14,216,230-->
 
 Why should you avoid large f-stop numbers? :: Blurs images.
 <!--SR:!2026-09-05,42,190-->

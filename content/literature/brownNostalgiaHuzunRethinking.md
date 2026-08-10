@@ -31,7 +31,7 @@ Brown, Andrew James. “From Nostalgia to Hüzün: Rethinking Our Free-Religious
 # Prompts
 
 Turkish writer who expounded about *hüzün*. :: Orhan Pamuk
-<!--SR:!2026-08-10,18,170-->
+<!--SR:!2026-09-24,45,190-->
 
 Per Orhan Pamuk, what is *hüzün*? :: Cultural nostalgia felt while living in the ruins of a once great empire.
 <!--SR:!2026-10-16,190,270-->

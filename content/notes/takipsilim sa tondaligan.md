@@ -79,7 +79,7 @@ Per Andrew James Brown, the two roles of the "Principles of Living" in the life 
 2.
 ?
 Remind us of kiitsu.
-<!--SR:!2026-08-10,171,310-->
+<!--SR:!2026-11-04,86,290-->
 
 Per Andrew James Brown, the two roles of the "Principles of Living" in the life of a free-religionist:
 ?

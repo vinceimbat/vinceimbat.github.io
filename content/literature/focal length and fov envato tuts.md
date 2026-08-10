@@ -78,7 +78,7 @@ When positioned at a particular point and you want to take a wider image of a bu
 3. Use a lens with a shorter focal length.
 ?
 Take multiple images of the building and combine them via Photoshop.
-<!--SR:!2026-08-10,226,290-->
+<!--SR:!2028-05-26,655,290-->
 
 When positioned at a particular point and you want to take a wider image of a building, you could:
 1. Take multiple images of the building and combine them via Photoshop.

@@ -214,7 +214,7 @@ Per Imaoka, when religions embody true freedom, what happens to their traditiona
 <!--SR:!2027-04-15,273,290-->
 
 Per Imaoka, what religion did Jesus and Shakyamuni truly practiced? :: jiyū shūkyō
-<!--SR:!2026-08-10,290,330-->
+<!--SR:!2030-03-22,1320,350-->
 
 Per Imaoka, what is the scope to aspire for when looking for spiritual forebears of jiyū shūkyō? :: As wide as possible.
 <!--SR:!2029-07-26,1132,350-->

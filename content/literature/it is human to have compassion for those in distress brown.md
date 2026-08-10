@@ -35,7 +35,7 @@ In The Decameron, how many women were part of the group that went to a two-week 
 <!--SR:!2029-04-07,1033,310-->
 
 In The Decameron, how many men were part of the group that went to a two-week retreat in a villa away from The Black Death? :: 3
-<!--SR:!2026-08-10,54,210-->
+<!--SR:!2027-01-17,160,230-->
 
 For Hannah Arendt, escaping reality is justified as long as ==reality is acknowledged as the thing that must be escaped.==
 <!--SR:!2027-05-26,528,250-->

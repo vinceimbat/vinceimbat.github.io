@@ -1,7 +1,7 @@
 ---
 title: Manañgili Project
 created: 2026-08-08T19:06:53+08:00
-modified: 2026-08-09T21:19:02+08:00
+modified: 2026-08-10T15:30:33+08:00
 aliases:
   - Manañgili Project
 draft: false
@@ -65,3 +65,10 @@ Procedure
 ## Reading list
 
 [[manangili project reading list|Manañgili project reading list]]
+
+## Other research questions
+
+- Any contemporary writer reconceptualizing the pilgrimage? What works have they produced?
+- How does one perform a pilgrimage inspired by jiyū shūkyō?
+- History of pilgrimage in the Philippines?
+- Filipino writers working on pilgrimage?

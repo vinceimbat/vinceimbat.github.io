@@ -73,7 +73,7 @@ Per de Borja, since Diogenes may haven't left the Greek-speaking world, what did
 2.
 ?
 Renunciation of the values of the polis.
-<!--SR:!2026-08-10,65,270-->
+<!--SR:!2026-09-11,32,250-->
 
 Per de Borja, Diogenes' version of cosmopolitanism was ==proto-anarchic==.
 <!--SR:!2026-10-18,79,250-->
