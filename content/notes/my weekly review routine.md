@@ -1,7 +1,7 @@
 ---
 title: My weekly review routine
 created: 2024-11-26 14:51:19+08:00
-modified: 2026-08-07T15:47:56+08:00
+modified: 2026-08-10T21:10:07+08:00
 aliases:
   - My weekly review routine
 draft:
@@ -38,4 +38,3 @@ Schedule: Monday, afternoon
 - Review High priority tasks: Check accomplished tasks, schedule tasks, or convert tasks to Medium priority.
 - Review Medium priority tasks: Check if any can be converted to High priority tasks and schedule them.
 - Empty trashes.
-- Review my DIY MFA pie and determine if I need to adjust it.

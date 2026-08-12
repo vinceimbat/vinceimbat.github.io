@@ -1,7 +1,7 @@
 ---
 title: Library
 created: 2024-12-02 10:42:50+08:00
-modified: 2026-07-29T22:25:36+08:00
+modified: 2026-08-12T11:27:46+08:00
 aliases:
   - reading-list
   - thoughts/library
@@ -21,6 +21,7 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 
 # 2026
 
+- [[2026-08-12]]: [[deborjaDustContactThat2026|The Dust of a Contact That Is Everywhere by Raymond de Borja]] ★★
 - [[2026-07-29]]: [[corderoSelectedPoemsInterviews2022|Selected Poems and Interviews by Kristian Sendon Cordero]] ★
 - [[2026-07-16]]: [[perkinsZeroGettingAll2020|Die With Zero by Bill Perkins]]
 - [[2026-07-08]]: [[cruzPartialViewsEssay2021|Partial Views by Conchitina Cruz]] ★★

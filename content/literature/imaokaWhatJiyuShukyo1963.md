@@ -42,7 +42,7 @@ The most radical form of jiyū shūkyō per Imaoka. :: Bahá’ísm
 <!--SR:!2028-06-28,795,330-->
 
 Year Imaoka attempted to visit a Bahá’í Faith headquarters. :: 1961
-<!--SR:!2026-08-11,4,170-->
+<!--SR:!2026-08-13,2,150-->
 
 The Bahá’í Faith headquarters Imaoka attempted to visit was located in ==Haifa, northern Israel== (hint: UPB batchmate).
 <!--SR:!2026-12-04,198,250-->
@@ -51,7 +51,7 @@ Per Imaoka, what could make a free-religion ossified and restrictive over time? 
 <!--SR:!2026-11-19,293,250-->
 
 Concerning a religion's organization and form, what are two errors to make per Imaoka? :: To disregard or overemphasize them.
-<!--SR:!2026-08-12,286,330-->
+<!--SR:!2027-01-03,144,310-->
 
 Metaphor Imaoka used to explain the relevance of form in religion. :: Life
 <!--SR:!2028-12-07,875,330-->
@@ -133,7 +133,7 @@ Per Imaoka, what forms of conflicts lead to "a higher-order and truer harmony an
 <!--SR:!2026-09-20,54,190-->
 
 The general prerequisite Imaoka laid to consider a form of human activity sacred and religious. :: It involves the expression and development of human nature.
-<!--SR:!2026-08-12,23,170-->
+<!--SR:!2026-09-20,39,170-->
 
 Per Imaoka, when secular human activities are considered religion, it is simple to do what with the term "religion"? :: Abolish it.
 <!--SR:!2029-12-30,1250,350-->

@@ -116,7 +116,7 @@ Present the four religious or spiritual tendencies, paths, or disciplines in the
 - rāja yoga -> the intuitional
 - bhakti yoga -> the emotional
 - karma yoga -> the sensate
-<!--SR:!2026-08-12,26,145-->
+<!--SR:!2026-09-19,38,145-->
 
 Time frame of the rational (thinking type). :: linear
 <!--SR:!2027-11-18,547,270-->

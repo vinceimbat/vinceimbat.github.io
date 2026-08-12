@@ -135,13 +135,13 @@ gag :: n. cloth placed on a person's mouth to prevent them from speaking
 <!--SR:!2026-12-17,360,295-->
 
 gaudy (hint: Jen's blue rice) :: adj. extravagant or tasteless showiness
-<!--SR:!2026-08-11,5,130-->
+<!--SR:!2026-08-18,7,130-->
 
 geld (hint: Doji) :: v. to castrate (an animal); to deprive of an essential part
 <!--SR:!2027-05-24,384,209-->
 
 glen :: n. a narrow valley
-<!--SR:!2026-08-12,60,269-->
+<!--SR:!2027-03-25,225,289-->
 
 goatherd :: n. one who tends goats
 <!--SR:!2028-05-20,853,349-->
@@ -186,7 +186,7 @@ knell - solemn sound of a bell (death)
 # L
 
 languor :: n. weariness
-<!--SR:!2026-08-11,20,170-->
+<!--SR:!2026-08-21,10,150-->
 
 largesse :: n. generosity
 <!--SR:!2026-09-29,67,189-->
@@ -373,7 +373,7 @@ vilify :: v. to defame
 <!--SR:!2026-08-13,8,130-->
 
 voile :: n. thin, semitransparent fabric
-<!--SR:!2026-08-12,104,150-->
+<!--SR:!2026-10-03,52,130-->
 
 # W
 

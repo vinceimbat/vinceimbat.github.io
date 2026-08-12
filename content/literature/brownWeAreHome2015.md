@@ -40,7 +40,7 @@ Per Paul Wienpahl, reality is ==what you experience it to be==.
 <!--SR:!2026-08-30,56,270-->
 
 Per Paul Wienpahl, being a ==man without a position== should open the door to detachment.
-<!--SR:!2026-08-11,133,290-->
+<!--SR:!2028-01-28,535,310-->
 
 Per Paul Wienpahl, being a man without a position should open the door to ==detachment==.
 <!--SR:!2026-08-25,72,270-->

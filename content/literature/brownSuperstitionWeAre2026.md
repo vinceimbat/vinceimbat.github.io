@@ -199,4 +199,4 @@ What is the primary subject of De Rerum Natura? :: The hold of superstitious rel
 <!--SR:!2026-11-29,185,310-->
 
 What is Lucretius' antidote to superstitious religion? :: Clear-eyed observation of the world to truly see the nature of things.
-<!--SR:!2026-08-12,17,210-->
+<!--SR:!2026-09-17,36,210-->

@@ -463,7 +463,7 @@ Per Cervantes (2025), transpersonal psychology has three characteristics:
 <!--SR:!2027-12-23,564,272-->
 
 Decade when indigenous psychology emerged. :: 1970s
-<!--SR:!2026-08-11,67,172-->
+<!--SR:!2026-12-02,113,172-->
 
 Per Pe-Pua (2015), what triggered indigenous psychology to emerge? :: Universalist assertions of mainstream Western psychology
 <!--SR:!2026-09-24,295,292-->

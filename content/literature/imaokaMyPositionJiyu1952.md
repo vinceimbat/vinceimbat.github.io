@@ -30,7 +30,7 @@ Imaoka, Shin’ichirō. _My Position on Jiyū Shūkyō_. Translated by Andrew Ja
 # Prompts
 
 Year Shin'ichirō Imaoka was baptized as a Christian :: 1897
-<!--SR:!2026-08-12,10,150-->
+<!--SR:!2026-08-27,15,150-->
 
 Japanese derogatory term for Christians. :: Yaso
 <!--SR:!2027-04-22,369,290-->
@@ -111,7 +111,7 @@ What is Shin'ichirō Imaoka's position on disciples or followers? :: Teachers sh
 <!--SR:!2026-09-17,41,230-->
 
 Shin'ichirō Imaoka suggests that both salvation and enlightenment could only be found where? :: In love that struggles with the people.
-<!--SR:!2026-08-12,47,190-->
+<!--SR:!2026-09-05,24,170-->
 
 Per Shin'ichirō Imaoka, because jiyū shūkyō considers individual and collective salvation to be inseparable, the ==church/kyokai== is absolutely necessary.
 <!--SR:!2027-10-05,550,310-->

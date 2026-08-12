@@ -81,7 +81,7 @@ To emphasize they don't fear death Epicureans are widely know to say what? :: De
 <!--SR:!2027-06-21,458,270-->
 
 Where did Epicureans engraved "death is nothing to us" to remind them not to fear death? :: Signet rings and hand mirrors
-<!--SR:!2026-08-12,204,270-->
+<!--SR:!2028-09-19,769,290-->
 
 How does an Epicurean's lack of fear for death influence how they approach life? :: They want to fully enjoy it with others.
 <!--SR:!2026-10-10,320,290-->

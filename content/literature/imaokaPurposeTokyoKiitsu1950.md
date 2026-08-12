@@ -114,7 +114,7 @@ Per Imaoka, a free-religious person's choice to be transdenominational arises fr
 <!--SR:!2026-08-25,99,250-->
 
 Per Imaoka, a true cooperative community and kyōkai can only be realized through the gathering of ==people with an autonomous faith==.
-<!--SR:!2026-08-11,170,250-->
+<!--SR:!2027-10-10,425,250-->
 
 Per Imaoka, in jiyū shūkyō, why is absolute transcendence of denominations impossible? :: Jiyu shukyo is a trans-denominational denomination.
 <!--SR:!2026-11-03,116,270-->

@@ -61,7 +61,7 @@ Per the Weimans, three ways to be intelligently and devotedly religious:
 <!--SR:!2026-08-26,44,270-->
 
 Per the Weimans, why does "great evils ensue" after the growth of creative interaction? :: People and groups fail to reorganize their lives around the growth.
-<!--SR:!2026-08-12,121,290-->
+<!--SR:!2026-10-09,58,270-->
 
 Two examples of institutions created before the world's current interdependence, which Harrington questions whether they should be changed or superseded.
 1.

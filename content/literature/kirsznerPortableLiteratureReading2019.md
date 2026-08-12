@@ -1,7 +1,7 @@
 ---
 title: Portable Literature by Laurie G. Kirszner and Stephen R. Mandell
 created: 2026-08-10T16:38:14+08:00
-modified: 2026-08-10T17:15:52+08:00
+modified: 2026-08-11T09:15:51+08:00
 aliases:
   - Portable Literature by Laurie G. Kirszner and Stephen R. Mandell
 draft: false
@@ -57,12 +57,20 @@ Imagery could be static (like a painting).
 
 Imagery could be kinetic, conveying a sense of motion or change (like a movie).
 
-Synesthesia occurs when one sense is described in terms of another sense (e.g., describe sound using color).
+Synesthesia is a form of image where in when one sense is described in terms of another sense.
 - I am feeling blue.
 - You look hot!
 - This song is smooth.
 
-Questions to analyze a poem's images.
+Questions to analyze a poem's images:
+- Do the images in the poem appeal to the sense of sight? hearing? taste? touch? smell?
+- Does the poem depend on a single image or on several different images?
+- Does the poem depend on a group of related images?
+- What details make the images memorable?
+- What mood do the images create?
+- Are the images static or kinetic?
+- How do the poem’s images help to convey its theme?
+- How effective are the images? How do they enhance your enjoyment of the poem?
 
 # Prompts
 

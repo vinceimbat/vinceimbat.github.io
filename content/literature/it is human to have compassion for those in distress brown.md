@@ -41,7 +41,7 @@ For Hannah Arendt, escaping reality is justified as long as ==reality is acknowl
 <!--SR:!2027-05-26,528,250-->
 
 In The Decameron, at the end of their two-week retreat in a villa, what did the group decide to do? :: Return to plague-swept Florence
-<!--SR:!2026-08-11,253,230-->
+<!--SR:!2028-03-15,582,230-->
 
 Per Brown (January 19, 2025), what was the purpose of the two-week retreat in a villa of the group in The Decameron? :: To restore their strengths so they can continue to uphold important values.
 <!--SR:!2026-09-10,301,230-->

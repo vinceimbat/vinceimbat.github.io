@@ -120,7 +120,7 @@ Per Shakyamuni Buddha, what was the very cause of suffering? :: The view of a fi
 <!--SR:!2027-09-23,427,270-->
 
 What is anicca in Buddhism? :: Continuous change
-<!--SR:!2026-08-11,109,210-->
+<!--SR:!2026-10-05,55,190-->
 
 Per Shin Buddhism, when does conflict arise? :: When things and people don't meet the expectations of a fixed self.
 <!--SR:!2026-09-08,178,270-->

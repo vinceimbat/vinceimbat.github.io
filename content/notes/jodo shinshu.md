@@ -63,7 +63,7 @@ Who was Shinran's teacher who founded the Japanese Pure Land School? :: Honen
 <!--SR:!2026-10-27,139,310-->
 
 Shinran Shonin simplified Buddhism to what single essential teaching? :: Just recite the nembutsu ("namu amida butsu").
-<!--SR:!2026-08-11,283,290-->
+<!--SR:!2028-11-09,821,290-->
 
 Because of its simplicity, Jōdo Shinshū became very popular among what class? :: Working class
 <!--SR:!2027-08-17,549,330-->
