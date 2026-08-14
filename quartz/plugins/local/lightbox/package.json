@@ -1,0 +1,21 @@
+{
+  "name": "lightbox",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "PhotoSwipe lightbox for content images, with prev/next through every image on the page",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "quartz": {
+    "name": "lightbox",
+    "displayName": "Lightbox",
+    "description": "Click any content image to open a fullscreen PhotoSwipe gallery, navigable across every image on the page",
+    "category": "transformer",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "defaultOrder": 100,
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}

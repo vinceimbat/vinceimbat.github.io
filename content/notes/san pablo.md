@@ -11,7 +11,7 @@ tags:
 - status/seedling
 ---
 
-The destination of my long walk from [[los banos|Los Baños]] on 2022, which became the essay that landed me a spot at the [[anww20|ANWW20]] called [[traversing liminality through walking|Traversing Liminality Through Walking: An Autoethnography]].
+The destination of my long walk from [[los banos|Los Baños]] on 2022, which became the essay that landed me a spot at the [[anww20|ANWW20]] called [[05 essays/traversing liminality through walking|Traversing Liminality Through Walking: An Autoethnography]].
 
 San Pablo's main attraction is the [[sampaloc lake|Sampaloc Lake]].
 

@@ -130,7 +130,7 @@ Per Schneider in WAAWO, what is the ideal ratio of positive and negative comment
 <!--SR:!2029-06-28,1260,350-->
 
 Per Schneider in WAAWO, how should positive and negative comments in a reader's response to an author's writing be positioned in relation to each other? :: Mixed together
-<!--SR:!2026-08-14,427,310-->
+<!--SR:!2031-08-20,1832,330-->
 
 "==Art criticism== is to the ==artist== as ==ornithology== is to the ==birds==." — ==Barnett Newman==
 <!--SR:!2000-01-01,1,250!2025-01-23,3,254!2000-01-01,1,250!2025-01-23,4,270!2000-01-01,1,250-->

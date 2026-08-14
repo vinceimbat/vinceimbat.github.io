@@ -32,7 +32,7 @@ Three key nineteenth-century Hindu thinkers who introduced the four religious or
 -
 ?
 Svāmī Vivekānanda
-<!--SR:!2026-08-13,328,250-->
+<!--SR:!2027-01-27,167,230-->
 
 Four religious or spiritual tendencies, paths, or disciplines in the Hindu tradition:
 -

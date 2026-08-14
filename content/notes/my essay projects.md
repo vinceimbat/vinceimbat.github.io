@@ -40,7 +40,7 @@ tags:
 - Learnings from facilitating Nilay
 - Nurturing a Writing Practice With a Tamed "I"
 - An essay about the WIP experience
-- Revise [[traversing liminality through walking|Traversing Liminality Through Walking: An Autoethnography]]
+- Revise [[05 essays/traversing liminality through walking|Traversing Liminality Through Walking: An Autoethnography]]
 - Kiyozawa and December Fan
 - Write an essay on how I’m integrating my spiritual and literary life.
 - Essay on Aureus' Naguenos

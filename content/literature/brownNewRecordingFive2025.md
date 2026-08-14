@@ -36,7 +36,7 @@ Before you eat or drink anything, consider carefully who you eat or drink with r
 # Prompts
 
 Century Epicurus lived :: 3rd century CE
-<!--SR:!2026-08-14,13,130-->
+<!--SR:!2026-08-30,16,130-->
 
 Greek word referring to the ultimate goal of Epicurean philosophy. :: ataraxia
 <!--SR:!2026-09-01,50,250-->

@@ -57,7 +57,7 @@ Who is the founder of Jōdo Shinshū? :: Shinran Shonin
 <!--SR:!2027-04-17,463,330-->
 
 What century was Jōdo Shinshū founded? :: 13th century CE
-<!--SR:!2026-08-13,31,150-->
+<!--SR:!2026-10-01,49,150-->
 
 Who was Shinran's teacher who founded the Japanese Pure Land School? :: Honen
 <!--SR:!2026-10-27,139,310-->
@@ -72,7 +72,7 @@ Year Nishi Honganji was built. :: 1591
 <!--SR:!2026-09-16,102,170-->
 
 Year Higashi Honganji was built. :: 1604
-<!--SR:!2026-08-14,6,210-->
+<!--SR:!2026-08-17,3,190-->
 
 Who encouraged a split within the Honganji sect in 1602? :: Tokugawa Ieyasu
 <!--SR:!2027-12-03,636,320-->

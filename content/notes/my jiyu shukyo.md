@@ -47,7 +47,7 @@ To make sure that I'm moving with my studies in each area, at any given time, it
 
 # Congruence with my past religious life
 
-The long walk to San Pablo City in 2022, which I wrote about in [[traversing liminality through walking|Traversing Liminality Through Walking: An Autoethnography]] helped me find what was in my past religious life that I still wanted and find a version for this new religious life.
+The long walk to San Pablo City in 2022, which I wrote about in [[05 essays/traversing liminality through walking|Traversing Liminality Through Walking: An Autoethnography]] helped me find what was in my past religious life that I still wanted and find a version for this new religious life.
 
 | Past                                                  | Present                                                                                                                                                                                                                                                                            |
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

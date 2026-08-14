@@ -1,21 +1,21 @@
 ---
 title: Gabi sa Campus
 created: 2024-03-12 17:11:45+08:00
-modified: 2026-05-27 11:21:02+08:00
+modified: 2026-08-14T14:06:06+08:00
 aliases:
-- Gabi sa Campus
+  - Gabi sa Campus
+  - buhian/gabi-sa-campus
 location:
-- 14.165436591278617
-- 121.23656919490905
+  - 14.165436591278617
+  - 121.23656919490905
 draft: false
 publish: true
 tags:
-- species/poem
-- language/filipino
-- status/seedling
-- buhian
+  - species/poem
+  - language/filipino
+  - status/seedling
+  - buhian
 ---
-
 Nangungulila ako  
 sa mga gabing  
 parang akin ang buong campus  

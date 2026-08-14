@@ -1,19 +1,19 @@
 ---
 title: Pure Land
 created: 2024-03-12 17:03:09+08:00
-modified: 2026-01-28 15:16:53+08:00
+modified: 2026-08-14T14:05:01+08:00
 aliases:
-- Pure Land
-locations: null
+  - Pure Land
+  - buhian/babalik
+locations:
 draft: false
 publish: true
 tags:
-- species/poem
-- language/filipino
-- status/seedling
-- buhian
+  - species/poem
+  - language/filipino
+  - status/seedling
+  - buhian
 ---
-
 Kanina  
 sa estasyon ng jeep  
 mahaba ang pila  

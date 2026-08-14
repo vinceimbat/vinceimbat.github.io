@@ -87,7 +87,7 @@ kanban-plugin: board
 	#newsletter
 - [ ] **WEBSITE**
 - [ ] **PUBLICATION**
-- [ ] [[traversing liminality through walking|Traversing Liminality Through Walking]]
+- [ ] [[05 essays/traversing liminality through walking|Traversing Liminality Through Walking]]
 	
 	#publication
 - [ ] **BOOK**

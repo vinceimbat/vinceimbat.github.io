@@ -39,7 +39,7 @@ Per Tenkō-san, to resolve global problems what must first happen to ego-demand.
 <!--SR:!2026-10-24,83,250-->
 
 Per Tenkō-san, in his Saying 21, why do problems exist? :: One has not died completely.
-<!--SR:!2026-08-13,12,250-->
+<!--SR:!2026-09-12,30,250-->
 
 Per Tenkō-san, in Saying 15, what is true repentance? :: The great death of self-attachment.
 <!--SR:!2026-08-15,5,130-->

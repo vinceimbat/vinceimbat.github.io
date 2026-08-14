@@ -155,7 +155,7 @@ Per de Borja, what is a haiku's timeframe? :: Multiple, not just present
 <!--SR:!2026-08-19,68,270-->
 
 What does kigo mean? :: Season word in haiku
-<!--SR:!2026-08-13,159,270-->
+<!--SR:!2027-10-16,429,270-->
 
 What does kireji mean? :: "cutting word" that acts as a pause or punctuation in haiku
 <!--SR:!2026-11-08,106,210-->

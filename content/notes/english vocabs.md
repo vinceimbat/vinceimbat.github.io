@@ -70,7 +70,7 @@ debenture :: n. a form of bond
 derelict - in very poor condition because of neglect; poor person
 
 divest :: v. To take away something from someone
-<!--SR:!2026-08-14,42,170-->
+<!--SR:!2026-10-25,72,170-->
 
 dole out :: v. distribute charitably
 <!--SR:!2026-11-20,338,270-->
@@ -370,7 +370,7 @@ upbraid :: v. scold
 # V
 
 vilify :: v. to defame
-<!--SR:!2026-08-13,8,130-->
+<!--SR:!2026-08-17,4,130-->
 
 voile :: n. thin, semitransparent fabric
 <!--SR:!2026-10-03,52,130-->

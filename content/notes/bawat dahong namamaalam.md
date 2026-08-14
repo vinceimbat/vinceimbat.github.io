@@ -1,21 +1,21 @@
 ---
 title: Bawat Dahong Namamaalam
 created: 2022-05-09
-modified: 2025-12-14 11:51:29+08:00
+modified: 2026-08-14T14:05:20+08:00
 aliases:
-- Bawat Dahong Namamaalam
+  - Bawat Dahong Namamaalam
+  - buhian/bawat-dahong-namamaalam
 location:
-- 14.160514
-- 121.232721
-draft: null
+  - 14.160514
+  - 121.232721
+draft:
 publish: true
 tags:
-- species/poem
-- language/filipino
-- status/seedling
-- buhian
+  - species/poem
+  - language/filipino
+  - status/seedling
+  - buhian
 ---
-
 Ang dakong ito ng Molawin ay himlayan  
 ng mga dahong nahuhulog na parang mga payong  
 mula sa tarangkahan ng langit.

@@ -241,7 +241,7 @@ What elements of Kiitsu Kyōkai did Imaoka thought should eventually be systemat
 <!--SR:!2026-12-04,327,290-->
 
 How does Kiitsu Kyōkai differentiate sacred scriptures? :: All are equally sacred.
-<!--SR:!2026-08-14,87,270-->
+<!--SR:!2027-07-06,326,290-->
 
 Per Andrew James Brown, what Imaoka refers to as Kiitsu Kyōkai's sacred texts may include those by:
 1.

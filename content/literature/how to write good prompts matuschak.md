@@ -247,7 +247,7 @@ What’s the common problem with writing only a ‘give an example’-type promp
 <!--SR:!2028-05-05,817,292-->
 
 What does a creative prompt reinforce? :: Knowledge you use to generate an answer.
-<!--SR:!2026-08-13,186,212-->
+<!--SR:!2027-09-14,397,212-->
 
 Explain the generation effect. :: We remember information better when we generated it ourselves.
 <!--SR:!2028-03-04,697,232-->

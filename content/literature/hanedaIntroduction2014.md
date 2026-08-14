@@ -111,7 +111,7 @@ Per Haneda, what was the basic posture that Kiyozawa took in examining Buddhism?
 <!--SR:!2027-05-22,386,230-->
 
 According to Kiyozawa, what is the primary lesson of Buddhism? :: To be liberated.
-<!--SR:!2026-08-14,11,170-->
+<!--SR:!2026-09-03,20,170-->
 
 According to Kiyozawa from what should a Buddhist be liberated from? :: Self
 <!--SR:!2029-04-19,1078,350-->
@@ -126,7 +126,7 @@ Per Shin Buddhism, when does conflict arise? :: When things and people don't mee
 <!--SR:!2026-09-08,178,270-->
 
 Per Shin Buddhism, how can one be liberated from the self? :: self-denial
-<!--SR:!2026-08-13,47,210-->
+<!--SR:!2026-09-05,23,190-->
 
 Per Shin Buddhism, why is self-denial difficult? :: The self can't deny itself.
 <!--SR:!2028-04-20,776,330-->

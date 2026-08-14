@@ -67,6 +67,9 @@ plugins:
   - source: "./quartz/plugins/local/sidenotes"
     enabled: true
     order: 15
+  - source: "./quartz/plugins/local/lightbox"
+    enabled: true
+    order: 100
   - source: "@quartz-community/syntax-highlighting"
     enabled: true
     options:

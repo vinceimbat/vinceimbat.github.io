@@ -39,7 +39,7 @@ Management philosophy of Kentoku :: Prayer-based management
 <!--SR:!2026-09-07,80,270-->
 
 What trade is Kentoku in? :: Cleaning and building-maintenance
-<!--SR:!2026-08-13,87,250-->
+<!--SR:!2027-06-13,304,270-->
 
 Gassho means =="with palms joined in reverence"==.
 <!--SR:!2026-08-22,165,270-->

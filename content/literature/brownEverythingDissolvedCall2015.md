@@ -37,7 +37,7 @@ Per Thomas Sheehan, Jesus was badly misunderstood by the following early followe
 3. The Christian Church
 ?
 Simon-Peter
-<!--SR:!2026-08-13,136,290-->
+<!--SR:!2027-09-12,395,290-->
 
 Per Thomas Sheehan, Jesus was badly misunderstood by the following early followers:
 1. Simon-Peter

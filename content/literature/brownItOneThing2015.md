@@ -45,7 +45,7 @@ What revolt did the destruction of the Jewish Temple for the second time in 70 C
 <!--SR:!2026-08-15,60,310-->
 
 How did the second destruction of the Jewish Temple change the structure of Judaism? :: Judaism became domestic.
-<!--SR:!2026-08-13,58,310-->
+<!--SR:!2027-04-19,249,330-->
 
 Per Lear, how did the Crow Indians respond to the decimation of their culture?
 1.

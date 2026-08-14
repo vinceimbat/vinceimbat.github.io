@@ -17,7 +17,7 @@ This page, like most pages in this website, is a work in progress. Its aim is to
 
 # My Walks 
 
-- 2022 June 9–10: [[traversing liminality through walking|Los Baños to San Pablo walk ]]
+- 2022 June 9–10: [[05 essays/traversing liminality through walking|Los Baños to San Pablo walk ]]
 - 2023 April 20 and 27: [[dapithapon nlai walk 1|"Nasa Labas ang Ili" (Home is Out There) guided walk]]
 - 2023 December 4–10: [[rxg|Roots x Gravel: A Week-long Walk of Los Baños]]
 - 2024 January 15–21: [[tall tales 1|Tall Tales: Baguio Walk No. 1]]
@@ -43,7 +43,7 @@ This page, like most pages in this website, is a work in progress. Its aim is to
 - [[sage and child|Sage and Child]]
 - [[the inward morning|The Inward Morning]]
 - [[the night sky|The Night Sky]]
-- [[traversing liminality through walking|Traversing Liminality Through Walking: An Autoethnography]]
+- [[05 essays/traversing liminality through walking|Traversing Liminality Through Walking: An Autoethnography]]
 - [[umbrellaworts and truth partners|Umbrellaworts and Truth Partners]]
 - [[walking and the well|Walking and the Well]]
 - [[walking lopez 1|Walking Lopez, Quezon Part I: The Rules of Trolleys]]

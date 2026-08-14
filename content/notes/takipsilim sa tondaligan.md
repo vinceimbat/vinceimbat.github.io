@@ -59,7 +59,7 @@ Per Andrew James Brown, jiyū shūkyō's task is to ensure that the cords that b
 <!--SR:!2026-08-31,27,250-->
 
 Per Andrew James Brown, in Hirshfield's "The Supple Deer," what three characteristics of the fence make it an apt representation of jiyū shūkyō? :: minimalist, strong, and flexible
-<!--SR:!2026-08-14,35,250-->
+<!--SR:!2026-11-09,87,250-->
 
 Per Andrew James Brown, the thin metal strands of the fence in Hirshfield's "The Supple Deer" represents what in jiyū shūkyō? :: Imaoka's "Principles of Living"
 <!--SR:!2027-01-06,288,330-->
