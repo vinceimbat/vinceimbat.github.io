@@ -1,10 +1,11 @@
 ---
 title: Sa Madamba
 created: 2024-03-12 17:18:58+08:00
-modified: 2026-08-14T14:08:00+08:00
+modified: 2026-08-14T15:35:10+08:00
 aliases:
   - Sa Madamba
   - buhian/sa-madamba
+  - poems/sa-madamba
 location:
   - 14.15649448960029
   - 121.24302695438428

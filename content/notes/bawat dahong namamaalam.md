@@ -1,10 +1,11 @@
 ---
 title: Bawat Dahong Namamaalam
 created: 2022-05-09
-modified: 2026-08-14T14:05:20+08:00
+modified: 2026-08-14T15:37:31+08:00
 aliases:
   - Bawat Dahong Namamaalam
   - buhian/bawat-dahong-namamaalam
+  - poems/bawat-dahong-namamaalam
 location:
   - 14.160514
   - 121.232721

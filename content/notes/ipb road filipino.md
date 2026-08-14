@@ -1,10 +1,11 @@
 ---
 title: IPB road (sa Filipino)
 created: 2024-09-11 21:55:51+08:00
-modified: 2026-08-14T14:07:14+08:00
+modified: 2026-08-14T15:33:28+08:00
 aliases:
   - IPB road (sa Filipino)
   - buhian/ipb-road-(sa-filipino)
+  - translations/ipb-road-(sa-filipino)
 location:
   - 14.166480839951156
   - 121.25481696682982

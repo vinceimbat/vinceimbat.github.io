@@ -1,10 +1,11 @@
 ---
 title: Gabi sa Campus
 created: 2024-03-12 17:11:45+08:00
-modified: 2026-08-14T14:06:06+08:00
+modified: 2026-08-14T15:36:33+08:00
 aliases:
   - Gabi sa Campus
   - buhian/gabi-sa-campus
+  - poems/gabi-sa-campus
 location:
   - 14.165436591278617
   - 121.23656919490905

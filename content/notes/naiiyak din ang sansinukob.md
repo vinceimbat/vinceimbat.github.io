@@ -1,10 +1,11 @@
 ---
 title: Naiiyak Din ang Sansinukob
 created: 2024-03-12 17:15:56+08:00
-modified: 2026-08-14T14:07:39+08:00
+modified: 2026-08-14T15:34:25+08:00
 aliases:
   - Naiiyak Din ang Sansinukob
   - buhian/naiiyak-din-ang-sansinukob
+  - poems/naiiyak-din-ang-sansinukob
 location:
   - 14.161453
   - 121.246808

@@ -1,10 +1,11 @@
 ---
 title: Ang Maglakad sa Ulan
 created: 2024-03-12 16:57:49+08:00
-modified: 2026-08-14T14:04:24+08:00
+modified: 2026-08-14T15:37:02+08:00
 aliases:
   - Ang Maglakad sa Ulan
   - buhian/ang-maglakad-sa-ulan
+  - poems/ang-maglakad-sa-ulan
 location:
   - 14.161432647882295
   - 121.23412451115946

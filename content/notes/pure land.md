@@ -1,10 +1,11 @@
 ---
 title: Pure Land
 created: 2024-03-12 17:03:09+08:00
-modified: 2026-08-14T14:05:01+08:00
+modified: 2026-08-14T15:35:41+08:00
 aliases:
   - Pure Land
   - buhian/babalik
+  - poems/babalik
 locations:
 draft: false
 publish: true
