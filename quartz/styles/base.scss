@@ -411,10 +411,22 @@ input[type="checkbox"] {
 }
 
 blockquote {
-  margin: 1rem 0;
-  border-left: 3px solid var(--secondary);
-  padding-left: 1rem;
-  transition: border-color 0.2s ease;
+  position: relative;
+  margin: 1.75rem 0;
+  padding: 0 0 0 2.25rem;
+
+  &::before {
+    content: "\201C";
+    position: absolute;
+    top: -0.6rem;
+    left: -0.35rem;
+    font-family: var(--headerFont);
+    font-size: 4rem;
+    font-weight: 600;
+    line-height: 1;
+    color: var(--gray);
+    pointer-events: none;
+  }
 }
 
 h1,

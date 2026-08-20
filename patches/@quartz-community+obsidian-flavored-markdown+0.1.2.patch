@@ -1,0 +1,35 @@
+diff --git a/node_modules/@quartz-community/obsidian-flavored-markdown/dist/index.js b/node_modules/@quartz-community/obsidian-flavored-markdown/dist/index.js
+index 708e6eb..def8014 100644
+--- a/node_modules/@quartz-community/obsidian-flavored-markdown/dist/index.js
++++ b/node_modules/@quartz-community/obsidian-flavored-markdown/dist/index.js
+@@ -24889,7 +24889,7 @@ var calloutRegex = new RegExp(/^\[!([\w-]+)\|?(.+?)?\]([+-]?)/);
+ var calloutLineRegex = new RegExp(/^> *\[!\w+\|?.*?\][+-]?.*$/gm);
+ var videoExtensionRegex = new RegExp(/\.(mp4|webm|ogv|avi|mov|flv|wmv|mkv|mpg|mpeg|3gp|m4v)$/);
+ var wikilinkImageEmbedRegex = new RegExp(
+-  /^(?<alt>(?!^\d*x?\d*$).*?)?(\|?\s*?(?<width>\d+)(x(?<height>\d+))?)?$/
++  /^(?:(?<width1>\d+)(x(?<height1>\d+))?|(?<alt>.+?)(?:\|(?<width2>\d+)(x(?<height2>\d+))?)?)$/
+ );
+ var getLiteralValue = (child) => {
+   const literalChild = child;
+@@ -24947,8 +24947,8 @@ var ObsidianFlavoredMarkdown = (userOpts) => {
+                   if ([".jxl", ".png", ".jpg", ".jpeg", ".gif", ".bmp", ".webp"].includes(ext)) {
+                     const match = wikilinkImageEmbedRegex.exec(alias ?? "");
+                     const alt = match?.groups?.alt ?? "";
+-                    const width = match?.groups?.width ?? "auto";
+-                    const height = match?.groups?.height ?? "auto";
++                    const width = match?.groups?.width1 ?? match?.groups?.width2 ?? "auto";
++                    const height = match?.groups?.height1 ?? match?.groups?.height2 ?? "auto";
+                     const imageNode = {
+                       type: "image",
+                       url,
+@@ -24965,8 +24965,8 @@ var ObsidianFlavoredMarkdown = (userOpts) => {
+                   } else if (ext === ".svg") {
+                     const match = wikilinkImageEmbedRegex.exec(alias ?? "");
+                     const alt = match?.groups?.alt ?? "";
+-                    const width = match?.groups?.width ?? "auto";
+-                    const height = match?.groups?.height ?? "auto";
++                    const width = match?.groups?.width1 ?? match?.groups?.width2 ?? "auto";
++                    const height = match?.groups?.height1 ?? match?.groups?.height2 ?? "auto";
+                     replacement = {
+                       type: "html",
+                       value: `<object data="${url}" type="image/svg+xml" width="${width}" height="${height}" aria-label="${alt}"></object>`

@@ -1,0 +1,21 @@
+{
+  "name": "image-captions",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Renders the |caption part of an Obsidian image embed as a visible figcaption, matching Obsidian's Image Captions plugin",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "quartz": {
+    "name": "image-captions",
+    "displayName": "Image Captions",
+    "description": "Turns ![[image.jpg|caption]] into a <figure> with a centered, gray figcaption below the image",
+    "category": "transformer",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "defaultOrder": 35,
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}
