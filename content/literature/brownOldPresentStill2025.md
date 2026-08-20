@@ -166,7 +166,7 @@ In Japanese, dai-shizen means ==Great Nature==.
 <!--SR:!2028-12-26,908,330-->
 
 Per Andrew James Brown, Shin'ichirō Imaoka's version of "the living, dynamic creative process that makes all forms possible" :: "the great life of free and selfless creative evolution"
-<!--SR:!2026-08-18,276,290-->
+<!--SR:!2028-10-24,798,290-->
 
 Shin'ichirō Imaoka's "the great life of free and selfless creative evolution" came from the idea of ==Creative Evolution== from the philosopher ==Henri Bergson==.
 <!--SR:!2025-07-12,4,270!2000-01-01,1,250-->

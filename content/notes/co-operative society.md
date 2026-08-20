@@ -20,7 +20,7 @@ Shin'ichirō Imaoka may have chosen this translation because it was already bein
 # Prompts
 
 "Co-operative society" is Shin'ichirō Imaoka's chosen English translation of ==*kyōdō shakai*==.
-<!--SR:!2026-08-19,274,290-->
+<!--SR:!2028-10-21,794,290-->
 
 The Japanese term *kyōdō shakai* was translated by Shin'ichirō Imaoka into English as ==co-operative society==.
 <!--SR:!2026-09-22,52,270-->

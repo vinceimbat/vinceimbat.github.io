@@ -1,7 +1,7 @@
 ---
 title: Poetry Fridays prompts
 created: 2026-06-08 20:49:52+08:00
-modified: 2026-08-07T15:55:20+08:00
+modified: 2026-08-17T16:53:48+08:00
 aliases:
   - Poetry Fridays prompts
 draft: false
@@ -128,3 +128,15 @@ Set 2
 2. A simple message travels from one person's phone across the internet, through a data center, and finally reaches a loved one thousands of miles away. Write a poem describing the journey of this message. Use imagery to show how technology bridges distances while carrying emotions such as love, hope, gratitude, or encouragement.
 
 ---
+
+[[2026-08-15]]
+
+by Sir D
+
+Ipunin ang mga tunog ng dalawang magkaibang lugar. Halimbawa, ang ingay ng palengke at ang soundscape ng isang kapilya. Nasa sa inyo na kung paano itatahi, pagtatabihin, o pag-aawayin ang dalawang repertoire.
+
+Ilarawan ang isang lugar (kalye, bloke, siyudad, o bansa) sa dalawang mukha nito: maaraw at maulan, madaling-araw at dapit-hapon, payapa at galit.
+
+Find a word in your first language that does not exist (exactly) in the second language. Write a poem centered around that specific word. Define the feeling or image of the word in the second language, but keep the original word as the anchor of the poem (perhaps as its title).
+
+Let there be a dialogue between two languages or two halves of an identity. Write line one in Language A, then write line two as an echo, response, or translation in Language B. Follow how the mood or tone changes when you switch from one language to the other.

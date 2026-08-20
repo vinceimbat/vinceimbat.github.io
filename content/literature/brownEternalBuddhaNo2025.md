@@ -132,7 +132,7 @@ Seven stops in Shin'ichirō Imaoka's religious history:
 5. Shinto
 6. New Buddhism
 7. Jiyū Shūkyō
-<!--SR:!2026-08-17,78,250-->
+<!--SR:!2026-09-26,40,230-->
 
 New Buddhism in Japanese. :: Shin Bukkyō
 <!--SR:!2026-10-12,60,250-->

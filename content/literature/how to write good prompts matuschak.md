@@ -232,7 +232,7 @@ Three useful prompt types for open lists:
 3.
 ?
 Link tag to instances
-<!--SR:!2026-08-15,383,292-->
+<!--SR:!2027-02-23,192,272-->
 
 When writing retrieval prompts, how can you link a tag to its instances? :: Write a prompt that asks you to generate examples of that tag.
 <!--SR:!2027-09-02,613,252-->

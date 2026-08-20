@@ -1,7 +1,7 @@
 ---
 title: proofreading
 created: 2026-04-18T15:49:56+08:00
-modified: 2026-05-06T20:51:45+08:00
+modified: 2026-08-17T09:58:41+08:00
 aliases:
 draft: false
 tags:
@@ -17,6 +17,7 @@ tags:
 	- Ensure consistent heading capitalization.
 		- Go through headings in TOC.
 		- Go through the headings in the book.
+	- Add page numbers in TOC.
 - Review figures and tables.
 	- Go through figure and table numbers
 	- Go through figure and table names.

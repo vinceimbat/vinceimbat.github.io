@@ -60,7 +60,7 @@ In Jōdo Shinshū, Pure Land is not ==a physical place to be sought after death=
 <!--SR:!2026-12-03,337,270-->
 
 In Jōdo Shinshū, Pure Land is similar to what state? :: Nirvana
-<!--SR:!2026-08-15,47,270-->
+<!--SR:!2027-02-08,177,290-->
 
 *shinjin* :: Faith
 <!--SR:!2028-10-25,891,330-->

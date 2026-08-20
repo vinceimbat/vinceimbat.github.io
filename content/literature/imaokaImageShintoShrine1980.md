@@ -35,7 +35,7 @@ When did Imaoka started serious study of Shinto? :: When he specialized in relig
 <!--SR:!2026-11-17,102,230-->
 
 "I came to think that if Shintō or Buddhism were ==genuine==, then that was sufficient." — Imaoka
-<!--SR:!2026-08-19,40,230-->
+<!--SR:!2026-09-09,21,210-->
 
 Three areas of study Imaoka devoted himself into:
 1.

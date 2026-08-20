@@ -38,4 +38,4 @@ Tolstoy's religious book most influential to Andrew James Brown. :: The Gospel i
 <!--SR:!2026-11-17,257,330-->
 
 Tolstoyan form of Christianity most infuential to Tenkō-san. :: Sermon on the Mount Christianity
-<!--SR:!2026-08-15,178,310-->
+<!--SR:!2026-11-15,92,290-->

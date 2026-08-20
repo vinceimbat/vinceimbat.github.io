@@ -96,7 +96,7 @@ What may separate religious writing from non-religious writing is the explicit s
 # Prompts
 
 Hugh Nissenson saw his books as ==a spiritual autobiography==.
-<!--SR:!2026-08-16,186,310-->
+<!--SR:!2026-11-16,92,290-->
 
 Per Jaroslav Pelikan, the three fathers of religious writing were:
 1.

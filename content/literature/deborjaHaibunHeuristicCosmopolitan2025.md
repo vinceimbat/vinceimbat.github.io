@@ -103,7 +103,7 @@ Some contemporary privileged versions of Diogenes' nomad.
 3.
 ?
 Neoliberal citizen of the world
-<!--SR:!2026-08-19,92,270-->
+<!--SR:!2027-04-24,248,270-->
 
 Versions of Diogenes' nomadic cosmopolitan in Walter Benjamin's favored figures.
 1.
@@ -152,7 +152,7 @@ Why is utamakura (歌枕) called "poem pillow"? :: It is where the poem rests or
 <!--SR:!2026-09-05,85,170-->
 
 Per de Borja, what is a haiku's timeframe? :: Multiple, not just present
-<!--SR:!2026-08-19,68,270-->
+<!--SR:!2027-02-18,183,270-->
 
 What does kigo mean? :: Season word in haiku
 <!--SR:!2027-10-16,429,270-->

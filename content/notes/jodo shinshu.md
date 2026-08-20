@@ -72,7 +72,7 @@ Year Nishi Honganji was built. :: 1591
 <!--SR:!2026-09-16,102,170-->
 
 Year Higashi Honganji was built. :: 1604
-<!--SR:!2026-08-17,3,190-->
+<!--SR:!2026-08-24,5,190-->
 
 Who encouraged a split within the Honganji sect in 1602? :: Tokugawa Ieyasu
 <!--SR:!2027-12-03,636,320-->
@@ -87,7 +87,7 @@ The two head temples of the Jōdo Shinshū sect of Pure Land Buddhism. :: Higash
 <!--SR:!2027-01-12,387,307-->
 
 English translation of Higashi Honganji :: Eastern Temple of the First Vow
-<!--SR:!2026-08-17,284,307-->
+<!--SR:!2027-01-05,141,287-->
 
 English translation of Nishi Honganji :: Western Temple of the First Vow
 <!--SR:!2027-10-29,611,327-->

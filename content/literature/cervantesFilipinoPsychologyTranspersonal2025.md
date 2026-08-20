@@ -502,7 +502,7 @@ How did Bulatao (1992) illustrate the mind in the Filipino transpersonal worldvi
 <!--SR:!2026-11-16,241,252-->
 
 Cervantes (2025) blames the lack of interest in transpersonal psychology in the Philippines to what? :: Colonial mentality
-<!--SR:!2026-08-17,137,252-->
+<!--SR:!2026-10-26,70,232-->
 
 The various ethnolinguistic terms in the Philippines for soul come from the same root word ==*duha*==, meaning =="two"==.
 <!--SR:!2025-07-22,4,272!2000-01-01,1,250-->
@@ -648,7 +648,7 @@ In Sikolohiyang Pilipino, *loob* as a relational interiority contains what?
 <!--SR:!2026-08-24,40,212-->
 
 In Sikolohiyang Pilipino, how is *loob* made manifest? :: Through interactions with *kapwa*.
-<!--SR:!2026-08-20,61,192-->
+<!--SR:!2026-12-15,117,192-->
 
 In Sikolohiyang Pilipino, what is *ginhawa*? :: Ultimate state of health, goodness, social and economic stability, and equality.
 <!--SR:!2026-12-02,301,252-->

@@ -54,7 +54,7 @@ Schellenberg's suggested three broad marks of a religion's ultimate reality.
 3. Greater than nature in what it can make possible for us.
 ?
 Deeper than the physical world.
-<!--SR:!2026-08-19,57,250-->
+<!--SR:!2026-09-18,30,230-->
 
 Schellenberg's suggested three broad marks of a religion's ultimate reality.
 1. Deeper than the physical world.
@@ -62,7 +62,7 @@ Schellenberg's suggested three broad marks of a religion's ultimate reality.
 3. Greater than nature in what it can make possible for us.
 ?
 Greater than nature in worth.
-<!--SR:!2026-08-15,6,190-->
+<!--SR:!2026-08-26,11,190-->
 
 Schellenberg's suggested three broad marks of a religion's ultimate reality.
 1. Deeper than the physical world.
@@ -97,7 +97,7 @@ They're settled facts.
 <!--SR:!2026-10-25,142,230-->
 
 Difference between belief and faith per Schellenberg? :: Belief aims settled claims; faith commits without pretending to have final proof.
-<!--SR:!2026-08-15,38,190-->
+<!--SR:!2026-09-03,19,170-->
 
 Per Andrew James Brown, how does evolutionary religion live in imagination? :: Tries things out while staying open to revision.
 <!--SR:!2026-08-27,55,210-->

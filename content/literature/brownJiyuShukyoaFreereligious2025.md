@@ -116,7 +116,7 @@ Ken Wilber's four quadrants:
 2. exterior-individual
 3. interior-collective
 4. exterior-collective
-<!--SR:!2026-08-18,44,230-->
+<!--SR:!2026-11-27,101,230-->
 
 Per Andrew James Brown, since jiyū shūkyō takes seriously interreligious and post-religious openness, it helps avoid two things:
 1. reductionism (dismissing all religion simply as illusion)

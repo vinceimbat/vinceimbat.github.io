@@ -57,7 +57,7 @@ construe :: v. interpret a word or action
 <!--SR:!2026-08-21,46,235-->
 
 convalescence :: n. recuperation
-<!--SR:!2026-08-15,158,269-->
+<!--SR:!2027-10-14,425,269-->
 
 # D
 
@@ -135,7 +135,7 @@ gag :: n. cloth placed on a person's mouth to prevent them from speaking
 <!--SR:!2026-12-17,360,295-->
 
 gaudy (hint: Jen's blue rice) :: adj. extravagant or tasteless showiness
-<!--SR:!2026-08-18,7,130-->
+<!--SR:!2026-09-01,14,150-->
 
 geld (hint: Doji) :: v. to castrate (an animal); to deprive of an essential part
 <!--SR:!2027-05-24,384,209-->
@@ -265,7 +265,7 @@ poplar :: n. a tree
 <!--SR:!2029-04-10,1107,352-->
 
 portentous (hint: gas) :: adj. done in an overly solemn manner to impress
-<!--SR:!2026-08-16,76,172-->
+<!--SR:!2026-09-23,38,152-->
 
 Procrustean - system enforcing uniformity without regard to variation
 
@@ -327,7 +327,7 @@ sonder :: n. realization that each passerby has a complex life as your own
 <!--SR:!2027-05-11,430,272-->
 
 spire (hint: San Pedro) :: n. pinacle
-<!--SR:!2026-08-20,176,252-->
+<!--SR:!2027-11-06,443,252-->
 
 stall :: v. to stop or delay
 <!--SR:!2029-05-03,1126,352-->
@@ -362,7 +362,7 @@ undergrowth :: n. growth of plants on the forest floor
 <!--SR:!2028-01-09,740,333-->
 
 unkempt (hint: body) :: adj. uncombed; unclean; unpolished
-<!--SR:!2026-08-17,21,133-->
+<!--SR:!2026-09-14,28,133-->
 
 upbraid :: v. scold
 <!--SR:!2026-11-17,125,213-->
@@ -370,7 +370,7 @@ upbraid :: v. scold
 # V
 
 vilify :: v. to defame
-<!--SR:!2026-08-17,4,130-->
+<!--SR:!2026-08-22,5,130-->
 
 voile :: n. thin, semitransparent fabric
 <!--SR:!2026-10-03,52,130-->

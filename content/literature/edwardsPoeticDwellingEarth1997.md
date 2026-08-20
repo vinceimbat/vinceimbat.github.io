@@ -310,7 +310,7 @@ Two main points of the Western philosophical tradition of transcendental subject
 <!--SR:!2026-08-28,167,266-->
 
 Dasein literally means ==being-in-the-world==.
-<!--SR:!2026-08-18,12,226-->
+<!--SR:!2026-09-25,38,246-->
 
 Per Edwards, what is the relationship between Dasein and its world? :: Dasein is the person and its things, including social practices.
 <!--SR:!2027-03-01,244,230-->
@@ -405,7 +405,7 @@ The Greek pragmata means ==things used for a person's projects==.
 <!--SR:!2026-09-09,62,226-->
 
 Per Edwards, the Greek pragmata later became the Latin ==res==.
-<!--SR:!2026-08-17,194,326-->
+<!--SR:!2028-05-10,632,326-->
 
 Per Heidegger's *Being and Time*, how is the Being of a thing always already holistic? :: Gained through back-and-forth references to other things.
 <!--SR:!2026-09-01,97,186-->
@@ -447,7 +447,7 @@ Aside from truth, aletheia is also translated as ==disclosure==.
 <!--SR:!2027-03-03,258,228-->
 
 Give one example of Bestand and explain :: house, leaves, computer, etc.
-<!--SR:!2026-08-19,196,328-->
+<!--SR:!2029-01-22,887,348-->
 
 # To do
 

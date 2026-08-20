@@ -65,7 +65,7 @@ Prompts weakly related to others ::: Orphan questions
 <!--SR:!2030-06-05,1397,314!2026-10-18,92,174-->
 
 How to avoid orphan questions :: Write more than one question about a new subject.
-<!--SR:!2026-08-18,231,214-->
+<!--SR:!2027-12-25,494,214-->
 
 Associating new information to existing memories ::: Elaborative encoding
 <!--SR:!2027-01-18,563,314!2026-11-18,105,214-->

@@ -40,7 +40,7 @@ Why does Andrew James Brown find Alpha-Way-Omega suffocating? :: Nothing new is 
 <!--SR:!2026-08-28,64,290-->
 
 Bible verse location of the myth of Pentecost. :: Acts 2:1–31
-<!--SR:!2026-08-16,21,210-->
+<!--SR:!2026-10-20,65,230-->
 
 Traditionally, Pentecost is taken as the ==birth== of the Church.
 <!--SR:!2026-09-19,75,290-->
@@ -58,7 +58,7 @@ In jiyū shūkyō terms, what does Pentecost represent? :: The newness of each m
 <!--SR:!2026-06-03,1,210-->
 
 Meaning of the acronym TINA. :: There is no alternative.
-<!--SR:!2026-08-18,63,310-->
+<!--SR:!2027-05-15,270,330-->
 
 Meaning of the acronym TATIANA. :: That Astonishingly, There Is An Alternative
 <!--SR:!2026-09-06,31,230-->

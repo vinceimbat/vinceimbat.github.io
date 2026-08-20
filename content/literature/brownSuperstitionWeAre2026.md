@@ -68,7 +68,7 @@ Per Iran's fundamentalist state ideology, what will Muhammad al-Mahdi do at the 
 <!--SR:!2026-09-23,49,270-->
 
 Story that Lucretius uses to illustrate how superstitious religion has led to crimes. :: The sacrifice of Iphigenia
-<!--SR:!2026-08-16,59,270-->
+<!--SR:!2027-03-26,222,290-->
 
 Tell the story of the sacrifice of Iphigenia.
 1.

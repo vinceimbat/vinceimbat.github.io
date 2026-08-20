@@ -1,7 +1,7 @@
 ---
 title: "Traversing Liminality Through Walking: An Autoethnography"
 created: 2023-07-15
-modified: 2026-08-12T22:23:49+08:00
+modified: 2026-08-20T22:37:05+08:00
 aliases:
   - "Traversing Liminality Through Walking: An Autoethnography"
   - traversing-liminality-through-walking
@@ -12,6 +12,8 @@ tags:
   - species/essay
   - status/evergreen
 ---
+*The following hybrid essay landed me a spot at the 20th Ateneo National Writer's Workshop ([[anww20|ANWW20]]) last 2023. As of 2026, I am yet to revise the essay. A few people, including participants and panelists in the workshop and others who read it later, were moved by the essay at its original form, so I'm sharing it here.*
+
 # Abstract
 
 Using a five-hour walk from Los Baños to San Pablo City, Laguna, as a springboard, this autoethnographic essay explores how I used the embodied, emplaced, and social act of walking as a means to traverse a psycho-socio-religious liminality. This essay reflects on my personal experience as an ex-ministerial servant (young pastor) of the Jehovah’s Witnesses, who left the religion after a personal crisis in 2012 and have spent ten years in an almost unconscious liminal state, characterized by exploring different belief systems and shifting between the yearning for the structure of my Old Self and the anti-structure of my New Self Becoming. Walking was a symptom of liminality and a way to perform this unconscious liminal state, which was only made conscious after the physicality of the long walk from Los Baños to San Pablo City provoked me to inquire about my motivations for walking. Through reviewing journal entries I wrote after the long walk and reflecting on photographs I have taken in recent years, I conclude that the knowledge generated through walking and ambulatory inquiry could open correspondence between my previous identity and the new identity I am forming, providing the possibility of leaving the _limen_ or, perhaps, finding a new home within it.
@@ -54,29 +56,15 @@ Walking in nature became a way to recuperate from losing friends and family memb
 
 If documentation through field notes and photography could capture our experience of liminality when looking at dereliction in geographic space, say, in abandoned urban spaces (Al Shrbaji 74), then perhaps, documentation too can be used to capture liminality as expressed through the field notes and photos we take during a walk. Photography and written or audio notes capture the memory of that specific moment in the threshold. I go back to the photographs I took during all the walks I have undertaken since leaving my childhood religion, and I now see glimpses of what it means to be in limen. I did not know it then when I took the photos, but there was a reason why I was attracted to abandoned buildings, decaying objects, and landscapes that evoke uncertainty and limbo.
 
-![[20221013-10132022-los-banos-stove.jpg|Old stove]]
+![[20221013-10132022-los-banos-stove.jpg|Figure 1. Broken cooking range, Los Baños, Laguna, 2022]]
 
-Figure 1. Broken cooking range, Los Baños, Laguna, 2022
+![[20220610-120845-spwalk-san-pablo-ice-plant.jpg|Figure 2. Closed Old San Pablo Ice Plant, San Pablo City, Laguna, 2022]]
 
+![[20221209-12092022-sta-barbara-abandoned-store.jpg|Figure 3. Abandoned Store, Sta. Barbara, Pangasinan, 2022]]
 
-![[20220610-120845-spwalk-san-pablo-ice-plant.jpg|San Pablo Ice Plant]]
+![[20221209-12092022-sta-barbara-luggage.jpg|Figure 4. Graffitied Abandoned House, Sta. Barbara, Pangasinan, 2022]]
 
-Figure 2. Closed Old San Pablo Ice Plant, San Pablo City, Laguna, 2022
-
-
-![[20221209-12092022-sta-barbara-abandoned-store.jpg|Abandoned red store]]
-
-Figure 3. Abandoned Store, Sta. Barbara, Pangasinan, 2022
-
-
-![[20221209-12092022-sta-barbara-luggage.jpg|Luggage and graffiti]]
-
-Figure 4. Graffitied Abandoned House, Sta. Barbara, Pangasinan, 2022
-
-
-![[20230305-03052023-los-banos-monoblocs.jpg|Monoblocs]]
-
-Figure 5. Abandoned House, UPLB, Laguna, 2023
+![[20230305-03052023-los-banos-monoblocs.jpg|Figure 5. Abandoned House, UPLB, Laguna, 2023]]
 
 “Walking carries with it the possibility for the exploration of the liminal” (Hickey et al. 41). There is something with this simple tool of mobility that helps one traverse liminality. Two of the most critical features of walking are encounter and relationality. If we adopt Hickey et al.’s proposal that ethnographies should be “deeply relational encounters” (37), walking must be a quintessential ethnographic method. A model for how walking can be applied in ethnography may be extracted from the book _Street Corner Society_ _(1943)_, where the ethnographer William Foot-Whyte walked with his participants. Foot-Whyte, a pioneer of participant observation, noticed how the geographic space of the slum area he and his participants walked through, along with the meanings and cultural behaviors attached to specific parts of the area, dictated his research progress, i.e., the questions he could ask, the behaviors he could act out, and the identities he could or could not take hold.
 

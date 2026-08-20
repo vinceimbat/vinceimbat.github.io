@@ -61,10 +61,10 @@ Three periods of Manshi Kiyozawa's writings:
 1. Religious philosophy (25–33)
 2. Buddhist reformation (33–35)
 3. Personal religious convictions (35–40)
-<!--SR:!2026-08-16,34,170-->
+<!--SR:!2026-10-11,56,170-->
 
 Meiji period years :: 1868–1912
-<!--SR:!2026-08-17,7,130-->
+<!--SR:!2026-08-26,9,130-->
 
 The Meiji period is commonly known as what era? :: Era of modernization or Westernization
 <!--SR:!2028-01-03,583,270-->
@@ -234,7 +234,7 @@ Buddhist terms Kiyozawa used to refer to the infinite and supreme universal trut
 - Inconceivable power
 - Wondrous working
 - Power Beyond the Self
-<!--SR:!2026-08-20,15,152-->
+<!--SR:!2026-09-12,23,152-->
 
 The term tariki was originally formulated by the Chinese Pure Land monk ==T'an-luan==.
 <!--SR:!2026-10-07,172,272-->

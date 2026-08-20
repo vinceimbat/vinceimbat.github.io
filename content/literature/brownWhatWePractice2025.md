@@ -50,7 +50,7 @@ What is included in the liturgy of religious liberals to reflect the recognition
 <!--SR:!2028-06-19,798,330-->
 
 Per Andrew James Brown, why is free conversation included in the liturgy of religious liberals? :: Meanings of actions are always evolving and provisional.
-<!--SR:!2026-08-17,50,150-->
+<!--SR:!2026-09-11,25,130-->
 
 Per Andrew James Brown, our inquiring free and liberative thinking should never undermine our ability to do what? :: Act and commit
 <!--SR:!2026-10-18,307,290-->

@@ -17,10 +17,10 @@ Nationality of Giovanni Boccaccio :: Italian
 <!--SR:!2029-02-13,1151,350-->
 
 Occupation of Giovanni Boccaccio :: Renaissance poet and humanist
-<!--SR:!2026-08-16,20,150-->
+<!--SR:!2026-09-15,30,150-->
 
 Century when Giovanni Boccaccio lived :: 14th century CE
-<!--SR:!2026-08-16,13,150-->
+<!--SR:!2026-08-23,7,130-->
 
 Where was the setting of The Decameron :: Florence, Italy
 <!--SR:!2027-02-12,187,270-->

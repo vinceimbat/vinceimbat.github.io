@@ -30,13 +30,13 @@ Lightroom shortcut for reject :: R / X
 <!--SR:!2029-10-28,1358,359-->
 
 Ratio of mug to ground coffee in tbsp when boiling. :: 1 mug : 6 tbsp coffee
-<!--SR:!2026-08-17,39,210-->
+<!--SR:!2026-12-11,116,230-->
 
 Ratio of coffee (tbsp) to water (cup) when boiling. :: 2 tbsp coffee : 3/4 cup of water
 <!--SR:!2026-08-27,13,130-->
 
 Tantan's birthday :: May 15
-<!--SR:!2026-08-20,34,190-->
+<!--SR:!2026-09-06,17,170-->
 
 Via's birthday (hint: day is right after Tantan's) :: July 16
 <!--SR:!2026-08-23,39,170-->

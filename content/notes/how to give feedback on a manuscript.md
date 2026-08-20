@@ -189,7 +189,7 @@ Per Schneider in WAAWO, the last stage in responding to an author's manuscript i
 <!--SR:!2027-03-23,486,290-->
 
 Per Schneider in WAAWO, the letter you write to the author after commenting on their manuscript should primarily contain what? :: Summary of important issues
-<!--SR:!2026-08-17,40,210-->
+<!--SR:!2026-09-05,19,190-->
 
 Per Schneider in WAAWO, the letter you write to the author after commenting on their manuscript should begin and end with what? :: Thanks and praise
 <!--SR:!2027-04-26,461,290-->

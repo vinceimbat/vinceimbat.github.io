@@ -68,7 +68,7 @@ Per Andrew James Brown, how does free-religious faith respond to the possibility
 <!--SR:!2026-11-01,87,290-->
 
 Per Ed Mooney, the recognition that wisdom begins with acknowledging one's lack of knowledge. :: The modesty of Socratic ignorance
-<!--SR:!2026-08-18,117,230-->
+<!--SR:!2026-10-15,58,210-->
 
 Per Andrew James Brown, the ground we return to after a leap of free-religious faith is transformed by what? :: The leap itself
 <!--SR:!2026-11-08,262,330-->

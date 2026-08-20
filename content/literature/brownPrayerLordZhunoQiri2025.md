@@ -32,7 +32,7 @@ Brown, Andrew James. “The Prayer of the Lord (主の祈り) as a ‘Dove That 
 # Prompts
 
 Rilke's poem Andrew James Brown uses to illustrate how words change their meanings when they go out in the world. :: Dove that Ventured Outside
-<!--SR:!2026-08-17,8,130-->
+<!--SR:!2026-08-28,11,130-->
 
 Name of Ittōen’s book of offices :: Diligent Daily Practice of Ittōen
 <!--SR:!2026-09-08,54,190-->

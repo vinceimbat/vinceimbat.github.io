@@ -33,7 +33,7 @@ Valentine's Day origin. :: Christian feast day honoring the martyr Valentine
 <!--SR:!2027-04-12,294,290-->
 
 Country of the poet Sappho. :: Greece
-<!--SR:!2026-08-19,32,270-->
+<!--SR:!2026-12-20,123,290-->
 
 Century the poet Sappho lived. :: 6th century BCE
 <!--SR:!2026-11-24,157,270-->
@@ -42,7 +42,7 @@ Plato called Sappho the =="Tenth Muse"==.
 <!--SR:!2026-08-29,49,270-->
 
 Sappho wrote an estimated ==500== poems.
-<!--SR:!2026-08-20,28,210-->
+<!--SR:!2026-09-04,15,190-->
 
 Among all of Sappho's poems, how many complete poems were retrieved? :: 1
 <!--SR:!2026-09-12,141,310-->

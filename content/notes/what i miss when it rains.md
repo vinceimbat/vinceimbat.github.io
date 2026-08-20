@@ -1,7 +1,7 @@
 ---
 title: What I Miss When It Rains
 created: 2026-08-11T20:46:28+08:00
-modified: 2026-08-11T20:51:21+08:00
+modified: 2026-08-17T19:04:53+08:00
 aliases:
   - What I Miss When It Rains
 draft: false
@@ -27,3 +27,10 @@ My dear student asking for my food
 for whom I would say, "Go on, take it."
 Empty chairs and tables.
 Time ticking toward the next Tuesday.
+
+# Feedback
+
+superposition of guard sending food
+students asking for food (unexpected)
+
+captured the environment

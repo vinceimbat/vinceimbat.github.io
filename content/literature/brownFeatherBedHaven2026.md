@@ -28,10 +28,10 @@ Brown, Andrew James.  Blogspot. _Caute_, 25 July 2026, [https://andrewjbrown.blo
 # Prompts
 
 The word *ietsist* is from what language? :: Dutch
-<!--SR:!2026-08-15,15,290-->
+<!--SR:!2026-08-23,8,270-->
 
 *ietsist* English translation :: somethingist
-<!--SR:!2026-08-15,15,290-->
+<!--SR:!2026-10-13,59,310-->
 
 Dutch word that translates to "somethingist" :: *ietsist*
 <!--SR:!2026-10-08,55,310-->
@@ -40,13 +40,13 @@ Per Andrew James Brown, who is a *ietsist*? :: Person who doubts faith but sighs
 <!--SR:!2026-09-20,40,290-->
 
 Person who doubts faith but sighs "there must be something." :: *ietsist* or "somethingist"
-<!--SR:!2026-08-15,15,290-->
+<!--SR:!2026-10-14,60,310-->
 
 Somethingists are trying to break free from what tug-of-war? :: hardline atheism and orthodox religiosity
 <!--SR:!2026-09-13,32,270-->
 
 Per Andrew James Brown, instead of a concrete thing to belive in, what do most *ietsist* look for? :: The in-between space.
-<!--SR:!2026-08-16,16,290-->
+<!--SR:!2026-10-01,46,290-->
 
 Per Andrew James Brown, the primary characteristic of the in-between space that most *ietsist* seek is what? :: A pregnant realm of possibility.
 <!--SR:!2026-09-25,42,290-->

@@ -47,7 +47,7 @@ Per Andrew James Brown, the only real "real state" that exists is ==the whole co
 <!--SR:!2026-09-08,72,250-->
 
 Jesus' teaching per Andrew James Brown that resonates with the idea that existents are properties of the cosmos. :: Whoever loses their life for me will save it.
-<!--SR:!2026-08-18,55,210-->
+<!--SR:!2026-09-16,29,190-->
 
 Per Andrew James Brown, the cosmic cooperative community is equivalent to ==God== in a pantheistic sense.
 <!--SR:!2026-09-25,259,330-->

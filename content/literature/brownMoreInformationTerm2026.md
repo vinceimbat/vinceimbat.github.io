@@ -40,7 +40,7 @@ Doctrine that the divine encompasses or is manifested in the material world. :: 
 <!--SR:!2027-01-06,192,310-->
 
 Explain the doctrine of immanence. :: The divine encompasses or is manifested in the material world.
-<!--SR:!2026-08-16,95,290-->
+<!--SR:!2026-10-02,47,270-->
 
 Imaoka's Jiyū shūkyō and Kiitsu Kyōkai belongs to what religious movement in Japan? :: New Religions Movement
 <!--SR:!2027-03-24,266,330-->
@@ -174,7 +174,7 @@ The characteristics of the "primary religious Being" believed in by the New Reli
 - immanent
 - monotheistic
 - transcendent
-<!--SR:!2026-08-17,32,250-->
+<!--SR:!2026-09-02,16,230-->
 
 Gender role often associated to the primary religious Being of the New Religions Movement in Japan. :: Mother
 <!--SR:!2027-03-09,256,330-->

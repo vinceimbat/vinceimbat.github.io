@@ -84,7 +84,7 @@ Per Imaoka, the Unitarian movement in Japan was most active during what two eras
 <!--SR:!2026-09-07,285,290-->
 
 Taisho era years :: 1912–1926
-<!--SR:!2026-08-19,35,130-->
+<!--SR:!2026-09-07,19,130-->
 
 In 1950, what was the state of the Unitarian Movement in Japan per Imaoka? :: Continues but weakly
 <!--SR:!2028-06-22,807,330-->
@@ -132,7 +132,7 @@ Since Kiitsu Kyōkai believes in layperson-ism, Imaoka likened its style with wh
 <!--SR:!2029-07-28,1147,350-->
 
 Imaoka relates democracy with what assertion about salvation? (hint: positive) :: We are only saved if everyone is saved.
-<!--SR:!2026-08-20,103,170-->
+<!--SR:!2027-02-11,175,170-->
 
 Imaoka believes that the link between individual and collective salvation that Kiitsu Kyōkai asserts resonates with what Catholic claim? :: There is no salvation outside the Church.
 <!--SR:!2028-02-08,639,290-->

@@ -88,7 +88,7 @@ Per Brown, the two objectives of restorative nostalgia.
 2. Searching perpetrators of the loss of former glory.
 ?
 Mythical return to origins.
-<!--SR:!2026-08-19,133,250-->
+<!--SR:!2027-07-18,333,250-->
 
 Per Brown, the two objectives of restorative nostalgia.
 1. Mythical return to origins.

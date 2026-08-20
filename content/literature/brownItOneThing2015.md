@@ -36,13 +36,13 @@ Brown, Andrew James. “‘It Is One Thing to Dance as Though Nothing Has Happen
 # Prompts
 
 In the history of Judaism, how many times was the temple destroyed? :: Twice.
-<!--SR:!2026-08-20,64,310-->
+<!--SR:!2027-05-21,274,330-->
 
 In 70 CE, how did the Romans end the four-year long Jewish Revolt? :: They destroyed the Temple for the second time.
 <!--SR:!2026-11-23,122,310-->
 
 What revolt did the destruction of the Jewish Temple for the second time in 70 CE end? :: The Jewish Revolt.
-<!--SR:!2026-08-15,60,310-->
+<!--SR:!2027-04-28,256,330-->
 
 How did the second destruction of the Jewish Temple change the structure of Judaism? :: Judaism became domestic.
 <!--SR:!2027-04-19,249,330-->

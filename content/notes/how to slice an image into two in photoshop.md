@@ -86,4 +86,4 @@ Slicing an image into two in Photoshop.
 6.
 ?
 Save > All slices
-<!--SR:!2026-08-20,383,290-->
+<!--SR:!2027-02-28,192,270-->

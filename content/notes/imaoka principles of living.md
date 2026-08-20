@@ -56,7 +56,7 @@ Year Imaoka established his Principles of Living. :: 1965
 <!--SR:!2026-08-31,47,170-->
 
 Number of articles in Imaoka's original Principles of Living. :: 7
-<!--SR:!2026-08-17,88,226-->
+<!--SR:!2026-09-30,44,206-->
 
 What did members of the Tokyo Kiitsu Kyokai do with Imaoka's Principles of Living? :: Recite them during Sunday gatherings.
 <!--SR:!2027-02-17,476,286-->
@@ -65,7 +65,7 @@ Why did Imaoka revise his Principles of Living in 1973? :: He added a declaratio
 <!--SR:!2026-12-20,415,266-->
 
 Principle 1 of Imaoka's "My Principles of Living" (1981) (hint: Don't forget MOA) :: I place trust/have faith in myself. I am aware of my own autonomous selfhood, creativity and sociality, and feel the worth of living through them. Autonomous selfhood, creativity and sociality can also be expressed as personality, divinity, and Buddha-nature.
-<!--SR:!2026-08-18,33,130-->
+<!--SR:!2026-09-29,42,130-->
 
 Principle 2 of Imaoka's "My Principles of Living" (1981) :: I place trust/have faith in others. Others are neighbours who possess their own selves as others. By affirming myself, I inevitably place trust/have faith in others.
 <!--SR:!2026-08-31,38,130-->
