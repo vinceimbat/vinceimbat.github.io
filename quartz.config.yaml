@@ -142,6 +142,9 @@ plugins:
   - source: "./quartz/plugins/local/disable-homepage-popovers"
     enabled: true
     order: 95
+  - source: "./quartz/plugins/local/disable-list-tag-popovers"
+    enabled: true
+    order: 96
   - source: "@quartz-community/ox-hugo"
     enabled: false
     order: 91

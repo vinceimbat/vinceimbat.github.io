@@ -1,0 +1,21 @@
+{
+  "name": "disable-list-tag-popovers",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Disables hover-preview popovers for tag pills on list (folder) pages only",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "quartz": {
+    "name": "disable-list-tag-popovers",
+    "displayName": "Disable List Tag Popovers",
+    "description": "Opts tag pills in list-page rows out of the hover-preview popover, leaving popovers enabled for tags everywhere else",
+    "category": "transformer",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "defaultOrder": 96,
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}

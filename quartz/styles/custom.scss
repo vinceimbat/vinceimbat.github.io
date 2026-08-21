@@ -16,22 +16,28 @@
 }
 
 // List-page titles deliberately opt out of the site's normal reverse-hover
-// fill (black background, white text) — simplified to a plain color change
-// on hover, no background/border, scoped to list pages only. Without an
-// explicit hover rule here, the global `a.internal:hover` in base.scss
-// (background: var(--dark), color: var(--light)) would still apply, plus
-// the `folder-page`/`tag-page` plugins' own bundled CSS separately zeroes
-// out just the background-color on this exact selector (a leftover opt-out
-// from Quartz's old always-on internal-link highlight pill) — combined,
-// that's an invisible-white-text-on-transparent-background bug, not a
-// simplification. Zeroing background/border here alongside the color change
-// avoids that.
+// fill (black background, white text) entirely — hovering a title changes
+// nothing about the title itself, relying solely on the row's own gray
+// background hover (see `ul.section-ul > li.section-li:hover` below) as the
+// interactive affordance. Without an explicit hover rule here, the global
+// `a.internal:hover` in base.scss (background: var(--dark), color:
+// var(--light)) would still apply, plus the `folder-page`/`tag-page`
+// plugins' own bundled CSS separately zeroes out just the background-color
+// on this exact selector (a leftover opt-out from Quartz's old always-on
+// internal-link highlight pill) — combined, that's an invisible-white-
+// text-on-transparent-background bug, not a simplification. Explicitly
+// matching every property to its own non-hover value (rather than omitting
+// them) is what actually cancels the global rule — CSS resolves each
+// property independently by specificity, so leaving `color` undeclared
+// here would still let the more specific global `.internal:hover` rule win
+// that property alone, turning text white despite everything else here
+// reading as "no hover effect."
 li.section-li > .section > .desc > h3 > a {
   text-decoration: none;
 }
 li.section-li > .section > .desc > h3 > a:hover {
   background-color: transparent;
-  color: var(--secondary);
+  color: var(--linkGray);
   border-color: transparent;
   text-decoration: none;
 }
@@ -41,8 +47,19 @@ li.section-li > .section > .desc > h3 > a:hover {
 // enabled later.
 .recent-notes > ul.recent-ul > li .section > .desc > h3 > a:hover {
   background-color: transparent;
-  color: var(--secondary);
+  color: var(--linkGray);
   border-color: transparent;
+  text-decoration: none;
+}
+
+// Tags in list pages get the same treatment as titles just above: no
+// reverse-hover fill, every property pinned to its own non-hover value.
+// Tag pills elsewhere on the site (content-meta-en's byline, tag pages)
+// aren't touched by this selector and keep the site's normal reverse hover.
+li.section-li > .section > .tags a.tag-link:hover {
+  background-color: transparent;
+  color: var(--linkGray);
+  border-color: var(--dark);
   text-decoration: none;
 }
 
