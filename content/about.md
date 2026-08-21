@@ -1,7 +1,7 @@
 ---
 title: About
 created: 2024-12-08T16:41:37+08:00
-modified: 2026-08-01T16:24:08+08:00
+modified: 2026-08-21T22:55:53+08:00
 aliases:
   - About
 draft: false
@@ -11,15 +11,15 @@ publish: true
 
 # Hi, I'm Vince Honrado Imbat
 
-I'm a writer who walks. I see my work primarily as attempts to understand what [[shinichiro imaoka|Shin'ichirō Imaoka]] calls [[jiyu shukyo|jiyū shūkyō]] or "a creative, inquiring, free, and liberative religion or spirituality."
-
-I share glimpses of my journey in my almost weekly [Substack](https://vinceimbat.substack.com/).
+I'm a writer who walks. I see my work primarily as an attempt to understand what [[shinichiro imaoka|Shin'ichirō Imaoka]] calls [[jiyu shukyo|jiyū shūkyō]] or "a creative, inquiring, free, and liberative religion or spirituality." I share glimpses of my journey in my [[talahardin]] and in my [Substack](https://vinceimbat.substack.com/).
 
 ---
 
 # My Official Bio
 
-Vince Honrado Imbat is a Los Baños-based Pangasinense writer who walks. His essays and poems, recognized by the Gawad Bienvenido Lumbera and Gawad F. Sionil Jose, explore the convergence of place, history, and spirituality. His work has appeared in _Katipunan_, _TLDTD_, _Rappler_, _Northern Dispatch_, _Mountain Beacon_, and elsewhere, and his poetry and photography have been exhibited in Laguna, Cavite, and Rizal. He is a fellow of the Ateneo National Writers Workshop, Palihang Rogelio Sicat, the Bienvenido Lumbera Seminar-Workshop on Translation, and the Writings-in-Progress Traveling Writing Workshop organized by Savage Mind and the Goethe-Institut Philippinen.
+For those who might need it, here's a bio written in the third person:
+
+Vince Honrado Imbat is a Los Baños-based Pangasinense writer who walks. His essays and poems, recognized by the Gawad Bienvenido Lumbera and Gawad F. Sionil Jose, explore the convergence of place and spirituality. His work has appeared in _Katipunan_, _TLDTD_, _Rappler_, _Northern Dispatch_, _Mountain Beacon_, and elsewhere, and his poetry and photography have been exhibited in Laguna, Cavite, and Rizal. He is a fellow of the Ateneo National Writers Workshop, Palihang Rogelio Sicat, the Bienvenido Lumbera Seminar-Workshop on Translation, and the Writings-in-Progress Traveling Writing Workshop organized by Savage Mind and the Goethe-Institut Philippinen. He is a freelance writer and editor and teaches poetry at the Philippine High School for the Arts.
 
 ---
 
@@ -33,63 +33,63 @@ Our small group's study and practice take inspiration from the few writings that
 
 I'm still in the process of deepening my understanding of _jiyū shūkyō_ and I don't have all the answers, but I try to write whatever I learn so I could share them to others. Some of the pieces I wrote on the subject that others found helpful are:
 
-- [A Goodness Lurking: The Quest for a Free, Subsistent Spirituality](https://vinceimbat.com/tlw/024/)
-- [Where the Sun Warms: Nietzsche's Prognosis for Existential Illness](https://vinceimbat.com/tlw/029/)
-- [A Sunday Walk](https://vinceimbat.com/tlw/033/)
-- [Godless Spirituality: A Primer](https://vinceimbat.com/essays/godless-spirituality-a-primer/)
+- [[newsletters/tlw/024|A Goodness Lurking: The Quest for a Free, Subsistent Spirituality]]
+- [[newsletters/tlw/029|Where the Sun Warms: Nietzsche's Prognosis for Existential Illness]]
+- [[newsletters/tlw/033|A Sunday Walk]]
+- [[talks/godless spirituality a primer|Godless Spirituality: A Primer]]
 
-One of the gifts that _jiyū shūkyō_ has given me is that it has encouraged me to be more receptive to new yet aligned religious ideas and practices. Since late 2023, I have transitioned from Zen meditation, which I practiced for eight years, to [[seiza]] meditation in the tradition of [[okada torajiro|Okada Torajiro]] (1872–1920). I've also recently deepened my study of [[jodo shinshu|Jōdo Shinshū]] (Shin Buddhism) and the practice of *nembutsu*. In both seiza and Jōdo Shinshū, I'm guided by my friend and teacher [Miki Nakura](https://www.youtube.com/@mikinakura2666). I've written about this new segment in my journey in my essay [The Ground That Is My Belly: Doing Seiza with Miki Nakura](https://vinceimbat.com/tlw/044/).
+One of the gifts that _jiyū shūkyō_ has given me is that it has encouraged me to be more receptive to new yet aligned religious ideas and practices. Since late 2023, I have transitioned from Zen meditation, which I practiced for eight years, to [[seiza]] meditation in the tradition of [[okada torajiro|Okada Torajiro]] (1872–1920). I've also recently deepened my study of [[jodo shinshu|Jōdo Shinshū]] (Shin Buddhism) and the practice of *nembutsu*. In both seiza and Jōdo Shinshū, I'm guided by my friend and teacher [Miki Nakura](https://www.youtube.com/@mikinakura2666). I've written about this new segment in my journey in my essay [[newsletters/tlw/044|The Ground That Is My Belly: Doing Seiza with Miki Nakura]].
 
 ## Walking
 
-![A waiting man](20240116-090639-tall-tales-a-waiting-man.jpg)
+![[20240116-090639-tall-tales-a-waiting-man.jpg]]
 
-I've always walked. Growing up in an evangelical household, it was something I just did. When I became a minister and young pastor, part of my duties was to walk miles and miles around the hills of [[baguio|Baguio City]] and nearby municipalities to search for the Deaf and hard-of-hearing individuals my congregation could preach to. When I left the church, [[notes/walking]] became a way for me to clear my path ahead.
+I've always walked. Growing up in an evangelical household, it was something I just did. When I became a minister and young pastor, part of my duties was to walk miles and miles around the hills of [[baguio|Baguio City]] and nearby municipalities to search for the Deaf and hard-of-hearing individuals my congregation could preach to. When I left the church, [[walking]] became a way for me to clear my path ahead.
 
-While finding my way around different spiritual circles, I fell in love with [[henry david thoreau|Henry David Thoreau]]. I [read his journals](https://vinceimbat.com/about/essays/reading-thoreau-journal) and started translating some of my favorite entries. I also started experimenting with walking as a spiritual practice and a platform for [[writing]]. Walking in the afternoons along dirt paths cutting through rice fields in my hometown of [[san jacinto|San Jacinto]], [[notes/pangasinan|Pangasinan]], I developed an intimate relationship with walking and the outdoors.
+While finding my way around different spiritual circles, I fell in love with [[henry david thoreau|Henry David Thoreau]]. I read his journals and started translating some of my favorite entries. I also started experimenting with walking as a spiritual practice and a platform for [[writing]]. Walking in the afternoons along dirt paths cutting through rice fields in my hometown of [[san jacinto|San Jacinto]], [[notes/pangasinan|Pangasinan]], I developed an intimate relationship with walking and the outdoors.
 
-It was in the middle of a 22-kilometer walk I did on June 9, 2022, from my current town of residence ([[los banos|Los Baños]], Laguna) to [[san pablo|San Pablo City]], that I found _jiyū shūkyō_. The strenuous yet meditative nature of that long walk moved me to finally confront my complex religious past, a confrontation I detailed in my essay ["Traversing Liminality Through Walking: An Auto-Ethnography"](https://vinceimbat.com/essays/traversing-liminality-through-walking/), which landed me a spot at the [[anww20|20th Ateneo National Writers Workshop]].
+It was in the middle of a 22-kilometer walk I did on June 9, 2022, from my current town of residence ([[los banos|Los Baños]], Laguna) to [[san pablo|San Pablo City]], that I found _jiyū shūkyō_. The strenuous yet meditative nature of that long walk moved me to finally confront my complex religious past, a confrontation I detailed in my essay [[writings/traversing liminality through walking|"Traversing Liminality Through Walking: An Autoethnography"]], which landed me a spot at the [[anww20|20th Ateneo National Writers Workshop]].
 
-Before this walk, I've tried so hard to avoid my religious past, thinking it is a period of my life no longer of use to me. However, as I wrote in the essay, what walking does to us is that it allows us to perform our internal condition of being in-between so that we could experience and perhaps finally see the distance between our former self and present self, a moment that, with [[faith]], leads to integration. What walking has helped me perceive is that the past is not something to avoid but is something that holds a few useful things to create and give meaning to the present. Walking helped me realize that despite not being affiliated to any formal religion I'm still very interested in questions about reality, [[meaning]], and being in the world. In short, I was and always is spiritual.
+Before this walk, I've tried so hard to avoid my religious past, thinking it is a period of my life no longer of use to me. However, as I wrote in the essay, what walking does to us is that it allows us to perform our internal condition of being in-between so that we could experience and perhaps finally see the distance between our multiple "selves," a moment that, with [[faith]], leads to integration. What walking has helped me perceive is that the past is not something to avoid but is something that holds a few useful things to create and give meaning to the present. Walking helped me realize that despite not being affiliated to any formal religion I'm still very interested in questions about reality, [[meaning]], and being in the world. In short, I was and always is spiritual.
 
-Since that long walk from Los Baños to San Pablo, I've continued to experiment with walking as a platform for creativity, contemplation, and communion. Since 2022, I've performed the following walking projects, which I've documented in pop-up newsletters and essays:
+Since that long walk from Los Baños to San Pablo, I've continued to experiment with walking as a platform for creativity, contemplation, and communion. Since 2022, I've performed the following walking projects, which I've documented in pop-up [[newsletters]] and essays:
 
 - 2023 April 20 and 27: "Nasa Labas ang Ili" (Home is Out There) guided walks
-- 2023 December 4–10: [Roots ྾ Gravel: A Week-long Walk of Los Baños](https://vinceimbat.com/about/rxg)
-- 2024 January 15–21: [Tall Tales: Baguio Walk No. 1](https://vinceimbat.com/tt1/)
-- 2024 March 5–6: [Walking Binondo](https://vinceimbat.com/tlw/031/)
-- 2025 January 25–31: [but Overall is beyond me](https://vinceimbat.com/boibm/)
-- 2025 March 7–9: [Walking Bangkok I](https://vinceimbat.com/tlw/039/), [Walking Bangkok II](https://vinceimbat.com/tlw/040/), and [Walking Bangkok III](https://vinceimbat.com/tlw/042/)
+- 2023 December 4–10: [[newsletters/rxg1/index|Roots ྾ Gravel: A Week-long Walk of Los Baños]]
+- 2024 January 15–21: [[newsletters/tt1/index|Tall Tales: Baguio Walk No. 1]]
+- 2024 March 5–6: [[newsletters/tlw/031|Walking Binondo]]
+- 2025 January 25–31: [[newsletters/boibm/index|but Overall is beyond me]]
+- 2025 March 7–9: [[newsletters/tlw/039|Walking Bangkok I]], [[newsletters/tlw/040|Walking Bangkok II]], and [[newsletters/tlw/042|Walking Bangkok III]]
 
-In 2024, the _Katipunan_ journal published my hybrid (draft) poetry collection _[Mapa ng Los Baños Patungo Sa'yo (A Map of Los Baños to You)](https://archium.ateneo.edu/katipunan/vol11/iss2/63/)_ in its Buhian literary issue. In the essay that accompanied the collection, ["Ang Borador Bilang Panitikan ng Paglalakad" (The Draft as a Literature for Walking)](https://archium.ateneo.edu/katipunan/vol11/iss2/63/), I delved into my intimate history with walking and discussed how I've developed a walking practice that fuels my writing and spiritual life.
+In 2024, the _Katipunan_ journal published my hybrid (draft) poetry collection *[[mapa ng los banos patungo sayo|Mapa ng Los Baños Patungo Sa'yo]]* in its *[Buhian]((https://archium.ateneo.edu/katipunan/vol11/iss2/63/)* literary issue. In the essay that accompanied the collection, [[ang borador bilang panitikan ng paglalakad|"Ang Borador Bilang Panitikan ng Paglalakad"]], I delved into my intimate history with walking and discussed how I've developed a walking practice that fuels my writing and spiritual life.
 
-In the same year, I wrote an essay in Pangasinan entitled "Ikurit Ko'y Sali-salik ëd Sayan Dalin: Pitoran Akar" (I Will Write My Feet on This Land: Seven Walks), which won in the [2024 Gawad Bienvenido Lumbera](https://www.facebook.com/share/p/15y2bEbCH2/). The essay introduces seven of the more than a hundred Pangasinan words referring to walking I discovered in the Spanish-era Cosgaya dictionary. I then used these words as prompts for recollections of several walks I've done in Pangasinan, including my first walk as a child, my first funeral procession, and the walks I did as a youth preaching the Bible with my parents.
+In the same year, I wrote an essay in Pangasinan entitled [[ikurit koy salisalik ed sayan dalin|"Ikurit Ko'y Salisalik ëd Sayan Dalin"]] ("I Will Write My Feet on This Land: Seven Walks"), which won in the [2024 Gawad Bienvenido Lumbera]([https://www.facebook.com/share/p/15y2bEbCH2/](https://ncca.gov.ph/wp-content/uploads/2025/02/GAWAD-LUMBERA-BOOK-3_-ONLINE-VERSION-1.pdf#page=28)). The essay introduces seven of the more than a hundred Pangasinan words referring to walking I discovered in the Spanish-era [[cosgayaDiccionarioPangasinanEspanol1865|Diccionario Pangasinan-Español by Lorenzo Fernandez Cosgaya]]. I then used these words as prompts for recollections of several walks I've done in Pangasinan, including my first walk as a child, my first funeral procession, and the walks I did as a youth preaching the Bible with my parents.
 
-I have provided a summary of the intricate interconnection between walking and my spiritual life in a 2025 talk I presented to the Global Network of Rainbow Catholics (GNRC) entitled ["Encountering a Creative, Free Spirituality (Jiyū Shūkyō 自由宗教) through Walking."](https://vinceimbat.com/tlw/043/)
+I have provided a summary of the intricate interconnection between walking and my spiritual life in a 2025 talk I presented to the Global Network of Rainbow Catholics (GNRC) entitled [[encountering a creative free spirituality through walking|"Encountering a Creative Free, Spirituality (Jiyū Shūkyō 自由宗教) Through Walking"]].
 
 ## Writing
 
-While writing came to me in childhood and I developed a measure of skill later on, it only began taking root in me when I left my earlier faith. Words naturally filled the void left by that religious calling, and I saw myself pouring my heart out onto page after page of my [[journal|journals]]. Writing was instrumental in grieving that old life and building a new one, which surprisingly still had a very strong religious flavor. My collection of Pangasinan poems called _Bëltangën Tayo'y Këlpa_ _(Cut Through This Fog)_, which won in the first [Gawad F. Sionil Jose](https://www.facebook.com/share/p/15RLmH2MBB/) in 2024, explores my complicated relationship with my father before and after I left the church.
+While writing came to me in childhood and I developed a measure of skill later on, it only began taking root in me when I left my earlier faith. Words naturally filled the void left by that religious calling, and I saw myself pouring my heart out onto page after page of my [[journal|journals]]. Writing was instrumental in grieving that old life and building a new one, which surprisingly still had a very strong religious flavor. My collection of Pangasinan poems called *[[beltangen tayoy kelpa|Bëltangen Tayo'y Këlpa]] (Cut Through This Fog)*, which won in the poetry category (adults) of the first Gawad F. Sionil Jose in 2024, explores my complicated relationship with my father before and after I left the church.
 
 Today, I see writing as the primary contemplative expression of my _jiyū shūkyō_, a way to nurture trust in myself, others, the cosmos, and the wholeness that holds everything together. It is a practice that is individually nurturing and holistically transformative at the same time.
 
-As a practice I do alone, I see writing as an act of reverence. I treat words that come out of my consciousness as valuable gems or seeds—miracles waiting to happen. Often, I pick them up during my walks both in geographic space and in what I like to call "[[mental wilderness|the wilderness of the mind]]," a walk I perform daily on my journal. These words are held together in my *[[talahardin]]* (literally, "note garden"), a digital archive of my notes, poems, essays, stories, translations, vignettes, and other "species of thought" in different stages of development. The *talahardin* is anchored in the idea that writing artifacts, being children of an ever-changing mind, are also never really finished. This is what writing means to me: a quest and a never-ending exploration for what it means to be a child of the cosmos.
+As a practice I do alone, I see writing as an act of reverence. I treat words that come out of my consciousness as valuable gems or seeds—miracles waiting to happen. Often, I pick them up during my walks both in geographic space and in what I like to call "[[mental wilderness|the wilderness of the mind]]," a walk I perform daily on my journal. These words are held together in my *talahardin* (literally, "note garden"), a digital archive of my notes, poems, essays, stories, translations, vignettes, and other "species of thought" in different stages of development. The *talahardin* is anchored in the idea that writing artifacts, being children of an ever-changing mind, are also never really finished. This is what writing means to me: a quest and a never-ending exploration for what it means to be a child of the cosmos.
 
-But I also believe in writing's potential to be a platform to bring us together in community. Since 2025, I've practiced writing weekly with a group of fellow contemplatives, adopting the principles and practices of Pat Schneider's [Amherst Writers and Artists (AWA)](https://amherstwriters.org/) method. In 2026, I also started teaching [[poetry]] at the Philippine High School for the Arts (PHSA).
-
-My essays and poems have appeared in _Katipunan_, _TLDTD_, _Rappler_, _Northern Dispatch_, _Mountain Beacon_, and elsewhere. I'm a fellow of the Second Bienvenido Lumbera Seminary-Workshop on Translation, the [20th Ateneo National Writers Workshop](https://www.facebook.com/share/p/1BGYG4y87E/) (ANWW20), the [17th Palihang Rogelio Sicat](https://www.facebook.com/share/p/1GtkxEiq2Y/) (PRS17), and the [Writings-in-Progress Traveling Writing Workshop](https://www.instagram.com/p/DYEtRcWDAAg/?img_index=7) organized by [Savage Mind](https://www.instagram.com/savagemindbookshop/?hl=en) and the [Goethe-Institut Philippinen](https://www.goethe.de/ins/ph/en/index.html).
+But I also believe in writing's potential to be a platform to bring us together in community. Since 2025, I've practiced writing weekly with a group of fellow contemplatives, adopting the principles and practices of Pat Schneider's [Amherst Writers and Artists (AWA)](https://amherstwriters.org/) method. In 2026, I also started teaching [[poetry]] at the Philippine High School for the Arts (PHSA), an experience that has been transformational in how I view my writing. My views on writing continue to evolve and I track it through a note I continue to update in my *talahardin* called [[my poetics|"my poetics"]].
 
 ## Photography
 
-![Canvas](20231209-102338-rxg-canvas.jpg)
+![[20231209-102338-rxg-canvas.jpg]]
 
 My interest with [[photography]] has always been driven by my desire to deepen my walks. My walks require me to look closer at objects and to look underneath what seems apparent in the landscape or the street. Photography, particularly the practice of [[contemplative photography]] seems to help me with both goals. I regularly share my photographs in my newsletter and some of them have also been exhibited at the Kalooban Arts Initiative space at Imus, Cavite.
 
 During times when I can't write a single word on the blank page or just don't know what else to say, I find myself looking for the silence and modesty of photography. I like to think of it not as a complement to but an extension of my writing. Through photography, it is impossible for me to stop writing. Photography, after all, is writing with light.
 
-The success of my photographic practice relies heavily on how much I'm able to remove the inner hurdles one often associate with it. I couldn't overstate that the healthiest and most democratic way to approach photography is to never feel or make others feel insufficient around a camera. As I have written in a previous essay, "To be able to let the light in, to truly open myself up to the wide variety of images waiting to permeate themselves into my being, I have to increase the size of my inner aperture by shedding my leaves of insecurity, self-distrust, and pain that may have accumulated for years."
+The success of my photographic practice relies heavily on how much I'm able to remove the inner hurdles one often associate with it. I couldn't overstate that the healthiest and most democratic way to approach photography is to never feel or make others feel insufficient around a camera. As I've written in a previous essay:
 
-I've written more about my thoughts on photography in my essay [Let the Light In: Notes on Photography and Self-trust](https://vinceimbat.com/tlw/041/).
+>To be able to let the light in, to truly open myself up to the wide variety of images waiting to permeate themselves into my being, I have to increase the size of my inner aperture by shedding my leaves of insecurity, self-distrust, and pain that may have accumulated for years.
+
+I've written more about my thoughts on photography in my essay [[newsletters/tlw/041|Let the Light In: Notes on Photography and Self-trust]].
 
 # Let’s Keep in Touch
 

@@ -1,7 +1,7 @@
 ---
 title: Ikurit Ko'y Salisalik ëd Sayan Dalin
 created: 2024-11-22
-modified: 2026-08-21T10:37:27+08:00
+modified: 2026-08-21T22:27:53+08:00
 aliases:
   - Ikurit Ko'y Salisalik ëd Sayan Dalin
 draft: false
@@ -10,7 +10,7 @@ tags:
   - species/essay
   - status/evergreen
 ---
-The following essay, written in [[pangasinan|Pangasinan]], was the Grand Prize Winner of the Pangasinan (Personal Essay) category in the 2024 Gawad Bienvenido Lumbera (GBL). It was published in the [anthology](https://ncca.gov.ph/wp-content/uploads/2025/02/GAWAD-LUMBERA-BOOK-3_-ONLINE-VERSION-1.pdf#page=29) of winners for that year.
+The following essay, written in [[pangasinan|Pangasinan]], was the Grand Prize Winner of the Pangasinan (Personal Essay) category in the 2024 Gawad Bienvenido Lumbera (GBL). It was published in the [anthology](https://ncca.gov.ph/wp-content/uploads/2025/02/GAWAD-LUMBERA-BOOK-3_-ONLINE-VERSION-1.pdf#page=28) of winners for that year.
 
 ---
 
