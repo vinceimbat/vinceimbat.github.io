@@ -97,7 +97,7 @@ plugins:
   - source: "./quartz/plugins/local/image-captions"
     enabled: true
     order: 35
-  - source: "./quartz/plugins/local/pdf-viewer-size"
+  - source: "./quartz/plugins/local/pdf-viewer"
     enabled: true
     order: 28
   - source: "@quartz-community/github-flavored-markdown"

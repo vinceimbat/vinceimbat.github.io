@@ -705,16 +705,10 @@ ol.overflow {
   border-radius: 5px;
 }
 
-// aspect-ratio is normally set inline per-embed by the pdf-viewer-size
-// plugin, matching that specific PDF's own page shape (Letter, Legal, A4,
-// whatever) — this portrait default only applies on the rare file where a
-// page size couldn't be read from the PDF's bytes.
-iframe.pdf {
-  aspect-ratio: 8.5 / 11;
-  height: 100%;
-  width: 100%;
-  border-radius: 5px;
-}
+// PDF embeds no longer use a plain iframe — the pdf-viewer plugin renders
+// its own <div class="pdf-viewer"> with a custom PDF.js-based reader
+// (needed for mobile, which barely supports native PDF viewing inside an
+// iframe) and ships its own CSS via externalResources.
 
 .navigation-progress {
   position: fixed;
