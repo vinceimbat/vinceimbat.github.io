@@ -698,9 +698,19 @@ ol.overflow {
   overflow-y: hidden;
 }
 
-.external-embed.youtube,
-iframe.pdf {
+.external-embed.youtube {
   aspect-ratio: 16 / 9;
+  height: 100%;
+  width: 100%;
+  border-radius: 5px;
+}
+
+// aspect-ratio is normally set inline per-embed by the pdf-viewer-size
+// plugin, matching that specific PDF's own page shape (Letter, Legal, A4,
+// whatever) — this portrait default only applies on the rare file where a
+// page size couldn't be read from the PDF's bytes.
+iframe.pdf {
+  aspect-ratio: 8.5 / 11;
   height: 100%;
   width: 100%;
   border-radius: 5px;

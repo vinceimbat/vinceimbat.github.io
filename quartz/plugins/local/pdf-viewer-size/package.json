@@ -1,0 +1,21 @@
+{
+  "name": "pdf-viewer-size",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Sizes embedded PDF viewers to match each PDF's actual page aspect ratio, instead of a fixed 16:9",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "quartz": {
+    "name": "pdf-viewer-size",
+    "displayName": "PDF Viewer Size",
+    "description": "Reads each embedded PDF's page size (via its MediaBox) and sets the iframe's aspect-ratio to match, so the whole page is visible regardless of page size",
+    "category": "transformer",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "defaultOrder": 28,
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}
