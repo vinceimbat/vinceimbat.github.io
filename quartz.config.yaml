@@ -322,6 +322,7 @@ plugins:
     enabled: true
     options:
       links:
+        RSS: https://vinceimbat.com/index.xml
         Instagram: https://www.instagram.com/vinceimbat/
   - source: "@quartz-community/recent-notes"
     enabled: false
