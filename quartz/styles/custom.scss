@@ -15,23 +15,24 @@
   --linkGray: #a3a3a3;
 }
 
-// The `folder-page`/`tag-page` plugins' bundled listPage CSS includes
-// `li.section-li > .section > .desc > h3 > a { background-color: transparent; }`
-// — a leftover opt-out from Quartz's old always-on internal-link highlight
-// pill. Its specificity (0,3,3) beats our `a.internal:hover` rule in
-// base.scss (0,2,1) within the same @layer quartz-base, so it silently
-// dropped the black hover fill for list-page titles specifically — the
-// border and inverted text color still applied (those properties aren't
-// touched by the offending rule), leaving an empty outlined box with
-// invisible text. Tag links sit on a different selector path and were
-// never affected. Restore the inverted hover fill for these titles.
+// List-page titles deliberately opt out of the site's normal reverse-hover
+// fill (black background, white text) — simplified to a plain color change
+// on hover, no background/border, scoped to list pages only. Without an
+// explicit hover rule here, the global `a.internal:hover` in base.scss
+// (background: var(--dark), color: var(--light)) would still apply, plus
+// the `folder-page`/`tag-page` plugins' own bundled CSS separately zeroes
+// out just the background-color on this exact selector (a leftover opt-out
+// from Quartz's old always-on internal-link highlight pill) — combined,
+// that's an invisible-white-text-on-transparent-background bug, not a
+// simplification. Zeroing background/border here alongside the color change
+// avoids that.
 li.section-li > .section > .desc > h3 > a {
   text-decoration: none;
 }
 li.section-li > .section > .desc > h3 > a:hover {
-  background-color: var(--dark);
-  color: var(--light);
-  border-color: var(--dark);
+  background-color: transparent;
+  color: var(--secondary);
+  border-color: transparent;
   text-decoration: none;
 }
 
@@ -39,9 +40,9 @@ li.section-li > .section > .desc > h3 > a:hover {
 // which reuses this exact list-item markup — future-proofing in case it's
 // enabled later.
 .recent-notes > ul.recent-ul > li .section > .desc > h3 > a:hover {
-  background-color: var(--dark);
-  color: var(--light);
-  border-color: var(--dark);
+  background-color: transparent;
+  color: var(--secondary);
+  border-color: transparent;
   text-decoration: none;
 }
 
