@@ -74,6 +74,17 @@ function readPdfAspectRatio(absPath) {
 }
 
 const STYLE = `
+/* Site-wide only sets box-sizing on <body> itself, not inherited by
+   descendants (box-sizing isn't an inherited property) — so every element
+   in this component needs it explicitly, or width: 100% + padding overflows
+   its own container by exactly the padding amount, which is what was
+   pushing the download button past the viewer's right edge. */
+.pdf-viewer,
+.pdf-viewer *,
+.pdf-viewer *::before,
+.pdf-viewer *::after {
+  box-sizing: border-box;
+}
 .pdf-viewer {
   position: relative;
   margin: 1.5rem 0;
@@ -91,7 +102,12 @@ const STYLE = `
   display: flex;
   justify-content: center;
   background: var(--lightgray);
-  touch-action: pan-y;
+  /* This viewer owns its own scroll gesture (drag/wheel turns pages,
+     matching a real reader) rather than deferring to the page's normal
+     scroll — the same trade-off any embedded scrollable widget (a map, a
+     video) makes: interacting with it doesn't also move the page behind
+     it, and moving off it lets normal scrolling resume immediately. */
+  touch-action: none;
 }
 .pdf-viewer-canvas-wrap canvas {
   display: block;
@@ -121,26 +137,39 @@ const STYLE = `
   padding: 0.5rem 0.6rem;
   border-top: 1px solid var(--lightgray);
 }
-.pdf-viewer-controls button {
+.pdf-viewer-controls button,
+.pdf-viewer-download {
+  /* Buttons carry browser-default padding/appearance that plain <a> tags
+     don't — without resetting it, the two end up subtly different sizes
+     despite sharing every other rule here, throwing off the gutters. */
+  appearance: none;
+  margin: 0;
+  padding: 0;
+  font: inherit;
   display: flex;
   align-items: center;
   justify-content: center;
-  min-width: 2.75rem;
-  min-height: 2.75rem;
+  flex-shrink: 0;
+  width: 2.75rem;
+  height: 2.75rem;
   border: 1px solid var(--lightgray);
   background: var(--light);
   color: var(--dark);
   border-radius: 5px;
   font-size: 1.1rem;
   line-height: 1;
+  text-decoration: none;
   cursor: pointer;
   transition: border-color 0.15s ease, color 0.15s ease, transform 0.1s ease;
 }
-.pdf-viewer-controls button:hover:not(:disabled) {
+.pdf-viewer-controls button:hover:not(:disabled),
+.pdf-viewer-download:hover {
   border-color: var(--secondary);
   color: var(--secondary);
+  background-color: var(--light);
 }
-.pdf-viewer-controls button:active:not(:disabled) {
+.pdf-viewer-controls button:active:not(:disabled),
+.pdf-viewer-download:active {
   transform: scale(0.94);
 }
 .pdf-viewer-controls button:disabled {
@@ -155,24 +184,10 @@ const STYLE = `
   color: var(--gray);
   letter-spacing: 0.02em;
 }
-.pdf-viewer-download {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-width: 2.75rem;
-  min-height: 2.75rem;
-  border-radius: 5px;
-  color: var(--gray);
-  text-decoration: none;
-  font-family: var(--codeFont);
-  font-size: 0.75rem;
-  border: 1px solid transparent;
-  transition: border-color 0.15s ease, color 0.15s ease;
-}
-.pdf-viewer-download:hover {
-  color: var(--secondary);
-  border-color: var(--lightgray);
-  background-color: transparent;
+.pdf-viewer-download svg {
+  width: 1.1rem;
+  height: 1.1rem;
+  stroke: currentColor;
 }
 .pdf-viewer-error {
   padding: 1.5rem;
@@ -184,7 +199,8 @@ const STYLE = `
   color: var(--secondary);
 }
 @media (prefers-reduced-motion: reduce) {
-  .pdf-viewer-controls button {
+  .pdf-viewer-controls button,
+  .pdf-viewer-download {
     transition: none;
   }
 }
@@ -281,18 +297,52 @@ const SCRIPT = `
       if (e.key === "ArrowRight") goToPage(currentPage + 1);
     });
 
-    var touchStartX = null;
+    var SWIPE_THRESHOLD = 40;
+    var touchStart = null;
     canvasWrap.addEventListener("touchstart", function (e) {
-      touchStartX = e.changedTouches[0].clientX;
+      touchStart = { x: e.changedTouches[0].clientX, y: e.changedTouches[0].clientY };
     }, { passive: true });
     canvasWrap.addEventListener("touchend", function (e) {
-      if (touchStartX === null) return;
-      var dx = e.changedTouches[0].clientX - touchStartX;
-      touchStartX = null;
-      if (Math.abs(dx) < 40) return;
-      if (dx < 0) goToPage(currentPage + 1);
-      else goToPage(currentPage - 1);
+      if (!touchStart) return;
+      var dx = e.changedTouches[0].clientX - touchStart.x;
+      var dy = e.changedTouches[0].clientY - touchStart.y;
+      touchStart = null;
+      // Whichever axis moved more decides the gesture: a horizontal drag
+      // pages like turning a leaf, a vertical drag pages like scrolling
+      // down to keep reading — both are "the next page," just a different
+      // physical motion for the same result.
+      if (Math.abs(dx) > Math.abs(dy)) {
+        if (Math.abs(dx) < SWIPE_THRESHOLD) return;
+        if (dx < 0) goToPage(currentPage + 1);
+        else goToPage(currentPage - 1);
+      } else {
+        if (Math.abs(dy) < SWIPE_THRESHOLD) return;
+        if (dy < 0) goToPage(currentPage + 1);
+        else goToPage(currentPage - 1);
+      }
     }, { passive: true });
+
+    // Desktop equivalent of the vertical swipe: scrolling down over the
+    // viewer turns the page forward, scrolling up turns it back. Trackpads
+    // fire many small deltaY events per gesture, so accumulate and apply a
+    // short cooldown to turn exactly one page per scroll gesture rather than
+    // flipping through several at once.
+    var wheelAccum = 0;
+    var wheelLocked = false;
+    var WHEEL_THRESHOLD = 60;
+    canvasWrap.addEventListener("wheel", function (e) {
+      e.preventDefault();
+      if (wheelLocked) return;
+      wheelAccum += e.deltaY;
+      if (Math.abs(wheelAccum) < WHEEL_THRESHOLD) return;
+      if (wheelAccum > 0) goToPage(currentPage + 1);
+      else goToPage(currentPage - 1);
+      wheelAccum = 0;
+      wheelLocked = true;
+      setTimeout(function () {
+        wheelLocked = false;
+      }, 400);
+    }, { passive: false });
 
     var resizeRaf = null;
     window.addEventListener("resize", function () {
@@ -381,7 +431,7 @@ const PdfViewer = (_opts) => {
     <button type="button" class="pdf-viewer-prev" aria-label="Previous page" disabled>‹</button>
     <span class="pdf-viewer-page-count"></span>
     <button type="button" class="pdf-viewer-next" aria-label="Next page" disabled>›</button>
-    <a class="pdf-viewer-download" href="${fullSlug}" download data-router-ignore>Download</a>
+    <a class="pdf-viewer-download" href="${fullSlug}" download data-router-ignore aria-label="Download PDF"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12"/><path d="M7 10l5 5 5-5"/><path d="M4 20h16"/></svg></a>
   </div>
   <noscript><div class="pdf-viewer-error">Enable JavaScript to read this PDF here, or <a href="${fullSlug}">open it directly</a>.</div></noscript>
 </div>`,
