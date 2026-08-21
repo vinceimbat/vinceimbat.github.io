@@ -1,16 +1,16 @@
 {
-  "name": "pdf-viewer-size",
+  "name": "pdf-viewer",
   "version": "1.0.0",
   "type": "module",
-  "description": "Sizes embedded PDF viewers to match each PDF's actual page aspect ratio, instead of a fixed 16:9",
+  "description": "Renders embedded PDFs with a custom, touch-friendly viewer (fit-to-width pages, prev/next, swipe) instead of the browser's native PDF plugin, which mobile Safari/Chrome barely support inside an iframe",
   "main": "./index.js",
   "exports": {
     ".": "./index.js"
   },
   "quartz": {
-    "name": "pdf-viewer-size",
-    "displayName": "PDF Viewer Size",
-    "description": "Reads each embedded PDF's page size (via its MediaBox) and sets the iframe's aspect-ratio to match, so the whole page is visible regardless of page size",
+    "name": "pdf-viewer",
+    "displayName": "PDF Viewer",
+    "description": "Custom PDF.js-based viewer for ![[file.pdf]] embeds: fit-to-width rendering sized to the PDF's real page shape, prev/next controls, swipe-to-turn on touch, and a download fallback",
     "category": "transformer",
     "version": "1.0.0",
     "quartzVersion": ">=5.0.0",
