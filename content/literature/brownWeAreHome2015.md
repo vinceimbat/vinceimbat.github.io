@@ -46,7 +46,7 @@ Per Paul Wienpahl, being a man without a position should open the door to ==deta
 <!--SR:!2026-08-25,72,270-->
 
 Per Paul Wienpahl, where will the direction of a man without a position come from? :: Within.
-<!--SR:!2026-08-21,153,310-->
+<!--SR:!2028-06-08,657,330-->
 
 Per Paul Wienpahl, how does a man without a position see the actions of others? :: Cannot judge them.
 <!--SR:!2026-11-01,195,310-->

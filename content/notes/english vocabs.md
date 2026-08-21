@@ -54,7 +54,7 @@ cobble :: n. small round stone covering road surfaces
 <!--SR:!2027-11-03,608,269-->
 
 construe :: v. interpret a word or action
-<!--SR:!2026-08-21,46,235-->
+<!--SR:!2026-12-07,108,235-->
 
 convalescence :: n. recuperation
 <!--SR:!2027-10-14,425,269-->
@@ -186,7 +186,7 @@ knell - solemn sound of a bell (death)
 # L
 
 languor :: n. weariness
-<!--SR:!2026-08-21,10,150-->
+<!--SR:!2026-08-26,5,130-->
 
 largesse :: n. generosity
 <!--SR:!2026-09-29,67,189-->

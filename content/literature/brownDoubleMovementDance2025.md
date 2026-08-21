@@ -30,7 +30,7 @@ Brown, Andrew James. “The Double Movement Dance of a Free-Religious Faith.” 
 # Prompts
 
 Hungarian word for faith. :: Hit
-<!--SR:!2026-08-21,95,270-->
+<!--SR:!2026-10-07,47,250-->
 
 Nuance in the meaning of the Hungarian word for faith, *hit*. :: Faith in doctrines of a specific denomination
 <!--SR:!2027-01-02,162,270-->

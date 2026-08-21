@@ -24,7 +24,7 @@ Check npm version in terminal :: npm -v
 <!--SR:!2026-10-13,434,289-->
 
 Upgrade node using brew :: brew upgrade node
-<!--SR:!2026-08-21,60,229-->
+<!--SR:!2026-09-21,31,209-->
 
 Upgrade npm using nvm :: nvm install-latest-npm
 <!--SR:!2026-10-10,67,190-->

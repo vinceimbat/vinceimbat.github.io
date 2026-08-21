@@ -96,7 +96,7 @@ Present the four religious or spiritual tendencies, paths, or disciplines in the
 - rāja yoga (mystical)
 - bhakti yoga (devotional)
 - karma yoga (practical)
-<!--SR:!2026-08-21,20,205-->
+<!--SR:!2026-10-02,42,205-->
 
 Per Carl Jung, jñāna yoga became ==the rational==.
 <!--SR:!2026-11-12,327,305-->

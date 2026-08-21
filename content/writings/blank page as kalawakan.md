@@ -1,0 +1,33 @@
+---
+title: Blank Page as Kalawakan
+created: 2026-01-13
+modified: 2026-08-21T10:33:50+08:00
+aliases:
+  - Blank Page as Kalawakan
+draft: false
+publish: true
+tags:
+  - species/essay
+  - status/evergreen
+---
+The following essay was published in *[Rappler](https://mtbeacon.rappler.com/613/literary-tuesdays-blank-page-as-kalawakan/)* on January 13, 2026, as an introduction to poems published by *Mountain Beacon* that week.
+
+---
+
+Who is the rare writer who has never contended with a blank page? Even the most prolific must start somewhere, often in nothingness. Any writer, therefore, has a unique relationship with the blank page and, by proximity, with whiteness and purity. This relationship is often felt as a dance between struggle and possibility.
+
+Until I started responding to Mountain Beacon prompts in October this year, I really couldn’t maintain a regular poetry practice by sitting down in front of a blank page. I was too used to writing while walking that almost all my essays and poems begin on trails. June to November are lean writing months for me as monsoon rains and more frequent typhoons make it impossible to go on long walks for weeks.
+
+Aside from responding to weekly prompts and deadlines, what helped me improve my relationship with the blank page was to reimagine it as a form of wilderness I enter every morning—an unexplored territory to walk on. In Pangasinan, wilderness is _lawak,_ and _kalawakan_ is wilderness expanded. Writing is an act of throwing oneself into the purity and blankness of _kalawakan_.
+
+Like my walks, I’ve turned writing into an almost daily religious practice. I wrote a prayer before writing and repeated it every morning before striking my singing bowl and beginning my walk on the page. Most days would yield about three pages. Once done, I content myself with the thought that whatever happens that day, that morning’s reconnaissance will suffice as the day’s work.
+
+The memory of what I witnessed one twilight during a bike ride to a dam at San Jacinto, Pangasinan, was one of three poems that presented themselves to me as I opened the doorway of my journal and started walking the wilderness of the blank page in response to Mountain Beacon’s first prompt this December on “White, Blank Page, and Purity.”
+
+Our growing community of poets sent fifty-eight poems in total for this prompt—fifty-eight trails cleared on each poet’s wilderness. Here, I offer you thirteen trails I’ve enjoyed walking on and invite you to follow in the footsteps of their writers.
+
+Among all the poems in the anthology, my thoughts on wilderness find their most direct resonance with Ronald Araña Atilano’s “Taglamig sa Wallis Lake,” a rare glimpse of what the natural world is in winter through Filipino eyes. My _kamanukan_ found a comrade in Atilano’s korbehon, where wilderness is witnessed in its single flight, which, like thoughts captured in a page, “Paglaon, maging siya’y maglalaho—.” But the primal physicality of wilderness is also reinforced in Jaime G. Raras’ Ilocano poem “Birhen a Dalan,” a reminiscence of a process we call in Pangasinan _batak_—the destruction of nature sites to give way for new roads. This process often ends in uncertainty: “Di ammo ti agur-uray a gasat.” Raras’ uncertainty of the road flows right into Nene Alawas Cadiog’s “Blooming in the Half Light,” which follows the familiar, yet still suspenseful trajectory of love lost that “begins the way fog rises on Halsema” before “the Atok flower farms uncover themselves” and “La Trinidad, / the valley glitters with scattered lights” only to end in grief. Despite beginning his poem “In a cemetery south of Manila,” there is no talk on grief in Homer B. Novicio’s “U N W R I T.” There is only the apathy of the afterlife, a sort of wilderness of itself, an almost celebration of the limits of concrete matter where “formlessness pierce / past bone, soil, and mountain.” In Alex Lamajar’s “Ang Lumang Pader,” grief resurfaces, again from the wilderness of cement. There, the daily visitations of memory aspire for reprieve—“At mula sa mga lamat ng kongkretong bakod / sumisilip ang mga bagong bulaklak.” Francisco Arias Monteseña’s “Pahina ng Memorya” puts the visitations of memory at the center of his meditation. Here, the mind is the wilderness, and memory is the traveler that knocks on its gates. Per Monteseña, our response is limited: “wala tayong mapagpipilian / Kung hindi ang papasukin / Ang mga nagpapakanlong / Na alaala.” This yielding, this surrender, finds its fiercest advocate in Clyde Cyruz D. Alcaraz’s “The Day I Didn’t Bring the Laundry In.” Often, in our aspirations for purity, we forget that “the sky knows better than we do.” Alcaraz’s persona recognizes this, and so they let rain do the cleansing until “the shirts are spinning slow / like prayers learning new language.”
+
+Purity is, of course, a religious vocation, a vocation often taken, sometimes out of fear, by our mothers. Alyssa Danielle Navarro reminds us of this in her poem “What My Mother Told Me About Purity.” Here, the familiar maternal image of “the piles of dirty laundry on my bed” returns, but there is also “the clumps of filth / that accumulated on this body.” Genevieve S. Aguinaldo’s “Sebo de Macho” studies the subject of the purity of the body further. While it speaks about a daughter, there is, I believe, a mother near this poem. She watches from afar as her daughter contends with the wilderness of her own body, letting maps be drawn there, for better or for worse, because she trusts that “Mapapahi ang lahat ng bakat ng sugat.” Gamson Jr. Mawallil Quijano joins this discourse. In “Babu’ Mawra,” written in Bahasa Sūg of Sulu, the mother becomes the wilderness, and each line of the poem—“Awn babai hambuuk / Mahaba’ puti’ buhuk”—is a step taken into exploring her motherhood.
+
+But a poem is itself _kalawakan_ in two respects. First, there are poems that, as Ivan Emil Labayne conveys in his “Villa Meets Acosta,” “Walang kakandilihin kundi / Kawalan.” These are empty poems either by intention or by persecution. Here, their _kawalan_ ignites the _kalawakan_ because “May kuwenta rin / ang nakakunot na noo.” But even after it fills itself with words, a poem could maintain its blankness by lending itself to multiple rays of meaning. Among all the poems in this anthology, I found Dennis Andrew S. Aguinaldo’s “Beatitude” the most generous. While the images created by lines like “concerted the drones pull” and “kids fall asleep” remind me of the genocide in Gaza, there is fantasy in this poem, religion, too, and the act of interpolation that yields near infinite meanings becomes beatitude itself. This is _kalawakan_ intensified.

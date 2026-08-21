@@ -520,7 +520,7 @@ Per Cervantes (2025), *kaluluwa*, as experienced subjectively, is ==*diwa*==.
 <!--SR:!2026-09-12,46,232-->
 
 Two meanings of "spirit" in Filipino folk belief. :: Breath and vitality.
-<!--SR:!2026-08-21,83,212-->
+<!--SR:!2026-10-03,43,192-->
 
 In Cebuano, spirit is ==ginhawa==.
 <!--SR:!2028-11-07,911,332-->

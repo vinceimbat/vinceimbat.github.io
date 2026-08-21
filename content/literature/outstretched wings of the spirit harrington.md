@@ -81,7 +81,7 @@ Founder of process theology ::: Alfred North Whitehead
 <!--SR:!2000-01-01,1,250!2025-03-19,4,270-->
 
 According to Wieman, "God is ==the integrating process at work in the universe==."
-<!--SR:!2026-08-21,39,170-->
+<!--SR:!2026-11-24,95,190-->
 
 According to Harrington's understanding of Wieman's theology, what is the dominant characteristic of the Universe? :: Parts integrate into complex harmonious entities.
 <!--SR:!2026-10-04,180,190-->

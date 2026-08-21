@@ -1,7 +1,7 @@
 ---
 title: "Traversing Liminality Through Walking: An Autoethnography"
 created: 2023-07-15
-modified: 2026-08-20T22:37:05+08:00
+modified: 2026-08-21T10:31:58+08:00
 aliases:
   - "Traversing Liminality Through Walking: An Autoethnography"
   - traversing-liminality-through-walking
@@ -12,7 +12,9 @@ tags:
   - species/essay
   - status/evergreen
 ---
-*The following hybrid essay landed me a spot at the 20th Ateneo National Writer's Workshop ([[anww20|ANWW20]]) last 2023. As of 2026, I am yet to revise the essay. A few people, including participants and panelists in the workshop and others who read it later, were moved by the essay at its original form, so I'm sharing it here.*
+The following hybrid essay landed me a spot at the 20th Ateneo National Writer's Workshop ([[anww20|ANWW20]]) last 2023. As of 2026, I am yet to revise the essay. A few people, including participants and panelists in the workshop and others who read it later, were moved by the essay at its original form, so I'm sharing it here.
+
+---
 
 # Abstract
 

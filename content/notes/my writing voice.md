@@ -1,14 +1,14 @@
 ---
 title: My writing voice
 created: 2024-02-20 13:22:43+08:00
-modified: 2026-07-06 19:01:28+08:00
+modified: 2026-08-21T08:57:08+08:00
 aliases:
-- My writing voice
+  - My writing voice
 draft: false
 publish: true
 tags:
-- species/thought
-- status/seedling
+  - species/thought
+  - status/seedling
 ---
 
 Jds poems relying on others
@@ -61,6 +61,29 @@ I like simple yet elegant sentences. Models:
 
 [[What people say about my writing]]
 
+The excursions of Thoreau and Basho but informed by the avant-garde (this is the political part).
+
+A way of writing that is both individually liberative but socially cohesive.
+
+Include my other languages: Pangasinan, Filipino
+
+Content
+- Places
+- Religion
+- Social Issues
+
+Process
+- Walking
+- "wabi-sabi"
+- Deep spiritual
+
+Style
+- Poetic prose
+- Avant-garde
+- code switching
+- Includes Filipino short forms (but inquires about them)
+
 # To do
 
 - Return to my eulogy for Rem: [[Kung natuloy sa pancitan - ang huling ala-ala ko kay Rem]]
+- Check the minimalist Language poet.
