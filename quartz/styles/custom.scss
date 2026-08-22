@@ -258,6 +258,124 @@ footer {
   display: none;
 }
 
+// Search modal redesign: the plugin's default renders the input and the
+// results/preview pane as two separate floating cards (each with its own
+// shadow, radius, and margin-bottom gap). The reference look is one
+// continuous frame — input, keyboard-hint row, and results area all inside
+// a single bordered/shadowed surface, divided only by hairlines. `overflow:
+// hidden` on `.search-space` clips the children's own corners to the outer
+// radius; the universal child selector below cancels each child's
+// individual card treatment now that the frame itself carries it.
+.search > .search-container > .search-space {
+  width: min(92%, 46rem);
+  margin-top: 10vh;
+  border-radius: 10px;
+  background: var(--light);
+  box-shadow:
+    0 14px 50px rgba(27, 33, 48, 0.12),
+    0 10px 30px rgba(27, 33, 48, 0.16);
+  overflow: hidden;
+}
+@media all and (max-width: 800px) {
+  .search > .search-container > .search-space {
+    margin-top: 6vh;
+  }
+}
+.search > .search-container > .search-space > *:not(.ghost-text):not(.tag-suggestions) {
+  border-radius: 0;
+  box-shadow: none;
+  margin-bottom: 0;
+  background: transparent;
+}
+// Larger bar, per request — bigger text/padding than the plugin default —
+// with the border moved to a bottom hairline so it reads as the frame's
+// top section rather than its own separate box.
+.search > .search-container > .search-space > input {
+  border: none;
+  border-bottom: 1px solid var(--lightgray);
+  font-size: 1.35em;
+  padding: 1em 1.25em;
+}
+// The plugin ships no keyboard-hint row at all — this one is injected
+// client-side (see the patched search plugin's afterDOMLoaded) as a sibling
+// of the input, styled here as a quiet divider strip between the bar and
+// the results frame below.
+.search-hints {
+  display: flex;
+  justify-content: center;
+  gap: 1.75rem;
+  padding: 0.65em 0;
+  border-bottom: 1px solid var(--lightgray);
+  font-family: var(--codeFont);
+  font-size: 0.75rem;
+  color: var(--gray);
+}
+.search-hints kbd {
+  display: inline-block;
+  border: 1px solid var(--lightgray);
+  border-radius: 3px;
+  padding: 0.05em 0.4em;
+  margin-right: 0.3em;
+  font-family: var(--codeFont);
+  font-size: 0.85em;
+  color: var(--darkgray);
+  background: var(--lightgray);
+}
+@media all and (max-width: 800px) {
+  .search-hints {
+    gap: 1rem;
+    font-size: 0.7rem;
+  }
+}
+// Results frame: forced visible as soon as the modal opens (the plugin
+// only shows this once there's a `.display-results` class from a live
+// query) so the large empty box appears immediately alongside the bar,
+// per the reference. Border removed since `.search-space` now supplies
+// the outer frame; corners flattened for the same reason.
+.search > .search-container > .search-space > .search-layout {
+  display: flex !important;
+  border: none;
+}
+.search > .search-container > .search-space > .search-layout > div {
+  border-radius: 0;
+}
+// The plugin's own mobile breakpoint (max-width: 800px) switches
+// `.results-container` from a fixed 63vh to `height: auto` so a populated
+// list doesn't overflow — but that also means it collapses to 0 height
+// with no query yet, hiding the "open by default" box on exactly the
+// widths where the search icon (mobile-only) is the primary entry point.
+// A min-height keeps it visibly open there too.
+@media all and (max-width: 800px) {
+  .search > .search-container > .search-space > .search-layout > .results-container {
+    min-height: 50vh;
+  }
+}
+
+// The real source of the "solid black outline": base.scss's site-wide
+// reverse-hover rule (`a { border: 1px solid transparent } a:hover {
+// border-color: var(--dark) }`, ~line 90/134) applies to every link on the
+// site, result cards included, since they're plain <a> tags with no opt-out.
+// The plugin's own hover rule only sets `background`, never touches
+// border-color, so that global rule wins uncontested for that one property
+// and paints all four sides var(--dark) (near-black) on hover — independent
+// of, and in addition to, the result row's own border-bottom divider (which
+// only ever showed a bottom edge, not a full box). Resetting border-color
+// back to transparent on every interactive state removes the box entirely,
+// leaving just the flat gray fill. Also covers -webkit-tap-highlight-color
+// (mobile's own default tap rectangle) and outline/box-shadow as a catch-all.
+.search > .search-container > .search-space > .search-layout > .results-container .result-card {
+  -webkit-tap-highlight-color: transparent;
+}
+.search > .search-container > .search-space > .search-layout > .results-container .result-card:hover,
+.search > .search-container > .search-space > .search-layout > .results-container .result-card:focus,
+.search > .search-container > .search-space > .search-layout > .results-container .result-card:focus-visible,
+.search > .search-container > .search-space > .search-layout > .results-container .result-card:active,
+.search > .search-container > .search-space > .search-layout > .results-container .result-card.focus {
+  border-color: transparent;
+  outline: none;
+  box-shadow: none;
+}
+
 // Frozen top bar, all screen sizes: breadcrumbs at the left edge of the
 // reading column, search icon + dark mode toggle at its right edge (icons
 // only exist in the DOM at all on mobile-width screens — see

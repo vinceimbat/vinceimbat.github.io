@@ -1,8 +1,8 @@
 diff --git a/node_modules/@quartz-community/search/dist/components/index.js b/node_modules/@quartz-community/search/dist/components/index.js
-index d74c36a..abeb220 100644
+index d74c36a..41ae63e 100644
 --- a/node_modules/@quartz-community/search/dist/components/index.js
 +++ b/node_modules/@quartz-community/search/dist/components/index.js
-@@ -539,7 +539,49 @@ var Search_default = ((userOpts) => {
+@@ -539,7 +539,121 @@ var Search_default = ((userOpts) => {
        ] }) })
      ] });
    };
@@ -34,7 +34,24 @@ index d74c36a..abeb220 100644
 +    var observer = new MutationObserver(function () {
 +      if (container.classList.contains("active")) {
 +        if (searchEl.parentElement !== document.body) {
++          // The plugin's own open handler already calls .focus() on the
++          // search bar synchronously, before this observer callback runs.
++          // That works on most pages (one hidden ancestor: the mobile-only
++          // wrapper), but on pages that ALSO hide the whole sidebar (e.g.
++          // the homepage's sidebar.left display:none rule, stacked on top
++          // of the mobile-only wrapper) the search bar sits behind two
++          // nested display:none ancestors - the browser's initial .focus()
++          // attempt on a still-not-rendered element silently no-ops there,
++          // so there's no earlier focus for a reparent to preserve.
++          // Reparenting a focused element via appendChild also independently
++          // blurs it in Chromium regardless. Rather than only restoring a
++          // focus that existed before the move, always focus the bar after
++          // it's safely under body (no display:none ancestors left there
++          // either way) - a harmless no-op where it was already focused,
++          // and the actual fix where the initial attempt never landed.
 +          document.body.appendChild(searchEl)
++          var bar = searchEl.querySelector(".search-bar")
++          if (bar) bar.focus()
 +        }
 +      } else if (
 +        searchEl.parentElement === document.body &&
@@ -48,6 +65,61 @@ index d74c36a..abeb220 100644
 +  }
 +  document.addEventListener("nav", setupSearchRelocation)
 +  setupSearchRelocation()
++})();
++;(function () {
++  // Custom redesign additions, layered on top of the plugin's stock markup:
++  // (1) the input ships with a visible "Search for something..." placeholder
++  //     baked into server-rendered HTML — cleared client-side so opening the
++  //     modal shows just a blinking cursor, no instructional copy in the box
++  //     itself (the keyboard-hint row below now carries that job instead).
++  // (2) the plugin has no keyboard-hint row at all, so one is injected here
++  //     as a sibling of the input, once per page load (the .search-space
++  //     subtree persists across SPA navigations, unlike the swapped main
++  //     content, so a dedupe guard is enough — no need to re-insert on
++  //     every "nav" event, though the listener is wired for safety in case
++  //     a future plugin update re-renders this subtree).
++  function setupSearchCustomizations() {
++    var input = document.querySelector(".search-bar")
++    if (!input) return
++    if (input.placeholder) input.placeholder = ""
++    var space = input.closest(".search-space")
++    if (!space || space.querySelector(".search-hints")) return
++    var hints = document.createElement("div")
++    hints.className = "search-hints"
++    hints.innerHTML =
++      '<span class="hint"><kbd>↑</kbd><kbd>↓</kbd> to navigate</span>' +
++      '<span class="hint"><kbd>↵</kbd> to open</span>' +
++      '<span class="hint"><kbd>esc</kbd> to close</span>'
++    input.insertAdjacentElement("afterend", hints)
++  }
++  document.addEventListener("nav", setupSearchCustomizations)
++  setupSearchCustomizations()
++})();
++;(function () {
++  // On some pages (confirmed on the homepage, with content that appears to
++  // re-render/hydrate shortly after first paint) the search plugin's own
++  // click/keydown handlers never end up attached to the button/input that's
++  // actually in the DOM by the time a user interacts with it — its setup
++  // runs once, on the router's very first "nav" notification, and if
++  // anything in the page replaces that markup afterward the freshly
++  // rendered elements are left listener-less until a real in-app
++  // navigation triggers "nav" again (confirmed this reproduces identically
++  // against the stock, unmodified plugin — not something introduced by the
++  // other customizations in this file). Firing one supplementary "nav"
++  // event after window "load" (later than DOMContentLoaded, by which point
++  // any such re-render has settled) gives it a second, final setup pass on
++  // every page, closing the gap without touching the router itself.
++  if (window.__searchNavResync) return
++  window.__searchNavResync = true
++  function resyncNav() {
++    setTimeout(function () {
++      document.dispatchEvent(
++        new CustomEvent("nav", { detail: { url: window.location.pathname } }),
++      )
++    }, 50)
++  }
++  if (document.readyState === "complete") resyncNav()
++  else window.addEventListener("load", resyncNav)
 +})();
 +`;
    Search.css = search_default;
