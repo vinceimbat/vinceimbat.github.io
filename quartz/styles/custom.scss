@@ -267,7 +267,15 @@ footer {
 // radius; the universal child selector below cancels each child's
 // individual card treatment now that the frame itself carries it.
 .search > .search-container > .search-space {
-  width: min(92%, 46rem);
+  // Desktop cap widened per request to ~11in on screen: CSS treats 1in as
+  // a fixed 96px reference regardless of the monitor's actual physical
+  // PPI (that's how absolute units are defined in the spec), so 11in =
+  // 1056px = 66rem at this site's 16px root. Actual on-screen size still
+  // depends on OS/browser zoom and the monitor's real pixel density, but
+  // at 100% zoom on a typical un-scaled desktop display this lands close
+  // to the requested physical width. Height/vertical sizing (margin-top,
+  // results-frame height, etc.) is untouched — only the cap grows.
+  width: min(92%, 66rem);
   margin-top: 10vh;
   border-radius: 10px;
   background: var(--light);
