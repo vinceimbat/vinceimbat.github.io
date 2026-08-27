@@ -1,17 +1,16 @@
 ---
 title: Writing inbox
 created: 2024-10-17 15:57:08+08:00
-modified: 2026-03-10 09:40:48+08:00
+modified: 2026-08-24T12:01:56+08:00
 aliases:
-- Writing inbox
+  - Writing inbox
 draft: false
 publish: true
 tags:
-- species/thought
-- status/seedling
+  - species/thought
+  - status/seedling
 ---
-
-The writing inbox is an idea I'm borrowing from [[andy matuschak|Andy Matuschak]]. It is a virtual space where inklings or incompletely developed ideas are allowed to linger until they're completely processed. In the [[talahardin]], the writing inbox is not a separate folder. Instead, items that are considered "inside a writing inbox" are those tagged by [[notes/seedlings]] and [[notes/seeds]]. Since majority of notes in the talahardin have these tags and that even notes tagged with [[notes/evergreens]] could still change, one could make the claim that the talahardin, being an unfinished [[archive]], is the writing inbox itself.
+The [[writing]] inbox is an idea I'm borrowing from [[andy matuschak|Andy Matuschak]]. It is a virtual space where inklings or incompletely developed ideas are allowed to linger until they're completely processed. In the [[talahardin]], the writing inbox is not a separate folder. Instead, items that are considered "inside a writing inbox" are those tagged by [[seedlings]] and [[seeds]]. Since majority of notes in the talahardin have these tags and that even notes tagged with [[evergreens]] could still change, one could make the claim that the talahardin, being an unfinished [[archive]], is the writing inbox itself.
 
 Aside from the talahardin, my [[journal]] as well as my Drafts app contain seeds and seedlings. Per [[my note-writing rules]], I'm cutting down on creating new evergreens, so the inklings in my journal/s are simply tracked through an [[index of my journals]] that helps me return to these inklings when needed. Meanwhile, notes in my Drafts app could be deleted or added to the seeds section under the daily note.
 

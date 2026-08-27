@@ -1,17 +1,17 @@
 ---
 title: How to prepare an issue of Uman
 created: 2024-07-16 12:24:56+08:00
-modified: 2025-12-13 14:11:55+08:00
+modified: 2026-08-22T10:02:24+08:00
 aliases:
-- How to prepare an issue of Uman
+  - How to prepare an issue of Uman
 draft: false
 publish: true
 tags:
-- species/thought
-- status/seedling
+  - species/thought
+  - status/seedling
 ---
+To prepare an issue of [[notes/uman|Uman]], follow these procedures:
 
-To prepare an issue of [[04 notes/uman|Uman]], follow these procedures:
 1. Review daily notes for the entire month.
 2. Extract the highlights of the month and put them in the [[monthly report]].
 3. Rearrange the extracts in such a way that they reveal what the common thread of the piece is. Focus on this common thread.

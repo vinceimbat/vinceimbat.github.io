@@ -58,7 +58,7 @@ Why would one choose a crop over a full frame camera?
 # Prompts
 
 What is a focal length of a camera lens? :: Length between the lens' optical center and the camera sensor.
-<!--SR:!2026-08-22,113,250-->
+<!--SR:!2027-06-01,283,250-->
 
 The focal length of a lens is measured in ==mm==.
 <!--SR:!2029-07-20,1192,350-->

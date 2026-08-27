@@ -99,7 +99,7 @@ Give examples of Buddhist religious leaders Imaoka considers free-religionists.
 - Nichiren
 ?
 Dōgen
-<!--SR:!2026-08-24,264,338-->
+<!--SR:!2030-01-04,1229,358-->
 
 Give examples of Buddhist religious leaders Imaoka considers free-religionists.
 - Shakyamuni
@@ -145,7 +145,7 @@ Per Imaoka, what are secular institutions sometimes capable of doing even withou
 <!--SR:!2026-11-27,274,310-->
 
 Per Imaoka, the two kinds of religion are ==narrow and broad==.
-<!--SR:!2026-08-24,66,250-->
+<!--SR:!2026-09-27,34,230-->
 
 Between the two kinds of religion in terms of scope, jiyū shūkyō falls where? :: Broad.
 <!--SR:!2027-04-25,468,330-->

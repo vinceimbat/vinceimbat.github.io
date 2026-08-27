@@ -74,10 +74,10 @@ What does CMOS in CMOS camera sensor mean? :: Complementary Metal-Oxide-Semicond
 <!--SR:!2026-12-31,358,250-->
 
 Two devices where a CMOS camera sensor is used? :: Digital cameras and smartphones
-<!--SR:!2026-08-25,230,290-->
+<!--SR:!2026-12-21,118,270-->
 
 How does a CMOS camera sensor work? :: Converts light into electrical signals to create images
-<!--SR:!2026-08-22,80,250-->
+<!--SR:!2027-03-09,199,250-->
 
 What is resolution in photography? :: Number of pixels in an image
 <!--SR:!2026-08-29,54,230-->

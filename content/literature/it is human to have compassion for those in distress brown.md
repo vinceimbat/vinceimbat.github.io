@@ -20,7 +20,7 @@ Occupation of Giovanni Boccaccio :: Renaissance poet and humanist
 <!--SR:!2026-09-15,30,150-->
 
 Century when Giovanni Boccaccio lived :: 14th century CE
-<!--SR:!2026-08-23,7,130-->
+<!--SR:!2026-09-05,13,150-->
 
 Where was the setting of The Decameron :: Florence, Italy
 <!--SR:!2027-02-12,187,270-->

@@ -1,16 +1,15 @@
 ---
 title: Nature
 created: 2024-11-17 23:56:51+08:00
-modified: 2025-12-14 17:38:58+08:00
+modified: 2026-08-24T11:58:19+08:00
 aliases:
-- Nature
+  - Nature
 draft: false
 publish: true
 tags:
-- species/thought
-- status/seedling
+  - species/thought
+  - status/seedling
 ---
-
 Nature has always called to me—to live near it, to commune with it, and to study it. Nature is the outside world, which even my physical body is a part of. It is that which is apart from my "soul" (i.e., [[subjective experience exists|my subjective experience]]).
 
 Nature is without subjectivity. It is bland, neutral, and objective ([[an external objective physical world exists]]). Its study is a source of both joy and enlightenment. A communion with it is a lesson on [[non-attachment]]—to values, thoughts, beliefs, and preferences.

@@ -57,7 +57,7 @@ Per the Weimans, four different forms of sin?
 4. Idolatry
 ?
 No loyalty
-<!--SR:!2026-08-26,19,230-->
+<!--SR:!2026-10-09,44,230-->
 
 Per the Weimans, four different forms of sin?
 1. Incomplete loyalty

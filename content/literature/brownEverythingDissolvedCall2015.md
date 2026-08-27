@@ -107,7 +107,7 @@ Per Sheehan, the man Jesus was transformed into the following four figures in or
 2. Reigning Lord and Christ
 3. Divine Son of God
 4. God
-<!--SR:!2026-08-25,30,190-->
+<!--SR:!2026-10-21,57,190-->
 
 Per Sheehan, the heart of Jesus' teaching is summarized in three ideas:
 1.
@@ -164,7 +164,7 @@ Per Sheehan, what were the traditional notions of salvation?
 3. Man's elevation to a higher state
 ?
 Forgiving a debt
-<!--SR:!2026-08-24,136,290-->
+<!--SR:!2026-10-31,68,270-->
 
 Per Sheehan, what were the traditional notions of salvation?
 1. Forgiving a debt
@@ -193,7 +193,7 @@ Per Sheehan, by interpreting Jesus as savior, the Christian church surrendered w
 <!--SR:!2026-12-16,252,330-->
 
 Per Sheehan, what is Jesus' radical present-future sense of time? :: Forgiveness; grace is already everywhere
-<!--SR:!2026-08-25,6,130-->
+<!--SR:!2026-09-02,8,130-->
 
 Per Sheehan, the Christian church replaced Jesus's radical present-future with what? :: Mythical past-present-future
 <!--SR:!2027-03-31,263,250-->

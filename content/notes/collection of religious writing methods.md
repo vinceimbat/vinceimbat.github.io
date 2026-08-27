@@ -1,16 +1,16 @@
 ---
-title: Collection of spiritual writing methods
+title: Collection of religious writing methods
 created: 2025-10-28 10:25:43+08:00
-modified: 2025-11-22 15:23:46+08:00
+modified: 2026-08-23T11:19:16+08:00
 aliases:
-- Collection of spiritual writing methods
+  - notes/collection-of-spiritual-writing-methods
+  - Collection of religious writing methods
 draft: false
 publish: true
 tags:
-- species/thought
-- status/seedling
+  - species/thought
+  - status/seedling
 ---
-
 # Autobiographical meditation
 
 Here's a spiritual writing process from [[thomas merton|Thomas Merton]].

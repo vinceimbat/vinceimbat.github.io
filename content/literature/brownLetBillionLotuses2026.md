@@ -50,7 +50,7 @@ Per Brown, systems don't change unless ==people change==.
 <!--SR:!2026-12-18,205,310-->
 
 Per Brown, people often don't change until ==someone asks them to==.
-<!--SR:!2026-08-23,122,290-->
+<!--SR:!2027-12-28,492,310-->
 
 Because people often only change when someone asks them to, what habit does Brown suggest free-religious people adopt? :: Regularly ask someone to do one kind thing with you.
 <!--SR:!2027-03-02,279,330-->

@@ -89,7 +89,7 @@ How is Levertov's belief in the work of a seer similar to the poetics of Bagay p
 <!--SR:!2026-11-29,251,290-->
 
 Per Levertov, form should not obtrude ==the essential force of a poem==.
-<!--SR:!2026-08-24,33,190-->
+<!--SR:!2026-09-10,17,170-->
 
 Per Levertov, why is Howl not vomit-it-all-out poetry? :: It has an "inner harmony."
 <!--SR:!2028-03-07,656,330-->

@@ -1,15 +1,27 @@
 ---
 title: Nilay
 created: 2025-10-06 17:17:01+08:00
-modified: 2026-03-10 14:29:02+08:00
+modified: 2026-08-24T12:10:46+08:00
 aliases:
-- Nilay
+  - Nilay
 draft: false
 publish: true
 tags:
-- species/thought
-- status/seedling
+  - species/thought
+  - status/seedling
 ---
+Nilay is a writing group I started with a small group of friends in September 2025. Most of the initial members were also members of [[rem tanauan|Rem Tanauan's]] [[tungko ng tula|Tungko ng Tula]]. 
+
+When thinking about the initial characteristics of the group, I thought of it as a [[religious writing]] group with the following characteristics:
+
+- non-sectarian
+- non-denominational
+- advocates free religion
+- genre neutral
+- concentric circle model for sharing
+- centerless center
+- nonhierarchical
+- beginner friendly
 
 # Meetings
 

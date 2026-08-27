@@ -35,7 +35,7 @@ The Christmas story's original intuition.
 <!--SR:!2026-09-14,49,150-->
 
 Bruno Latour's suggested translation of Emmanuel or "a helpful God" :: "an obvious framework of ordinary, everyday existence"
-<!--SR:!2026-08-25,7,130-->
+<!--SR:!2026-09-02,8,130-->
 
 Why is Bruno Latour suggesting a translation of Emmanuel or "a helpful God"? :: To draw believers and disbelievers in God into a common conversation and being in the world while keeping the original meaning of Emmanuel intact.
 <!--SR:!2026-10-16,79,170-->

@@ -90,7 +90,7 @@ Per Wieman, the principal of integration at the human level is ==love==.
 <!--SR:!2027-08-23,608,310-->
 
 Per Harrington, when love is present in a relationship, what happens? :: The interests of all partners are served, while the well-being of the whole is preserved.
-<!--SR:!2026-08-26,55,210-->
+<!--SR:!2026-09-24,29,190-->
 
 # The First Day (Ash Wednesday) - A Way of Growing
 

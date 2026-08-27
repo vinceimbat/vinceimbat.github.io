@@ -1,16 +1,15 @@
 ---
 title: You
 created: 2024-11-12 20:49:30+08:00
-modified: 2025-04-04 20:50:23+08:00
+modified: 2026-08-24T11:59:47+08:00
 aliases:
-- poems/you
-draft: null
+  - poems/you
+draft:
 publish: true
 tags:
-- species/poem
-- status/seedling
+  - species/poem
+  - status/seedling
 ---
-
 I looked for you  
 You weren't there  
 I secretly hope you lived  

@@ -1,17 +1,16 @@
 ---
 title: Alone
 created: 2023-10-18 20:28:24+08:00
-modified: 2025-12-14 23:19:29+08:00
+modified: 2026-08-24T11:54:23+08:00
 aliases:
-- Alone
+  - Alone
 draft: false
 publish: true
 tags:
-- species/poem
-- language/english
-- status/seedling
+  - species/poem
+  - language/english
+  - status/seedling
 ---
-
 You fret  
 Oh my god  
 He's gone  

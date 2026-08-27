@@ -9,7 +9,7 @@ tags:
   - species/flashcards
 ---
 Force Quit an app in Mac (hint: hockey) :: Command + Option + Esc
-<!--SR:!2026-08-26,99,170-->
+<!--SR:!2027-02-07,165,170-->
 
 Create new Hugo site :: hugo new site name
 <!--SR:!2027-02-12,384,246-->

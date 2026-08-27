@@ -43,7 +43,7 @@ Per Paul Wienpahl, being a ==man without a position== should open the door to de
 <!--SR:!2028-01-28,535,310-->
 
 Per Paul Wienpahl, being a man without a position should open the door to ==detachment==.
-<!--SR:!2026-08-25,72,270-->
+<!--SR:!2027-05-23,271,290-->
 
 Per Paul Wienpahl, where will the direction of a man without a position come from? :: Within.
 <!--SR:!2028-06-08,657,330-->
@@ -61,7 +61,7 @@ Indigenous Japanese Christian movement founded in 1901 by Uchimura Kanzo. :: No-
 <!--SR:!2026-11-07,198,310-->
 
 Founder of the No-church movement in Japan. :: Uchimura Kanzo
-<!--SR:!2026-08-22,4,130-->
+<!--SR:!2026-08-27,5,130-->
 
 Year the Japanese No-church movement was founded. :: 1901
 <!--SR:!2026-09-19,35,210-->

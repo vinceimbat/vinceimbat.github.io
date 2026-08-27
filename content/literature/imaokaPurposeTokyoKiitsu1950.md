@@ -96,7 +96,7 @@ Rather than simply reviving the former Unitarian Church in Japan, what did Imaok
 <!--SR:!2026-09-04,173,270-->
 
 Per Imaoka, what does trans-denominationalism mean? :: Not being confined within religious traditions.
-<!--SR:!2026-08-24,95,230-->
+<!--SR:!2027-04-02,221,230-->
 
 Per Imaoka, which follows which: people or religion? :: People then religion.
 <!--SR:!2030-02-15,1306,350-->
@@ -111,7 +111,7 @@ Per Imaoka, in what case does one's jiyū shūkyō fully match a ready-made reli
 <!--SR:!2027-11-19,568,290-->
 
 Per Imaoka, a free-religious person's choice to be transdenominational arises from what? ::  Their desire to remain true to their genuine needs.
-<!--SR:!2026-08-25,99,250-->
+<!--SR:!2027-04-30,248,250-->
 
 Per Imaoka, a true cooperative community and kyōkai can only be realized through the gathering of ==people with an autonomous faith==.
 <!--SR:!2027-10-10,425,250-->
@@ -156,7 +156,7 @@ What is ecumenism? :: A movement promoting unity among the world's Christian Chu
 <!--SR:!2026-10-28,117,250-->
 
 Central figure in the Japanese Unitarian movement during the Meiji and Taisho eras, who was also the leader of the social movement in Japan. (Hint: A friend) :: Abe Isoo-shi
-<!--SR:!2026-08-25,153,210-->
+<!--SR:!2027-07-12,321,210-->
 
 Per Imaoka, what was a point of weakness in the Japanese Unitarian movement during its heights in the Meiji and Taisho eras? :: It was too political and social and not very religious.
 <!--SR:!2027-09-05,538,310-->

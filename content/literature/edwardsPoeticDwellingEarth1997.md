@@ -331,7 +331,7 @@ Per Edwards, what is Pathos? :: Gravity of everyday practices.
 <!--SR:!2026-11-08,147,286-->
 
 The pathos of practice translates to the pathos of ==lives==.
-<!--SR:!2026-08-22,22,230-->
+<!--SR:!2026-09-03,12,210-->
 
 Per Edwards, what happens to the pathos of everyday practices and lives when they are subject to Dasein's philosophical reflection? :: Diminished
 <!--SR:!2027-07-13,403,326-->
@@ -370,7 +370,7 @@ Four essays of Heidegger developing poetic dwelling on earth as a mortal.
 4. "The Question Concerning Technology"
 ?
 "The Thing"
-<!--SR:!2026-08-24,199,326-->
+<!--SR:!2029-02-04,895,346-->
 
 Four essays of Heidegger developing poetic dwelling on earth as a mortal.
 1. "Building Dwelling Thinking"

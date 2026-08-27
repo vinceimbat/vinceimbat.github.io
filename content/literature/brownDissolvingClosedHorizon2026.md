@@ -34,7 +34,7 @@ In established Christianity's Alpha-Way-Omega, how does one get from Alpha to Om
 <!--SR:!2026-10-30,88,270-->
 
 In established Christianity's Alpha-Way-Omega, which parts are exactly the same? :: Alpha and Omega
-<!--SR:!2026-08-22,66,310-->
+<!--SR:!2027-06-02,284,330-->
 
 Why does Andrew James Brown find Alpha-Way-Omega suffocating? :: Nothing new is discovered or created.
 <!--SR:!2026-08-28,64,290-->
@@ -49,10 +49,10 @@ Per Bloch, what happens in the moment of Pentecost to the idea of God as an exte
 <!--SR:!2026-10-14,87,290-->
 
 Per Bloch, how does the external creator God disappear in the moment of Pentecost? :: God dissolves and reside inside people as the Holy Spirit.
-<!--SR:!2026-08-23,54,270-->
+<!--SR:!2027-01-15,145,270-->
 
 In jiyū shūkyō terms, what does Pentecost represent? :: The newness of each moment and thing.
-<!--SR:!2026-08-22,30,250-->
+<!--SR:!2026-11-03,73,250-->
 
 
 <!--SR:!2026-06-03,1,210-->

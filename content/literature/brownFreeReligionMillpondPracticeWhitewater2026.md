@@ -45,7 +45,7 @@ What is the threshold concept Richard Procter first teach in his whitewater raft
 <!--SR:!2026-11-16,150,250-->
 
 In a whitewater rapid, what remains relatively stable? :: The static paddle.
-<!--SR:!2026-08-22,43,250-->
+<!--SR:!2026-12-08,108,250-->
 
 In Andrew James Brown's whitewater metaphor, the whitewater is ==the world==.
 <!--SR:!2026-12-13,178,270-->

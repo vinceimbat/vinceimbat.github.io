@@ -28,7 +28,7 @@ Brown, Andrew James.  Blogspot. _Caute_, 25 July 2026, [https://andrewjbrown.blo
 # Prompts
 
 The word *ietsist* is from what language? :: Dutch
-<!--SR:!2026-08-23,8,270-->
+<!--SR:!2026-08-27,4,250-->
 
 *ietsist* English translation :: somethingist
 <!--SR:!2026-10-13,59,310-->

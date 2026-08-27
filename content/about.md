@@ -1,7 +1,7 @@
 ---
 title: About
 created: 2024-12-08T16:41:37+08:00
-modified: 2026-08-21T22:55:53+08:00
+modified: 2026-08-22T09:03:00+08:00
 aliases:
   - About
 draft: false
@@ -93,7 +93,7 @@ I've written more about my thoughts on photography in my essay [[newsletters/tlw
 
 # Let’s Keep in Touch
 
-I created this website to share my work and in the process find fellow companions in this journey. If you are interested about anything I wrote here, don’t be a stranger and email me at [vince@vinceimbat.com](mailto:vince@vinceimbat.com). I would love to start a conversation with you.
+I created this website to share my work and in the process find fellow companions in this journey. If you are interested about anything I wrote here, don’t be a stranger and [email me](mailto:vince@vinceimbat.com). I would love to start a conversation with you.
 
 Otherwise, the best way to keep in touch with me is through my [Substack](https://vinceimbat.substack.com/).
 

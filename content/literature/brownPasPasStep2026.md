@@ -36,7 +36,7 @@ Two meanings of the French word *pas*.
 2. Not
 ?
 Step
-<!--SR:!2026-08-26,59,310-->
+<!--SR:!2027-05-06,253,330-->
 
 Two meanings of the French word *pas*.
 1. Step
@@ -49,7 +49,7 @@ Two meanings of the French word *pas*.
 ?
 1. Step
 2. Not
-<!--SR:!2026-08-22,56,310-->
+<!--SR:!2027-04-18,239,330-->
 
 Per John D. Caputo, the French word *pas* means what? :: Simultaneously step and not.
 <!--SR:!2026-10-09,78,270-->
@@ -58,7 +58,7 @@ What is the implication of the dual-meaning of the French word *pas*? :: Taking 
 <!--SR:!2026-08-28,49,250-->
 
 Per Brown, what can couples contemplating marriage learn from the dual-meaning of the French word *pas*? :: Marriage is a joint journey of becoming.
-<!--SR:!2026-08-23,12,210-->
+<!--SR:!2026-09-17,25,210-->
 
 Per Brown, what is love's role in a marriage that is a joint journey of becoming? :: Love gives one the courage to accept that our partner will change.
 <!--SR:!2026-11-26,124,290-->

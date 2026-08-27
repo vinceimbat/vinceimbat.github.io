@@ -97,7 +97,7 @@ Per the New Religions Movement in Japan, the universe is seen as (HICS):
 - interdependent
 - constantly growing
 - source of life
-<!--SR:!2026-08-23,57,230-->
+<!--SR:!2026-12-30,129,230-->
 
 The characteristics of the "primary religious Being" believed in by the New Religions Movement in Japan are (PPLIMPT):
 

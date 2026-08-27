@@ -152,7 +152,7 @@ gutful :: n. quantity of food or drink sufficient to fill one's stomach.
 # H
 
 haar (hint: temp) :: n. a cold wet sea fog
-<!--SR:!2026-08-25,45,169-->
+<!--SR:!2026-09-16,22,149-->
 
 halloo :: n. used to incite dogs to the chase during a hunt
 <!--SR:!2027-06-23,484,269-->
@@ -186,7 +186,7 @@ knell - solemn sound of a bell (death)
 # L
 
 languor :: n. weariness
-<!--SR:!2026-08-26,5,130-->
+<!--SR:!2026-09-05,10,150-->
 
 largesse :: n. generosity
 <!--SR:!2026-09-29,67,189-->
@@ -370,7 +370,7 @@ upbraid :: v. scold
 # V
 
 vilify :: v. to defame
-<!--SR:!2026-08-22,5,130-->
+<!--SR:!2026-09-01,10,150-->
 
 voile :: n. thin, semitransparent fabric
 <!--SR:!2026-10-03,52,130-->

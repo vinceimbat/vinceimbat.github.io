@@ -1,67 +1,38 @@
 ---
 title: writing
 created: 2024-10-20 23:20:52+08:00
-modified: 2025-12-18 10:46:45+08:00
+modified: 2026-08-24T12:30:00+08:00
 aliases:
-- Writing
-- thoughts/writing
+  - Writing
+  - thoughts/writing
 draft: false
 publish: true
 tags:
-- species/thought
-- status/seedling
+  - species/thought
+  - status/seedling
 ---
+Writing is my main craft. I've cultivated an intimate relationship with writing since the [[depression]] diaries I kept in 2012, the notebooks I wrote on to cope with my health issues, the blogs I've updated, the journals I've been keeping since 2018, the [[talahardin]], the writing I've done with others—FLOW, Rem, Tungko, [[writing with uwa|Writing with Uwa]] and Lea, [[nilay|Nilay]], [[poetry fridays|Poetry Fridays]], and even the writings I've sent for workshops and publications. I remember how I learned to write and what lengths I had to take to get this far. When I do so, I can't help but feel amazed that this thing is what I say I do.
 
-Writing is my main craft. I've cultivated an intimate relationship with writing since the [[depression]] diaries I kept in 2012, the notebooks I wrote on to cope with my health issues, the blogs I've written, the diaries I've been keeping since 2018, the [[talahardin]], the writing I've done with others—FLOW, Rem, Tungko, writing with Uwa and Lea, and even the writings I've sent for workshops and publications.
+While I can't fully articulate it, there is a measure of sacredness I attach with my writing (for example, see [[journaling is sacred|journaling is sacred]]). Because of this, while I enjoy it, I'm aware that confronting the blank page is effortful. Unfortunately, this means, I will always feel resistance with my writing. One of my objectives is to lessen these moments of resistance, so that I could write what must be written.
 
-What I've learned from all those writing is that writing for me is an act of reverence. I treat words that come out of me as valuable gems or seeds—miracles waiting to happen. This is an even deeper poetics than a walking poetics. To see my words and my writing as something that could build up a person in any way.
+The main question I've been asking myself recently about my writing is the following: how can I build a writing life inspired by my religious quest, enjoy it, and at its own best time produce nurturing work?
 
-The challenge and calling then in terms of writing is how to keep it this way. How can I ensure that how I approach writing as a practice maintains this reverential treatment of it and how can I give birth to words that are truly a balm for others?
+That question led me to an intuition that [[the writing i do in private is my most important writing|the writing I do in private is my most important writing]]. [[journaling|Journaling]] and note-writing in my [[talahardin]] are the forms of writing I take the most seriously and spend most of my time in; not creative or performative writing. Of course, I still want to learn how to write better [[poetry]] and [[essay|essays]] for publication. But publication is secondary. My priority is how I can make my writing practice as authentic as possible, how it could reflect the meanderings of my life in as an honest way possible. The talahardin facilitates this as it publishes the meanderings of my mind.
 
-In addition, how can I build a writing life inspired by a spiritual quest, practice it happily every day, and at its own best time produce nurturing work for those who listen to me?
+Aside from helping me to be more authentic, I want my writing to feel good and fun. I also hope it is helpful to others in some way.
 
-***
+# More thoughts on writing
 
-Writing is a vow I keep for myself (see [[journaling is sacred|journaling is sacred]]). Writing is not necessarily rest as it isn't always restful to confront the blank page. It takes works more often than not to produce even a single line of words. I remember how I learned to write and what lengths I had to take to get this far. And I can't help but feel amazed that this thing is what I say I do.
+Some of the following thoughts could be developed and included into [[my poetics]]:
 
----
-
-Feel free to practice different kinds of writing. No need to focus a lot on this. Let yourself practice and fail as long as you write.
-
-- Philosophical (although don't make this very academic)
-- Autobiographical
-- Poetic
-- Creative nonfiction
-
-Define the different categories, topics.
-
-Define your ideal reader.
-
-Build community around your topics and writing.
-
-But remember your real intention for doing this.
-
-Remember that it is the practice which is important.
-
-***
-
-This is the main project: pieces of writing that achieves an intimate and close relationship with my reader. To listen to myself constantly as frequent as I can to wait for words, to bring forth. And to create with great craft work that achieves my goal.
-
-***
+Feel free to practice different kinds of writing.
 
 You holding back from descriptions is a sign that you want to get to the point. It is impatience, an unwillingness to slow down. Your experience of providing more details to a scene is revelatory. Slow down.
 
-***
-
-[[journaling|Journaling]] and note-writing in my [[talahardin]] are the forms of writing I want to master and spend most of my time in; not creative or performative writing. If they become performative, so be it. I'll still learn craft, of course. But it will take a lesser role. My priority is how I can make my writing practice as authentic as possible, how it could reflect the meanderings of my life in as an honest way possible.
-
-It should also feel good and fun. It should eventually help my tribe in their own journey. This is writing as ministry.
-
 # Related
 
-- [[spiritual writing]]
+- [[religious writing]]
 - [[writing as faith]]
-- [[writing exercises]]
 - [[writing is coding]]
 - [[writing is embodied]]
 - [[writing can be easy]]

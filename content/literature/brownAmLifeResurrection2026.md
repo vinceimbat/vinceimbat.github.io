@@ -39,7 +39,7 @@ As a jiyūshūkyōjin, these words inspire me to bow down to the Great Life that
 # Prompts
 
 Per Imaoka, in "I Am the Life and the Resurrection" (1910), instead of being a playground for the intellectual games of dogma, religion is what? :: That which satisfies the needs of the whole person.
-<!--SR:!2026-08-25,34,250-->
+<!--SR:!2026-09-11,17,230-->
 
 Per Imaoka, what approach to religious life did Emerson call "spiritual suicide"? :: Being bound to studying ancient spiritual teachers.
 <!--SR:!2027-04-09,277,330-->

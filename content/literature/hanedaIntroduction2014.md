@@ -64,7 +64,7 @@ Three periods of Manshi Kiyozawa's writings:
 <!--SR:!2026-10-11,56,170-->
 
 Meiji period years :: 1868–1912
-<!--SR:!2026-08-26,9,130-->
+<!--SR:!2026-09-08,13,130-->
 
 The Meiji period is commonly known as what era? :: Era of modernization or Westernization
 <!--SR:!2028-01-03,583,270-->
@@ -144,7 +144,7 @@ Interpret Shinran's statement: "Even a good person can be liberated, how much mo
 <!--SR:!2028-04-21,648,272-->
 
 Per Nobou Haneda, what is the fundamental theme of Shin Buddhism? :: Humility leads to absolute freedom.
-<!--SR:!2026-08-26,40,132-->
+<!--SR:!2026-09-14,19,130-->
 
 Buddhist teachers Kiyozawa focused on to search for the way to absolute humility and freedom. :: Shakyamuni and Shinran
 <!--SR:!2027-08-04,534,312-->

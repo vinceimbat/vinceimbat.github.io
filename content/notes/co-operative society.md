@@ -35,10 +35,10 @@ The Japanese term *kyōdō shakai* was translated by Shin'ichirō Imaoka into En
 <!--SR:!2026-09-06,145,250-->
 
 The opposite of *kyōdō shakai*. :: *rieki shakai*
-<!--SR:!2026-08-26,294,290-->
+<!--SR:!2028-12-25,852,290-->
 
 *rieki shakai* equivalent in German :: *gesellschaft*
-<!--SR:!2026-08-23,268,270-->
+<!--SR:!2027-01-04,134,250-->
 
 *rieki shakai* means ==contractual/interest-based community==.
 <!--SR:!2027-04-14,285,230-->

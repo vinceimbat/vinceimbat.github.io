@@ -1,7 +1,7 @@
 ---
 title: Poetry Fridays prompts
 created: 2026-06-08 20:49:52+08:00
-modified: 2026-08-17T16:53:48+08:00
+modified: 2026-08-24T15:54:10+08:00
 aliases:
   - Poetry Fridays prompts
 draft: false
@@ -140,3 +140,12 @@ Ilarawan ang isang lugar (kalye, bloke, siyudad, o bansa) sa dalawang mukha nito
 Find a word in your first language that does not exist (exactly) in the second language. Write a poem centered around that specific word. Define the feeling or image of the word in the second language, but keep the original word as the anchor of the poem (perhaps as its title).
 
 Let there be a dialogue between two languages or two halves of an identity. Write line one in Language A, then write line two as an echo, response, or translation in Language B. Follow how the mood or tone changes when you switch from one language to the other.
+
+[[2026-08-22]]
+
+by Lea
+
+a. Write a poem about the best thing you've heard recently: a melody or line from a song, a kid's question, a notification, movements around the house, street sounds, or silence underwater.
+b. Write a poem about an action that changed/saved (or that keeps changing/saving) your life or someone else's. This could be a once-in-a-lifetime incident or something you see happening every day that supports, protects, or transforms you or other people in a way that the person who performed the act may not (or never) be aware of.
+c. Write about a sacrifice made and what it cost/what price was paid/what was lost in order to achieve the noble goal. Write from the empty space left behind by this sacrificial action. Or write about whether the exchange was worth it or not.
+d. Write about what happens during the split second right before committing an act of courage (big or small, humble or extraordinary) -- like before saying yes, saying no, crossing a line, signing a piece of paper, closing a door, boarding a train, letting go of a hand, making or ending a call.

@@ -39,7 +39,7 @@ Tantan's birthday :: May 15
 <!--SR:!2026-09-06,17,170-->
 
 Via's birthday (hint: day is right after Tantan's) :: July 16
-<!--SR:!2026-08-23,39,170-->
+<!--SR:!2026-09-13,21,150-->
 
 Brianna's birthday :: November 10
 <!--SR:!2026-11-07,107,170-->
@@ -57,4 +57,4 @@ Name of the talahardin note containing quotes to remind me of my writing path. :
 <!--SR:!2026-10-04,228,330-->
 
 My perfume name and code. :: John Darcy LW
-<!--SR:!2026-08-24,63,288-->
+<!--SR:!2026-09-25,32,268-->

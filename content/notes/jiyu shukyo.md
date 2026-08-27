@@ -1,9 +1,10 @@
 ---
 title: Jiyū shūkyō
 created: 2024-11-03 10:53:54+08:00
-modified: 2026-07-31T21:59:47+08:00
+modified: 2026-08-23T11:25:08+08:00
 aliases:
   - Jiyū shūkyō
+  - jiyū shūkyō
 draft: false
 publish: true
 tags:

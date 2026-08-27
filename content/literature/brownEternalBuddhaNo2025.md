@@ -181,7 +181,7 @@ Per Imaoka, the parable that illustrates Corporate Christ. :: Prodigal Son
 <!--SR:!2028-07-03,712,330-->
 
 Per Imaoka's understanding of the parable of the Prodigal Son, who/what is the source of salvation? :: The home.
-<!--SR:!2026-08-23,66,270-->
+<!--SR:!2026-09-24,32,250-->
 
 Explain Imaoka's use of the parable of the Prodigal Son as illustration for the Corporate Christ. :: Salvation does not come from God or some individual but by the community.
 <!--SR:!2026-09-30,190,270-->

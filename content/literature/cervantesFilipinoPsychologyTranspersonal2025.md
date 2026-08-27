@@ -420,7 +420,7 @@ Per Cervantes (2025), why is essentializing Filipino identity problematic? :: Wi
 <!--SR:!2027-02-16,285,252-->
 
 Friedman's (2009) two criticisms on transpersonal psychology. :: Decontextualization and cultural appropriation
-<!--SR:!2026-08-25,57,152-->
+<!--SR:!2026-11-20,87,152-->
 
 When did humanistic psychology emerge? :: Mid-20th century
 <!--SR:!2027-11-21,470,232-->
@@ -487,7 +487,7 @@ Why did Cervants (2025) make the claim that Sikolohiyang Pilipino is transperson
 <!--SR:!2026-10-02,61,252-->
 
 How is Sikolohiyang Pilipino beyond-ego? :: Sees the self as part of a larger identity called *kapwa*.
-<!--SR:!2026-08-26,24,192-->
+<!--SR:!2026-10-10,45,192-->
 
 How is Sikolohiyang Pilipino's concept of ginhawa integrative/holistic? :: Individual *ginhawa* depends on one's harmony with the world.
 <!--SR:!2026-10-29,99,192-->
@@ -526,7 +526,7 @@ In Cebuano, spirit is ==ginhawa==.
 <!--SR:!2028-11-07,911,332-->
 
 In Tagalog, spirit is ==hininga==.
-<!--SR:!2026-08-22,272,292-->
+<!--SR:!2027-01-04,135,272-->
 
 Spirit in Filipino folk belief is found where? :: In the belly.
 <!--SR:!2028-07-29,833,332-->
@@ -622,7 +622,7 @@ Per Cervantes (2025), when *utang na loob* is detached from its *kapwa* context,
 <!--SR:!2026-09-04,108,292-->
 
 Per Cervantes (2025), when *utang na loob* is re-attached to its *kapwa* context, it is interpreted as ==a form of solidarity where we ask what we owe to others==.
-<!--SR:!2026-08-26,197,252-->
+<!--SR:!2026-12-01,97,232-->
 
 Meaning of *loob* in Sikolohiyang Pilipino. :: Relational interiority
 <!--SR:!2026-10-12,77,252-->
@@ -645,7 +645,7 @@ In Sikolohiyang Pilipino, *loob* as a relational interiority contains what?
 ?
 1. personal intentions
 2. interpersonal dynamics
-<!--SR:!2026-08-24,40,212-->
+<!--SR:!2026-11-19,87,212-->
 
 In Sikolohiyang Pilipino, how is *loob* made manifest? :: Through interactions with *kapwa*.
 <!--SR:!2026-12-15,117,192-->
@@ -657,7 +657,7 @@ In Sikolohiyang Pilipino, how is self-acualization achieved? :: Going beyond sel
 <!--SR:!2026-10-14,107,232-->
 
 Per Enriquez (1992), the deepest level of kapwa is ==pakikiisa==.
-<!--SR:!2026-08-23,76,232-->
+<!--SR:!2027-02-15,176,232-->
 
 Per Cervantes (2025), kaginhawaan are two things:
 1. A goal

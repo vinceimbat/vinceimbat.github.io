@@ -282,7 +282,7 @@ Author of *Young Men and Fire* :: Norman Maclean
 <!--SR:!2026-11-30,484,310-->
 
 Norman Maclean died in ??? at the age of ??? :: 1990, 87
-<!--SR:!2026-08-23,34,170-->
+<!--SR:!2026-11-15,84,190-->
 
 Age Norman Maclean started writing *Young Men and Fire* :: 74
 <!--SR:!2026-09-13,56,170-->

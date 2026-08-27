@@ -39,7 +39,7 @@ Per Imaoka, his parents suffered greater humiliation for having a Christian son 
 <!--SR:!2027-04-21,320,290-->
 
 After graduating from university, Shin'ichirō Imaoka immediately became a ==pastor==.
-<!--SR:!2026-08-25,254,310-->
+<!--SR:!2028-10-20,787,310-->
 
 What kind of church did Shin'ichirō Imaoka served as a pastor immediately after university? :: Congregational
 <!--SR:!2030-01-18,1274,350-->

@@ -1,16 +1,15 @@
 ---
 title: Alaala
 created: 2025-10-10 10:21:08+08:00
-modified: 2025-10-26 14:51:17+08:00
+modified: 2026-08-22T09:17:46+08:00
 aliases:
-- Alaala
+  - Alaala
 draft: false
 publish: true
 tags:
-- species/essay
-- status/evergreen
+  - species/essay
+  - status/evergreen
 ---
-
 Alaala ang dakilang tagagiba ng lahat ng ating pakay. Ang buhay na ating pinapangarap—na siyang pinamamahayan na rin natin minsan—ay maaaring yanigin ng alaala anumang oras. Ang mga lindol na ito ay maaaring sumira sa lahat—kung hahayaan natin.
 
 Paalala ang alaala na hindi mahigpit at hindi kailan man hihigpit ang hawak natin sa mga hinagap ng ating isip. May bukal sa kaibuturan natin na hindi natutuyuan. Hindi tumitigil ang pagbulwak ng tubig mula rito—anuman ang kulay sadiyang hahanapin nito ang makawala. Ang tanging magagawa natin ay manood, magapi—magpagapi—at kung kinakailangan, sumabay sa agos.

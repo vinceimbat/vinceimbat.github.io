@@ -1,7 +1,7 @@
 ---
 title: Main Index
 created: 2025-12-11 15:55:03+08:00
-modified: 2026-07-25T08:39:22+08:00
+modified: 2026-08-24T11:58:55+08:00
 aliases:
   - Main Index
 draft: false
@@ -116,7 +116,7 @@ tags:
 
 # W
 
-- [[notes/walking]]
+- [[walking]]
 - [[wisdom]]
 - [[writing]]
 

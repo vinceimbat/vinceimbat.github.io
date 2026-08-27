@@ -1,16 +1,15 @@
 ---
 title: Lipat Kwarto
 created: 2024-12-06 22:31:18+08:00
-modified: 2026-05-27 17:03:44+08:00
+modified: 2026-08-22T09:19:47+08:00
 aliases:
-- Lipat Kwarto
+  - Lipat Kwarto
 draft: false
 publish: true
 tags:
-- species/poem
-- status/seedling
+  - species/poem
+  - status/seedling
 ---
-
 - The Rings of Saturn
 - The Plain Sense of Things
 - Bookshelf na oorderin palang sa Shopee

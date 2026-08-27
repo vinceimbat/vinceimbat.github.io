@@ -11,7 +11,7 @@ tags:
 ---
 
 "where all is ==rotten== it is our ==work== to cry ==stinking fish==" - ==F. H. Bradley==, ==Appearance and Reality==
-<!--SR:!2026-08-23,162,270!2026-09-12,82,190!2029-08-29,1278,330!2028-05-13,696,310!2026-12-14,512,310-->
+<!--SR:!2028-04-25,611,290!2026-09-12,82,190!2029-08-29,1278,330!2028-05-13,696,310!2026-12-14,512,310-->
 
 Panentheism ::: Belief that God is beyond the universe but also interpenetrates it.
 <!--SR:!2026-10-16,99,190!2029-05-12,1251,350-->

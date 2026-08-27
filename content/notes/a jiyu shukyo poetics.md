@@ -1,16 +1,15 @@
 ---
 title: A jiyū shūkyō poetics
 created: 2025-09-13 11:13:37+08:00
-modified: 2025-10-22 20:19:00+08:00
+modified: 2026-08-25T10:39:12+08:00
 aliases:
-- A jiyū shūkyō poetics
+  - A jiyū shūkyō poetics
 draft: false
 publish: true
 tags:
-- species/thought
-- status/seedling
+  - species/thought
+  - status/seedling
 ---
-
 # Poetry is placing trust in oneself.
 
 Poetry begins as an act of faith into oneself. One can't will out words and images. One can only wait. There are no assurances that something will come out when one sits down to write or walk outdoors. One can only hope.
@@ -44,3 +43,6 @@ My poetry, practice emergency better if they community of people engage in it. I
 ---
 
 Even with my choice of language, I need to be open not too committed in one to be trans lingual. A lot of my problems is actually now solved by jiyu shukyo. jiyū shūkyō is the integration and the solution of the economy between committed writing and writing for art sake. The works that I will start to study will be by writers artists who are very open to a wide range of methods and generous and commitments, well-being, constantly aware of the other society and the larger whole.
+
+---
+In jiyū shūkyō, the "I" is still recognized, although it is seen differently—a shared possibility and experience that arises from the whole. Therefore, a jiyū shūkyō book could be something like Glen Diaz's Forest, where there is no "I" talking for most of the time but emerges once in a while.

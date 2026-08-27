@@ -1,16 +1,15 @@
 ---
 title: My poetics
 created: 2025-09-26 16:00:18+08:00
-modified: 2026-03-11 11:07:11+08:00
+modified: 2026-08-24T16:03:23+08:00
 aliases:
-- My poetics
+  - My poetics
 draft: false
 publish: true
 tags:
-- species/thought
-- status/seedling
+  - species/thought
+  - status/seedling
 ---
-
 While I came to [[writing]] earlier in childhood and was fortunate to develop some measure of skill during high school and college, I only started entertaining the possibility of embracing writing as a way of life after my life-changing depressive episode in 2011, which also led to my exodus from my initial religious calling. Writing was instrumental in my healing process and it naturally replaced my initial religious calling. Through writing, I slowly built a new life, which surprisingly still had a strongly spiritual and religious flavor.
 
 Today, writing for me is the primary expression of a contemplative practice that is the central gravity of my religious life—a religious life grounded in *[[jiyu shukyo|jiyū shūkyō]]* or "a free, creative, inquiring, and liberative [[religion]] or [[spirituality]]." I call my writing practice a **contemplative jiyū shūkyō writing practice**. It is writing practiced as faith—a way to nurture trust in myself, others, the cooperative community, the cosmic cooperative community, the *kyokai*, and *jiyū shūkyō* itself. All of these are part of "the great life of free and selfless creative evolution" and, therefore, my contemplative *jiyū shūkyō* writing practice is a practice of placing trust into that wondrous process beyond me. Ultimately, I want my contemplative *jiyū shūkyō* writing practice to be individually nurturing and socially transformative at the same time.
@@ -33,6 +32,20 @@ I have four main concerns in my writing:
 As it is inspired by *jiyū shūkyō*, my method of creation and writing is guided by the principles of respect and openness to all forms, methods, traditions, and poetics. My adherence to these principles necessitates that I don't settle on a single method, process, subject matter, genre, or even language. Whatever method I choose to use in my work at every circumstance responds to what that circumstance requires. Therefore, my method is the method of the moment. That said, I do maintain tried and tested methods that allow and encourage this openness. An example of this is [[notes/walking]], a method that supports a writing practice that encourages not only to return to oneself but also to others and [[nature]]. Meanwhile, a category of form I rely on is the [[notes/draft]], which includes ephemera, notes, journal entries, digital notes, and manuscripts, collected in an ever-evolving archive I call the [[talahardin]]. Walking and the talahardin provide a minimal structure for exploration and experimentation that encourages openness. Beyond these two, I continue to search and study for methods I could try or even integrate into my own writing practice.
 
 I want my writing and my writing adjacent work to help others deepen their faith in themselves, bring them as close as possible to their _kapwa_—both strangers and non-strangers, open their eyes to what is happening in the larger human community they belong in, especially among individuals they don't see in person, and develop a deeper connection with the cosmos. My larger dream is that when my work achieves these goals it could contribute toward inspiring individuals to return to each other with a genuine spirit of cooperation, so that we move closer toward a true cosmic cooperative community.
+
+# Unsorted
+
+Real research: a poetics based on jiyu shukyo
+
+Initial thoughts
+
+Body of work ever-evolving
+A center of gravity but allowed to change poetics
+
+Establish religious poetics that is committed and describe their tendencies.
+
+Always considers the other
+- draws inspiration from committed writing, language poets
 
 # Related
 

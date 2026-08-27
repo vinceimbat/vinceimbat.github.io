@@ -42,13 +42,13 @@ Per Tenkō-san, in his Saying 21, why do problems exist? :: One has not died com
 <!--SR:!2026-09-12,30,250-->
 
 Per Tenkō-san, in Saying 15, what is true repentance? :: The great death of self-attachment.
-<!--SR:!2026-08-22,4,130-->
+<!--SR:!2026-08-30,8,150-->
 
 Per Tenkō-san, how can our ego-selves be destroyed? :: By "taking the lower seat"
 <!--SR:!2026-10-15,98,270-->
 
 Japanese for "taking the lower seat." :: Geza
-<!--SR:!2026-08-24,27,250-->
+<!--SR:!2026-09-07,14,230-->
 
 Briefly summarize Jesus' parable of taking the lowest seat at a wedding feast. :: Don't sit on a high seat because the host might have to put you down. Sit on the lowest seat because you might be transferred to a higher seat.
 <!--SR:!2027-05-01,275,330-->

@@ -1,16 +1,15 @@
 ---
 title: Relationship
 created: 2024-02-20 13:22:43+08:00
-modified: 2025-12-17 11:14:50+08:00
+modified: 2026-08-24T11:57:52+08:00
 aliases:
-- Relationship
+  - Relationship
 draft: false
 publish: true
 tags:
-- species/thought
-- status/seedling
+  - species/thought
+  - status/seedling
 ---
-
 Why do I feel a stronger pull towards people I've been physically around with? Distance, physics, matter matter.
 
 The connection we feel online or with an author of the [[books|book]] is a relationship we have with our [[mind|minds]]. These are all mental stuff contacting mental stuff. No physical to mental reactions that touch on platonic abstractions, the objective glue.

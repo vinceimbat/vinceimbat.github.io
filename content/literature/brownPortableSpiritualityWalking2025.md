@@ -35,7 +35,7 @@ Why is ONLY analyzing the horrors happening worldwide isn't helpful. :: It incre
 <!--SR:!2027-06-26,528,310-->
 
 Per Andrew James Brown, what has the Unitarian movement in the modern British context failed to offer people? :: A clear teaching of a positive, free-religious and spiritual path.
-<!--SR:!2026-08-24,47,130-->
+<!--SR:!2026-09-17,24,130-->
 
 Per Andrew James Brown, why does the Unitarian movement resist offering clear and distinctive teachings? :: It assumes that this prevents free thinking.
 <!--SR:!2027-09-03,500,270-->
