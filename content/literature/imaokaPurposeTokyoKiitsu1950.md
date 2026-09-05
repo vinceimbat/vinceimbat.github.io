@@ -93,7 +93,7 @@ Per Imaoka, when he first thought of establishing Kiitsu Kyōkai, he was thinkin
 <!--SR:!2026-12-07,143,310-->
 
 Rather than simply reviving the former Unitarian Church in Japan, what did Imaoka sought to do with Kiitsu Kyōkai? :: To be trans-denominational.
-<!--SR:!2026-09-04,173,270-->
+<!--SR:!2027-12-13,465,270-->
 
 Per Imaoka, what does trans-denominationalism mean? :: Not being confined within religious traditions.
 <!--SR:!2027-04-02,221,230-->
@@ -105,7 +105,7 @@ Per Imaoka, using a clothing metaphor, one's jiyū shūkyō must be ==made-to-or
 <!--SR:!2000-01-01,1,250!2025-07-15,4,270-->
 
 Per Imaoka, what form of religion is trans-denominational but ready-made? :: A religion assembled by gathering the best aspects of all faiths.
-<!--SR:!2026-09-04,53,210-->
+<!--SR:!2026-12-24,111,210-->
 
 Per Imaoka, in what case does one's jiyū shūkyō fully match a ready-made religion? :: When that ready-made religion best meets one's personal religious needs.
 <!--SR:!2027-11-19,568,290-->
@@ -165,7 +165,7 @@ Since the Japanese Unitarian movement during the Meiji and Taisho eras were more
 <!--SR:!2028-09-14,871,330-->
 
 Per Imaoka, how can the Kiitsu Kyōkai move beyond just being an Enlightenment Movement? :: Solve all world issues through jiyū shūkyō.
-<!--SR:!2026-09-03,185,250-->
+<!--SR:!2027-12-12,465,250-->
 
 Per Imaoka, how can Kiitsu Kyōkai become a microcosm for an ideal society? :: Become more than a forum for intellectual debate and include people of different age, educational background, and trades.
 <!--SR:!2028-03-30,690,290-->

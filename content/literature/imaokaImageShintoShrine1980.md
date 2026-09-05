@@ -102,7 +102,7 @@ Per Imaoka, how does the local community shrine in Shinto approach differences w
 <!--SR:!2026-10-14,270,290-->
 
 Why are there no buildings in certain Shinto shrines? :: A natural object is the shrine.
-<!--SR:!2026-08-30,294,290-->
+<!--SR:!2028-12-29,852,290-->
 
 Per Imaoka, for Shinto practitioners living in the space age, what should be considered a shrine? :: The Great Cosmos
 <!--SR:!2026-09-20,290,310-->

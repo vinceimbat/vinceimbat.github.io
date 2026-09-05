@@ -36,10 +36,10 @@ Before you eat or drink anything, consider carefully who you eat or drink with r
 # Prompts
 
 Century Epicurus lived :: 3rd century CE
-<!--SR:!2026-08-30,16,130-->
+<!--SR:!2026-09-21,22,130-->
 
 Greek word referring to the ultimate goal of Epicurean philosophy. :: ataraxia
-<!--SR:!2026-09-01,50,250-->
+<!--SR:!2026-09-26,25,230-->
 
 Ataraxia means? :: tranquility
 <!--SR:!2027-03-01,374,270-->
@@ -94,4 +94,4 @@ Per Epicurus, friends help us in two ways:
 2. Help us be happy and unafraid.
 
 Epicurus provided community through his ==garden academy in Athens==.
-<!--SR:!2026-09-01,230,230-->
+<!--SR:!2026-12-26,116,210-->

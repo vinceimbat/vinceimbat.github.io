@@ -39,4 +39,4 @@ Per Andrew James Brown, Capek uses Czech to do what about all gendered language 
 <!--SR:!2026-11-17,150,210-->
 
 Per Andrew James Brown, when we let go of thinking about God as one gender, what happens? :: We experience God within ourselves and in everything.
-<!--SR:!2026-09-02,68,210-->
+<!--SR:!2027-01-22,142,210-->

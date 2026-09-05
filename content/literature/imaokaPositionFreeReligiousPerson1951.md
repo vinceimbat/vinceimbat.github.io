@@ -60,7 +60,7 @@ Per Imaoka (1951), what is the use of a church manifesto? :: Clarifies the basis
 <!--SR:!2026-11-09,276,230-->
 
 Per Imaoka (1951), a church manifesto should not be ??? but rather a ??? :: a statement of specific beliefs, a declaration of shared purposes or guidelines for practice
-<!--SR:!2026-08-30,100,150-->
+<!--SR:!2027-01-27,150,150-->
 
 Per Imaoka (1951), why may free religious people have rituals? :: Religious beliefs are always embodied.
 <!--SR:!2026-09-10,67,190-->

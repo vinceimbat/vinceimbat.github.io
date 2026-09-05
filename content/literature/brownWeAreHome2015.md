@@ -37,7 +37,7 @@ I feel exiled. From my own family. My own province. The community I grew up in. 
 # Prompts
 
 Per Paul Wienpahl, reality is ==what you experience it to be==.
-<!--SR:!2026-08-30,56,270-->
+<!--SR:!2026-09-28,29,250-->
 
 Per Paul Wienpahl, being a ==man without a position== should open the door to detachment.
 <!--SR:!2028-01-28,535,310-->
@@ -61,7 +61,7 @@ Indigenous Japanese Christian movement founded in 1901 by Uchimura Kanzo. :: No-
 <!--SR:!2026-11-07,198,310-->
 
 Founder of the No-church movement in Japan. :: Uchimura Kanzo
-<!--SR:!2026-08-27,5,130-->
+<!--SR:!2026-09-05,6,150-->
 
 Year the Japanese No-church movement was founded. :: 1901
 <!--SR:!2026-09-19,35,210-->

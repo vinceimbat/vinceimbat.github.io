@@ -68,7 +68,7 @@ Two examples of institutions created before the world's current interdependence,
 2. Free enterprise
 ?
 Nationalism
-<!--SR:!2026-08-27,81,290-->
+<!--SR:!2026-10-07,41,270-->
 
 Two examples of institutions created before the world's current interdependence, which Harrington questions whether they should be changed or superseded.
 1. Nationalism

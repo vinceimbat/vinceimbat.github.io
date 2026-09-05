@@ -31,7 +31,7 @@ Brown, Andrew James. “A Philosophy of Wonder Born of an Ancient Disappointment
 # Prompts
 
 While philosophy often begins in wonder, it can also begin in ==disappointment==.
-<!--SR:!2026-08-30,6,210-->
+<!--SR:!2026-09-09,5,190-->
 
 The early Christian hope woven into the Christmas season that has consistently led to disappointment. :: Second Coming
 <!--SR:!2026-11-27,244,330-->

@@ -70,7 +70,7 @@ The Meiji period is commonly known as what era? :: Era of modernization or Weste
 <!--SR:!2028-01-03,583,270-->
 
 What is a shogun? :: Hereditary military dictator
-<!--SR:!2026-08-28,286,290-->
+<!--SR:!2028-12-05,830,290-->
 
 What is a daimyo? :: Landowning lord
 <!--SR:!2026-11-24,249,290-->
@@ -111,7 +111,7 @@ Per Haneda, what was the basic posture that Kiyozawa took in examining Buddhism?
 <!--SR:!2027-05-22,386,230-->
 
 According to Kiyozawa, what is the primary lesson of Buddhism? :: To be liberated.
-<!--SR:!2026-09-03,20,170-->
+<!--SR:!2026-09-14,11,150-->
 
 According to Kiyozawa from what should a Buddhist be liberated from? :: Self
 <!--SR:!2029-04-19,1078,350-->
@@ -138,7 +138,7 @@ Per Shin Buddhism, how does the Dharma liberate people from the self? :: Takes t
 <!--SR:!2027-08-30,386,210-->
 
 How does humility and freedom go hand in hand in Buddhism? :: Humility leads to selflessness, which leads to freedom.
-<!--SR:!2026-09-01,38,172-->
+<!--SR:!2026-09-20,19,152-->
 
 Interpret Shinran's statement: "Even a good person can be liberated, how much more easily a wicked person!" (Tannishō, III) :: People who recognize their wickedness are easier to liberate than those who regard themselves as ethically good.
 <!--SR:!2028-04-21,648,272-->
@@ -305,7 +305,7 @@ Tariki means ==Power Beyond the Self or Other Power==.
 <!--SR:!2028-05-01,790,332-->
 
 Tathāgata means =="One Who Has Gone to the Truth of Things as They Are"==.
-<!--SR:!2026-09-04,67,152-->
+<!--SR:!2026-12-18,105,152-->
 
 Two insights that characterize Kiyozawa's religious conviction:
 1.

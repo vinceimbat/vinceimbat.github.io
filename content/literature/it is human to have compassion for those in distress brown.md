@@ -59,13 +59,13 @@ Our ==condition== is ==for the most part== an ==affair of== the ==everyday==, no
 <!--SR:!2000-01-01,1,250!2025-01-25,1,230!2025-01-26,3,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250-->
 
 Per Brown (January 19, 2025), those who practice jiyū shūkyō are well-placed to offer support to people without feeling the need to become ==zealous reformers.==
-<!--SR:!2026-09-03,60,170-->
+<!--SR:!2026-12-17,105,170-->
 
 It is ==human== to have ==compassion== for those in ==distress==. — ==Giovanni Boccaccio==
 <!--SR:!2025-01-27,3,250!2000-01-01,1,250!2000-01-01,1,250!2025-01-27,4,270-->
 
 Per Brown (January 19, 2025), what immediate benefit can be found by a person who seeks out jiyū shūkyō? :: Restores their resolve to continue showing neighborly love.
-<!--SR:!2026-09-02,27,130-->
+<!--SR:!2026-10-06,34,130-->
 
 # References to check
 

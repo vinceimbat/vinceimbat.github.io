@@ -142,7 +142,7 @@ The characteristics of the "primary religious Being" believed in by the New Reli
 - transcendent
 ?
 immanent
-<!--SR:!2026-08-27,33,250-->
+<!--SR:!2026-12-21,116,270-->
 
 The characteristics of the "primary religious Being" believed in by the New Religions Movement in Japan are (PPLIMT):
 - personal/impersonal
@@ -174,7 +174,7 @@ The characteristics of the "primary religious Being" believed in by the New Reli
 - immanent
 - monotheistic
 - transcendent
-<!--SR:!2026-09-02,16,230-->
+<!--SR:!2026-10-09,37,230-->
 
 Gender role often associated to the primary religious Being of the New Religions Movement in Japan. :: Mother
 <!--SR:!2027-03-09,256,330-->

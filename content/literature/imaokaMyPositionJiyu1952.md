@@ -30,7 +30,7 @@ Imaoka, Shin’ichirō. _My Position on Jiyū Shūkyō_. Translated by Andrew Ja
 # Prompts
 
 Year Shin'ichirō Imaoka was baptized as a Christian :: 1897
-<!--SR:!2026-08-27,15,150-->
+<!--SR:!2026-09-08,4,130-->
 
 Japanese derogatory term for Christians. :: Yaso
 <!--SR:!2027-04-22,369,290-->
@@ -60,7 +60,7 @@ After resigning as a pastor, Shin'ichirō Imaoka worked in what department of a 
 <!--SR:!2028-07-09,811,330-->
 
 After working as an assistant researcher in Tokyo Imperial University, what did Shin'ichirō Imaoka do next? :: Studied at Harvard Divinity School for two years.
-<!--SR:!2026-08-30,240,290-->
+<!--SR:!2028-07-26,696,290-->
 
 After studying in Harvard, what did Shin'ichirō Imaoka do upon returning to Japan? :: Teach
 <!--SR:!2029-04-15,1056,350-->

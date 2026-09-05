@@ -49,7 +49,7 @@ Let the camera adjust shutter speed.
 # Prompts
 
 Camera's default auto focus mode (hint: Miki). :: One Shot / Single Shot
-<!--SR:!2026-08-31,146,210-->
+<!--SR:!2026-11-13,73,190-->
 
 Camera's metering mode (hint: test). :: Evaluative
 <!--SR:!2026-12-10,124,210-->
@@ -112,7 +112,7 @@ The darker the environment, the ==slower== the shutter speed.
 <!--SR:!2028-08-16,856,272-->
 
 The brighter the environment, the ==faster== the shutter speed.
-<!--SR:!2026-09-03,164,210-->
+<!--SR:!2027-08-09,340,210-->
 
 If you want a faster shutter speed, ==increase== the denominator.
 <!--SR:!2026-10-02,375,250-->

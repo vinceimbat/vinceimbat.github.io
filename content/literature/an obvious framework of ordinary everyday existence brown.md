@@ -35,7 +35,7 @@ The Christmas story's original intuition.
 <!--SR:!2026-09-14,49,150-->
 
 Bruno Latour's suggested translation of Emmanuel or "a helpful God" :: "an obvious framework of ordinary, everyday existence"
-<!--SR:!2026-09-02,8,130-->
+<!--SR:!2026-09-13,11,130-->
 
 Why is Bruno Latour suggesting a translation of Emmanuel or "a helpful God"? :: To draw believers and disbelievers in God into a common conversation and being in the world while keeping the original meaning of Emmanuel intact.
 <!--SR:!2026-10-16,79,170-->
@@ -59,7 +59,7 @@ Per Brown (December 28, 2024), the newborn life of a child is not an independent
 <!--SR:!2027-03-29,315,270-->
 
 What does apocryphal text mean? :: Not included in the canonical New Testament
-<!--SR:!2026-08-29,311,210-->
+<!--SR:!2027-02-01,156,190-->
 
 Around what time was the Gospel of Pseudo-Matthew written? :: 6th century CE
 <!--SR:!2027-01-04,247,210-->

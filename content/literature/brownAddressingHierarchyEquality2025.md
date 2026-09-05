@@ -41,7 +41,7 @@ Per Andrew James Brown, in a free-religious community, members should be careful
 <!--SR:!2027-07-28,420,310-->
 
 Brené Brown's definition of shame. :: Intensely painful feeling or experience of believing that we are flawed and therefore unworthy of love and belonging.
-<!--SR:!2026-08-29,34,170-->
+<!--SR:!2026-10-28,60,170-->
 
 Per Andrew James Brown, how does our individual experiences of shaming from hierarchical structures affect building a free-religious community? :: We unintentionally project imagined hierarchies and inequalities into the community.
 <!--SR:!2027-01-16,210,250-->

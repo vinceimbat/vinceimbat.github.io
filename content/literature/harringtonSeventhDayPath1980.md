@@ -30,7 +30,7 @@ Harrington, Donald Szantho. “The Seventh Day - A Path Through the Maze.” _Ou
 # Prompts
 
 Per the Weimans, when does belief become faith? :: When belief shapes one's way of living.
-<!--SR:!2026-08-28,35,230-->
+<!--SR:!2026-11-17,81,230-->
 
 Per the Weimans, when does our beliefs shape our life and becomes faith? :: When they create a hierarchy with the most general belief above and subordinate beliefs below.
 <!--SR:!2026-12-01,167,250-->

@@ -37,7 +37,7 @@ In established Christianity's Alpha-Way-Omega, which parts are exactly the same?
 <!--SR:!2027-06-02,284,330-->
 
 Why does Andrew James Brown find Alpha-Way-Omega suffocating? :: Nothing new is discovered or created.
-<!--SR:!2026-08-28,64,290-->
+<!--SR:!2026-09-29,32,270-->
 
 Bible verse location of the myth of Pentecost. :: Acts 2:1–31
 <!--SR:!2026-10-20,65,230-->

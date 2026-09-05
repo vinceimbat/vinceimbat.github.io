@@ -1,7 +1,7 @@
 ---
 title: My monthly review routine
 created: 2024-12-02 11:18:22+08:00
-modified: 2026-08-02T14:21:01+08:00
+modified: 2026-09-05T09:21:32+08:00
 aliases:
   - My-monthly-review-routine
   - my monthly review routine
@@ -12,7 +12,6 @@ tags:
   - species/thought
   - status/evergreen
 ---
-
 There are four parts to my [[monthly review]]:
 
 1. Write the [[monthly reports|monthly report]].

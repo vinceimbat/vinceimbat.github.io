@@ -22,7 +22,7 @@ Three things that could affect depth of field.
 3. Focal length of your lens
 ?
 Aperture
-<!--SR:!2026-08-27,94,270-->
+<!--SR:!2027-05-08,254,270-->
 
 Three things that could affect depth of field.
 1. Aperture

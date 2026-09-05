@@ -1,7 +1,7 @@
 ---
 title: Poetry Fridays prompts
 created: 2026-06-08 20:49:52+08:00
-modified: 2026-08-24T15:54:10+08:00
+modified: 2026-09-02T09:27:57+08:00
 aliases:
   - Poetry Fridays prompts
 draft: false
@@ -149,3 +149,13 @@ a. Write a poem about the best thing you've heard recently: a melody or line fro
 b. Write a poem about an action that changed/saved (or that keeps changing/saving) your life or someone else's. This could be a once-in-a-lifetime incident or something you see happening every day that supports, protects, or transforms you or other people in a way that the person who performed the act may not (or never) be aware of.
 c. Write about a sacrifice made and what it cost/what price was paid/what was lost in order to achieve the noble goal. Write from the empty space left behind by this sacrificial action. Or write about whether the exchange was worth it or not.
 d. Write about what happens during the split second right before committing an act of courage (big or small, humble or extraordinary) -- like before saying yes, saying no, crossing a line, signing a piece of paper, closing a door, boarding a train, letting go of a hand, making or ending a call.
+
+---
+[[2026-08-28]]
+
+by Ron Atilano
+
+1. Isalaysay sa tula ang personal na buhay, pag-ibig, o pangarap ng isang manananggal, tikbalang, minotauro, at iba pang nilikhang galing sa mito.
+2. Ilahad sa tula ang road trip mo kasama ang isang nilikhang galing sa mito. Saan kayo papunta? Bigyan ng detalye ang inyong mga pinuntahan at/o dinaanan.
+3. Gumawa ng tula na ang persona ay ang mitolohikong nilikha gaya ng minotauro, sirena, satyr, atbp. Gawin silang saksing nagsasalaysay ng kanilang sariling kuwento, lalo na ang kanilang bersiyon ng mito na maaaring lihis sa ating mga nalalaman, nabasa o narinig.
+4. Mag-imbento ng isang bagong nilikha at ilarawan siyang gaya ng sa balita, halimbawa isang bagong hayop sa zoo na may ulo ng pusa, katawan ng kabayo at pakpak ng tutubi, o bagong hayop na produkto ng kalikasan o ng modernong teknolohiya.

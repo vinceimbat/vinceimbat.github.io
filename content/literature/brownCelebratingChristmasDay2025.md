@@ -64,7 +64,7 @@ What did Śākyamuni Buddha teach his followers about being a religious founder?
 <!--SR:!2026-10-21,115,315-->
 
 Per Brown, what does the Mahaparinibbana Sutta (Digha Nikaya 16) teach? :: Buddhist followers must develop self-reliance.
-<!--SR:!2026-08-30,61,270-->
+<!--SR:!2026-09-30,31,250-->
 
 Per Imaoka, why can there be no founder of free-religion? :: Because its quintessence is grasping the meaning of "the Great Life."
 <!--SR:!2026-09-22,111,230-->
@@ -73,7 +73,7 @@ Per Brown, before a good life could develop, a person needs what? :: An understa
 <!--SR:!2026-10-18,207,310-->
 
 Per Tolstoy in Gospel in Brief, what did Jesus' Gospel do to the belief in an external God? :: Replaced it with an understanding of life.
-<!--SR:!2026-08-27,137,270-->
+<!--SR:!2026-11-04,69,250-->
 
 Per Brown, how often did Jesus taught us to reconnect directly with "the Great Life"? :: Daily
 <!--SR:!2026-12-28,279,330-->

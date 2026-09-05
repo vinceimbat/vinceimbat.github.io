@@ -32,7 +32,7 @@ Brown, Andrew James. “‘By Superstition We Are Driven to Deeds of Such Great 
 # Prompts
 
 Lucretius' most popular poem. :: *De Rerum Natura*
-<!--SR:!2026-08-28,113,290-->
+<!--SR:!2027-11-25,454,310-->
 
 *De Rerum Natura* author. :: Lucretius
 <!--SR:!2027-03-18,275,330-->
@@ -59,7 +59,7 @@ In Iran, the Khamenei governs as the representative of who? :: Muhammad al-Mahdi
 <!--SR:!2026-09-21,78,250-->
 
 In Iran, Muhammad al-Mahdi is the ==Twelfth== Imam.
-<!--SR:!2026-08-31,105,310-->
+<!--SR:!2027-07-23,325,310-->
 
 In Iran, where is Muhammad al-Mahdi? :: In hiding.
 <!--SR:!2027-02-23,257,330-->
@@ -172,7 +172,7 @@ Tell the story of the sacrifice of Iphigenia.
 8.
 ?
 Clytemnestra murders Agamemnon years later in revenge.
-<!--SR:!2026-09-04,121,290-->
+<!--SR:!2027-08-21,351,290-->
 
 Tell the story of the sacrifice of Iphigenia.
 ?
@@ -187,7 +187,7 @@ Tell the story of the sacrifice of Iphigenia.
 <!--SR:!2027-01-08,190,270-->
 
 Lucretius closes the proem for Venus in De Rerum Natura Book I with what line? :: By Superstition we are driven to deeds of such great evil.
-<!--SR:!2026-08-28,15,130-->
+<!--SR:!2026-09-06,9,130-->
 
 Lucretius' nationality. :: Roman
 <!--SR:!2027-01-10,204,290-->

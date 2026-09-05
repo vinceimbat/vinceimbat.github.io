@@ -53,7 +53,7 @@ Per Peter Sloterdijk, monotheism is associated primarily with what kind of viole
 <!--SR:!2026-12-22,138,270-->
 
 Why are atheistic states monotheistic in nature? :: They've replaced the one God element with one strongman/woman or a single party with a single ideology.
-<!--SR:!2026-09-03,263,250-->
+<!--SR:!2028-06-21,657,250-->
 
 What are the steps recommended by Brown to prevent ourselves from sliding into religious bigotry and violence against Jewish and Muslim persons?
 1.

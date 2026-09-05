@@ -63,7 +63,7 @@ Henry Nelson Wieman, _The Growth of Religion_, Willett, Clark and Company, 1938
 ## Prompts
 
 Title of the Lenten manual based on the theology of Henry Nelson Wieman and Regina Westcott Wieman. :: Outstretched Wings of the Spirit
-<!--SR:!2026-09-02,254,270-->
+<!--SR:!2027-01-09,129,250-->
 
 *Outstretched Wings of the Spirit* was prepared by ==Donald Szantho Harrington==.
 <!--SR:!2027-03-25,320,250-->
@@ -75,7 +75,7 @@ Per Harrington, the rightness of our faith is verified by what? :: Objective cri
 <!--SR:!2026-11-14,193,210-->
 
 What is process theology? :: Theological approach that views reality as a dynamic process of change and becoming.
-<!--SR:!2026-08-29,96,170-->
+<!--SR:!2026-10-17,49,150-->
 
 Founder of process theology ::: Alfred North Whitehead
 <!--SR:!2000-01-01,1,250!2025-03-19,4,270-->

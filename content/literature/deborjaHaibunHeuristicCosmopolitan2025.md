@@ -146,7 +146,7 @@ Literal translation of utamakura (歌枕). :: "poem pillow"
 <!--SR:!2026-10-05,239,330-->
 
 What does utamakura (歌枕) mean? :: Place name in Japanese poetry that carries specific symbolism.
-<!--SR:!2026-09-02,89,190-->
+<!--SR:!2026-10-18,46,170-->
 
 Why is utamakura (歌枕) called "poem pillow"? :: It is where the poem rests or is inspired.
 <!--SR:!2026-09-05,85,170-->

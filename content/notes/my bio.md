@@ -1,17 +1,16 @@
 ---
 title: My bio
 created: 2024-11-23 08:22:20+08:00
-modified: 2026-04-18 09:45:03+08:00
+modified: 2026-09-04T22:29:54+08:00
 aliases:
-- thoughts/my-bio
-- My bio
+  - thoughts/my-bio
+  - My bio
 draft: false
 publish: true
 tags:
-- species/thought
-- status/seedling
+  - species/thought
+  - status/seedling
 ---
-
 # GBL 2024
 
 Vince Honrado Imbat is a writer and photographer experimenting with walking, drafts, and digital gardens. His Pangasinan poem "Gawat" and its translation "Tagsalat" were published by TLDTD and his hybrid image-poetry collection *Mapa ng Los Baños Patungo Sa'yo* and its accompanying essay "Ang Borador Bilang Panitikan ng Paglalakad" were published in the Buhian literary issue of *Katipunan*. Vincent is the co-author of "So we must meet apart," a collection of epistolary essays on walking. His hybrid essay entitled "Traversing Liminality Through Walking: An Autoethnography" won him a fellowship in the 20th Ateneo National Writers Workshop (ANWW20), and his Pangasinan poem "Obong" landed him a spot at the 17th Palihang Rogelio Sicat. He is also a fellow of the Ikalawang Saling Panitik: Bienvenido Lumbera Seminar-Palihan sa Pagsasalin. Vincent finished a BA in Social Science in the University of the Philippines Baguio. He currently lives in Los Baños, Laguna.
@@ -53,6 +52,10 @@ Vince Honrado Imbat is a Los Baños-based Pangasinense writer and photographer w
 # Writings-in-Progress
 
 Vince Honrado Imbat is a Laguna-based Pangasinense writer and photographer exploring the potentials of walking as embodied worldmaking and contemplative practice. His essays and poems, recognized by the Gawad Bienvenido Lumbera and Gawad F. Sionil Jose, engage with the tensions of history, language, and the sacred embedded in landscapes and places. Vince has facilitated and performed walking projects in Laguna, Baguio, Pangasinan, and Thailand. His work has appeared in _Katipunan_, TLDTD, Rappler, Northern Dispatch, Mountain Beacon, and elsewhere, and his poetry and photography have been featured in exhibitions in Laguna, Cavite, and Rizal. He is a fellow of the Ateneo National Writers Workshop, Palihang Rogelio Sicat, and the Bienvenido Lumbera Workshop for Translation.
+
+# Monsoon School 2
+
+Vince Honrado Imbat is a translingual writer exploring the potential of walking as embodied worldmaking, contemplative, and art practice. His work engages with the tensions of history, language, and the sacred embedded in landscapes, places, and memory. His essay "Ikurit Koy Salisalik ëd Sayan Dalin: Pitoran Akar" (I Shall Write My Feet On This Land: Seven Walks) won grand prize in the 2024 Gawad Bienvenido Lumbera Pangasinan essay category. His hybrid poetry collection *Mapa ng Los Baños Patungo Sa'yo* (A Map of Los Baños to You) and its accompanying essay "Ang Borador Bilang Panitikan ng Paglalakad" (The Draft as Literature of Walking) published by *Katipunan* explores how walking necessitates a fragmented and dynamic writing practice resistant to dominant notions of finality in literature. His work has appeared in _Katipunan_, _TLDTD_, _Rappler_, _Northern Dispatch_, _Mountain Beacon_, and elsewhere, and his poetry and photography have been exhibited in Laguna, Cavite, and Rizal. He is also the coauthor of *so we must meet / apart*, an experimental collection of epistolary essays written using walking as method. The collection was a finalist in the 2024 Big Other Readers' Choice Award. He is a fellow of the Ateneo National Writers Workshop, Palihang Rogelio Sicat, the Bienvenido Lumbera Seminar-Workshop on Translation, and the Writings-in-Progress Traveling Writing Workshop of Savage Mind and the Goethe-Institut Philippinen. A freelance writer and editor, he also teaches poetry at the Philippine High School for the Arts.
 
 # References
 

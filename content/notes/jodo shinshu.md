@@ -72,7 +72,7 @@ Year Nishi Honganji was built. :: 1591
 <!--SR:!2026-09-16,102,170-->
 
 Year Higashi Honganji was built. :: 1604
-<!--SR:!2026-09-03,10,190-->
+<!--SR:!2026-09-21,18,190-->
 
 Who encouraged a split within the Honganji sect in 1602? :: Tokugawa Ieyasu
 <!--SR:!2027-12-03,636,320-->
@@ -93,7 +93,7 @@ English translation of Nishi Honganji :: Western Temple of the First Vow
 <!--SR:!2027-10-29,611,327-->
 
 Buddhist movement housed in Higashi Honganji :: Ōtani-ha
-<!--SR:!2026-09-01,333,351-->
+<!--SR:!2029-11-13,1169,351-->
 
 Bodhisattva ::: One who has entered the path to enlightenment for oneself and others.
 <!--SR:!2025-07-30,3,280!2000-01-01,1,250-->

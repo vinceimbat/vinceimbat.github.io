@@ -1,7 +1,7 @@
 ---
 title: Habagat
 created: 2026-08-08T14:55:36+08:00
-modified: 2026-08-08T15:01:59+08:00
+modified: 2026-08-31T09:35:04+08:00
 aliases:
   - Habagat
 draft: false
@@ -18,7 +18,7 @@ Dumudungaw tayo sa bintana
 at makikitang naglaho na ang Kordilyera.
 
 Dahan-dahan tayong dadayuin ng makapal na hamog
-na tahimiki na magmamartsa sa himig
+na tahimik na magmamartsa sa himig
 ng mahinahong ulan.
 
 Hindi tayo lalabas ng bahay

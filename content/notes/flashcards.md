@@ -33,7 +33,7 @@ Ratio of mug to ground coffee in tbsp when boiling. :: 1 mug : 6 tbsp coffee
 <!--SR:!2026-12-11,116,230-->
 
 Ratio of coffee (tbsp) to water (cup) when boiling. :: 2 tbsp coffee : 3/4 cup of water
-<!--SR:!2026-08-27,13,130-->
+<!--SR:!2026-09-14,18,130-->
 
 Tantan's birthday :: May 15
 <!--SR:!2026-09-06,17,170-->

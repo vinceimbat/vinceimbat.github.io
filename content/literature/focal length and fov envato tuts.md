@@ -104,7 +104,7 @@ When positioned at a particular point and you want to take a wider image of a bu
 <!--SR:!2027-05-15,515,310-->
 
 What is a prime lens in photography? :: Lens with a fixed focal length
-<!--SR:!2026-09-01,47,170-->
+<!--SR:!2026-11-21,81,170-->
 
 What is a zoom lens in photography? :: Lens with variable focal length
 <!--SR:!2029-10-04,1251,350-->
@@ -146,7 +146,7 @@ Micro 4/3 has a ==2x== FOVCF.
 <!--SR:!2026-11-08,365,290-->
 
 A 50 mm lens on a Micro 4/3 camera would have a similar FOV to a ==100== mm lens on a full frame camera.
-<!--SR:!2026-08-27,43,210-->
+<!--SR:!2026-09-18,22,190-->
 
 Canon EFS and Nikon DX lenses are designed for ==digital== cameras.
 <!--SR:!2029-02-19,1074,350-->

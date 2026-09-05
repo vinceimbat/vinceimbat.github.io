@@ -96,7 +96,7 @@ Per the Weimans, two media through which all growth happens.
 ?
 1. sensitivity
 2. responsiveness
-<!--SR:!2026-09-02,131,290-->
+<!--SR:!2026-11-06,65,270-->
 
 Per the Weimans, how does nature and society enter the inner life of an individual? :: Through sensitivity and responsiveness
 <!--SR:!2026-10-04,39,250-->
@@ -108,7 +108,7 @@ Per the Weimans, when we increase our sensitivity and responsiveness to universa
 <!--SR:!2027-05-25,334,310-->
 
 Per the Weimans, what is conscience? :: A feeling for the requirements of universal forces.
-<!--SR:!2026-08-29,65,190-->
+<!--SR:!2026-10-01,33,170-->
 
 Per the Weimans, how prevalent is religion? :: Everyone is religious.
 <!--SR:!2027-02-04,267,330-->

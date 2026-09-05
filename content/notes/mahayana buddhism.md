@@ -36,4 +36,4 @@ What are the scriptures of Theravāda? :: the Pāli Canon (Tipitaka)
 <!--SR:!2026-09-15,167,270-->
 
 What are the scriptures of Māhāyana? :: wide range of Sanskrit texts
-<!--SR:!2026-09-02,43,210-->
+<!--SR:!2026-12-01,90,210-->

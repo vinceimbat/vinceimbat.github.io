@@ -1176,7 +1176,7 @@ Per Burnett and Evans, life is ==an aesthetic== problem.
 <!--SR:!2027-01-24,226,290-->
 
 Two characteristics of a well-designed life. :: Feels right and constantly evolving.
-<!--SR:!2026-08-29,12,167-->
+<!--SR:!2026-09-27,29,187-->
 
 All design starts with a ==problem==.
 <!--SR:!2029-09-25,1156,350-->

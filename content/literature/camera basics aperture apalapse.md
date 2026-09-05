@@ -20,7 +20,7 @@ Night photography requires fast lenses.
 # Prompts
 
 Aperture is ==the hole in the camera lens where light enters==.
-<!--SR:!2026-09-01,74,190-->
+<!--SR:!2026-10-08,37,170-->
 
 In the human eye, aperture could be represented by the ==pupil==.
 <!--SR:!2026-09-06,69,170-->
@@ -29,7 +29,7 @@ The camera lens' ==diaphragm== controls the size of the aperture.
 <!--SR:!2027-12-19,716,330-->
 
 In the human eye, the camera lens' diaphragm could be represented by the ==iris==.
-<!--SR:!2026-09-01,115,250-->
+<!--SR:!2026-10-29,58,230-->
 
 Why does a larger f-stop number translate to a smaller aperture? :: The f-stop number represents the size of the diaphragm blocking light into the lens.
 <!--SR:!2027-05-04,322,230-->

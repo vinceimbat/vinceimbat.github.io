@@ -39,10 +39,10 @@ Century the poet Sappho lived. :: 6th century BCE
 <!--SR:!2026-11-24,157,270-->
 
 Plato called Sappho the =="Tenth Muse"==.
-<!--SR:!2026-08-29,49,270-->
+<!--SR:!2026-09-23,25,250-->
 
 Sappho wrote an estimated ==500== poems.
-<!--SR:!2026-09-04,15,190-->
+<!--SR:!2026-10-15,41,210-->
 
 Among all of Sappho's poems, how many complete poems were retrieved? :: 1
 <!--SR:!2026-09-12,141,310-->
@@ -77,7 +77,7 @@ Per Brown, how is fragmentation affecting how we relate to each other as humans?
 ?
 1. We can't completely know each other.
 2. We are able to love.
-<!--SR:!2026-08-31,52,270-->
+<!--SR:!2026-09-27,26,250-->
 
 Per Brown, why does the Great Life necessitate fragmentation? :: It relies on movement.
 <!--SR:!2026-10-12,102,270-->

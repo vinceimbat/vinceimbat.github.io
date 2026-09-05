@@ -80,7 +80,7 @@ How does a CMOS camera sensor work? :: Converts light into electrical signals to
 <!--SR:!2027-03-09,199,250-->
 
 What is resolution in photography? :: Number of pixels in an image
-<!--SR:!2026-08-29,54,230-->
+<!--SR:!2027-02-21,176,250-->
 
 1 megapixel is equivalent to ==1 million== pixels.
 <!--SR:!2027-05-20,433,290-->

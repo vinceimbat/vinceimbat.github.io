@@ -20,13 +20,13 @@ To make it pleasant, treat spaced repetition like ...
 Back: Meditation.
 
 How many times to read a material to internalize it? :: Several passes then at least one thorough read.
-<!--SR:!2026-08-30,48,170-->
+<!--SR:!2026-12-27,119,190-->
 
 To give a spaced repetition prompt an emotional context ... :: Connect it to a personal project.
 <!--SR:!2027-09-10,418,270-->
 
 Reading inbox filter :: Quality materials relevant to my projects.
-<!--SR:!2026-08-28,130,170-->
+<!--SR:!2026-11-01,65,150-->
 
 Rule of thumb on when not to write spaced repetition prompts on a material. :: When I couldn't write at least five good prompts about it.
 <!--SR:!2028-10-18,845,270-->
@@ -107,7 +107,7 @@ Basic unit of working memory ::: Chunk
 <!--SR:!2030-08-14,1564,338!2027-06-11,377,258-->
 
 Per Nielsen (2018), what is the role of long-term memory in developing expertise? :: More chunks memorized boosts one's IQ in a domain.
-<!--SR:!2026-08-27,62,158-->
+<!--SR:!2026-09-28,32,138-->
 
 Rule of thumb to be very selective on what to memorize for the long term. :: Memorize material that you'll need repeatedly.
 <!--SR:!2026-12-15,428,240-->

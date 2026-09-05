@@ -150,7 +150,7 @@ Per Sheehan, Jesus taught that God was present where? :: Among human beings enac
 <!--SR:!2026-09-15,97,210-->
 
 Per Sheehan, Jesus dissolved the fanciful speculations of apocalyptic eschatology into the call to ==justice and charity==.
-<!--SR:!2026-08-28,57,270-->
+<!--SR:!2026-09-26,29,250-->
 
 Per Sheehan, Jesus' message of the kingdom radically redefined the traditional notions of what two concepts? :: Grace and salvation
 <!--SR:!2026-10-26,195,310-->
@@ -193,13 +193,13 @@ Per Sheehan, by interpreting Jesus as savior, the Christian church surrendered w
 <!--SR:!2026-12-16,252,330-->
 
 Per Sheehan, what is Jesus' radical present-future sense of time? :: Forgiveness; grace is already everywhere
-<!--SR:!2026-09-02,8,130-->
+<!--SR:!2026-09-12,10,130-->
 
 Per Sheehan, the Christian church replaced Jesus's radical present-future with what? :: Mythical past-present-future
 <!--SR:!2027-03-31,263,250-->
 
 Per Sheehan, what is the Christian church's mythical past-present-future it used to replace Jesus' radical present-future? :: God became man in the past, reigning in heaven at present, and will return to earth in the future
-<!--SR:!2026-09-04,34,210-->
+<!--SR:!2026-11-14,71,210-->
 
 Per Sheehan, the paradox of Jesus' message is that in order for God to be ever present in mankind, God must ==disappear==.
 <!--SR:!2027-08-31,388,290-->

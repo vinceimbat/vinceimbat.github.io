@@ -32,7 +32,7 @@ Brown, Andrew James. “Things Themselves, by Their Very Nature, Belong to No On
 # Prompts
 
 Tenko Nishida's saying 1 in Selflessness :: Things themselves, by their very nature, belong to no one. All things belong to the whole.
-<!--SR:!2026-09-03,77,170-->
+<!--SR:!2027-01-11,130,170-->
 
 Per Andrew James Brown the word "property" fundamentally refers to what? :: Fundamental characteristics that make something that thing
 <!--SR:!2026-11-06,243,270-->
@@ -41,7 +41,7 @@ Per Andrew James Brown, why are fundamental properties not possessions. :: They 
 <!--SR:!2026-11-27,111,210-->
 
 Per Andrew James Brown, what is the property shared by all things, sentient and non-sentient? :: Not having property but being the property of the whole.
-<!--SR:!2026-09-04,12,190-->
+<!--SR:!2026-09-28,24,190-->
 
 Per Andrew James Brown, the only real "real state" that exists is ==the whole cosmos==.
 <!--SR:!2026-09-08,72,250-->

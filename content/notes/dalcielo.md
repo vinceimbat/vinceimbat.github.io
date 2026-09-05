@@ -1,18 +1,17 @@
 ---
 title: Dalcielo
 created: 2024-08-28 21:49:26+08:00
-modified: 2026-01-02 12:02:46+08:00
+modified: 2026-08-31T09:30:10+08:00
 aliases:
-- Dalcielo
-locations: null
+  - Dalcielo
+locations:
 draft: false
 publish: true
 tags:
-- species/poem
-- language/filipino
-- status/seedling
+  - species/poem
+  - language/filipino
+  - status/seedling
 ---
-
 Nahulog ng aleng  
 nakaangkas sa motor  
 ang bote ng mineral water.[^1]

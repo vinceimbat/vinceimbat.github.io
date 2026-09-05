@@ -1,16 +1,15 @@
 ---
 title: Kapag Nawala Ako
 created: 2025-10-13 17:19:56+08:00
-modified: 2025-11-16 13:29:42+08:00
+modified: 2026-08-31T09:38:08+08:00
 aliases:
-- Kapag Nawala Ako
+  - Kapag Nawala Ako
 draft: false
 publish: true
 tags:
-- species/poem
-- status/seedling
+  - species/poem
+  - status/seedling
 ---
-
 Saan ako pupulutin?  
 Saan ako hahanapin?  
 Kundi sa pag-upo  

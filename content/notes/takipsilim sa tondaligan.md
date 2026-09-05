@@ -56,7 +56,7 @@ Per Andrew James Brown, using the metaphor of the fence in "The Supple Deer," wh
 <!--SR:!2028-02-26,588,330-->
 
 Per Andrew James Brown, jiyū shūkyō's task is to ensure that the cords that binds members of a free-religious community are what? :: creative and liberative
-<!--SR:!2026-08-31,27,250-->
+<!--SR:!2026-11-07,67,250-->
 
 Per Andrew James Brown, in Hirshfield's "The Supple Deer," what three characteristics of the fence make it an apt representation of jiyū shūkyō? :: minimalist, strong, and flexible
 <!--SR:!2026-11-09,87,250-->
@@ -72,7 +72,7 @@ Per Andrew James Brown, the two roles of the "Principles of Living" in the life 
 2. Remind us of kiitsu.
 ?
 Create unique kyōkais.
-<!--SR:!2026-09-04,185,310-->
+<!--SR:!2026-12-05,92,290-->
 
 Per Andrew James Brown, the two roles of the "Principles of Living" in the life of a free-religionist:
 1. Create unique kyōkais.

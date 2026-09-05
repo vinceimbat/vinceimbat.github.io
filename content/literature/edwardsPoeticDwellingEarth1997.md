@@ -307,7 +307,7 @@ Two main points of the Western philosophical tradition of transcendental subject
 ?
 1. The human subject grounds knowledge, meaning, and experience.
 2. The human subject transcends concrete, everyday life.
-<!--SR:!2026-08-28,167,266-->
+<!--SR:!2027-11-15,444,266-->
 
 Dasein literally means ==being-in-the-world==.
 <!--SR:!2026-09-25,38,246-->
@@ -331,7 +331,7 @@ Per Edwards, what is Pathos? :: Gravity of everyday practices.
 <!--SR:!2026-11-08,147,286-->
 
 The pathos of practice translates to the pathos of ==lives==.
-<!--SR:!2026-09-03,12,210-->
+<!--SR:!2026-09-09,6,190-->
 
 Per Edwards, what happens to the pathos of everyday practices and lives when they are subject to Dasein's philosophical reflection? :: Diminished
 <!--SR:!2027-07-13,403,326-->
@@ -346,7 +346,7 @@ Why did Edwards claim that Heidegger impersonates Nietzsche in *Being and Time*?
 <!--SR:!2026-11-13,138,206-->
 
 German word that means gear. :: Zeug
-<!--SR:!2026-09-03,71,286-->
+<!--SR:!2026-10-10,37,266-->
 
 What is "will to power" per Nietzsche? :: Doctrine that everything pursues the expansion of their power.
 <!--SR:!2026-12-17,150,186-->
@@ -388,7 +388,7 @@ Four essays of Heidegger developing poetic dwelling on earth as a mortal.
 4.
 ?
 "The Question Concerning Technology"
-<!--SR:!2026-09-01,151,270-->
+<!--SR:!2026-11-16,76,250-->
 
 Four essays of Heidegger developing poetic dwelling on earth as a mortal.
 ?
@@ -408,7 +408,7 @@ Per Edwards, the Greek pragmata later became the Latin ==res==.
 <!--SR:!2028-05-10,632,326-->
 
 Per Heidegger's *Being and Time*, how is the Being of a thing always already holistic? :: Gained through back-and-forth references to other things.
-<!--SR:!2026-09-01,97,186-->
+<!--SR:!2027-03-01,181,186-->
 
 Per Heidegger's *Being and Time*, what provides the context within which a thing gains its Being through back-and-forth with other things? :: The various projects of Dasein.
 <!--SR:!2026-10-21,127,286-->

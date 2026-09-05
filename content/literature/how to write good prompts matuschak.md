@@ -91,7 +91,7 @@ Where should you put mnemonic devices in a retrieval writing prompt? :: In the a
 <!--SR:!2027-12-21,803,332-->
 
 Why should you put mnemonic devices inside parentheses when using them in prompt answers? :: They're not part of the answer but simply help remember it.
-<!--SR:!2026-09-04,339,232-->
+<!--SR:!2029-09-19,1111,252-->
 
 In lieu of creating a mnemonic device, what can you do to leverage elaborative encoding in your retrieval practice prompts? :: Use images in the questions and answers.
 <!--SR:!2026-09-22,167,252-->
@@ -128,13 +128,13 @@ How should we write list-based retrieval prompts for a procedure?
 2.
 ?
 Cut unnecessary words to emphasize keywords.
-<!--SR:!2026-08-30,42,132-->
+<!--SR:!2026-10-24,55,132-->
 
 If procedures branch and become sufficiently complex, what should you include in your prompts? :: A flowchart.
 <!--SR:!2028-03-23,724,292-->
 
 Use a keyword-based approach in writing retrieval prompts about a procedure if this is important for you. :: Precision
-<!--SR:!2026-08-29,121,192-->
+<!--SR:!2027-04-17,231,192-->
 
 Use a list-based approach in writing retrieval prompts about a procedure if all you need is :: an outline
 <!--SR:!2028-12-09,1106,352-->
@@ -253,7 +253,7 @@ Explain the generation effect. :: We remember information better when we generat
 <!--SR:!2028-03-04,697,232-->
 
 Define the Baader-Meinhof Phenomenon. :: New ideas are more salient.
-<!--SR:!2026-08-27,391,292-->
+<!--SR:!2027-03-08,193,272-->
 
 How do you leverage the Baader-Meinhof Phenomenon when learning new ideas? :: Write retrieval prompts about them.
 <!--SR:!2028-10-12,1014,312-->
@@ -327,7 +327,7 @@ Retrieval practice prompts must unambiguously exclude ==alternative correct== an
 <!--SR:!2029-03-17,1115,312-->
 
 How do you identify when to revise a prompt? :: When you notice an internal "sigh."
-<!--SR:!2026-09-02,213,232-->
+<!--SR:!2028-07-31,698,252-->
 
 Per Andy Matuschak, how does one revise a prompt in relation to others? :: Holistically.
 <!--SR:!2028-01-22,842,332-->

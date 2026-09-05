@@ -437,7 +437,7 @@ Per Cervantes (2025), transpersonal psychology has three characteristics:
 3. Transformative
 ?
 Beyond ego
-<!--SR:!2026-08-31,245,292-->
+<!--SR:!2029-05-22,994,312-->
 
 Per Cervantes (2025), transpersonal psychology has three characteristics:
 1. Beyond ego
@@ -598,7 +598,7 @@ What does *sandiwa* suggest about the essence of something or a self? :: It coul
 <!--SR:!2027-07-16,370,232-->
 
 Meaning of *kapwa* in Sikolohiyang Pilipino. :: Self with the other
-<!--SR:!2026-08-29,77,192-->
+<!--SR:!2027-01-24,148,192-->
 
 In Sikolohiyang Pilipino, *kapwa* is a category that includes what two forms of Other? :: *Ibang Tao* (stranger) and *Hindi Ibang Tao* (one-of-us)
 <!--SR:!2027-01-27,338,252-->
@@ -607,7 +607,7 @@ Per Cervantes (2025), how does *kapwa* inform Filipino behavior? :: Motivates us
 <!--SR:!2026-10-09,275,252-->
 
 In Sikolohiyang Pilipino, who are the beneficiaries of pakikipagkapwa? :: People, nature, and invisible beings.
-<!--SR:!2026-08-30,67,272-->
+<!--SR:!2026-10-03,34,252-->
 
 Per Cervantes (2025), when does a *kapwa* ecology emerge? :: When a self extends their identity to the world around them.
 <!--SR:!2026-11-11,106,152-->
@@ -619,7 +619,7 @@ Per Cervantes (2025), when Filipino traits are detached from their *kapwa* conte
 <!--SR:!2026-09-27,50,272-->
 
 Per Cervantes (2025), when *utang na loob* is detached from its *kapwa* context, it is interpreted as a ==moral obligation==.
-<!--SR:!2026-09-04,108,292-->
+<!--SR:!2026-10-30,56,272-->
 
 Per Cervantes (2025), when *utang na loob* is re-attached to its *kapwa* context, it is interpreted as ==a form of solidarity where we ask what we owe to others==.
 <!--SR:!2026-12-01,97,232-->

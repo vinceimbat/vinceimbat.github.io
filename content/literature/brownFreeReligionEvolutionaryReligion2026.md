@@ -97,7 +97,7 @@ They're settled facts.
 <!--SR:!2026-10-25,142,230-->
 
 Difference between belief and faith per Schellenberg? :: Belief aims settled claims; faith commits without pretending to have final proof.
-<!--SR:!2026-09-03,19,170-->
+<!--SR:!2026-10-05,32,170-->
 
 Per Andrew James Brown, how does evolutionary religion live in imagination? :: Tries things out while staying open to revision.
-<!--SR:!2026-08-27,55,210-->
+<!--SR:!2026-12-23,118,210-->

@@ -53,7 +53,7 @@ The following comes from Andrew J. Brown's translation of a revision of Imaoka's
 # Prompts
 
 Year Imaoka established his Principles of Living. :: 1965
-<!--SR:!2026-08-31,47,170-->
+<!--SR:!2026-09-25,24,150-->
 
 Number of articles in Imaoka's original Principles of Living. :: 7
 <!--SR:!2026-09-30,44,206-->
@@ -68,7 +68,7 @@ Principle 1 of Imaoka's "My Principles of Living" (1981) (hint: Don't forget MOA
 <!--SR:!2026-09-29,42,130-->
 
 Principle 2 of Imaoka's "My Principles of Living" (1981) :: I place trust/have faith in others. Others are neighbours who possess their own selves as others. By affirming myself, I inevitably place trust/have faith in others.
-<!--SR:!2026-08-31,38,130-->
+<!--SR:!2026-11-14,74,150-->
 
 Principle 3 of Imaoka's "My Principles of Living" (1981) :: I place trust/have faith in the cooperative community. Neither self nor others exist in isolation or self-sufficiency; instead, they inevitably establish a mutual interdependency, solidarity, and a cooperative community.
 <!--SR:!2026-09-29,72,170-->

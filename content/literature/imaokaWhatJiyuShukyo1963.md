@@ -30,7 +30,7 @@ Imaoka, Shin’ichirō. _What Is Jiyū Shūkyō_. Translated by Andrew James Bro
 # Prompts
 
 Per Imaoka, what three religious movements are the most notable examples of jiyū shūkyō? :: Unitarianism, Universalism, and Bahá’ísm
-<!--SR:!2026-09-03,104,290-->
+<!--SR:!2026-10-25,52,270-->
 
 Country where Bahá’ísm emerged. :: Iran (Persia)
 <!--SR:!2028-10-01,827,330-->
@@ -42,7 +42,7 @@ The most radical form of jiyū shūkyō per Imaoka. :: Bahá’ísm
 <!--SR:!2028-06-28,795,330-->
 
 Year Imaoka attempted to visit a Bahá’í Faith headquarters. :: 1961
-<!--SR:!2026-08-30,9,190-->
+<!--SR:!2026-09-24,25,210-->
 
 The Bahá’í Faith headquarters Imaoka attempted to visit was located in ==Haifa, northern Israel== (hint: UPB batchmate).
 <!--SR:!2026-12-04,198,250-->

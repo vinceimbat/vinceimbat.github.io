@@ -96,7 +96,7 @@ Free-religion helps us express this impulse with reverence and openness, trustin
 # Prompts
 
 Per Andrew James Brown, a person's spirituality and religion must always arise from ==their own life context==.
-<!--SR:!2026-09-03,48,230-->
+<!--SR:!2026-12-22,110,230-->
 
 What poem by whom did Andrew James Brown read to some sacred spots he rode his bike to as an offering? :: "To the Old Gods" by Edwin Muir
 <!--SR:!2026-09-24,90,230-->

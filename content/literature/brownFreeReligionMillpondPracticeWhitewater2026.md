@@ -54,7 +54,7 @@ In Andrew James Brown's whitewater metaphor, the millpond is ==the weekly gather
 <!--SR:!2026-10-18,160,310-->
 
 In Andrew James Brown's whitewater metaphor, the static paddle is ==Imaoka's Principles of Living and Capek's Ten Advices==.
-<!--SR:!2026-09-01,41,250-->
+<!--SR:!2026-12-16,106,250-->
 
 Per Andrew James Brown, Imaoka's Principles of Living and Capek's Ten Advices do not form a restrictive creed but are instead a ==free-religious tool==.
 <!--SR:!2026-09-19,60,290-->

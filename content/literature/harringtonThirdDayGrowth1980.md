@@ -30,7 +30,7 @@ Harrington, Donald Szantho. â€œThe Third Day - Growth of Meaning in the World.â€
 # Prompts
 
 Per the Weimans, what is supreme value? :: Growth of meaning in the world.
-<!--SR:!2026-09-03,43,170-->
+<!--SR:!2026-11-12,70,170-->
 
 Per the Weimans, aside from supreme value, the growth of meaning in the world is also called ==God==.
 <!--SR:!2026-09-07,23,230-->
@@ -43,7 +43,7 @@ Per the Weimans, the growth of meaning is also connected to the growth of what t
 2. Mutuality
 ?
 Loving relationships
-<!--SR:!2026-08-30,83,290-->
+<!--SR:!2026-10-11,42,270-->
 
 Per the Weimans, the growth of meaning is also connected to the growth of what two things?
 1. Loving relationships
@@ -56,4 +56,4 @@ Per the Weimans, the growth of meaning is also connected to the growth of what t
 ?
 1. Loving relationships
 2. Mutuality
-<!--SR:!2026-08-27,49,270-->
+<!--SR:!2027-02-27,184,290-->

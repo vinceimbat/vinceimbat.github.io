@@ -73,7 +73,7 @@ Monastery where Shinran Shōnin studied. :: Tendai
 <!--SR:!2028-02-09,708,330-->
 
 Age Shinran Shōnin entered the monastery? :: 9
-<!--SR:!2026-08-30,140,250-->
+<!--SR:!2026-11-08,70,230-->
 
 How many years did Shinran Shōnin study Tendai teachings? :: 20
 <!--SR:!2026-11-02,99,250-->
@@ -90,8 +90,8 @@ What did Shinran Shōnin do after leaving Tendai? :: He joined Hōnen Shōnin's 
 Word Hōnen Shōnin used to describe himself, which means an ordinary, unenlightened, ignorant, self-centered, but humble individual. ::: *bonbu*
 <!--SR:!2000-01-01,1,250!2025-07-26,1,230-->
 
-What is the most common misconception about Pure Land Buddhism? :: It is a theistic, with Amida Buddha as a god leading people to salvation in the Pure Land.
-<!--SR:!2026-08-31,269,290-->
+What is the most common misconception about Pure Land Buddhism? :: It is theistic, with Amida Buddha as a god leading people to salvation in the Pure Land.
+<!--SR:!2028-10-17,777,290-->
 
 For Shinran Shōnin Amida Buddha was not a mythical Buddha but ==a symbol for the Dharma==.
 <!--SR:!2026-10-08,184,230-->

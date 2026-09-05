@@ -90,7 +90,7 @@ earwig :: n. the insect that Mama abhors
 <!--SR:!2026-12-19,147,315-->
 
 enrapture :: v. give intense pleasure or joy to
-<!--SR:!2026-08-28,75,169-->
+<!--SR:!2027-01-02,127,169-->
 
 ensorcel :: v. enchant
 <!--SR:!2026-09-27,131,289-->
@@ -135,7 +135,7 @@ gag :: n. cloth placed on a person's mouth to prevent them from speaking
 <!--SR:!2026-12-17,360,295-->
 
 gaudy (hint: Jen's blue rice) :: adj. extravagant or tasteless showiness
-<!--SR:!2026-09-01,14,150-->
+<!--SR:!2026-09-22,21,150-->
 
 geld (hint: Doji) :: v. to castrate (an animal); to deprive of an essential part
 <!--SR:!2027-05-24,384,209-->
@@ -198,7 +198,7 @@ lip service :: n. words unbacked by actions
 <!--SR:!2027-07-07,492,269-->
 
 lisp :: n. speech defect where \s\ and \z\ are pronounced as \th\
-<!--SR:!2026-09-04,43,189-->
+<!--SR:!2026-11-23,80,189-->
 
 lush (informal) :: n. habitual heavy drinker
 <!--SR:!2026-09-17,74,189-->
@@ -370,7 +370,7 @@ upbraid :: v. scold
 # V
 
 vilify :: v. to defame
-<!--SR:!2026-09-01,10,150-->
+<!--SR:!2026-09-22,21,170-->
 
 voile :: n. thin, semitransparent fabric
 <!--SR:!2026-10-03,52,130-->

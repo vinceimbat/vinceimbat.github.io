@@ -156,7 +156,7 @@ This essay provides a clear statement about the object of faith of jiyū shūky�
 # Prompts
 
 Per Imaoka, what was the state of Kiitsu Kyōkai after ten years? :: Continues to meet every Sunday but generally unsuccessful.
-<!--SR:!2026-08-31,69,210-->
+<!--SR:!2027-01-23,144,210-->
 
 Imaoka's main priority when he started Kiitsu Kyōkai. :: To examine the essence of jiyū shūkyō.
 <!--SR:!2026-11-15,306,270-->
@@ -182,7 +182,7 @@ Per Imaoka, later Christians and Buddhists confined the ever-evolving spiritual 
 3. religious authority
 ?
 dogma
-<!--SR:!2026-08-27,194,299-->
+<!--SR:!2026-12-02,97,279-->
 
 Per Imaoka, later Christians and Buddhists confined the ever-evolving spiritual life within the boundaries of:
 1. dogma
