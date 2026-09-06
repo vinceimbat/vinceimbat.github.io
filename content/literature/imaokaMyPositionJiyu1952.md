@@ -111,7 +111,7 @@ What is Shin'ichirō Imaoka's position on disciples or followers? :: Teachers sh
 <!--SR:!2026-09-17,41,230-->
 
 Shin'ichirō Imaoka suggests that both salvation and enlightenment could only be found where? :: In love that struggles with the people.
-<!--SR:!2026-09-05,24,170-->
+<!--SR:!2026-10-16,41,170-->
 
 Per Shin'ichirō Imaoka, because jiyū shūkyō considers individual and collective salvation to be inseparable, the ==church/kyokai== is absolutely necessary.
 <!--SR:!2027-10-05,550,310-->

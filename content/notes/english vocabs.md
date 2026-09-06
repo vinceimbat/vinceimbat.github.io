@@ -186,7 +186,7 @@ knell - solemn sound of a bell (death)
 # L
 
 languor :: n. weariness
-<!--SR:!2026-09-05,10,150-->
+<!--SR:!2026-09-10,5,130-->
 
 largesse :: n. generosity
 <!--SR:!2026-09-29,67,189-->

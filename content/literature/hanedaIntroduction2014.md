@@ -126,7 +126,7 @@ Per Shin Buddhism, when does conflict arise? :: When things and people don't mee
 <!--SR:!2026-09-08,178,270-->
 
 Per Shin Buddhism, how can one be liberated from the self? :: self-denial
-<!--SR:!2026-09-05,23,190-->
+<!--SR:!2026-10-19,44,190-->
 
 Per Shin Buddhism, why is self-denial difficult? :: The self can't deny itself.
 <!--SR:!2028-04-20,776,330-->

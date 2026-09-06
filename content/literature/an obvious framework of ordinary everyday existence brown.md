@@ -41,7 +41,7 @@ Why is Bruno Latour suggesting a translation of Emmanuel or "a helpful God"? :: 
 <!--SR:!2026-10-16,79,170-->
 
 Per Brown (December 28, 2024), how can believers and disbelievers in God be like the Zoroastrian Magi in the old Christmas legend? :: They can see themselves as being in a shared pilgrimage seeking the birth of "an obvious framework of ordinary, everyday existence."
-<!--SR:!2026-09-05,142,190-->
+<!--SR:!2027-06-07,275,190-->
 
 Per Brown (December 28, 2024), what is the "obvious framework of ordinary, everyday existence"? :: The mystery and miracle of life in every newborn being.
 <!--SR:!2026-09-20,166,170-->

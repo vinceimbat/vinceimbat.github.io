@@ -149,7 +149,7 @@ What does utamakura (歌枕) mean? :: Place name in Japanese poetry that carries
 <!--SR:!2026-10-18,46,170-->
 
 Why is utamakura (歌枕) called "poem pillow"? :: It is where the poem rests or is inspired.
-<!--SR:!2026-09-05,85,170-->
+<!--SR:!2027-01-28,145,170-->
 
 Per de Borja, what is a haiku's timeframe? :: Multiple, not just present
 <!--SR:!2027-02-18,183,270-->

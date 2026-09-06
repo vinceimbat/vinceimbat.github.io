@@ -70,7 +70,7 @@ Per the Weimans, two things to show devotion to that which is worthful.
 ?
 1. adoration
 2. service
-<!--SR:!2026-09-05,45,210-->
+<!--SR:!2027-01-19,136,230-->
 
 
 <!--SR:!2026-02-24,1,190-->

@@ -162,7 +162,7 @@ Per Schneider in WAAWO, the main intention of her critical comments is to ==teac
 <!--SR:!2029-03-04,1169,350-->
 
 Per Schneider in WAAWO, human responses on an author's manuscript are messages about who? :: The reader (not the writer)
-<!--SR:!2026-09-05,310,310-->
+<!--SR:!2029-04-22,960,310-->
 
 Per Schneider in WAAWO, why is it important to soften your criticisms on an author's manuscript? :: The author will magnify them.
 <!--SR:!2027-01-05,430,250-->
@@ -189,7 +189,7 @@ Per Schneider in WAAWO, the last stage in responding to an author's manuscript i
 <!--SR:!2027-03-23,486,290-->
 
 Per Schneider in WAAWO, the letter you write to the author after commenting on their manuscript should primarily contain what? :: Summary of important issues
-<!--SR:!2026-09-05,19,190-->
+<!--SR:!2026-10-12,37,190-->
 
 Per Schneider in WAAWO, the letter you write to the author after commenting on their manuscript should begin and end with what? :: Thanks and praise
 <!--SR:!2027-04-26,461,290-->

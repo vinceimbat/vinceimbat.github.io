@@ -38,7 +38,7 @@ Why is the max aperture size of a lens more important than the minimum aperture 
 <!--SR:!2027-03-14,216,230-->
 
 Why should you avoid large f-stop numbers? :: Blurs images.
-<!--SR:!2026-09-05,42,190-->
+<!--SR:!2026-11-26,82,190-->
 
 A prime lens has a ==fixed== max aperture.
 <!--SR:!2026-09-06,328,290-->

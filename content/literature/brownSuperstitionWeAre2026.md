@@ -53,7 +53,7 @@ Iran's fundamentalist state ideology. :: Welayat al-Faqih
 <!--SR:!2027-01-12,167,270-->
 
 Welayat al-Faqih English translation :: Guardianship of the Islamic Jurist
-<!--SR:!2026-09-05,69,230-->
+<!--SR:!2026-10-10,35,210-->
 
 In Iran, the Khamenei governs as the representative of who? :: Muhammad al-Mahdi
 <!--SR:!2026-09-21,78,250-->
