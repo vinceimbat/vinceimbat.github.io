@@ -1,14 +1,14 @@
 ---
 title: Friedrich Nietzsche
 created: 2024-10-27 16:49:15+08:00
-modified: 2025-12-12 23:12:54+08:00
+modified: 2026-09-07T09:57:59+08:00
 aliases:
-- Friedrich Nietzsche
+  - Friedrich Nietzsche
 draft: false
 publish: true
 tags:
-- species/thought
-- status/seedling
+  - species/thought
+  - status/seedling
 ---
 
 We can divide Nietzsche’s life into four phases:
@@ -57,8 +57,6 @@ We can divide Nietzsche’s life into four phases:
 He discovered Turin in April 1888. Long walks there enchanted him. He became well and started working again. He walked in the morning then accumulated notes in the evening.
 
 However, in January 1889, Nietzsche exhibited signs of madness and dementia. He was sent to the clinic in Basle then to Jena but did not improved. His mom took him in at Naumburg and cared for him for seven years until his death in August 25, 1900.
-
-Tags: [[Fruitful]]
 
 # References
 

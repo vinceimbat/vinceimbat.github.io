@@ -426,7 +426,7 @@ When did humanistic psychology emerge? :: Mid-20th century
 <!--SR:!2027-11-21,470,232-->
 
 Humanistic psychology emerged in reaction to what two dominant forces in Western psychology? :: psychoanalysis and behaviorism
-<!--SR:!2026-09-06,48,272-->
+<!--SR:!2027-01-14,130,272-->
 
 Two tendencies of psychoanalysis and behaviorism that humanistic psychology counteracts. :: determinism and biological reductionism
 <!--SR:!2026-10-26,205,232-->

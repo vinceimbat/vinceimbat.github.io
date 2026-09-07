@@ -187,7 +187,7 @@ Tell the story of the sacrifice of Iphigenia.
 <!--SR:!2027-01-08,190,270-->
 
 Lucretius closes the proem for Venus in De Rerum Natura Book I with what line? :: By Superstition we are driven to deeds of such great evil.
-<!--SR:!2026-09-06,9,130-->
+<!--SR:!2026-09-17,11,130-->
 
 Lucretius' nationality. :: Roman
 <!--SR:!2027-01-10,204,290-->

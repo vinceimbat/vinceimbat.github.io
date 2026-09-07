@@ -64,7 +64,7 @@ Slicing an image into two in Photoshop.
 6. Save > All slices
 ?
 File > Export
-<!--SR:!2026-09-06,85,190-->
+<!--SR:!2027-02-14,161,190-->
 
 Slicing an image into two in Photoshop.
 1. Click slice tool.

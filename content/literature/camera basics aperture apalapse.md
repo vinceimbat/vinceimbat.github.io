@@ -23,7 +23,7 @@ Aperture is ==the hole in the camera lens where light enters==.
 <!--SR:!2026-10-08,37,170-->
 
 In the human eye, aperture could be represented by the ==pupil==.
-<!--SR:!2026-09-06,69,170-->
+<!--SR:!2026-10-11,35,150-->
 
 The camera lens' ==diaphragm== controls the size of the aperture.
 <!--SR:!2027-12-19,716,330-->
@@ -41,7 +41,7 @@ Why should you avoid large f-stop numbers? :: Blurs images.
 <!--SR:!2026-11-26,82,190-->
 
 A prime lens has a ==fixed== max aperture.
-<!--SR:!2026-09-06,328,290-->
+<!--SR:!2029-04-14,951,290-->
 
 The max aperture of a zoom lens will get ==smaller== as the focal length increases.
 <!--SR:!2026-09-08,98,190-->

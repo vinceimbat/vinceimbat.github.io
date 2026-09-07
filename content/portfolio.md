@@ -4,7 +4,7 @@ aliases:
   - Portfolio
 draft: false
 publish: true
-modified: 2026-09-06T11:57:22+08:00
+modified: 2026-09-07T12:02:45+08:00
 created: 2026-09-06T11:26:27+08:00
 ---
 # Publications
@@ -57,3 +57,25 @@ A series of facilitated walks for two groups, with around ten people each, on a 
 **[[writings/traversing liminality through walking|Los Baños to San Pablo Walk, 2022]]**
 
 A five-hour walk between the town of Los Baños and the city of San Pablo in Laguna. The walk that started all other walks.
+
+# Talks
+
+[[talks/godless spirituality a primer|Godless Spirituality: A Primer]]
+
+[[talks/encountering a creative free spirituality through walking|Encountering a Creative Free, Spirituality (Jiyū Shūkyō 自由宗教) Through Walking]]
+
+# Selected Newsletter Articles
+
+- [an undeniable tint of brown](https://vinceimbat.substack.com/p/an-undeniable-tint-of-brown)
+- [Aranas](https://vinceimbat.substack.com/p/aranas)
+- [blood spatter of an unborn light](https://vinceimbat.substack.com/p/blood-spatter-of-an-unborn-light)
+- [Most definitely, it is the sertraline waning](https://vinceimbat.substack.com/p/most-definitely-it-is-the-sertraline)
+- [[044|The Ground That Is My Bely: Doing Seiza with Miki Nakura]]
+- [[newsletters/tlw/026|And I Shall Hear Their Hearts Beating: A Walk at Bagong Silang]]
+- [[newsletters/tlw/020|In July]]
+- [[newsletters/uman/025|Make the World Larger]]
+- [[newsletters/lilim/032|Walking Lopez, Quezon Part II (A Fishpond at San Jose)]]
+- [[newsletters/lilim/031|Walking Lopez, Quezon Part I (The Rules of Trolleys)]]
+- [[newsletters/lilim/027|An Unwrapped Gift from the Universe]]
+- [[newsletters/lilim/026|All Them Dirt Roads]]
+- [[newsletters/lilim/025|A Mask of Darkness with No Eyes]]

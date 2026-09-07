@@ -69,4 +69,4 @@ Idolatry
 <!--SR:!2027-01-14,212,290-->
 
 Per the Weimans, what is idolatry? :: Loyalty to something else in lieu of God.
-<!--SR:!2026-09-06,41,210-->
+<!--SR:!2026-11-30,85,210-->

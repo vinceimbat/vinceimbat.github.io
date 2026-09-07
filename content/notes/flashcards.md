@@ -36,7 +36,7 @@ Ratio of coffee (tbsp) to water (cup) when boiling. :: 2 tbsp coffee : 3/4 cup o
 <!--SR:!2026-09-14,18,130-->
 
 Tantan's birthday :: May 15
-<!--SR:!2026-09-06,17,170-->
+<!--SR:!2026-09-15,9,150-->
 
 Via's birthday (hint: day is right after Tantan's) :: July 16
 <!--SR:!2026-09-13,21,150-->
