@@ -174,7 +174,7 @@ Per Imaoka, what was Shakyamuni's religion? :: The fundamental principle of crea
 <!--SR:!2026-09-30,97,210-->
 
 Imaoka believes that Shakyamuni's Dharma could be interpreted as ==Humanism==.
-<!--SR:!2026-09-11,67,250-->
+<!--SR:!2027-05-04,235,270-->
 
 Per Imaoka, later Christians and Buddhists confined the ever-evolving spiritual life within the boundaries of:
 1.
@@ -235,7 +235,7 @@ Criticisms on Kiitsu Kyōkai Imaoka received. :: Lacks creeds, scriptures, and c
 <!--SR:!2027-07-18,375,250-->
 
 Per Imaoka, what is the quintessence of religion? :: Grasping the meaning of the Great Life.
-<!--SR:!2026-09-10,108,230-->
+<!--SR:!2026-11-03,54,210-->
 
 What elements of Kiitsu Kyōkai did Imaoka thought should eventually be systematized? :: creed, scriptures, and leaders
 <!--SR:!2026-12-04,327,290-->

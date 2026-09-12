@@ -79,7 +79,7 @@ Instead of using clozes to remember a list, you can... :: Write an explanation p
 <!--SR:!2026-11-02,274,192-->
 
 If a knowledge can't be connected to other memories, how can you still leverage elaborative encoding? :: Create a mnemonic device.
-<!--SR:!2026-09-08,135,232-->
+<!--SR:!2027-11-24,442,252-->
 
 What is the emotional effect that mnemonic devices should produce? :: Vivid.
 <!--SR:!2028-01-29,833,332-->
@@ -312,7 +312,7 @@ This happens when you memorize the shape of a question and its answer but not un
 <!--SR:!2028-05-17,873,332-->
 
 How do you discourage pattern matching in retrieval practice? :: Write short and simple questions.
-<!--SR:!2026-09-09,78,172-->
+<!--SR:!2026-10-19,40,152-->
 
 How could you rephrase a binary retrieval prompt? :: As more open-ended.
 <!--SR:!2026-11-28,134,272-->

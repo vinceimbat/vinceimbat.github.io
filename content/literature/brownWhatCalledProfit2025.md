@@ -34,7 +34,7 @@ Ittōen means ==the Garden of the One Light==.
 <!--SR:!2026-11-09,166,270-->
 
 Gist of saying 2 of Tenko Nishida-san's Selflessness :: True profit
-<!--SR:!2026-09-07,51,230-->
+<!--SR:!2027-02-20,166,250-->
 
 Per Andrew James Brown, Tenko Nishida-san's true profit is ==the growth of human wisdom==.
 <!--SR:!2026-11-18,236,290-->
@@ -46,4 +46,4 @@ Per Andrew James Brown, the growth of human wisdom, which is Tenko Nishida-san's
 <!--SR:!2026-10-14,93,210-->
 
 What is Matthew 6:19 about? :: Storing up treasures in heaven rather than on earth.
-<!--SR:!2026-09-07,167,270-->
+<!--SR:!2027-12-01,450,270-->

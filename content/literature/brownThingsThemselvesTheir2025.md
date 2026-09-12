@@ -44,7 +44,7 @@ Per Andrew James Brown, what is the property shared by all things, sentient and 
 <!--SR:!2026-09-28,24,190-->
 
 Per Andrew James Brown, the only real "real state" that exists is ==the whole cosmos==.
-<!--SR:!2026-09-08,72,250-->
+<!--SR:!2027-03-07,180,250-->
 
 Jesus' teaching per Andrew James Brown that resonates with the idea that existents are properties of the cosmos. :: Whoever loses their life for me will save it.
 <!--SR:!2026-09-16,29,190-->

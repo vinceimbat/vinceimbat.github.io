@@ -50,7 +50,7 @@ Per the Weimans, the two great basic concepts of religion.
 <!--SR:!2026-10-24,169,270-->
 
 Per the Weimans, what is religion? :: Devotion to that which is supremely worthful.
-<!--SR:!2026-09-10,42,190-->
+<!--SR:!2026-10-02,22,170-->
 
 Per the Weimans, two things to show devotion to that which is worthful.
 1.

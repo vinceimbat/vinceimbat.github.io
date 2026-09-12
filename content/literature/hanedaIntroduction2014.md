@@ -64,7 +64,7 @@ Three periods of Manshi Kiyozawa's writings:
 <!--SR:!2026-10-11,56,170-->
 
 Meiji period years :: 1868–1912
-<!--SR:!2026-09-08,13,130-->
+<!--SR:!2026-09-25,17,130-->
 
 The Meiji period is commonly known as what era? :: Era of modernization or Westernization
 <!--SR:!2028-01-03,583,270-->
@@ -123,7 +123,7 @@ What is anicca in Buddhism? :: Continuous change
 <!--SR:!2026-10-05,55,190-->
 
 Per Shin Buddhism, when does conflict arise? :: When things and people don't meet the expectations of a fixed self.
-<!--SR:!2026-09-08,178,270-->
+<!--SR:!2026-12-04,87,250-->
 
 Per Shin Buddhism, how can one be liberated from the self? :: self-denial
 <!--SR:!2026-10-19,44,190-->
@@ -226,7 +226,7 @@ Buddhist terms Kiyozawa used to refer to the infinite and supreme universal trut
 -
 ?
 Power Beyond the Self
-<!--SR:!2026-09-09,244,272-->
+<!--SR:!2028-07-04,664,272-->
 
 Buddhist terms Kiyozawa used to refer to the infinite and supreme universal truth.
 ?
@@ -336,4 +336,4 @@ Describe briefly the story Kiyozawa used in "Peace beyond Ethics" to illustrate 
 - Little boy worried that he will drop the tray (conscious of self and responsibility).
 - Mother supports the tray.
 - Little boy looks back and sees his mother's support (forgets self and responsibility).
-<!--SR:!2026-09-07,184,279-->
+<!--SR:!2028-02-03,514,279-->

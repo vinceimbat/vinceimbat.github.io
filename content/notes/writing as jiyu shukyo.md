@@ -10,7 +10,7 @@ tags:
   - species/thought
   - status/seedling
 ---
-[[Writing]] is also continuous movement. An [[notes/essay|essay]] written freely is like a walk. A stance such as flights of consciousness could be used to [[experience]] [[jiyu shukyo|jiyū shūkyō]] in brief intervals. A larger writing [[practice]] inspired by jiyū shūkyō could also involve [[reading]] a wide and diverse material, [[notes/walking|walking]] in the [[wilderness]] of the [[mind]], exploring new areas and fields of thought, exploring new genres, adopting a [[poetics]] where language is used for self-liberation and liberation of others.
+[[Writing]] is also continuous movement. An [[notes/essay|essay]] written freely is like a walk. A stance such as flights of consciousness could be used to [[experience]] [[jiyu shukyo|jiyū shūkyō]] in brief intervals. A larger writing [[notes/practice]] inspired by jiyū shūkyō could also involve [[reading]] a wide and diverse material, [[notes/walking|walking]] in the [[wilderness]] of the [[mind]], exploring new areas and fields of thought, exploring new genres, adopting a [[poetics]] where language is used for self-liberation and liberation of others.
 
 Are there points of convergence between jiyū shūkyō and [[Pat Schneider]]'s work?
 

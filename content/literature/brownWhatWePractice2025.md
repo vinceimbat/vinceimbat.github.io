@@ -41,7 +41,7 @@ Andrew James Brown's earlier experience of seeing Catholics dip their fingers in
 <!--SR:!2027-07-12,528,310-->
 
 Per Andrew James Brown, what is the Cambridge Unitarian Church's answer to the question "What should religious liberals simply do when gathering?" :: Their Sunday Morning Liturgy and adaptation of the Principles of Living
-<!--SR:!2026-09-11,12,170-->
+<!--SR:!2026-10-12,31,190-->
 
 For religious liberals, the meanings of actions are always ==evolving== and ==provisional==.
 <!--SR:!2025-08-23,6,230!2000-01-01,1,250-->
@@ -50,7 +50,7 @@ What is included in the liturgy of religious liberals to reflect the recognition
 <!--SR:!2028-06-19,798,330-->
 
 Per Andrew James Brown, why is free conversation included in the liturgy of religious liberals? :: Meanings of actions are always evolving and provisional.
-<!--SR:!2026-09-11,25,130-->
+<!--SR:!2026-10-14,33,130-->
 
 Per Andrew James Brown, our inquiring free and liberative thinking should never undermine our ability to do what? :: Act and commit
 <!--SR:!2026-10-18,307,290-->

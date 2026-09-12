@@ -1,7 +1,7 @@
 ---
 title: Manañgili Project
 created: 2026-08-08T19:06:53+08:00
-modified: 2026-08-10T15:30:33+08:00
+modified: 2026-09-10T10:46:50+08:00
 aliases:
   - Manañgili Project
 draft: false
@@ -12,28 +12,33 @@ tags:
 ---
 
 > [!Mission]
-> To design and perform walks that allow me to encounter my [[kapwa]], the [[co-operative society]], and the cosmos in place while contending with history, culture, and politics embedded in those places and encounters. I want to create artifacts that honor those encounters. To use those projects as reasons for and triggers to deep reading and study and return to issues of [[spirituality]], [[religion]], and [[philosophy]]. The disciplined performance of this is my religious practice.
+To design and perform walks that allow me to encounter my [[kapwa]], the [[co-operative society]], and the cosmos in place while contending with history, culture, and politics embedded in those places and encounters. I want to create artifacts that honor those walks. I want to facilitate walks that help others experience them, too. I want to use these walking projects to lead me back to deep reading and study of issues of [[spirituality]], [[religion]], and [[philosophy]]. The disciplined performance of this is [[my jiyu shukyo|my jiyū shūkyō]].
 
-# Manangili metalearning project
+# Manañgili metalearning project
 
 ## Why am I learning what I am learning?
 
 I have two objectives for this project:
-1. To construct a theoretical framework for my pilgrimages.
-2. To find ways on how I could write about the pilgrimages (or create other creative artifacts based on them).
+1. To establish a robust theoretical framework and poetics for my walking-based interdisciplinary practice.
+2. To identify ways on how I could create creative artifacts from my walks.
 
 ## Knowledge structure
 
-Concepts
+### Concepts
+
+- Practice
 - Walking
 - Pilgrimage
 - Pilgrim
+- Pilgrimage studies
 - Sacred
 - Religion
 - Spirituality
 - Sacred geography
 
-Facts
+### Facts
+
+Pilgrimage
 - Shikoku pilgrimage in Japan
 - Camino de Santiago
 - Our Lady of Guadalupe in Mexico
@@ -50,14 +55,18 @@ Facts
 - Jerusalem
 - Kataragama
 
-Procedure
+### Procedures
+
+Pilgrimage
 - Planning a pilgrimage.
 - Executing a pilgrimage.
 - Writing about a pilgrimage.
 
 ## Bottlenecks
 
-Procedure
+Procedures
+
+Pilgrimage
 - Planning a pilgrimage.
 - Executing a pilgrimage.
 - Writing about a pilgrimage.

@@ -44,7 +44,7 @@ A prime lens has a ==fixed== max aperture.
 <!--SR:!2029-04-14,951,290-->
 
 The max aperture of a zoom lens will get ==smaller== as the focal length increases.
-<!--SR:!2026-09-08,98,190-->
+<!--SR:!2026-10-27,49,170-->
 
 The f-stop number of a camera using a zoom lens will ==increase== as the focal length increases.
 <!--SR:!2026-10-02,161,210-->

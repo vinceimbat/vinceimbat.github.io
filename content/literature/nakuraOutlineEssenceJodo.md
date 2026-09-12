@@ -36,7 +36,7 @@ Jōdo Shinshū is asking one for what percentage of faith in the Original Vow of
 <!--SR:!2030-02-12,1293,350-->
 
 Translation of Amida Buddha. (Hint: Toy Story) :: The Buddha of Infinite Light and Life
-<!--SR:!2026-09-10,94,170-->
+<!--SR:!2027-02-17,160,170-->
 
 
 <!--SR:!2025-07-27,1,230-->

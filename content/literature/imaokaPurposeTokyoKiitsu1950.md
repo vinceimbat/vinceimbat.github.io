@@ -75,16 +75,16 @@ The first Sunday meeting of the Tokyo Kiitsu Kyōkai was held in ==October 23, 1
 <!--SR:!2026-09-24,58,210-->
 
 Shōwa era years in Japan :: 1926 to 1989
-<!--SR:!2026-09-10,35,130-->
+<!--SR:!2026-09-28,18,130-->
 
 Per Imaoka, the term 帰一 (Kiitsu) is often translated into English as =="Unity"==.
 <!--SR:!2027-09-15,421,290-->
 
 Per Imaoka, the Unitarian movement in Japan was most active during what two eras? :: Meiji and Taisho eras
-<!--SR:!2026-09-07,285,290-->
+<!--SR:!2029-10-30,1149,310-->
 
 Taisho era years :: 1912–1926
-<!--SR:!2026-09-07,19,130-->
+<!--SR:!2026-10-03,26,130-->
 
 In 1950, what was the state of the Unitarian Movement in Japan per Imaoka? :: Continues but weakly
 <!--SR:!2028-06-22,807,330-->

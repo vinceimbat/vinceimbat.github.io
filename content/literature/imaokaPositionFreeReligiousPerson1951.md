@@ -36,7 +36,7 @@ Per Imaoka (1951), what happens the more an individual delves into their persona
 <!--SR:!2027-01-04,471,310-->
 
 Imaoka (1951) described the position of a free religious person as (hint: Sino, Unitarian-Universalist) :: Uniquely individual yet universally comprehensive.
-<!--SR:!2026-09-09,34,130-->
+<!--SR:!2026-09-26,17,130-->
 
 Per Imaoka (1951), church sovereignty will be shared among ??? with the clergy serving as ???. :: church members, executive authorities
 <!--SR:!2026-10-17,116,230-->
@@ -63,7 +63,7 @@ Per Imaoka (1951), a church manifesto should not be ??? but rather a ??? :: a st
 <!--SR:!2027-01-27,150,150-->
 
 Per Imaoka (1951), why may free religious people have rituals? :: Religious beliefs are always embodied.
-<!--SR:!2026-09-10,67,190-->
+<!--SR:!2027-01-15,127,190-->
 
 Per Imaoka (1951), why do religious rituals vary? :: Materials and forms vary
 <!--SR:!2026-11-22,130,210-->

@@ -64,7 +64,7 @@ In Program mode, which among the three factors of exposure in photography can yo
 <!--SR:!2029-10-23,1313,330-->
 
 The "ISO" in the camera's ISO sensitivity stands for. :: International Organization for Standardization
-<!--SR:!2026-09-07,100,190-->
+<!--SR:!2027-06-08,274,210-->
 
 A camera's ISO control lets you control what? :: A camera sensor's sensitivity to light.
 <!--SR:!2027-01-03,424,250-->
@@ -76,7 +76,7 @@ Camera ISO for overcast or lower lighting conditions. :: 200–400
 <!--SR:!2026-09-19,153,190-->
 
 Camera ISO for dim conditions or moving subject. :: 800 and above
-<!--SR:!2026-09-07,37,150-->
+<!--SR:!2026-11-28,82,170-->
 
 The lower the amount of light the ==higher== the ISO.
 <!--SR:!2027-04-02,521,270-->

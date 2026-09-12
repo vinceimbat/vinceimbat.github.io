@@ -1,16 +1,15 @@
 ---
 title: Dilam
 created: 2026-01-18 11:30:08+08:00
-modified: 2026-01-18 11:30:29+08:00
+modified: 2026-09-08T10:25:26+08:00
 aliases:
-- Dilam
+  - Dilam
 draft: false
 publish: true
 tags:
-- species/poem
-- status/seedling
+  - species/poem
+  - status/seedling
 ---
-
 Time spent writing in this tongue ay panahong  
 hindi gagamitin sa pagsusulat doon sa isa ag  
 impatalos nën Villafania so pigara'd anlong to  

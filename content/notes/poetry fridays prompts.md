@@ -1,7 +1,7 @@
 ---
 title: Poetry Fridays prompts
 created: 2026-06-08 20:49:52+08:00
-modified: 2026-09-02T09:27:57+08:00
+modified: 2026-09-07T20:00:03+08:00
 aliases:
   - Poetry Fridays prompts
 draft: false
@@ -159,3 +159,18 @@ by Ron Atilano
 2. Ilahad sa tula ang road trip mo kasama ang isang nilikhang galing sa mito. Saan kayo papunta? Bigyan ng detalye ang inyong mga pinuntahan at/o dinaanan.
 3. Gumawa ng tula na ang persona ay ang mitolohikong nilikha gaya ng minotauro, sirena, satyr, atbp. Gawin silang saksing nagsasalaysay ng kanilang sariling kuwento, lalo na ang kanilang bersiyon ng mito na maaaring lihis sa ating mga nalalaman, nabasa o narinig.
 4. Mag-imbento ng isang bagong nilikha at ilarawan siyang gaya ng sa balita, halimbawa isang bagong hayop sa zoo na may ulo ng pusa, katawan ng kabayo at pakpak ng tutubi, o bagong hayop na produkto ng kalikasan o ng modernong teknolohiya.
+---
+[[2026-09-05]]
+
+by Jen
+
+Set 1:
+
+1. Write about something you hide behind the version of yourself that everyone else sees. Think about an ordinary moment, example: a conversation, a family dinner, a day at work, a message you didn't answer, or the moment you looked at yourself in the mirror. What were you really feeling?
+
+2. Write a poem about one question you never want to answer. It may be a question someone asks you again and again--or one you secretly ask yourself when everyone else is asleep. What happens to your voice? What memory suddenly returns? What lie do you tell to escape it? What truth are you terrified might come out?
+
+Set 2:
+
+1. Sumulat ng tula tungkol sa isang pangalan na bihira mo nang banggitin. Maaaring pangalan ito ng taong minsan mong minahal, taong nawala, kaibigang hindi mo na nakakausap, o isang taong bahagi ng buhay mo na ngayon ay parang alaala na lamang. Hindi kailangang sabihin kung sino siya. Sa halip, isulat mo kung ano ang nangyayari sa iyo kapag naririnig mo ang pangalan niya. Bigla ka bang natahimik? May alaala bang bumabalik? May mga salitang gusto mong sabihin pero hindi mo na masabi? May pagsisisi ka ba? May bahagi ba sa iyong sarili na naiwan kasama niya? Isulat ang mga bagay na hindi mo nasabi noon.
+2. Sumulat ng tula tungkol sa isang lihim na ipinagkatiwala sa iyo ng ibang tao. Hindi mo ito lihim, pero ikaw ang napilitang magdala nito. Hindi mo kailangang sabihin kung ano talaga ang lihim. Ipakita mo ang bigat nito sa pamamagitan ng katahimikan, mga alaala, tingin, kilos, lugar, o mga salitang hindi natuloy sabihin.

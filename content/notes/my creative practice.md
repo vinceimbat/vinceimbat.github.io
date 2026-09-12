@@ -1,15 +1,14 @@
 ---
 title: My creative practice
 created: 2024-07-29 16:37:24+08:00
-modified: 2025-04-11 18:28:36+08:00
-aliases: null
+modified: 2026-09-10T09:20:05+08:00
+aliases:
 draft: false
 publish: true
 tags:
-- species/thought
-- status/seedling
+  - species/thought
+  - status/seedling
 ---
-
 My creative practice is the expression of [[thoughts on my poetics]]. The practice of my poetics will change as my understanding of my relationship with art and life in general evolves.
 
 # My process
@@ -65,3 +64,10 @@ For me to continue working on my creative projects, I need to provide for my bas
 ## My workflow
 
 See [[my creative workflow]].
+
+## Unsorted
+
+What do I want my art practice to be?
+- Interdisciplinary
+- Centered around writing and literature
+- Involves research, translingualism, conscious of the "third world"

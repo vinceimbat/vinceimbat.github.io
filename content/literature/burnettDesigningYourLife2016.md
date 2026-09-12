@@ -1167,7 +1167,7 @@ Two main competing priorities when designing a life. :: Outcome and process
 <!--SR:!2026-10-19,285,290-->
 
 When designing a life, why is outcome not the main priority? :: We enter life without a clear destination.
-<!--SR:!2026-09-09,42,230-->
+<!--SR:!2026-12-15,97,230-->
 
 When you prioritize the process of your life, you are focused on :: what will happen next.
 <!--SR:!2027-07-22,448,270-->

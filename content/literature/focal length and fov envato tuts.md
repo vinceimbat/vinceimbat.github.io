@@ -131,7 +131,7 @@ Why do APS-C and Micro 4/3 camera sensors produce cropped images compared to ful
 <!--SR:!2027-05-29,394,210-->
 
 APS-C and Micro 4/3 see ==less== of the world than full frame.
-<!--SR:!2026-09-11,217,290-->
+<!--SR:!2028-06-01,629,290-->
 
 To achieve the same composition shot using a full frame lens, a photographer using a camera with a smaller sensor could either ==move back further== or ==mount a lens with a shorter focal length==.
 <!--SR:!2000-01-01,1,250!2025-05-11,3,250-->

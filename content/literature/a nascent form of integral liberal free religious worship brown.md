@@ -85,7 +85,7 @@ In Hindu tradition, rāja yoga is the ==mystical== tendency.
 <!--SR:!2026-10-01,63,205-->
 
 In Hindu tradition, bhakti yoga is the ==devotional== tendency.
-<!--SR:!2026-09-08,260,265-->
+<!--SR:!2028-07-28,689,265-->
 
 In Hindu tradition, karma yoga is the ==practical== tendency.
 <!--SR:!2028-02-07,601,285-->

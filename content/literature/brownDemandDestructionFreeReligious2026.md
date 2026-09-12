@@ -48,7 +48,7 @@ Per Tenkō-san, how can our ego-selves be destroyed? :: By "taking the lower sea
 <!--SR:!2026-10-15,98,270-->
 
 Japanese for "taking the lower seat." :: Geza
-<!--SR:!2026-09-07,14,230-->
+<!--SR:!2026-10-09,32,230-->
 
 Briefly summarize Jesus' parable of taking the lowest seat at a wedding feast. :: Don't sit on a high seat because the host might have to put you down. Sit on the lowest seat because you might be transferred to a higher seat.
 <!--SR:!2027-05-01,275,330-->

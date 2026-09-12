@@ -38,4 +38,4 @@ Per Brown, Czech and Japanese Unitarians developed practices and resources that 
 <!--SR:!2026-09-14,95,230-->
 
 Three resources from Czech and Japanese Unitarians that helped them resist divisive politics. :: "Principles of Living" or "Advices", meditation, free conversation
-<!--SR:!2026-09-11,140,270-->
+<!--SR:!2026-11-20,70,250-->

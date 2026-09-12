@@ -301,7 +301,7 @@ Two main points of the Western philosophical tradition of transcendental subject
 2.
 ?
 The human subject transcends concrete, everyday life.
-<!--SR:!2026-09-09,49,206-->
+<!--SR:!2026-12-19,101,206-->
 
 Two main points of the Western philosophical tradition of transcendental subjectivity.
 ?
@@ -331,7 +331,7 @@ Per Edwards, what is Pathos? :: Gravity of everyday practices.
 <!--SR:!2026-11-08,147,286-->
 
 The pathos of practice translates to the pathos of ==lives==.
-<!--SR:!2026-09-09,6,190-->
+<!--SR:!2026-09-12,3,170-->
 
 Per Edwards, what happens to the pathos of everyday practices and lives when they are subject to Dasein's philosophical reflection? :: Diminished
 <!--SR:!2027-07-13,403,326-->
@@ -402,7 +402,7 @@ In Heidegger's *Being and Time*, things are not understood as the Cartesian res 
 <!--SR:!2027-05-07,296,266-->
 
 The Greek pragmata means ==things used for a person's projects==.
-<!--SR:!2026-09-09,62,226-->
+<!--SR:!2027-01-26,139,226-->
 
 Per Edwards, the Greek pragmata later became the Latin ==res==.
 <!--SR:!2028-05-10,632,326-->
@@ -432,7 +432,7 @@ When things become Zeug, what happens to their Pathos? :: Diminished
 <!--SR:!2028-10-23,814,346-->
 
 When things diminish their Pathos by being Zeug, what happens to the Dasein that gave them their original Being? :: Its Pathos is also diminished.
-<!--SR:!2026-09-07,69,266-->
+<!--SR:!2027-05-24,259,286-->
 
 What condemns Dasein to the destiny of normal nihilism? :: Technology
 <!--SR:!2026-09-15,203,306-->

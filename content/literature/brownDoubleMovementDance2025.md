@@ -49,7 +49,7 @@ Per Andrew James Brown, in an ice dancing moment of throw, faith is demonstrated
 2. Trust in the landing
 ?
 Courage of the throw
-<!--SR:!2026-09-10,198,310-->
+<!--SR:!2029-01-06,849,330-->
 
 Per Andrew James Brown, in an ice dancing moment of throw, faith is felt as:
 1. Courage of the throw
@@ -62,7 +62,7 @@ Per Andrew James Brown, in an ice dancing moment of throw, faith is felt as:
 ?
 1. Courage of the throw
 2. Trust in the landing
-<!--SR:!2026-09-10,51,250-->
+<!--SR:!2027-01-16,128,250-->
 
 Per Andrew James Brown, how does free-religious faith respond to the possibility of disaster? :: It doesn't give it the last word.
 <!--SR:!2026-11-01,87,290-->

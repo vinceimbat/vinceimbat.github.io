@@ -52,7 +52,7 @@ Per Paul Wienpahl, how does a man without a position see the actions of others? 
 <!--SR:!2026-11-01,195,310-->
 
 Per Paul Wienpahl, what is evil? :: That which is recalcitrant or unmanageable.
-<!--SR:!2026-09-09,79,230-->
+<!--SR:!2027-03-06,178,230-->
 
 Per Norbert Fabian Capek, the whole of nature is a ==cathedral==.
 <!--SR:!2026-12-31,257,330-->
@@ -76,7 +76,7 @@ Brown calls a personally useful portion of Wienpahl's An Unorthodox Lecture =="T
 <!--SR:!2027-01-28,280,330-->
 
 Per Brown, what was Tolstoy's understanding of what it means to follow Jesus? :: To become a person without a position living reality directly.
-<!--SR:!2026-09-08,20,190-->
+<!--SR:!2026-10-16,38,190-->
 
 Recount the Buddha's the "Parable of the Raft" briefly. :: A man is trapped on one side of a fast-flowing river. He builds a raft that can take him across the river. For the man to carry the raft on his back is insensible. Instead, the man leaves it behind. The Buddha concluded that his teachings are like the raft that one could use to cross but not to seize hold of.
 <!--SR:!2027-02-07,288,330-->

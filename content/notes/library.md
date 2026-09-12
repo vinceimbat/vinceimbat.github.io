@@ -1,7 +1,7 @@
 ---
 title: Library
 created: 2024-12-02 10:42:50+08:00
-modified: 2026-08-25T08:19:52+08:00
+modified: 2026-09-07T18:44:28+08:00
 aliases:
   - reading-list
   - thoughts/library
@@ -21,6 +21,7 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 
 # 2026
 
+- [[2026-09-07]]: [[borlonganManwalSaPagsulat2026|Manwal Sa Pagsulat at Sariling Paglalathala by Lean Borlongan]] ★
 - [[2026-08-23]]: [[zinsserSpiritualQuestsArt1988|Spiritual Quests by William Zinsser]] ★
 - [[2026-08-20]]: Anti-Monopoly by Zephyr Teachout
 - [[2026-08-12]]: [[deborjaDustContactThat2026|The Dust of a Contact That Is Everywhere by Raymond de Borja]] ★★

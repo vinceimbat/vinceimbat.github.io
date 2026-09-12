@@ -30,7 +30,7 @@ Harrington, Donald Szantho. “The Seventeenth Day - Disloyalty to God.” _Outs
 # Prompts
 
 Per the Weimans, what is sin? :: Disloyalty to the growth of meaning and value.
-<!--SR:!2026-09-08,26,150-->
+<!--SR:!2026-10-18,40,150-->
 
 Per the Weimans, four different forms of sin?
 1.

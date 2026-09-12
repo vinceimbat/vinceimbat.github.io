@@ -44,7 +44,7 @@ How old is Lucretius' *De Rerum Natura*? :: 2,000 years old
 <!--SR:!2026-12-28,160,270-->
 
 During spring, Andrew James Brown reads what part of *De Rerum Natura*? :: Proem to Venus at Book I
-<!--SR:!2026-09-09,114,290-->
+<!--SR:!2027-08-07,332,290-->
 
 People that the Hebrew Bible mandates for total eradication and that Netanyahu invokes. :: Amalekites
 <!--SR:!2026-12-08,182,310-->
@@ -193,7 +193,7 @@ Lucretius' nationality. :: Roman
 <!--SR:!2027-01-10,204,290-->
 
 Lucretius lived in what century? :: 1st century BCE
-<!--SR:!2026-09-10,46,230-->
+<!--SR:!2026-12-25,106,230-->
 
 What is the primary subject of De Rerum Natura? :: The hold of superstitious religion upon the mind.
 <!--SR:!2026-11-29,185,310-->

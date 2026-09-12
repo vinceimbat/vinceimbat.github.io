@@ -44,7 +44,7 @@ In The Decameron, at the end of their two-week retreat in a villa, what did the 
 <!--SR:!2028-03-15,582,230-->
 
 Per Brown (January 19, 2025), what was the purpose of the two-week retreat in a villa of the group in The Decameron? :: To restore their strengths so they can continue to uphold important values.
-<!--SR:!2026-09-10,301,230-->
+<!--SR:!2027-02-05,148,210-->
 
 Jiyū shūkyō is part of an extensive ==liberal Enlightenment humanist== tradition. (Hint: my gf)
 <!--SR:!2026-11-29,273,190-->

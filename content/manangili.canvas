@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0a17c2e9adb8bba4","x":-125,"y":-30,"width":145,"height":60,"type":"text","text":"Manañgili"},
+		{"id":"041c6deb1467e0da","x":-245,"y":-140,"width":120,"height":60,"type":"text","text":"Walking"},
+		{"id":"0272f54ac90a02e3","x":-325,"y":80,"width":200,"height":60,"type":"text","text":"Sacred Geography"},
+		{"id":"c7b7f5b61d4c03b4","x":40,"y":80,"width":228,"height":60,"type":"text","text":"Pilgrimage studies"}
+	],
+	"edges":[]
+}

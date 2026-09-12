@@ -30,7 +30,7 @@ Imaoka, Shin’ichirō. _My Position on Jiyū Shūkyō_. Translated by Andrew Ja
 # Prompts
 
 Year Shin'ichirō Imaoka was baptized as a Christian :: 1897
-<!--SR:!2026-09-08,4,130-->
+<!--SR:!2026-09-15,7,150-->
 
 Japanese derogatory term for Christians. :: Yaso
 <!--SR:!2027-04-22,369,290-->
@@ -69,7 +69,7 @@ Two subjects Shin'ichirō Imaoka taught upon returning to Japan after studying i
 <!--SR:!2028-05-11,694,290-->
 
 School where Shin'ichirō Imaoka taught after returning to Japan from Harvard. :: Nihon University
-<!--SR:!2026-09-09,32,190-->
+<!--SR:!2026-11-09,61,190-->
 
 Researcher who Shin'ichirō Imaoka accompanied throughout Japan to study shinto. :: J. W. T. Mason
 <!--SR:!2027-07-08,333,270-->

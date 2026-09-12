@@ -36,7 +36,7 @@ Founder of Kentoku :: Suzuki Seiichi
 <!--SR:!2026-09-15,10,130-->
 
 Management philosophy of Kentoku :: Prayer-based management
-<!--SR:!2026-09-07,80,270-->
+<!--SR:!2026-10-17,40,250-->
 
 What trade is Kentoku in? :: Cleaning and building-maintenance
 <!--SR:!2027-06-13,304,270-->

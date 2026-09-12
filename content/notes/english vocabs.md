@@ -42,7 +42,7 @@ chafe (hint: Lola...) :: v. irritate, vex
 <!--SR:!2026-10-17,93,169-->
 
 chancel :: n. part of church near altar reserved for clergy and choir
-<!--SR:!2026-09-11,53,189-->
+<!--SR:!2026-12-23,103,189-->
 
 charred :: v. burned
 <!--SR:!2027-03-11,453,309-->
@@ -99,7 +99,7 @@ eschew (hint: Young People Ask) :: v. shun
 <!--SR:!2027-09-29,521,289-->
 
 execrate :: v. express great loathing
-<!--SR:!2026-09-11,50,150-->
+<!--SR:!2026-10-06,25,130-->
 
 exegesis - critical explanation or interpretation of a text, especially of scripture
 
@@ -121,7 +121,7 @@ fumble (hint: Philippines) :: v. handling something clumsily
 <!--SR:!2026-10-26,88,189-->
 
 fubar (hint: school in Dagupan) :: adj. confused, disordered, damaged
-<!--SR:!2026-09-07,38,150-->
+<!--SR:!2026-11-29,83,170-->
 
 # G
 
@@ -186,7 +186,7 @@ knell - solemn sound of a bell (death)
 # L
 
 languor :: n. weariness
-<!--SR:!2026-09-10,5,130-->
+<!--SR:!2026-09-20,10,150-->
 
 largesse :: n. generosity
 <!--SR:!2026-09-29,67,189-->
@@ -256,7 +256,7 @@ picaresque (hint: Kobe) :: adj. relating to episodic fiction about a dishonest b
 <!--SR:!2027-01-20,301,212-->
 
 pithy (hint: core) :: adj. concise and forcefully expressive
-<!--SR:!2026-09-11,42,130-->
+<!--SR:!2026-11-05,55,130-->
 
 pitter-patter :: n. sound of quick light steps
 <!--SR:!2026-12-12,150,152-->
