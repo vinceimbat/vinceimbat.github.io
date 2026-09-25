@@ -62,7 +62,7 @@ Per the New Religions Movement in Japan, the universe is seen as (HICS):
 - source of life
 ?
 harmonious
-<!--SR:!2026-09-25,82,270-->
+<!--SR:!2027-05-05,222,270-->
 
 Per the New Religions Movement in Japan, the universe is seen as (HICS):
 - harmonious
@@ -109,7 +109,7 @@ The characteristics of the "primary religious Being" believed in by the New Reli
 - transcendent
 ?
 personal/impersonal
-<!--SR:!2026-09-19,121,290-->
+<!--SR:!2028-01-18,486,310-->
 
 The characteristics of the "primary religious Being" believed in by the New Religions Movement in Japan are (PPLIMPT):
 - personal/impersonal

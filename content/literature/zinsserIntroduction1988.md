@@ -144,4 +144,4 @@ Boethius' book that grew out of his experience of imprisonment. :: The Consolati
 <!--SR:!2027-06-25,383,290-->
 
 John Henry Newman's autobiography. :: Apologia Pro Vita Sua
-<!--SR:!2026-09-12,55,210-->
+<!--SR:!2027-01-06,116,210-->

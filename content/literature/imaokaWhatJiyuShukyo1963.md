@@ -42,7 +42,7 @@ The most radical form of jiyū shūkyō per Imaoka. :: Bahá’ísm
 <!--SR:!2028-06-28,795,330-->
 
 Year Imaoka attempted to visit a Bahá’í Faith headquarters. :: 1961
-<!--SR:!2026-09-24,25,210-->
+<!--SR:!2026-12-08,75,230-->
 
 The Bahá’í Faith headquarters Imaoka attempted to visit was located in ==Haifa, northern Israel== (hint: UPB batchmate).
 <!--SR:!2026-12-04,198,250-->
@@ -130,10 +130,10 @@ Metaphor Imaoka used to illustrate the necessity of resistance, protest, and con
 <!--SR:!2028-08-11,828,330-->
 
 Per Imaoka, what forms of conflicts lead to "a higher-order and truer harmony and universality"? :: Thorough conflicts on matters that must be contended.
-<!--SR:!2026-09-20,54,190-->
+<!--SR:!2026-12-30,100,190-->
 
 The general prerequisite Imaoka laid to consider a form of human activity sacred and religious. :: It involves the expression and development of human nature.
-<!--SR:!2026-09-20,39,170-->
+<!--SR:!2026-10-11,20,150-->
 
 Per Imaoka, when secular human activities are considered religion, it is simple to do what with the term "religion"? :: Abolish it.
 <!--SR:!2029-12-30,1250,350-->

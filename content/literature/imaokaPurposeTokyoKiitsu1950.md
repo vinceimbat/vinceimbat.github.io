@@ -72,7 +72,7 @@ To do: The "universality" of free religion is something worth thinking about.
 # Prompts
 
 The first Sunday meeting of the Tokyo Kiitsu Kyōkai was held in ==October 23, 1948== (hint: NBA).
-<!--SR:!2026-09-24,58,210-->
+<!--SR:!2027-03-16,173,230-->
 
 Shōwa era years in Japan :: 1926 to 1989
 <!--SR:!2026-09-28,18,130-->

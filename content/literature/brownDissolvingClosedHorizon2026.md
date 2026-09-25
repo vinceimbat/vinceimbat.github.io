@@ -43,7 +43,7 @@ Bible verse location of the myth of Pentecost. :: Acts 2:1–31
 <!--SR:!2026-10-20,65,230-->
 
 Traditionally, Pentecost is taken as the ==birth== of the Church.
-<!--SR:!2026-09-19,75,290-->
+<!--SR:!2027-07-17,301,310-->
 
 Per Bloch, what happens in the moment of Pentecost to the idea of God as an external creator? :: Disappears.
 <!--SR:!2026-10-14,87,290-->

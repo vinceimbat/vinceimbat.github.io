@@ -93,7 +93,7 @@ Shinto shrines of a regional and spatial community are called ==ubusuna==.
 <!--SR:!2026-10-19,74,170-->
 
 Imaoka uses what term to refer inclusively to both *ujigami* and *ubusuna* Shinto shrines? :: Local community shrine
-<!--SR:!2026-09-12,108,290-->
+<!--SR:!2026-11-04,53,270-->
 
 Per Imaoka, what is the mission of the local community shrine in Shinto? :: To integrate isolated individuals into a community.
 <!--SR:!2027-06-19,516,310-->
@@ -105,7 +105,7 @@ Why are there no buildings in certain Shinto shrines? :: A natural object is the
 <!--SR:!2028-12-29,852,290-->
 
 Per Imaoka, for Shinto practitioners living in the space age, what should be considered a shrine? :: The Great Cosmos
-<!--SR:!2026-09-20,290,310-->
+<!--SR:!2030-02-17,1245,330-->
 
 Per Imaoka, how should a Shinto shrine's Chief Priest be determined? :: Election
 <!--SR:!2028-01-23,700,330-->
@@ -114,7 +114,7 @@ A Shinto shrine's parishioners are called ==ujiko==.
 <!--SR:!2026-10-05,145,210-->
 
 To realize his vision of a Shinto shrine that unifies the sacred and the secular, what change in activities conducted there does Imaoka proposes? :: Go beyond simply life ceremonies and add regular gatherings.
-<!--SR:!2026-09-21,48,230-->
+<!--SR:!2027-01-08,109,230-->
 
 # Questions
 

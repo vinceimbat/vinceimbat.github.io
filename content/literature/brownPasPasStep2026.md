@@ -58,7 +58,7 @@ What is the implication of the dual-meaning of the French word *pas*? :: Taking 
 <!--SR:!2026-12-29,123,250-->
 
 Per Brown, what can couples contemplating marriage learn from the dual-meaning of the French word *pas*? :: Marriage is a joint journey of becoming.
-<!--SR:!2026-09-17,25,210-->
+<!--SR:!2026-11-11,54,210-->
 
 Per Brown, what is love's role in a marriage that is a joint journey of becoming? :: Love gives one the courage to accept that our partner will change.
 <!--SR:!2026-11-26,124,290-->

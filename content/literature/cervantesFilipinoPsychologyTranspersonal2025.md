@@ -466,7 +466,7 @@ Decade when indigenous psychology emerged. :: 1970s
 <!--SR:!2026-12-02,113,172-->
 
 Per Pe-Pua (2015), what triggered indigenous psychology to emerge? :: Universalist assertions of mainstream Western psychology
-<!--SR:!2026-09-24,295,292-->
+<!--SR:!2027-02-22,151,272-->
 
 What is Sikolohiyang Pilipino? :: Scientific study of Filipino experience through Filipino ways of knowing.
 <!--SR:!2026-09-29,156,252-->
@@ -517,7 +517,7 @@ Per Cervantes (2025), *kaluluwa*'s bodily experience is tied to ==*ginhawa*==.
 <!--SR:!2027-05-10,374,252-->
 
 Per Cervantes (2025), *kaluluwa*, as experienced subjectively, is ==*diwa*==.
-<!--SR:!2026-09-12,46,232-->
+<!--SR:!2026-10-05,23,212-->
 
 Two meanings of "spirit" in Filipino folk belief. :: Breath and vitality.
 <!--SR:!2026-10-03,43,192-->

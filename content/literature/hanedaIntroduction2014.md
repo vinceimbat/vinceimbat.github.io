@@ -54,7 +54,7 @@ Three periods of Manshi Kiyozawa's writings:
 3.
 ?
 Personal religious convictions (35–40)
-<!--SR:!2026-09-23,252,290-->
+<!--SR:!2029-07-05,1016,310-->
 
 Three periods of Manshi Kiyozawa's writings:
 ?
@@ -64,7 +64,7 @@ Three periods of Manshi Kiyozawa's writings:
 <!--SR:!2026-10-11,56,170-->
 
 Meiji period years :: 1868–1912
-<!--SR:!2026-09-25,17,130-->
+<!--SR:!2026-10-28,33,150-->
 
 The Meiji period is commonly known as what era? :: Era of modernization or Westernization
 <!--SR:!2028-01-03,583,270-->
@@ -76,10 +76,10 @@ What is a daimyo? :: Landowning lord
 <!--SR:!2026-11-24,249,290-->
 
 What is a shogunate? :: Government system in Japan where a shogun held power, daimyos pledged loyalty to him, and the emperor is just a figurehead
-<!--SR:!2026-09-22,247,250-->
+<!--SR:!2027-01-25,125,230-->
 
 Edo period years :: 1600–1867
-<!--SR:!2026-09-25,59,150-->
+<!--SR:!2027-02-02,130,170-->
 
 Last shogunate in Japan :: Tokugawa
 <!--SR:!2026-12-22,402,310-->
@@ -111,7 +111,7 @@ Per Haneda, what was the basic posture that Kiyozawa took in examining Buddhism?
 <!--SR:!2027-05-22,386,230-->
 
 According to Kiyozawa, what is the primary lesson of Buddhism? :: To be liberated.
-<!--SR:!2026-09-14,11,150-->
+<!--SR:!2026-10-02,18,150-->
 
 According to Kiyozawa from what should a Buddhist be liberated from? :: Self
 <!--SR:!2029-04-19,1078,350-->
@@ -138,13 +138,13 @@ Per Shin Buddhism, how does the Dharma liberate people from the self? :: Takes t
 <!--SR:!2027-08-30,386,210-->
 
 How does humility and freedom go hand in hand in Buddhism? :: Humility leads to selflessness, which leads to freedom.
-<!--SR:!2026-09-20,19,152-->
+<!--SR:!2026-10-01,10,132-->
 
 Interpret Shinran's statement: "Even a good person can be liberated, how much more easily a wicked person!" (Tannishō, III) :: People who recognize their wickedness are easier to liberate than those who regard themselves as ethically good.
 <!--SR:!2028-04-21,648,272-->
 
 Per Nobou Haneda, what is the fundamental theme of Shin Buddhism? :: Humility leads to absolute freedom.
-<!--SR:!2026-09-14,19,130-->
+<!--SR:!2026-10-08,24,130-->
 
 Buddhist teachers Kiyozawa focused on to search for the way to absolute humility and freedom. :: Shakyamuni and Shinran
 <!--SR:!2027-08-04,534,312-->
@@ -234,7 +234,7 @@ Buddhist terms Kiyozawa used to refer to the infinite and supreme universal trut
 - Inconceivable power
 - Wondrous working
 - Power Beyond the Self
-<!--SR:!2026-09-12,23,152-->
+<!--SR:!2026-10-17,35,152-->
 
 The term tariki was originally formulated by the Chinese Pure Land monk ==T'an-luan==.
 <!--SR:!2026-10-07,172,272-->
@@ -290,7 +290,7 @@ Non-Buddhist concepts Kiyozawa used to refer to the infinite and supreme univers
 -
 ?
 Mandate of Heaven (tenmei)
-<!--SR:!2026-09-12,297,352-->
+<!--SR:!2030-08-18,1436,372-->
 
 Non-Buddhist concepts Kiyozawa used to refer to the infinite and supreme universal truth.
 ?
@@ -325,7 +325,7 @@ Two insights that characterize Kiyozawa's religious conviction:
 ?
 1. Futility or ignorance of the self.
 2. Wondrousness of the Infinite Power Beyond the Self
-<!--SR:!2026-09-21,220,259-->
+<!--SR:!2027-01-10,111,239-->
 
 Compare Kiyozawa's two insights that characterize his religious conviction with the feelings of a person deeply impressed by the ocean's vastness. :: The smaller he feels himself to be, the greater he feels the ocean to be and vice versa
 <!--SR:!2026-11-10,120,252-->

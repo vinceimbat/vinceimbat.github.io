@@ -310,7 +310,7 @@ Two main points of the Western philosophical tradition of transcendental subject
 <!--SR:!2027-11-15,444,266-->
 
 Dasein literally means ==being-in-the-world==.
-<!--SR:!2026-09-25,38,246-->
+<!--SR:!2027-01-31,128,266-->
 
 Per Edwards, what is the relationship between Dasein and its world? :: Dasein is the person and its things, including social practices.
 <!--SR:!2027-03-01,244,230-->
@@ -331,7 +331,7 @@ Per Edwards, what is Pathos? :: Gravity of everyday practices.
 <!--SR:!2026-11-08,147,286-->
 
 The pathos of practice translates to the pathos of ==lives==.
-<!--SR:!2026-09-12,3,170-->
+<!--SR:!2026-10-07,18,210-->
 
 Per Edwards, what happens to the pathos of everyday practices and lives when they are subject to Dasein's philosophical reflection? :: Diminished
 <!--SR:!2027-07-13,403,326-->
@@ -420,13 +420,13 @@ Main argument of George Berkeley's idealism. :: Things' existence depends on bei
 <!--SR:!2026-10-04,58,206-->
 
 Formula that summarizes George Berkeley's idealism. :: To be is to be perceived.
-<!--SR:!2026-09-18,70,246-->
+<!--SR:!2027-03-09,172,246-->
 
 Differentiate existence and Being. :: Existence is physical presence, while Being is the significance of things.
-<!--SR:!2026-09-17,193,286-->
+<!--SR:!2028-03-22,551,286-->
 
 What is the Cartesian res? :: The external object represented by the ego-subject
-<!--SR:!2026-09-18,45,166-->
+<!--SR:!2026-10-11,23,146-->
 
 When things become Zeug, what happens to their Pathos? :: Diminished
 <!--SR:!2028-10-23,814,346-->
@@ -435,7 +435,7 @@ When things diminish their Pathos by being Zeug, what happens to the Dasein that
 <!--SR:!2027-05-24,259,286-->
 
 What condemns Dasein to the destiny of normal nihilism? :: Technology
-<!--SR:!2026-09-15,203,306-->
+<!--SR:!2026-12-26,102,286-->
 
 Compare the age and power of Cartesianism and Technology, per Edwards. :: Technology is older and more powerful than Cartesianism
 <!--SR:!2027-08-01,411,306-->

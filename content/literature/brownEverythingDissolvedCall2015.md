@@ -81,7 +81,7 @@ Per Sheehan, the man Jesus was transformed into the following four figures in or
 4. God
 ?
 Reigning Lord and Christ
-<!--SR:!2026-09-12,176,310-->
+<!--SR:!2028-10-06,755,330-->
 
 Per Sheehan, the man Jesus was transformed into the following four figures in order:
 1. Apocalyptic Judge
@@ -147,7 +147,7 @@ Per Sheehan, Jesus destroyed what notion of God and replaced it with what notion
 <!--SR:!2026-09-26,55,230-->
 
 Per Sheehan, Jesus taught that God was present where? :: Among human beings enacting justice and mercy
-<!--SR:!2026-09-15,97,210-->
+<!--SR:!2026-11-03,49,190-->
 
 Per Sheehan, Jesus dissolved the fanciful speculations of apocalyptic eschatology into the call to ==justice and charity==.
 <!--SR:!2026-09-26,29,250-->
@@ -156,7 +156,7 @@ Per Sheehan, Jesus' message of the kingdom radically redefined the traditional n
 <!--SR:!2026-10-26,195,310-->
 
 Per Sheehan, Jesus taught that grace and salvation is what? :: God-with-man
-<!--SR:!2026-09-14,56,210-->
+<!--SR:!2026-10-13,29,190-->
 
 Per Sheehan, what were the traditional notions of salvation?
 1.
@@ -193,7 +193,7 @@ Per Sheehan, by interpreting Jesus as savior, the Christian church surrendered w
 <!--SR:!2026-12-16,252,330-->
 
 Per Sheehan, what is Jesus' radical present-future sense of time? :: Forgiveness; grace is already everywhere
-<!--SR:!2026-09-12,10,130-->
+<!--SR:!2026-09-26,14,130-->
 
 Per Sheehan, the Christian church replaced Jesus's radical present-future with what? :: Mythical past-present-future
 <!--SR:!2027-03-31,263,250-->

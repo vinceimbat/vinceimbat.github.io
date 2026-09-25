@@ -69,10 +69,10 @@ Because of its simplicity, Jōdo Shinshū became very popular among what class? 
 <!--SR:!2027-08-17,549,330-->
 
 Year Nishi Honganji was built. :: 1591
-<!--SR:!2026-09-16,102,170-->
+<!--SR:!2026-11-06,49,150-->
 
 Year Higashi Honganji was built. :: 1604
-<!--SR:!2026-09-21,18,190-->
+<!--SR:!2026-10-25,34,190-->
 
 Who encouraged a split within the Honganji sect in 1602? :: Tokugawa Ieyasu
 <!--SR:!2027-12-03,636,320-->

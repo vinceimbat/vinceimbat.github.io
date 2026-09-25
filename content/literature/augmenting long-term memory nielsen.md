@@ -32,7 +32,7 @@ Rule of thumb on when not to write spaced repetition prompts on a material. :: W
 <!--SR:!2028-10-18,845,270-->
 
 How can you avoid memorizing  misleading information through spaced repetition? :: Phrase the prompt as a claim by the author.
-<!--SR:!2026-09-25,152,210-->
+<!--SR:!2027-08-10,319,210-->
 
 If the quality of analysis of an information I'm memorizing via spaced repetition is concerning, what additional prompts can I write? :: Prompts about what makes such analysis difficult.
 <!--SR:!2026-12-13,475,270-->
@@ -92,13 +92,13 @@ How to remember a painting's name via spaced repetition? ::Image as question, na
 <!--SR:!2030-04-03,1387,294-->
 
 How does Nielsen (2018) add spaced repetition prompts about seminars and conversations? :: Stays present and notes a few prompt ideas he develops after the event.
-<!--SR:!2026-09-18,394,254-->
+<!--SR:!2029-06-15,1001,254-->
 
 "We ==become== what we ==remember==, so we must be ==careful== what we ==remember==." — ==Michael Nielsen==
 <!--SR:!2028-01-14,812,334!2029-01-08,1160,354!2028-12-18,1145,355!2029-03-01,1201,354!2028-11-18,1032,344-->
 
 Why are yes/no questions bad for spaced repetition practice? :: They contain unelaborated ideas.
-<!--SR:!2026-09-15,72,174-->
+<!--SR:!2027-01-21,128,174-->
 
 To tackle high-level issues in any field, focus on the ... :: basics.
 <!--SR:!2028-06-30,926,298-->

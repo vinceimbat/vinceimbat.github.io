@@ -38,7 +38,7 @@ Lucretius' most popular poem. :: *De Rerum Natura*
 <!--SR:!2027-03-18,275,330-->
 
 *De Rerum Natura* English translation. :: *On the Nature of Things*
-<!--SR:!2026-09-13,117,310-->
+<!--SR:!2028-01-26,500,330-->
 
 How old is Lucretius' *De Rerum Natura*? :: 2,000 years old
 <!--SR:!2026-12-28,160,270-->
@@ -56,7 +56,7 @@ Welayat al-Faqih English translation :: Guardianship of the Islamic Jurist
 <!--SR:!2026-10-10,35,210-->
 
 In Iran, the Khamenei governs as the representative of who? :: Muhammad al-Mahdi
-<!--SR:!2026-09-21,78,250-->
+<!--SR:!2026-10-30,39,230-->
 
 In Iran, Muhammad al-Mahdi is the ==Twelfth== Imam.
 <!--SR:!2027-07-23,325,310-->
@@ -65,7 +65,7 @@ In Iran, where is Muhammad al-Mahdi? :: In hiding.
 <!--SR:!2027-02-23,257,330-->
 
 Per Iran's fundamentalist state ideology, what will Muhammad al-Mahdi do at the end of time? :: Establish Islamic justice.
-<!--SR:!2026-09-23,49,270-->
+<!--SR:!2027-02-02,132,270-->
 
 Story that Lucretius uses to illustrate how superstitious religion has led to crimes. :: The sacrifice of Iphigenia
 <!--SR:!2027-03-26,222,290-->
@@ -107,7 +107,7 @@ Tell the story of the sacrifice of Iphigenia.
 8. Clytemnestra murders Agamemnon years later in revenge.
 ?
 Seer reveals that the goddess Artemis was offended because Agamemnon killed a sacred deer.
-<!--SR:!2026-09-18,122,290-->
+<!--SR:!2027-09-07,354,290-->
 
 Tell the story of the sacrifice of Iphigenia.
 1. Greek fleet gathers sails for Troy.
@@ -120,7 +120,7 @@ Tell the story of the sacrifice of Iphigenia.
 8. Clytemnestra murders Agamemnon years later in revenge.
 ?
 Artemis demanded that Agamemnon sacrifice his eldest daughter, Iphigenia.
-<!--SR:!2026-09-23,126,290-->
+<!--SR:!2027-09-28,370,290-->
 
 Tell the story of the sacrifice of Iphigenia.
 1. Greek fleet gathers sails for Troy.
@@ -133,7 +133,7 @@ Tell the story of the sacrifice of Iphigenia.
 8. Clytemnestra murders Agamemnon years later in revenge.
 ?
 Agamemnon succumbs to the pressure.
-<!--SR:!2026-09-21,122,290-->
+<!--SR:!2028-01-25,491,310-->
 
 Tell the story of the sacrifice of Iphigenia.
 1. Greek fleet gathers sails for Troy.
@@ -187,7 +187,7 @@ Tell the story of the sacrifice of Iphigenia.
 <!--SR:!2027-01-08,190,270-->
 
 Lucretius closes the proem for Venus in De Rerum Natura Book I with what line? :: By Superstition we are driven to deeds of such great evil.
-<!--SR:!2026-09-17,11,130-->
+<!--SR:!2026-10-03,15,130-->
 
 Lucretius' nationality. :: Roman
 <!--SR:!2027-01-10,204,290-->
@@ -199,4 +199,4 @@ What is the primary subject of De Rerum Natura? :: The hold of superstitious rel
 <!--SR:!2026-11-29,185,310-->
 
 What is Lucretius' antidote to superstitious religion? :: Clear-eyed observation of the world to truly see the nature of things.
-<!--SR:!2026-09-17,36,210-->
+<!--SR:!2026-12-02,75,210-->

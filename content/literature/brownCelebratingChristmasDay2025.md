@@ -67,7 +67,7 @@ Per Brown, what does the Mahaparinibbana Sutta (Digha Nikaya 16) teach? :: Buddh
 <!--SR:!2026-09-30,31,250-->
 
 Per Imaoka, why can there be no founder of free-religion? :: Because its quintessence is grasping the meaning of "the Great Life."
-<!--SR:!2026-09-22,111,230-->
+<!--SR:!2026-11-17,56,210-->
 
 Per Brown, before a good life could develop, a person needs what? :: An understanding of life.
 <!--SR:!2026-10-18,207,310-->

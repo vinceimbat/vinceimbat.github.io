@@ -30,7 +30,7 @@ Imaoka, Shin’ichirō. _My Position on Jiyū Shūkyō_. Translated by Andrew Ja
 # Prompts
 
 Year Shin'ichirō Imaoka was baptized as a Christian :: 1897
-<!--SR:!2026-09-15,7,150-->
+<!--SR:!2026-09-30,15,170-->
 
 Japanese derogatory term for Christians. :: Yaso
 <!--SR:!2027-04-22,369,290-->
@@ -93,7 +93,7 @@ Shin'ichirō Imaoka's thesis is that when individuals have a genuine, personal r
 <!--SR:!2028-02-16,618,290-->
 
 Why does Shin'ichirō Imaoka think democracy fits well with jiyū shūkyō? :: Both value freedom and cooperation.
-<!--SR:!2026-09-13,67,250-->
+<!--SR:!2027-03-02,170,250-->
 
 18th vow of Hōzō Bosatsu ::: Unless all beings in the ten directions are saved, he will not attain salvation
 <!--SR:!2000-01-01,1,250!2025-07-29,4,270-->
@@ -108,7 +108,7 @@ Sanskrit name of Hōzō Bosatsu (hint: bad breath dog). :: Dharmakara Bodhisattv
 <!--SR:!2027-07-24,362,230-->
 
 What is Shin'ichirō Imaoka's position on disciples or followers? :: Teachers shouldn't aspire to have them. Instead they should aspire to cultivate people who will surpass them.
-<!--SR:!2026-09-17,41,230-->
+<!--SR:!2027-01-29,133,250-->
 
 Shin'ichirō Imaoka suggests that both salvation and enlightenment could only be found where? :: In love that struggles with the people.
 <!--SR:!2026-10-16,41,170-->

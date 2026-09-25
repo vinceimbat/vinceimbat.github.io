@@ -61,10 +61,10 @@ Indigenous Japanese Christian movement founded in 1901 by Uchimura Kanzo. :: No-
 <!--SR:!2026-11-07,198,310-->
 
 Founder of the No-church movement in Japan. :: Uchimura Kanzo
-<!--SR:!2026-09-18,13,170-->
+<!--SR:!2026-10-10,15,170-->
 
 Year the Japanese No-church movement was founded. :: 1901
-<!--SR:!2026-09-19,35,210-->
+<!--SR:!2026-12-01,73,210-->
 
 Paul Wienpahl's book that recounts his personal experiences during a six-month stay in a Japanese Buddhist monastery. :: Zen Diary
 <!--SR:!2026-12-25,253,330-->

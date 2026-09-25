@@ -33,7 +33,7 @@ Hymn by Norbert Fabian Capek that appears to tackle God's gender. :: "Mother Spi
 <!--SR:!2027-05-17,362,310-->
 
 English translator of Capek's hymn "Mother Spirit, Father Spirit" :: Richard Boeke
-<!--SR:!2026-09-18,145,210-->
+<!--SR:!2026-11-30,73,190-->
 
 Per Andrew James Brown, Capek uses Czech to do what about all gendered language about God? :: Refuse to imagine God as one gender.
 <!--SR:!2026-11-17,150,210-->

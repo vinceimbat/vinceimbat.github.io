@@ -169,19 +169,19 @@ The three Christs Imaoka met in his life.
 1. Historical Jesus
 2. Corporate Christ
 3. Cosmic Christ
-<!--SR:!2026-09-16,198,310-->
+<!--SR:!2026-12-28,101,290-->
 
 Apostle who introduced the idea of a Corporate Christ. :: Paul
 <!--SR:!2026-11-15,262,330-->
 
 In the apostle Paul's idea of a Corporate Christ, Christ is what? :: The Church and its members.
-<!--SR:!2026-09-23,61,290-->
+<!--SR:!2027-05-27,246,310-->
 
 Per Imaoka, the parable that illustrates Corporate Christ. :: Prodigal Son
 <!--SR:!2028-07-03,712,330-->
 
 Per Imaoka's understanding of the parable of the Prodigal Son, who/what is the source of salvation? :: The home.
-<!--SR:!2026-09-24,32,250-->
+<!--SR:!2026-12-16,83,250-->
 
 Explain Imaoka's use of the parable of the Prodigal Son as illustration for the Corporate Christ. :: Salvation does not come from God or some individual but by the community.
 <!--SR:!2026-09-30,190,270-->

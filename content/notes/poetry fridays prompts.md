@@ -1,7 +1,7 @@
 ---
 title: Poetry Fridays prompts
 created: 2026-06-08 20:49:52+08:00
-modified: 2026-09-07T20:00:03+08:00
+modified: 2026-09-14T16:59:31+08:00
 aliases:
   - Poetry Fridays prompts
 draft: false
@@ -174,3 +174,16 @@ Set 2:
 
 1. Sumulat ng tula tungkol sa isang pangalan na bihira mo nang banggitin. Maaaring pangalan ito ng taong minsan mong minahal, taong nawala, kaibigang hindi mo na nakakausap, o isang taong bahagi ng buhay mo na ngayon ay parang alaala na lamang. Hindi kailangang sabihin kung sino siya. Sa halip, isulat mo kung ano ang nangyayari sa iyo kapag naririnig mo ang pangalan niya. Bigla ka bang natahimik? May alaala bang bumabalik? May mga salitang gusto mong sabihin pero hindi mo na masabi? May pagsisisi ka ba? May bahagi ba sa iyong sarili na naiwan kasama niya? Isulat ang mga bagay na hindi mo nasabi noon.
 2. Sumulat ng tula tungkol sa isang lihim na ipinagkatiwala sa iyo ng ibang tao. Hindi mo ito lihim, pero ikaw ang napilitang magdala nito. Hindi mo kailangang sabihin kung ano talaga ang lihim. Ipakita mo ang bigat nito sa pamamagitan ng katahimikan, mga alaala, tingin, kilos, lugar, o mga salitang hindi natuloy sabihin.
+
+[[2026-09-12]]
+
+by Homer
+
+_Exercises:_
+1. Think of three words which do not necessarily make sense. From there, start a poem --- a sonnet. No rhyme schemes needed. Just observe and control it to fit 14 lines.
+2. Based on your earliest memory or the oldest photograph with you in it, write or conjure up what may be happening at that moment. Towards the end, try to step back and fill in with how time made you see the bigger picture.
+
+_MB Prompts:_
+
+1. The ghost of another life never lived. What if you lived another life far different from what you are today? At a certain point, we make life-changing directions. And “that has made all the difference” as Lolo Robert Frost pointed out. What if we meet the ghost of that life we set aside, that self we never chose? How do we carry a conversation?
+2. Convo with the dead. Given the chance to talk to the ghost of the dead --- whether a historical, literary, or fictitious character --- what would we say assuming that he/she has been a great influence in our lives. You can also choose a departed friend or family member.

@@ -30,7 +30,7 @@ Harrington, Donald Szantho. “The Fifteenth Day - Dynamic Peace.” _Outstretch
 # Prompts
 
 Per the Weimans, in the face of an uncertain world, what does a religious life give us? :: Peace of mind.
-<!--SR:!2026-09-16,8,210-->
+<!--SR:!2026-10-13,25,230-->
 
 Per the Weimans, what is the foundation of a religious person's peace of mind? :: Reliance on a power greater than oneself.
-<!--SR:!2026-09-16,10,210-->
+<!--SR:!2026-10-06,13,210-->

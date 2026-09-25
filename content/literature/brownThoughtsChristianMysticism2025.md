@@ -31,7 +31,7 @@ Brown, Andrew James. “Some Thoughts on ‘Christian Mysticism’ by Imaoka Shi
 # Prompts
 
 Per Imaoka, the content of mysticism is the consciousness of what? :: Self and the Absolute are one.
-<!--SR:!2026-09-22,127,250-->
+<!--SR:!2027-08-06,318,250-->
 
 Why did Imaoka say that seekers are ahead of Christian churches? :: They know that Christianity must not be exclusive.
 <!--SR:!2026-12-29,291,330-->

@@ -1,7 +1,7 @@
 ---
 title: Manañgili Project
 created: 2026-08-08T19:06:53+08:00
-modified: 2026-09-10T10:46:50+08:00
+modified: 2026-09-14T15:28:05+08:00
 aliases:
   - Manañgili Project
 draft: false
@@ -56,6 +56,16 @@ Pilgrimage
 - Kataragama
 
 ### Procedures
+
+Walking alone
+Walking with another person
+Walking with more than one person
+Walking with a group
+Walking in bayan
+Traversing bayans
+Walking in spaces among the more-than-human
+Facilitating or building a walking network
+Using walking to theorize the philosophical stance of the manangili
 
 Pilgrimage
 - Planning a pilgrimage.

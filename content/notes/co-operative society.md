@@ -23,7 +23,7 @@ Shin'ichirō Imaoka may have chosen this translation because it was already bein
 <!--SR:!2028-10-21,794,290-->
 
 The Japanese term *kyōdō shakai* was translated by Shin'ichirō Imaoka into English as ==co-operative society==.
-<!--SR:!2026-09-22,52,270-->
+<!--SR:!2027-04-06,196,290-->
 
 *kyōdō shakai* equivalent in German :: *gemeinschaft*
 <!--SR:!2027-02-22,394,290-->

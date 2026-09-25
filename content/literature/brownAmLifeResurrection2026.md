@@ -39,7 +39,7 @@ As a jiyūshūkyōjin, these words inspire me to bow down to the Great Life that
 # Prompts
 
 Per Imaoka, in "I Am the Life and the Resurrection" (1910), instead of being a playground for the intellectual games of dogma, religion is what? :: That which satisfies the needs of the whole person.
-<!--SR:!2026-09-20,9,210-->
+<!--SR:!2026-10-10,19,210-->
 
 Per Imaoka, what approach to religious life did Emerson call "spiritual suicide"? :: Being bound to studying ancient spiritual teachers.
 <!--SR:!2027-04-09,277,330-->
@@ -48,7 +48,7 @@ Per Imaoka, Emerson called the approach to religious life focused on studying an
 <!--SR:!2027-02-08,228,330-->
 
 Per Imaoka, because religion is focused on one's own life and living, it is ==subjective==.
-<!--SR:!2026-09-20,113,290-->
+<!--SR:!2027-08-15,328,290-->
 
 Per Imaoka, before looking up to any objective authority, we must first bow to what? :: Our own internal, subjective Great Life
 <!--SR:!2027-04-13,279,330-->

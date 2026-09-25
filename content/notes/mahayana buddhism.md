@@ -21,7 +21,7 @@ Mahāyāna means ==Great Vehicle==.
 <!--SR:!2026-10-22,76,250-->
 
 What is Theravāda's ideal of enlightenment? (hint: pizza) :: Arhat ideal, focused on individual liberation.
-<!--SR:!2026-09-17,100,190-->
+<!--SR:!2027-03-27,190,190-->
 
 What is Māhāyana's ideal of enlightenment? :: Bodhisattva ideal, focused on universal liberation.
 <!--SR:!2027-03-13,395,290-->
@@ -33,7 +33,7 @@ What is Māhāyana's view of the Buddha? :: There are multiple Buddhas accessibl
 <!--SR:!2028-06-14,690,290-->
 
 What are the scriptures of Theravāda? :: the Pāli Canon (Tipitaka)
-<!--SR:!2026-09-15,167,270-->
+<!--SR:!2028-06-05,629,290-->
 
 What are the scriptures of Māhāyana? :: wide range of Sanskrit texts
 <!--SR:!2026-12-01,90,210-->

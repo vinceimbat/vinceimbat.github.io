@@ -85,7 +85,7 @@ What is the emotional effect that mnemonic devices should produce? :: Vivid.
 <!--SR:!2028-01-29,833,332-->
 
 Give at least two ways of making a mnemonic device vivid. :: e.g., using visuals, meaningful personal experiences, humor, and disgust
-<!--SR:!2026-09-23,206,232-->
+<!--SR:!2028-01-14,478,232-->
 
 Where should you put mnemonic devices in a retrieval writing prompt? :: In the answer (inside parentheses).
 <!--SR:!2027-12-21,803,332-->
@@ -94,7 +94,7 @@ Why should you put mnemonic devices inside parentheses when using them in prompt
 <!--SR:!2029-09-19,1111,252-->
 
 In lieu of creating a mnemonic device, what can you do to leverage elaborative encoding in your retrieval practice prompts? :: Use images in the questions and answers.
-<!--SR:!2026-09-22,167,252-->
+<!--SR:!2027-11-16,420,252-->
 
 What is the rule of thumb when determining the amount of prompts to write? :: Write more prompts than feels natural.
 <!--SR:!2027-05-16,527,252-->
@@ -321,7 +321,7 @@ In retrieval practice, what is a "false negative"? :: You know the information y
 <!--SR:!2030-07-20,1450,292-->
 
 How do you avoid false negatives in retrieval practice? :: Add enough context.
-<!--SR:!2026-09-16,414,272-->
+<!--SR:!2027-04-13,207,252-->
 
 Retrieval practice prompts must unambiguously exclude ==alternative correct== answers.
 <!--SR:!2029-03-17,1115,312-->

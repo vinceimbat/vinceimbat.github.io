@@ -53,7 +53,7 @@ The following comes from Andrew J. Brown's translation of a revision of Imaoka's
 # Prompts
 
 Year Imaoka established his Principles of Living. :: 1965
-<!--SR:!2026-09-25,24,150-->
+<!--SR:!2026-10-07,12,130-->
 
 Number of articles in Imaoka's original Principles of Living. :: 7
 <!--SR:!2026-09-30,44,206-->

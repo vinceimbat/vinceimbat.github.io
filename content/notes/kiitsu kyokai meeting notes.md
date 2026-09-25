@@ -1,7 +1,7 @@
 ---
 title: Kiitsu Kyōkai meeting notes
 created: 2025-12-13 22:14:26+08:00
-modified: 2026-07-27T10:58:47+08:00
+modified: 2026-09-14T18:47:15+08:00
 aliases:
   - Kiitsu Kyōkai meeting notes
 draft: false
@@ -69,3 +69,4 @@ Here are my notes from our Kiitsu Kyōkai meetings
 - [[kiitsu kyokai 2026-06-25]]
 - [[kiitsu kyokai 2026-07-09]]
 - [[kiitsu kyokai 2026-07-23]]
+- [[kiitsu kyokai 2026-09-10]]

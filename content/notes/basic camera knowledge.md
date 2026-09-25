@@ -73,7 +73,7 @@ Camera ISO for good outdoor light. :: 100
 <!--SR:!2027-02-23,528,330-->
 
 Camera ISO for overcast or lower lighting conditions. :: 200–400
-<!--SR:!2026-09-19,153,190-->
+<!--SR:!2026-12-05,77,170-->
 
 Camera ISO for dim conditions or moving subject. :: 800 and above
 <!--SR:!2026-11-28,82,170-->
@@ -118,7 +118,7 @@ If you want a faster shutter speed, ==increase== the denominator.
 <!--SR:!2026-10-02,375,250-->
 
 If you want a slower shutter speed, ==decrease== the denominator.
-<!--SR:!2026-09-13,109,170-->
+<!--SR:!2026-11-07,55,150-->
 
 What happens to a moving object when it is caught by a camera with a low shutter speed? :: It blurs.
 <!--SR:!2028-02-24,763,290-->

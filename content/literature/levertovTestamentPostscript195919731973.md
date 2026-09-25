@@ -83,7 +83,7 @@ Levertov may not be knowledgeable of the poetry of the world and indigenous poet
 # Prompts
 
 Per Levertov, what are the two works of a seer? :: To see and to communicate what one sees to those who have not seen.
-<!--SR:!2026-09-19,208,270-->
+<!--SR:!2028-11-08,781,290-->
 
 How is Levertov's belief in the work of a seer similar to the poetics of Bagay poets? :: Both advocate intelligibility to communicate with the masses.
 <!--SR:!2026-11-29,251,290-->
@@ -98,7 +98,7 @@ Why does Ginsberg merit a serious study for anyone learning a spiritual writing 
 <!--SR:!2027-02-02,259,230-->
 
 Levertov's chief poets among her contemporaries. :: Robert Duncan and Robert Creeley
-<!--SR:!2026-09-24,110,230-->
+<!--SR:!2027-06-09,258,230-->
 
 Why does Levertov dislike vomit-it-all-out poetry? :: She believs that a poet is not just an instrument but also a maker.
 <!--SR:!2026-10-11,111,230-->

@@ -28,7 +28,7 @@ blacktop :: n. asphalt
 <!--SR:!2026-11-23,377,315-->
 
 buttress :: n. a projecting support of stone or brick built against a wall
-<!--SR:!2026-09-24,73,175-->
+<!--SR:!2027-01-30,128,175-->
 
 # C
 
@@ -79,7 +79,7 @@ dorsa :: adj. upper side or back of an animal, plant, or organ
 <!--SR:!2026-11-22,186,235-->
 
 dribs and drabs :: adj. in small or sporadic amounts
-<!--SR:!2026-09-23,119,190-->
+<!--SR:!2027-05-07,226,190-->
 
 if one had one's druthers :: if one had a choice
 <!--SR:!2028-03-01,776,330-->
@@ -135,7 +135,7 @@ gag :: n. cloth placed on a person's mouth to prevent them from speaking
 <!--SR:!2026-12-17,360,295-->
 
 gaudy (hint: Jen's blue rice) :: adj. extravagant or tasteless showiness
-<!--SR:!2026-09-22,21,150-->
+<!--SR:!2026-10-24,32,150-->
 
 geld (hint: Doji) :: v. to castrate (an animal); to deprive of an essential part
 <!--SR:!2027-05-24,384,209-->
@@ -152,7 +152,7 @@ gutful :: n. quantity of food or drink sufficient to fill one's stomach.
 # H
 
 haar (hint: temp) :: n. a cold wet sea fog
-<!--SR:!2026-09-16,22,149-->
+<!--SR:!2026-10-21,33,149-->
 
 halloo :: n. used to incite dogs to the chase during a hunt
 <!--SR:!2027-06-23,484,269-->
@@ -166,7 +166,7 @@ iconoclastic :: adj. attacking traditions and institutions
 <!--SR:!2026-11-20,163,256-->
 
 impressionable :: adj. easily impressed
-<!--SR:!2026-09-15,52,209-->
+<!--SR:!2026-10-12,27,189-->
 
 # J
 
@@ -186,7 +186,7 @@ knell - solemn sound of a bell (death)
 # L
 
 languor :: n. weariness
-<!--SR:!2026-09-20,10,150-->
+<!--SR:!2026-09-26,5,130-->
 
 largesse :: n. generosity
 <!--SR:!2026-09-29,67,189-->
@@ -201,7 +201,7 @@ lisp :: n. speech defect where \s\ and \z\ are pronounced as \th\
 <!--SR:!2026-11-23,80,189-->
 
 lush (informal) :: n. habitual heavy drinker
-<!--SR:!2026-09-17,74,189-->
+<!--SR:!2027-02-04,139,189-->
 
 luxuriate (hint: Sir Ado) :: v. to indulge luxuriously
 <!--SR:!2026-12-07,406,289-->
@@ -212,7 +212,7 @@ madcap (hint: Flame) :: adj. reckless
 <!--SR:!2027-08-14,579,291-->
 
 maelstrom :: n. powerful whirlpool; something that resembles it
-<!--SR:!2026-09-17,50,171-->
+<!--SR:!2026-10-14,26,151-->
 
 mauve :: n. purple
 <!--SR:!2027-05-19,472,271-->
@@ -235,7 +235,7 @@ nave (hint: Vigan) :: n. hub of a wheel; main interior of a church
 <!--SR:!2027-03-08,302,211-->
 
 nondescript :: adj. uninteresting
-<!--SR:!2026-09-20,74,231-->
+<!--SR:!2027-03-11,171,231-->
 
 # O
 
@@ -265,7 +265,7 @@ poplar :: n. a tree
 <!--SR:!2029-04-10,1107,352-->
 
 portentous (hint: gas) :: adj. done in an overly solemn manner to impress
-<!--SR:!2026-09-23,38,152-->
+<!--SR:!2026-11-20,58,152-->
 
 Procrustean - system enforcing uniformity without regard to variation
 
@@ -362,7 +362,7 @@ undergrowth :: n. growth of plants on the forest floor
 <!--SR:!2028-01-09,740,333-->
 
 unkempt (hint: body) :: adj. uncombed; unclean; unpolished
-<!--SR:!2026-09-14,28,133-->
+<!--SR:!2026-11-10,57,153-->
 
 upbraid :: v. scold
 <!--SR:!2026-11-17,125,213-->
@@ -370,7 +370,7 @@ upbraid :: v. scold
 # V
 
 vilify :: v. to defame
-<!--SR:!2026-09-22,21,170-->
+<!--SR:!2026-11-13,52,190-->
 
 voile :: n. thin, semitransparent fabric
 <!--SR:!2026-10-03,52,130-->
@@ -378,7 +378,7 @@ voile :: n. thin, semitransparent fabric
 # W
 
 waft :: v. to move lightly on a buoyant medium
-<!--SR:!2026-09-21,105,213-->
+<!--SR:!2027-05-03,224,213-->
 
 westering :: adj. (especially of the sun) nearing the west
 <!--SR:!2026-09-26,75,195-->

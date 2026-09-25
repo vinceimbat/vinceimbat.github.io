@@ -33,7 +33,7 @@ Company founded based on Tenkō Nishida's teachings :: Kentoku
 <!--SR:!2027-03-28,339,310-->
 
 Founder of Kentoku :: Suzuki Seiichi
-<!--SR:!2026-09-15,10,130-->
+<!--SR:!2026-09-28,13,130-->
 
 Management philosophy of Kentoku :: Prayer-based management
 <!--SR:!2026-10-17,40,250-->

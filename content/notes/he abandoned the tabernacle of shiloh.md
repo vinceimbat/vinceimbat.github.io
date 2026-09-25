@@ -1,16 +1,15 @@
 ---
 title: He Abandoned the Tabernacle of Shiloh
 created: 2026-06-28 10:56:03+08:00
-modified: 2026-06-28 16:19:47+08:00
+modified: 2026-09-14T21:13:28+08:00
 aliases:
-- He Abandoned the Tabernacle of Shiloh
+  - He Abandoned the Tabernacle of Shiloh
 draft: false
 publish: true
 tags:
-- species/translation
-- status/seedling
+  - species/translation
+  - status/seedling
 ---
-
 Now  
 in the midst of piles of tin roof sheets  
 rusted by tears that have not arrived  

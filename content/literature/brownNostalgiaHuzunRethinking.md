@@ -31,7 +31,7 @@ Brown, Andrew James. “From Nostalgia to Hüzün: Rethinking Our Free-Religious
 # Prompts
 
 Turkish writer who expounded about *hüzün*. :: Orhan Pamuk
-<!--SR:!2026-09-24,45,190-->
+<!--SR:!2026-10-18,24,170-->
 
 Per Orhan Pamuk, what is *hüzün*? :: Cultural nostalgia felt while living in the ruins of a once great empire.
 <!--SR:!2026-10-16,190,270-->
@@ -78,7 +78,7 @@ Two forms of nostalgia per Brown.
 <!--SR:!2026-12-08,251,330-->
 
 What is restorative nostalgia? :: Using nostalgia to rebuild something.
-<!--SR:!2026-09-25,64,270-->
+<!--SR:!2026-10-27,32,250-->
 
 What is reflective nostalgia? :: Using nostalgia to build a better world.
 <!--SR:!2027-08-18,388,290-->

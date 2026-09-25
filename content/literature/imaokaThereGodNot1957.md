@@ -33,7 +33,7 @@ Aside from this, however, Imaoka makes interesting statements like his religious
 # Prompts
 
 What is a Puritan? :: 16th and 17th century Protestants who sought to simplify the practices and doctrines of the Church of England.
-<!--SR:!2026-09-14,42,130-->
+<!--SR:!2026-11-08,55,130-->
 
 Per Imaoka, what triggered his move away from Christianity and into Buddhism? :: He felt he stopped at simply not drinking alcohol and smoking and failed in cultivating humanity.
 <!--SR:!2026-11-28,117,250-->

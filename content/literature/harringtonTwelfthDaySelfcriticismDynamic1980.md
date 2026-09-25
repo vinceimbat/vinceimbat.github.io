@@ -30,10 +30,10 @@ Harrington, Donald Szantho. “The Twelfth Day - Self-Criticism—Dynamic Patien
 # Prompts
 
 How did the Weimans thought about self-criticism. :: Positive. Arises from the awareness of greater possibilities around Supreme Value.
-<!--SR:!2026-09-16,84,190-->
+<!--SR:!2026-10-30,42,170-->
 
 Per the Weimans, ==prayer== is a revelation of aspiration.
-<!--SR:!2026-09-24,154,310-->
+<!--SR:!2028-01-13,476,310-->
 
 Per the Weimans, why is prayer a revelation of aspiration? :: It is a longing to communicate with what is worshipped.
 <!--SR:!2027-02-28,230,270-->
@@ -56,4 +56,4 @@ Per the Weimans, growing requires balance between these two:
 ?
 1. Dissatisfaction with one's self.
 2. Awaiting the realization of great potential.
-<!--SR:!2026-09-21,43,170-->
+<!--SR:!2026-10-14,23,150-->

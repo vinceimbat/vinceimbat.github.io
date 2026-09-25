@@ -35,7 +35,7 @@ Per Brown, religious liberals' disbelief in the resurrection has led them to tre
 <!--SR:!2026-11-21,133,270-->
 
 Title of a 1910 essay by Imaoka written before he stopped being a Congregationalist minister. :: "I am the Life and the Resurrection"
-<!--SR:!2026-09-25,121,290-->
+<!--SR:!2026-11-25,61,270-->
 
 Imaoka's essay "I am the Life and the Resurrection" is a play on what statement by Jesus? :: "I am the resurrection and the life."
 <!--SR:!2027-03-19,265,330-->

@@ -60,4 +60,4 @@ Per Andrew James Brown, why shouldn't the liturgy of religious liberals undergo 
 2. Religious liberals are increasingly looking for stability.
 
 Per Andrew James Brown, what is the basic task of religious liberal communities? :: Forming thoughtful and committed free religious liberals.
-<!--SR:!2026-09-14,59,190-->
+<!--SR:!2027-01-03,111,190-->

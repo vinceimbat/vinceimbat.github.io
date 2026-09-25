@@ -33,7 +33,7 @@ Per the Weimans, what is the greatest conceivable value? :: Cosmos with complete
 <!--SR:!2026-10-09,112,210-->
 
 Per the Weimans, a cosmos with complete and perfect mutuality requires that everything ==changes==.
-<!--SR:!2026-09-19,86,270-->
+<!--SR:!2027-08-09,324,290-->
 
 Per the Weimans, while an ideal cosmos is ever-changing, what would never change? :: The complete and perfect mutuality of all with each.
 <!--SR:!2026-10-16,127,270-->
@@ -50,7 +50,7 @@ Per the Weimans, value is a combination of what two things?
 2.
 ?
 Possibility
-<!--SR:!2026-09-21,160,310-->
+<!--SR:!2028-08-07,686,330-->
 
 Per the Weimans, value is a combination of what two things?
 ?
@@ -62,7 +62,7 @@ Per the Weimans, the combination of actuality and possibility creates ==value==.
 <!--SR:!2026-10-01,161,310-->
 
 Per the Weimans, a kind of change that increases actuality to approximate possibility. :: Growth
-<!--SR:!2026-09-20,82,270-->
+<!--SR:!2027-07-27,309,290-->
 
 Per the Weimans, what is an ideal worth living and dying for? :: The complete and perfect mutuality of all with each.
 <!--SR:!2027-02-14,240,270-->

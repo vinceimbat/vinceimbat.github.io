@@ -99,10 +99,10 @@ Per Andrew James Brown, a person's spirituality and religion must always arise f
 <!--SR:!2026-12-22,110,230-->
 
 What poem by whom did Andrew James Brown read to some sacred spots he rode his bike to as an offering? :: "To the Old Gods" by Edwin Muir
-<!--SR:!2026-09-24,90,230-->
+<!--SR:!2026-11-08,45,210-->
 
 Per Andrew James Brown, what is the role of remnants of past religious expressions? :: They remind us of their past subjects and wonder.
-<!--SR:!2026-09-14,178,230-->
+<!--SR:!2026-12-12,89,210-->
 
 Per Andrew James Brown, since the places and times religious expressions are tied with change, religious expressions are necessarily ==temporary==.
 <!--SR:!2027-06-02,427,270-->

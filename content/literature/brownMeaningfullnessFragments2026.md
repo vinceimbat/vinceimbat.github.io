@@ -39,13 +39,13 @@ Century the poet Sappho lived. :: 6th century BCE
 <!--SR:!2026-11-24,157,270-->
 
 Plato called Sappho the =="Tenth Muse"==.
-<!--SR:!2026-09-23,25,250-->
+<!--SR:!2026-12-20,88,270-->
 
 Sappho wrote an estimated ==500== poems.
 <!--SR:!2026-10-15,41,210-->
 
 Among all of Sappho's poems, how many complete poems were retrieved? :: 1
-<!--SR:!2026-09-12,141,310-->
+<!--SR:!2026-11-22,71,290-->
 
 How many lines of Sappho's poems survived as intelligible fragments? :: 2,000
 <!--SR:!2026-10-21,181,310-->

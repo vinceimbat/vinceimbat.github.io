@@ -162,13 +162,13 @@ Imaoka's main priority when he started Kiitsu Kyōkai. :: To examine the essence
 <!--SR:!2026-11-15,306,270-->
 
 Result of Imaoka's experiment to grasp jiyū shūkyō after ten years. :: Incomplete. Still a seeker not a shepherd. But trials have informed practice.
-<!--SR:!2026-09-13,167,250-->
+<!--SR:!2027-11-04,417,250-->
 
 Between reaching a final destination and the process of progress and development, which does jiyū shūkyō focuses on? :: The process of progress and development.
 <!--SR:!2029-05-14,1074,350-->
 
 Per Imaoka, what was Jesus' religion? :: The gospel of creative love.
-<!--SR:!2026-09-16,152,230-->
+<!--SR:!2026-12-03,76,210-->
 
 Per Imaoka, what was Shakyamuni's religion? :: The fundamental principle of creative evolution.
 <!--SR:!2026-09-30,97,210-->
@@ -190,7 +190,7 @@ Per Imaoka, later Christians and Buddhists confined the ever-evolving spiritual 
 3. religious authority
 ?
 ceremonies
-<!--SR:!2026-09-23,87,299-->
+<!--SR:!2026-11-06,44,279-->
 
 Per Imaoka, later Christians and Buddhists confined the ever-evolving spiritual life within the boundaries of:
 1. dogma

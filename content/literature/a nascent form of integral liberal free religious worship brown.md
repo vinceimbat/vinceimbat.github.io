@@ -105,7 +105,7 @@ Per Carl Jung, rāja yoga became ==the intuitional==.
 <!--SR:!2026-09-29,277,285-->
 
 Per Carl Jung, bhakti yoga became ==the emotional==.
-<!--SR:!2026-09-22,75,185-->
+<!--SR:!2027-02-08,139,185-->
 
 Per Carl Jung, karma yoga became ==the sensate==.
 <!--SR:!2027-01-08,220,205-->
@@ -116,7 +116,7 @@ Present the four religious or spiritual tendencies, paths, or disciplines in the
 - rāja yoga -> the intuitional
 - bhakti yoga -> the emotional
 - karma yoga -> the sensate
-<!--SR:!2026-09-19,38,145-->
+<!--SR:!2026-10-07,18,130-->
 
 Time frame of the rational (thinking type). :: linear
 <!--SR:!2027-11-18,547,270-->

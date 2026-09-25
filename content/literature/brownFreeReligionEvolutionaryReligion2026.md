@@ -54,7 +54,7 @@ Schellenberg's suggested three broad marks of a religion's ultimate reality.
 3. Greater than nature in what it can make possible for us.
 ?
 Deeper than the physical world.
-<!--SR:!2026-09-18,30,230-->
+<!--SR:!2026-10-04,16,210-->
 
 Schellenberg's suggested three broad marks of a religion's ultimate reality.
 1. Deeper than the physical world.
@@ -62,7 +62,7 @@ Schellenberg's suggested three broad marks of a religion's ultimate reality.
 3. Greater than nature in what it can make possible for us.
 ?
 Greater than nature in worth.
-<!--SR:!2026-09-15,20,190-->
+<!--SR:!2026-09-30,5,150-->
 
 Schellenberg's suggested three broad marks of a religion's ultimate reality.
 1. Deeper than the physical world.

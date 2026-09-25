@@ -31,7 +31,7 @@ Brown, Andrew James. “A Philosophy of Wonder Born of an Ancient Disappointment
 # Prompts
 
 While philosophy often begins in wonder, it can also begin in ==disappointment==.
-<!--SR:!2026-09-23,14,210-->
+<!--SR:!2026-11-02,40,230-->
 
 The early Christian hope woven into the Christmas season that has consistently led to disappointment. :: Second Coming
 <!--SR:!2026-11-27,244,330-->
@@ -57,7 +57,7 @@ Because of the consistent disappointment of Christian's belief in the Second Com
 ?
 1. Clarity that Jesus died between 30–33 CE and remains in a still unknown tomb.
 2. Belief in a Second Coming can be damaging to individuals and the planet.
-<!--SR:!2026-09-18,175,310-->
+<!--SR:!2028-03-14,543,310-->
 
 Per Brown, three reasons why a Second Coming is unnecessary:
 1.

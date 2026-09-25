@@ -35,7 +35,7 @@ What inspired Brown to look for an alternative way for the Cambridge Unitarian C
 <!--SR:!2026-10-18,108,250-->
 
 Per Brown, Czech and Japanese Unitarians developed practices and resources that helped them resist what? :: Highly partisan, ethnonationalist politics
-<!--SR:!2026-09-14,95,230-->
+<!--SR:!2026-11-01,48,210-->
 
 Three resources from Czech and Japanese Unitarians that helped them resist divisive politics. :: "Principles of Living" or "Advices", meditation, free conversation
 <!--SR:!2026-11-20,70,250-->
