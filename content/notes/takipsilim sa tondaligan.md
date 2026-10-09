@@ -41,7 +41,7 @@ Per Andrew James Brown, in Hirshfield's "The Supple Deer," which object represen
 <!--SR:!2026-12-21,275,330-->
 
 Phrase used by Jane Hirshfield in her poem "The Supple Deer" to describe part of the fence where the deer passed through. :: "quiet opening"
-<!--SR:!2026-10-05,77,290-->
+<!--SR:!2026-11-13,39,270-->
 
 Per Andrew James Brown, in Hirshfield's "The Supple Deer," what does the supple deer represent? :: God, Amida Buddha, The Light, the Great Life etc.
 <!--SR:!2026-11-04,240,330-->
@@ -85,10 +85,10 @@ Per Andrew James Brown, the two roles of the "Principles of Living" in the life 
 ?
 1. Create unique kyōkais.
 2. Remind us of kiitsu.
-<!--SR:!2026-09-30,70,250-->
+<!--SR:!2027-06-03,246,270-->
 
 Per Andrew James Brown, one could practice jiyū shūkyō within an established religion as long as what? :: One can openly practice the "Principles of Living."
-<!--SR:!2026-10-01,195,310-->
+<!--SR:!2028-05-28,605,310-->
 
 Per Andrew James Brown, three indispensable fundamental practices of jiyū shūkyō.
 1.

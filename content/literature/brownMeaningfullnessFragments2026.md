@@ -77,7 +77,7 @@ Per Brown, how is fragmentation affecting how we relate to each other as humans?
 ?
 1. We can't completely know each other.
 2. We are able to love.
-<!--SR:!2026-09-27,26,250-->
+<!--SR:!2026-12-04,67,250-->
 
 Per Brown, why does the Great Life necessitate fragmentation? :: It relies on movement.
 <!--SR:!2026-10-12,102,270-->

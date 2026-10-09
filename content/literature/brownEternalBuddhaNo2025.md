@@ -37,7 +37,7 @@ Author of the book *Jesus Through the Centuries*. :: Jaroslav Pelikan
 <!--SR:!2026-12-24,148,250-->
 
 According to the book *Jesus Through the Centuries* by Jaroslav Pelikan, how many Jesuses are there in history? :: 18
-<!--SR:!2026-10-04,62,290-->
+<!--SR:!2026-11-04,31,270-->
 
 Seven stops in Shin'ichirō Imaoka's religious history:
 1.
@@ -73,7 +73,7 @@ Seven stops in Shin'ichirō Imaoka's religious history:
 7. Jiyū Shūkyō
 ?
 Congregational ministry
-<!--SR:!2026-09-26,154,270-->
+<!--SR:!2027-11-14,414,270-->
 
 Seven stops in Shin'ichirō Imaoka's religious history:
 1. Jōdo Shinshū
@@ -132,7 +132,7 @@ Seven stops in Shin'ichirō Imaoka's religious history:
 5. Shinto
 6. New Buddhism
 7. Jiyū Shūkyō
-<!--SR:!2026-09-26,40,230-->
+<!--SR:!2026-12-30,95,230-->
 
 New Buddhism in Japanese. :: Shin Bukkyō
 <!--SR:!2026-10-12,60,250-->
@@ -184,7 +184,7 @@ Per Imaoka's understanding of the parable of the Prodigal Son, who/what is the s
 <!--SR:!2026-12-16,83,250-->
 
 Explain Imaoka's use of the parable of the Prodigal Son as illustration for the Corporate Christ. :: Salvation does not come from God or some individual but by the community.
-<!--SR:!2026-09-30,190,270-->
+<!--SR:!2028-09-16,717,290-->
 
 Form of theology associated to the idea of a Cosmic Christ. :: Ecotheology
 <!--SR:!2026-12-26,187,290-->

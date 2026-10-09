@@ -10,7 +10,7 @@ tags:
   - species/thought
   - status/seedling
 ---
-I characterize the writing I do as [[religious writing]] contending with the idea of [[jiyu shukyo|jiyū shūkyō]].
+I characterize the writing I do as [[notes/religious writing]] contending with the idea of [[jiyu shukyo|jiyū shūkyō]].
 
 The primary function of my writing is to support my religious life. Because of this, the primary trajectory of my writing is inward (i.e., [[the writing i do in private is my most important writing|the writing I do in private is my most important writing]]). That said, I also want my writing to connect me with my [[kapwa]] (and through that connection to the cosmos). This is the secondary function of my writing life.
 

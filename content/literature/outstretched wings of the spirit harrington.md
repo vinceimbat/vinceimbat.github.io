@@ -84,7 +84,7 @@ According to Wieman, "God is ==the integrating process at work in the universe==
 <!--SR:!2026-11-24,95,190-->
 
 According to Harrington's understanding of Wieman's theology, what is the dominant characteristic of the Universe? :: Parts integrate into complex harmonious entities.
-<!--SR:!2026-10-04,180,190-->
+<!--SR:!2027-09-11,342,190-->
 
 Per Wieman, the principal of integration at the human level is ==love==.
 <!--SR:!2027-08-23,608,310-->
@@ -268,7 +268,7 @@ Per Wieman, religious living is oriented and integrated toward how many area of 
 <!--SR:!2028-10-04,909,289-->
 
 Per Wieman, what is the benefit of having an overarching commitment? :: Every smallest detail of life gains an eternal significance.
-<!--SR:!2026-09-30,135,229-->
+<!--SR:!2026-12-07,68,209-->
 
 # The Twelfth Day – Self-criticism—Dynamic Patience—Aspiration
 

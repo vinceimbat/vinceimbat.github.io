@@ -40,7 +40,7 @@ Year the Ottoman Empire ended. :: 1922
 <!--SR:!2026-11-06,116,270-->
 
 Per Orhan Pamuk, cultural nostalgia felt while living in the ruins of a once great empire. :: *hüzün*
-<!--SR:!2026-09-27,137,310-->
+<!--SR:!2027-11-30,428,310-->
 
 Late 19th- and early 20th-century Unitarians' optimistic prediction about Unitarianism's eventual place in Christendom? :: Prevail
 <!--SR:!2026-10-13,192,310-->
@@ -101,4 +101,4 @@ Per Brown, the two objectives of restorative nostalgia.
 ?
 1. Mythical return to origins.
 2. Searching perpetrators of the loss of former glory.
-<!--SR:!2026-10-05,186,310-->
+<!--SR:!2028-05-03,576,310-->

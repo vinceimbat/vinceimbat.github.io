@@ -40,7 +40,7 @@ Doctrine that the divine encompasses or is manifested in the material world. :: 
 <!--SR:!2027-01-06,192,310-->
 
 Explain the doctrine of immanence. :: The divine encompasses or is manifested in the material world.
-<!--SR:!2026-10-02,47,270-->
+<!--SR:!2026-10-26,24,250-->
 
 Imaoka's Jiyū shūkyō and Kiitsu Kyōkai belongs to what religious movement in Japan? :: New Religions Movement
 <!--SR:!2027-03-24,266,330-->

@@ -77,4 +77,4 @@ Per Imaoka, two focuses of religion seen as primarily subjective:
 ?
 1. The scale of one's personality
 2. The authenticity of one's life
-<!--SR:!2026-10-02,31,250-->
+<!--SR:!2026-10-19,17,230-->

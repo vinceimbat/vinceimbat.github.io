@@ -29,7 +29,7 @@ The Japanese term *kyōdō shakai* was translated by Shin'ichirō Imaoka into En
 <!--SR:!2027-02-22,394,290-->
 
 *gemeinschaft* is a term by the 19th-century sociologist ==Ferdinand Tönnies==.
-<!--SR:!2026-10-07,74,190-->
+<!--SR:!2027-02-25,141,190-->
 
 *kyōdō shakai* means ==mutual, close-knit community==.
 <!--SR:!2026-11-19,74,230-->

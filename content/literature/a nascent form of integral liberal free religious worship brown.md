@@ -82,7 +82,7 @@ In Hindu tradition, jñāna yoga is the ==intellectual== tendency.
 <!--SR:!2028-01-24,609,285-->
 
 In Hindu tradition, rāja yoga is the ==mystical== tendency.
-<!--SR:!2026-10-01,63,205-->
+<!--SR:!2027-02-07,129,205-->
 
 In Hindu tradition, bhakti yoga is the ==devotional== tendency.
 <!--SR:!2028-07-28,689,265-->
@@ -96,13 +96,13 @@ Present the four religious or spiritual tendencies, paths, or disciplines in the
 - rāja yoga (mystical)
 - bhakti yoga (devotional)
 - karma yoga (practical)
-<!--SR:!2026-10-02,42,205-->
+<!--SR:!2026-12-27,86,205-->
 
 Per Carl Jung, jñāna yoga became ==the rational==.
 <!--SR:!2026-11-12,327,305-->
 
 Per Carl Jung, rāja yoga became ==the intuitional==.
-<!--SR:!2026-09-29,277,285-->
+<!--SR:!2027-02-12,136,265-->
 
 Per Carl Jung, bhakti yoga became ==the emotional==.
 <!--SR:!2027-02-08,139,185-->
@@ -116,7 +116,7 @@ Present the four religious or spiritual tendencies, paths, or disciplines in the
 - rāja yoga -> the intuitional
 - bhakti yoga -> the emotional
 - karma yoga -> the sensate
-<!--SR:!2026-10-07,18,130-->
+<!--SR:!2026-10-16,9,130-->
 
 Time frame of the rational (thinking type). :: linear
 <!--SR:!2027-11-18,547,270-->

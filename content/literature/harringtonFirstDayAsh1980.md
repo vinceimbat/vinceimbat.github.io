@@ -41,7 +41,7 @@ Per the Weimans, the two great basic concepts of religion.
 2.
 ?
 supreme value
-<!--SR:!2026-09-27,59,270-->
+<!--SR:!2026-10-28,30,250-->
 
 Per the Weimans, the two great basic concepts of religion.
 ?
@@ -50,7 +50,7 @@ Per the Weimans, the two great basic concepts of religion.
 <!--SR:!2026-10-24,169,270-->
 
 Per the Weimans, what is religion? :: Devotion to that which is supremely worthful.
-<!--SR:!2026-10-02,22,170-->
+<!--SR:!2026-10-13,11,150-->
 
 Per the Weimans, two things to show devotion to that which is worthful.
 1.
@@ -99,7 +99,7 @@ Per the Weimans, two media through which all growth happens.
 <!--SR:!2026-11-06,65,270-->
 
 Per the Weimans, how does nature and society enter the inner life of an individual? :: Through sensitivity and responsiveness
-<!--SR:!2026-10-04,39,250-->
+<!--SR:!2026-10-25,21,230-->
 
 Per the Weimans, when does conscience appear in a child? :: When values become habits and ideals.
 <!--SR:!2026-11-14,105,210-->
@@ -108,7 +108,7 @@ Per the Weimans, when we increase our sensitivity and responsiveness to universa
 <!--SR:!2027-05-25,334,310-->
 
 Per the Weimans, what is conscience? :: A feeling for the requirements of universal forces.
-<!--SR:!2026-10-01,33,170-->
+<!--SR:!2026-10-18,17,150-->
 
 Per the Weimans, how prevalent is religion? :: Everyone is religious.
 <!--SR:!2027-02-04,267,330-->

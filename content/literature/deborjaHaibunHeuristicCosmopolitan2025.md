@@ -127,7 +127,7 @@ Versions of Diogenes' nomadic cosmopolitan in Walter Benjamin's favored figures.
 3.
 ?
 Dandy
-<!--SR:!2026-10-02,195,290-->
+<!--SR:!2028-04-18,564,290-->
 
 Type of cosmopolitanism de Borja explores in his poems. :: Cosmopolitanism of the middle
 <!--SR:!2027-11-12,524,310-->
@@ -143,7 +143,7 @@ The word travel derives from middle English and Old French ==travail==, which me
 <!--SR:!2000-01-01,1,250!2025-11-29,3,250-->
 
 Literal translation of utamakura (歌枕). :: "poem pillow"
-<!--SR:!2026-10-05,239,330-->
+<!--SR:!2028-12-01,788,330-->
 
 What does utamakura (歌枕) mean? :: Place name in Japanese poetry that carries specific symbolism.
 <!--SR:!2026-10-18,46,170-->

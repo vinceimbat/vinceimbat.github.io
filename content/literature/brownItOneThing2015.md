@@ -76,4 +76,4 @@ Per Lear, how did the Crow Indians respond to the decimation of their culture?
 1. They recognized that the old ways of living were gone.
 2. They decided they want to continue in a new fashion.
 3. They returned to their old stories and tradition and reinterpreted them.
-<!--SR:!2026-10-02,81,270-->
+<!--SR:!2027-05-09,219,270-->

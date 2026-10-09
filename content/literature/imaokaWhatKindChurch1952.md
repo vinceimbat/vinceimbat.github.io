@@ -171,7 +171,7 @@ Per Imaoka, what was Jesus' religion? :: The gospel of creative love.
 <!--SR:!2026-12-03,76,210-->
 
 Per Imaoka, what was Shakyamuni's religion? :: The fundamental principle of creative evolution.
-<!--SR:!2026-09-30,97,210-->
+<!--SR:!2026-11-19,50,190-->
 
 Imaoka believes that Shakyamuni's Dharma could be interpreted as ==Humanism==.
 <!--SR:!2027-05-04,235,270-->
@@ -272,7 +272,7 @@ Per Andrew James Brown, what Imaoka refers to as Kiitsu Kyōkai's sacred texts m
 1. Ralph Waldo Emerson
 2. John Haynes Holmes
 3. Henri Bergson
-<!--SR:!2026-10-05,95,250-->
+<!--SR:!2026-11-24,50,230-->
 
 Using the metaphor of eating, how does Imaoka explain jiyū shūkyō's approach to consuming a wide variety of religious resources? :: One is not forced to overeat. Just don't be a picky eater.
 <!--SR:!2028-04-12,742,330-->

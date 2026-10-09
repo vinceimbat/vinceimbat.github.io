@@ -59,7 +59,7 @@ Three areas of study Imaoka devoted himself into:
 3.
 ?
 Buddhism in the East, especially Zen
-<!--SR:!2026-10-08,320,290-->
+<!--SR:!2027-03-17,160,270-->
 
 Three areas of study Imaoka devoted himself into:
 ?
@@ -111,7 +111,7 @@ Per Imaoka, how should a Shinto shrine's Chief Priest be determined? :: Election
 <!--SR:!2028-01-23,700,330-->
 
 A Shinto shrine's parishioners are called ==ujiko==.
-<!--SR:!2026-10-05,145,210-->
+<!--SR:!2027-12-18,439,230-->
 
 To realize his vision of a Shinto shrine that unifies the sacred and the secular, what change in activities conducted there does Imaoka proposes? :: Go beyond simply life ceremonies and add regular gatherings.
 <!--SR:!2027-01-08,109,230-->

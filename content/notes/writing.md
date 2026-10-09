@@ -31,7 +31,7 @@ You holding back from descriptions is a sign that you want to get to the point. 
 
 # Related
 
-- [[religious writing]]
+- [[notes/religious writing]]
 - [[writing as faith]]
 - [[writing is coding]]
 - [[writing is embodied]]

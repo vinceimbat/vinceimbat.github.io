@@ -39,7 +39,7 @@ Century Epicurus lived :: 3rd century CE
 <!--SR:!2026-10-21,30,130-->
 
 Greek word referring to the ultimate goal of Epicurean philosophy. :: ataraxia
-<!--SR:!2026-09-26,25,230-->
+<!--SR:!2026-11-23,58,230-->
 
 Ataraxia means? :: tranquility
 <!--SR:!2027-03-01,374,270-->
@@ -54,7 +54,7 @@ According to Epicurus, why are people fearful of the gods? :: They believe that 
 <!--SR:!2027-08-27,530,310-->
 
 For Epicurus, what is the most important characteristic of the gods? :: Exemplars of the ideal life.
-<!--SR:!2026-10-01,19,190-->
+<!--SR:!2026-11-05,35,190-->
 
 Per Epicurus, since the gods live contently, what interest do they have in human affairs? :: None.
 <!--SR:!2029-02-06,934,330-->

@@ -146,7 +146,7 @@ Per Schneider in WAAWO, editing a manuscript is hard because it involves two tas
 2. Helping the author fulfill their intent.
 ?
 Understanding the author's intent.
-<!--SR:!2026-10-04,353,230-->
+<!--SR:!2028-12-24,812,230-->
 
 Per Schneider in WAAWO, editing a manuscript is hard because it involves two tasks:
 1. Understanding the author's intent.
@@ -177,13 +177,13 @@ Per Schneider in WAAWO, what helpful knowledge should you gather before respondi
 <!--SR:!2028-10-02,939,290-->
 
 Per Schneider in WAAWO, what should you think if an author is still severely pained despite you being very careful with how you deliver your comments? :: You are not responsible for the wounds to self-esteem the author accumulated in their life.
-<!--SR:!2026-10-01,421,270-->
+<!--SR:!2029-11-11,1137,270-->
 
 Per Schneider in WAAWO, your second reading of an author's manuscript should focus on ==what you love about it==.
 <!--SR:!2028-11-11,1036,310-->
 
 Why use pencil when writing your comments on a printed manuscript? :: To accommodate change of mind.
-<!--SR:!2026-10-03,455,310-->
+<!--SR:!2032-02-06,1952,330-->
 
 Per Schneider in WAAWO, the last stage in responding to an author's manuscript involves what? :: Writing a letter to the author.
 <!--SR:!2027-03-23,486,290-->

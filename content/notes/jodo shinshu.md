@@ -57,7 +57,7 @@ Who is the founder of Jōdo Shinshū? :: Shinran Shonin
 <!--SR:!2027-04-17,463,330-->
 
 What century was Jōdo Shinshū founded? :: 13th century CE
-<!--SR:!2026-10-01,49,150-->
+<!--SR:!2027-01-19,110,170-->
 
 Who was Shinran's teacher who founded the Japanese Pure Land School? :: Honen
 <!--SR:!2026-10-27,139,310-->

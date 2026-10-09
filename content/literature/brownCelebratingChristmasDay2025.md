@@ -1,17 +1,15 @@
 ---
-title: '“Celebrating Christmas Day without a Founder: Jesus, Śākyamuni Buddha and
-  the Great Life” by Brown'
+title: "“Celebrating Christmas Day without a Founder: Jesus, Śākyamuni Buddha and the Great Life” by Brown"
 created: 2025-12-29 10:59:28+08:00
-modified: 2026-05-11 14:35:05+08:00
+modified: 2026-09-30T14:15:10+08:00
 aliases:
-- '“Celebrating Christmas Day without a Founder: Jesus, Śākyamuni Buddha and the Great
-  Life” by Brown'
+  - "“Celebrating Christmas Day without a Founder: Jesus, Śākyamuni Buddha and the Great Life” by Brown"
 draft: false
 publish: true
 tags:
-- species/literature
-- status/seedling
-- species/flashcards
+  - species/literature
+  - status/seedling
+  - species/flashcards
 ---
 
 # Citation
@@ -62,9 +60,6 @@ What did Śākyamuni Buddha teach his followers about being a religious founder?
 1. Discouraged them to see him as a religious founder.
 2. Urged them to develop self-reliance.
 <!--SR:!2026-10-21,115,315-->
-
-Per Brown, what does the Mahaparinibbana Sutta (Digha Nikaya 16) teach? :: Buddhist followers must develop self-reliance.
-<!--SR:!2026-09-30,31,250-->
 
 Per Imaoka, why can there be no founder of free-religion? :: Because its quintessence is grasping the meaning of "the Great Life."
 <!--SR:!2026-11-17,56,210-->

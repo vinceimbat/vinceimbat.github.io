@@ -46,7 +46,7 @@ Per Schellenberg, if religion is to be religion at all, what must it have? :: A 
 <!--SR:!2027-03-22,273,290-->
 
 What is the clear vision Schellenberg believes religion must have? :: A view of the Divine that could guide a religious life.
-<!--SR:!2026-10-06,80,230-->
+<!--SR:!2026-11-16,40,210-->
 
 Schellenberg's suggested three broad marks of a religion's ultimate reality.
 1.
@@ -54,7 +54,7 @@ Schellenberg's suggested three broad marks of a religion's ultimate reality.
 3. Greater than nature in what it can make possible for us.
 ?
 Deeper than the physical world.
-<!--SR:!2026-10-04,16,210-->
+<!--SR:!2026-11-07,34,210-->
 
 Schellenberg's suggested three broad marks of a religion's ultimate reality.
 1. Deeper than the physical world.
@@ -62,7 +62,7 @@ Schellenberg's suggested three broad marks of a religion's ultimate reality.
 3. Greater than nature in what it can make possible for us.
 ?
 Greater than nature in worth.
-<!--SR:!2026-09-30,5,150-->
+<!--SR:!2026-10-14,6,150-->
 
 Schellenberg's suggested three broad marks of a religion's ultimate reality.
 1. Deeper than the physical world.
@@ -77,7 +77,7 @@ Schellenberg's suggested three broad marks of a religion's ultimate reality.
 1. Deeper than the physical world.
 2. Greater than nature in worth.
 3. Greater than nature in what it can make possible for us.
-<!--SR:!2026-10-08,143,250-->
+<!--SR:!2027-10-01,358,250-->
 
 Per Andrew James Brown, religion is a ==response== to what is perceived to be supremely worth shaping one’s life around.
 <!--SR:!2027-07-10,338,290-->
@@ -97,7 +97,7 @@ They're settled facts.
 <!--SR:!2026-10-25,142,230-->
 
 Difference between belief and faith per Schellenberg? :: Belief aims settled claims; faith commits without pretending to have final proof.
-<!--SR:!2026-10-05,32,170-->
+<!--SR:!2026-11-28,54,170-->
 
 Per Andrew James Brown, how does evolutionary religion live in imagination? :: Tries things out while staying open to revision.
 <!--SR:!2026-12-23,118,210-->

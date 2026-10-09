@@ -59,7 +59,7 @@ Per the Weimans, value is a combination of what two things?
 <!--SR:!2026-11-11,151,270-->
 
 Per the Weimans, the combination of actuality and possibility creates ==value==.
-<!--SR:!2026-10-01,161,310-->
+<!--SR:!2026-12-21,81,290-->
 
 Per the Weimans, a kind of change that increases actuality to approximate possibility. :: Growth
 <!--SR:!2027-07-27,309,290-->

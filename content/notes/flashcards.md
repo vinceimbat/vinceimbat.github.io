@@ -33,10 +33,10 @@ Ratio of mug to ground coffee in tbsp when boiling. :: 1 mug : 6 tbsp coffee
 <!--SR:!2026-12-11,116,230-->
 
 Ratio of coffee (tbsp) to water (cup) when boiling. :: 2 tbsp coffee : 3/4 cup of water
-<!--SR:!2026-10-03,11,130-->
+<!--SR:!2026-10-24,21,150-->
 
 Tantan's birthday :: May 15
-<!--SR:!2026-09-28,4,130-->
+<!--SR:!2026-10-14,10,170-->
 
 Via's birthday (hint: day is right after Tantan's) :: July 16
 <!--SR:!2026-10-15,32,150-->
@@ -54,7 +54,7 @@ Command to show/unshow hidden files in Mac. :: Cmd + Shift+ . (period)
 <!--SR:!2027-02-03,138,291-->
 
 Name of the talahardin note containing quotes to remind me of my writing path. :: blazes
-<!--SR:!2026-10-04,228,330-->
+<!--SR:!2027-01-26,114,310-->
 
 My perfume name and code. :: Ian Darcy LW
 <!--SR:!2027-01-23,120,288-->

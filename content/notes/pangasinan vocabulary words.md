@@ -1,17 +1,16 @@
 ---
 title: Pangasinan vocabulary words
 created: 2024-04-15 16:33:19+08:00
-modified: 2026-05-10 10:13:30+08:00
+modified: 2026-09-28T15:19:24+08:00
 aliases:
-- Pangasinan-vocabulary-words
-draft: null
+  - Pangasinan-vocabulary-words
+draft:
 publish: true
 tags:
-- species/thought
-- language/pangasinan
-- status/seedling
+  - species/thought
+  - language/pangasinan
+  - status/seedling
 ---
-
 # A
 
 Akis

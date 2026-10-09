@@ -146,7 +146,7 @@ Tell the story of the sacrifice of Iphigenia.
 8. Clytemnestra murders Agamemnon years later in revenge.
 ?
 Lures Iphigenia by claiming she will be wed to Achilles.
-<!--SR:!2026-09-26,128,290-->
+<!--SR:!2027-10-08,377,290-->
 
 Tell the story of the sacrifice of Iphigenia.
 1. Greek fleet sails for Troy.
@@ -187,7 +187,7 @@ Tell the story of the sacrifice of Iphigenia.
 <!--SR:!2027-01-08,190,270-->
 
 Lucretius closes the proem for Venus in De Rerum Natura Book I with what line? :: By Superstition we are driven to deeds of such great evil.
-<!--SR:!2026-10-03,15,130-->
+<!--SR:!2026-10-31,28,150-->
 
 Lucretius' nationality. :: Roman
 <!--SR:!2027-01-10,204,290-->

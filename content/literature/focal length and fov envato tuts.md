@@ -64,7 +64,7 @@ The focal length of a lens is measured in ==mm==.
 <!--SR:!2029-07-20,1192,350-->
 
 What is the camera lens' optical center? :: Point where all light rays intersect in the lens.
-<!--SR:!2026-10-08,257,250-->
+<!--SR:!2027-02-14,129,230-->
 
 Shorter focal length = ==wider== FOV.
 <!--SR:!2026-11-19,115,230-->
@@ -146,7 +146,7 @@ Micro 4/3 has a ==2x== FOVCF.
 <!--SR:!2026-11-08,365,290-->
 
 A 50 mm lens on a Micro 4/3 camera would have a similar FOV to a ==100== mm lens on a full frame camera.
-<!--SR:!2026-09-29,11,170-->
+<!--SR:!2026-10-17,12,170-->
 
 Canon EFS and Nikon DX lenses are designed for ==digital== cameras.
 <!--SR:!2029-02-19,1074,350-->

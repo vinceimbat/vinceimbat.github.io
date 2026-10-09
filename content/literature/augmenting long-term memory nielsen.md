@@ -50,7 +50,7 @@ Describe syntopic reading. :: Deep reading of major sources interspersed with sh
 <!--SR:!2026-10-20,249,210-->
 
 To find the key reading materials of a field ... :: Shallow read many materials.
-<!--SR:!2026-09-28,55,190-->
+<!--SR:!2027-01-11,105,190-->
 
 How can syntopic reading lead to creative work? :: By revealing gaps and possibilities I could pursue.
 <!--SR:!2029-01-24,1000,270-->
@@ -107,7 +107,7 @@ Basic unit of working memory ::: Chunk
 <!--SR:!2030-08-14,1564,338!2027-06-11,377,258-->
 
 Per Nielsen (2018), what is the role of long-term memory in developing expertise? :: More chunks memorized boosts one's IQ in a domain.
-<!--SR:!2026-09-28,32,138-->
+<!--SR:!2026-11-11,44,138-->
 
 Rule of thumb to be very selective on what to memorize for the long term. :: Memorize material that you'll need repeatedly.
 <!--SR:!2026-12-15,428,240-->

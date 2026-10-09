@@ -37,7 +37,7 @@ I feel exiled. From my own family. My own province. The community I grew up in. 
 # Prompts
 
 Per Paul Wienpahl, reality is ==what you experience it to be==.
-<!--SR:!2026-09-28,29,250-->
+<!--SR:!2027-01-08,102,270-->
 
 Per Paul Wienpahl, being a ==man without a position== should open the door to detachment.
 <!--SR:!2028-01-28,535,310-->

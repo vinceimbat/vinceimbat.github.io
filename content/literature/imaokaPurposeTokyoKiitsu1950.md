@@ -75,7 +75,7 @@ The first Sunday meeting of the Tokyo Kiitsu Kyōkai was held in ==October 23, 1
 <!--SR:!2027-03-16,173,230-->
 
 Shōwa era years in Japan :: 1926 to 1989
-<!--SR:!2026-09-28,18,130-->
+<!--SR:!2026-10-22,24,130-->
 
 Per Imaoka, the term 帰一 (Kiitsu) is often translated into English as =="Unity"==.
 <!--SR:!2027-09-15,421,290-->
@@ -84,7 +84,7 @@ Per Imaoka, the Unitarian movement in Japan was most active during what two eras
 <!--SR:!2029-10-30,1149,310-->
 
 Taisho era years :: 1912–1926
-<!--SR:!2026-10-03,26,130-->
+<!--SR:!2026-11-06,34,130-->
 
 In 1950, what was the state of the Unitarian Movement in Japan per Imaoka? :: Continues but weakly
 <!--SR:!2028-06-22,807,330-->
@@ -150,7 +150,7 @@ What century does the Community Church Movement originate from? :: 20th century
 <!--SR:!2027-02-06,346,270-->
 
 What is the Community Church Movement? :: 20th century evangelical attempt to realize practical ecumenism
-<!--SR:!2026-09-30,54,150-->
+<!--SR:!2026-10-27,27,130-->
 
 What is ecumenism? :: A movement promoting unity among the world's Christian Churches.
 <!--SR:!2026-10-28,117,250-->

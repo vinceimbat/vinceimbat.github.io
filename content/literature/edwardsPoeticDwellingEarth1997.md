@@ -316,7 +316,7 @@ Per Edwards, what is the relationship between Dasein and its world? :: Dasein is
 <!--SR:!2027-03-01,244,230-->
 
 Per Edwards, what is the difference between the discarnate self and the rugged self? :: Discarnate self = self of transcendental subjectivity; Rugged self = the everyday, common-sense self
-<!--SR:!2026-09-30,63,190-->
+<!--SR:!2026-11-01,32,170-->
 
 Per Edwards, what is the relationship of Dasein with the discarnate self and the rugged self? :: It is neither these two.
 <!--SR:!2028-02-29,570,310-->
@@ -331,7 +331,7 @@ Per Edwards, what is Pathos? :: Gravity of everyday practices.
 <!--SR:!2026-11-08,147,286-->
 
 The pathos of practice translates to the pathos of ==lives==.
-<!--SR:!2026-10-07,18,210-->
+<!--SR:!2026-11-30,54,230-->
 
 Per Edwards, what happens to the pathos of everyday practices and lives when they are subject to Dasein's philosophical reflection? :: Diminished
 <!--SR:!2027-07-13,403,326-->
@@ -417,7 +417,7 @@ What is the condition of the Being of things understood as Zeug? :: Dasein
 <!--SR:!2027-02-13,299,306-->
 
 Main argument of George Berkeley's idealism. :: Things' existence depends on being perceived.
-<!--SR:!2026-10-04,58,206-->
+<!--SR:!2027-02-01,120,206-->
 
 Formula that summarizes George Berkeley's idealism. :: To be is to be perceived.
 <!--SR:!2027-03-09,172,246-->

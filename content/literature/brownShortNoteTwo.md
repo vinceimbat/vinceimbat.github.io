@@ -56,7 +56,7 @@ In Imaoka's vision, who leads the Kiitsu Kyōkai? :: Lay
 <!--SR:!2028-03-24,742,330-->
 
 In Imaoka's vision, what is the common cause of Kiitsu Kyōkai? :: To create a universal cooperative community.
-<!--SR:!2026-10-06,264,270-->
+<!--SR:!2028-09-20,714,270-->
 
 Per Brown, in Confucian contexts, 會 (kai) referred to? :: Gatherings of mutual exchange of ideas, not passing on of fixed doctrines.
 <!--SR:!2028-01-19,589,270-->

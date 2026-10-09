@@ -114,7 +114,7 @@ Per Andrew James Brown, all religious expressions are tied to particular ==place
 <!--SR:!2027-03-14,265,290-->
 
 Since jiyū shūkyō recognizes that religious expressions are dynamic, what is its attitude toward them? :: Allows them to pass away or be renewed but recognizes their value.
-<!--SR:!2026-09-28,62,170-->
+<!--SR:!2027-03-03,156,190-->
 
 Per Andrew James Brown, why are even the most fleeting form of religious expression valuable? :: At that moment, it is the most essential form it can take.
 <!--SR:!2027-07-19,391,250-->

@@ -53,10 +53,10 @@ The following comes from Andrew J. Brown's translation of a revision of Imaoka's
 # Prompts
 
 Year Imaoka established his Principles of Living. :: 1965
-<!--SR:!2026-10-07,12,130-->
+<!--SR:!2026-10-29,22,150-->
 
 Number of articles in Imaoka's original Principles of Living. :: 7
-<!--SR:!2026-09-30,44,206-->
+<!--SR:!2026-10-22,22,186-->
 
 What did members of the Tokyo Kiitsu Kyokai do with Imaoka's Principles of Living? :: Recite them during Sunday gatherings.
 <!--SR:!2027-02-17,476,286-->
@@ -65,19 +65,19 @@ Why did Imaoka revise his Principles of Living in 1973? :: He added a declaratio
 <!--SR:!2026-12-20,415,266-->
 
 Principle 1 of Imaoka's "My Principles of Living" (1981) (hint: Don't forget MOA) :: I place trust/have faith in myself. I am aware of my own autonomous selfhood, creativity and sociality, and feel the worth of living through them. Autonomous selfhood, creativity and sociality can also be expressed as personality, divinity, and Buddha-nature.
-<!--SR:!2026-09-29,42,130-->
+<!--SR:!2026-10-20,21,130-->
 
 Principle 2 of Imaoka's "My Principles of Living" (1981) :: I place trust/have faith in others. Others are neighbours who possess their own selves as others. By affirming myself, I inevitably place trust/have faith in others.
 <!--SR:!2026-11-14,74,150-->
 
 Principle 3 of Imaoka's "My Principles of Living" (1981) :: I place trust/have faith in the cooperative community. Neither self nor others exist in isolation or self-sufficiency; instead, they inevitably establish a mutual interdependency, solidarity, and a cooperative community.
-<!--SR:!2026-09-29,72,170-->
+<!--SR:!2026-11-03,35,150-->
 
 Principle 4 of Imaoka's "My Principles of Living" (1981) :: I place trust/have faith in the trinity of self, others, and cooperative community. The self, others, and the cooperative community, while each possessing unique individualities, unite into one. Therefore, there is no precedence or superiority among them; each always presupposes the other two.
-<!--SR:!2026-09-29,21,150-->
+<!--SR:!2026-11-01,33,150-->
 
 Principle 5 of Imaoka's "My Principles of Living" (1981) :: I place trust/have faith in the universal/cosmic cooperative community. The trinity of self, others, and the cooperative community further unites with heaven and earth and all things, to form a universal/cosmic cooperative community.
-<!--SR:!2026-09-26,36,130-->
+<!--SR:!2026-11-12,47,130-->
 
 Principle 6 of Imaoka's "My Principles of Living" (1981) :: I place trust/have faith in the church/kyōkai. The church/kyōkai is a microcosm of the universal/cosmic cooperative community. I can only be myself by being a member of the church/kyōkai.
 <!--SR:!2026-10-17,179,216-->

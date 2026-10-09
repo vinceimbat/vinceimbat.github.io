@@ -41,7 +41,7 @@ Per Andrew James Brown, why are fundamental properties not possessions. :: They 
 <!--SR:!2026-11-27,111,210-->
 
 Per Andrew James Brown, what is the property shared by all things, sentient and non-sentient? :: Not having property but being the property of the whole.
-<!--SR:!2026-09-28,24,190-->
+<!--SR:!2026-12-03,66,210-->
 
 Per Andrew James Brown, the only real "real state" that exists is ==the whole cosmos==.
 <!--SR:!2027-03-07,180,250-->

@@ -30,7 +30,7 @@ Brown, Andrew James. “The Double Movement Dance of a Free-Religious Faith.” 
 # Prompts
 
 Hungarian word for faith. :: Hit
-<!--SR:!2026-10-07,47,250-->
+<!--SR:!2027-03-21,165,270-->
 
 Nuance in the meaning of the Hungarian word for faith, *hit*. :: Faith in doctrines of a specific denomination
 <!--SR:!2027-01-02,162,270-->
@@ -39,10 +39,10 @@ Per Andrew James Brown, why can't a free-religious community adopt the Hungarian
 <!--SR:!2026-11-23,227,270-->
 
 Metaphor Andrew James Brown uses to explain free-religious faith. :: Ice dancing moment of throw
-<!--SR:!2026-10-08,72,230-->
+<!--SR:!2026-11-12,35,210-->
 
 Per Andrew James Brown, free-religious  faith is a double movement of ==giving up and getting back.==
-<!--SR:!2026-09-27,63,230-->
+<!--SR:!2026-10-30,32,210-->
 
 Per Andrew James Brown, in an ice dancing moment of throw, faith is demonstrated as:
 1.
@@ -74,4 +74,4 @@ Per Andrew James Brown, the ground we return to after a leap of free-religious f
 <!--SR:!2026-11-08,262,330-->
 
 Japanese word that means "true-entrusting." :: shinjin
-<!--SR:!2026-10-03,82,290-->
+<!--SR:!2027-08-29,330,310-->

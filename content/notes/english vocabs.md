@@ -62,7 +62,7 @@ convalescence :: n. recuperation
 # D
 
 dappled :: adj. spotted
-<!--SR:!2026-10-06,335,270-->
+<!--SR:!2029-03-30,905,270-->
 
 debenture :: n. a form of bond
 <!--SR:!2026-10-19,138,270-->
@@ -93,13 +93,13 @@ enrapture :: v. give intense pleasure or joy to
 <!--SR:!2027-01-02,127,169-->
 
 ensorcel :: v. enchant
-<!--SR:!2026-09-27,131,289-->
+<!--SR:!2026-12-02,65,269-->
 
 eschew (hint: Young People Ask) :: v. shun
 <!--SR:!2027-09-29,521,289-->
 
 execrate :: v. express great loathing
-<!--SR:!2026-10-06,25,130-->
+<!--SR:!2026-11-10,34,130-->
 
 exegesis - critical explanation or interpretation of a text, especially of scripture
 
@@ -186,10 +186,10 @@ knell - solemn sound of a bell (death)
 # L
 
 languor :: n. weariness
-<!--SR:!2026-09-26,5,130-->
+<!--SR:!2026-10-18,13,170-->
 
 largesse :: n. generosity
-<!--SR:!2026-09-29,67,189-->
+<!--SR:!2026-11-02,34,169-->
 
 lassitude :: n. languor
 <!--SR:!2026-12-14,152,269-->
@@ -240,7 +240,7 @@ nondescript :: adj. uninteresting
 # O
 
 ochre :: n. earthy red or yellow
-<!--SR:!2026-09-29,55,211-->
+<!--SR:!2027-01-22,115,211-->
 
 onanism :: n. masturbation
 <!--SR:!2029-08-26,1214,351-->
@@ -273,7 +273,7 @@ propitious :: adj. favorable
 <!--SR:!2027-04-27,456,292-->
 
 punctilio :: n. a small detail of procedure
-<!--SR:!2026-10-03,69,192-->
+<!--SR:!2027-04-12,191,212-->
 
 punctilious :: adj. showing great attention to detail or correct behavior
 <!--SR:!2026-11-03,163,172-->
@@ -318,7 +318,7 @@ shutter :: n. window cover
 <!--SR:!2027-03-21,495,312-->
 
 singe :: v. burn something lightly
-<!--SR:!2026-09-26,167,255-->
+<!--SR:!2027-11-23,423,255-->
 
 smothered :: v. to kill by depriving of air
 <!--SR:!2026-10-28,91,212-->
@@ -373,7 +373,7 @@ vilify :: v. to defame
 <!--SR:!2026-11-13,52,190-->
 
 voile :: n. thin, semitransparent fabric
-<!--SR:!2026-10-03,52,130-->
+<!--SR:!2027-01-12,101,150-->
 
 # W
 
@@ -381,7 +381,7 @@ waft :: v. to move lightly on a buoyant medium
 <!--SR:!2027-05-03,224,213-->
 
 westering :: adj. (especially of the sun) nearing the west
-<!--SR:!2026-09-26,75,195-->
+<!--SR:!2027-04-25,211,215-->
 
 whittle :: v. to shape by cutting
 <!--SR:!2028-05-23,750,293-->

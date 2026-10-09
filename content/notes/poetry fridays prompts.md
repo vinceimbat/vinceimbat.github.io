@@ -1,7 +1,7 @@
 ---
 title: Poetry Fridays prompts
 created: 2026-06-08 20:49:52+08:00
-modified: 2026-09-14T16:59:31+08:00
+modified: 2026-10-05T16:35:23+08:00
 aliases:
   - Poetry Fridays prompts
 draft: false
@@ -187,3 +187,55 @@ _MB Prompts:_
 
 1. The ghost of another life never lived. What if you lived another life far different from what you are today? At a certain point, we make life-changing directions. And “that has made all the difference” as Lolo Robert Frost pointed out. What if we meet the ghost of that life we set aside, that self we never chose? How do we carry a conversation?
 2. Convo with the dead. Given the chance to talk to the ghost of the dead --- whether a historical, literary, or fictitious character --- what would we say assuming that he/she has been a great influence in our lives. You can also choose a departed friend or family member.
+
+---
+
+[[2026-09-26]]
+
+by Lea
+
+Set A
+
+1. Write a poem about numbers. Pick a significant number: someone's age, house number, ID number, plate number, a specific time, or an amount of money. It could be a counting poem.
+2. Write a poem about an activity that you don't do anymore. Examples: playing an instrument, cooking a dish, swimming in lakes. Focus on the physical items used and the physical space the activity used to occupy.
+
+Set B
+
+1. Borrowing from Edgar Calabia Samar: Magsulat ng tula tungkol sa "una kong naisip paggising" -- magsulat tungkol sa karaniwan o kakaibang naisip mo isang umaga pagmulat ng iyong mga mata.
+2. Write a poem about one thing you love or hate about your morning routine: sunrise, breakfast, reading the news, chores, commutes, the silence or sounds of a household or neighborhood waking up. You could also write about one unforgettable morning spent somewhere other than your house.
+
+aubad - tula tungkol sa umaga o madaling araw
+alborada
+
+---
+
+[[2026-10-03]]
+
+by Vince
+
+October 6: Little Comforts
+
+Think of Mary Oliver remembering happiness alongside everything that was not happiness. Think of Sylvia Plath writing, "I may never be happy, but tonight I am content." Write about the small comforts that get you through: coffee, clean sheets, rain on the roof, a familiar voice, a dog waiting at the door. Happiness need not be grand. Sometimes, contentment is enough.
+
+---
+
+Warm Up
+
+1. Use the following lines from Mary Oliver's poem "The Pond" to trigger your writing.
+
+This is how it has been, and this is how it is:
+All my life I have been able to feel happiness,
+except whatever was not happiness,
+which I also remember.
+
+2. Today is October 3, 2026. What matters to you right now in your life? If you want to avoid the "I" talking then think of another person, character, or group of people, and ask yourself what matters to them right now? Try to narrow down your answer to a single image. Then use that image to begin writing.
+
+Write Pa More
+
+1. Return to a difficult time in your life. Perhaps you were in a difficult job, relationship, health situation, creative state, existential state, etc. Think of the little things that got you through that difficult time. List them if you need to remember. Then take just one of these little things and write about it.
+
+2. In A Pilgrim at Tinker Creek, Annie Dillard shared that when she was six or seven years old, she would hide pennies under the roots of trees or inside the holes of sidewalks just for fun. She would then draw arrows that point toward the pennies and write a label like "SURPRISE AHEAD." She never returned to these pennies and didn't care who would receive them. "A free gift from the universe" is what she called them. Dillard uses the metaphor of the penny to refer to small, ordinary events in every day life that could infuse our days with meaning. She then said that "the world is in fact planted in pennies" and that all we need to do is to stoop to pick them up. Write about an experience of finding one of these pennies.
+
+---
+
+bogong moths

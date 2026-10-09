@@ -17,7 +17,7 @@ If prompt design is task design, how do you know the prompt works? :: It changes
 <!--SR:!2027-01-31,309,210-->
 
 What is "testing effect"? :: Learning produced by trying to remember knowledge.
-<!--SR:!2026-10-05,343,230-->
+<!--SR:!2028-12-02,789,230-->
 
 What is the difference between a retrieval practice and a school exam? :: Retrieval practice tests to produce learning, not assess it.
 <!--SR:!2026-12-10,311,230-->
@@ -193,7 +193,7 @@ The five lenses in understanding concepts are:
 5.
 ?
 Significance and implications
-<!--SR:!2026-10-06,73,252-->
+<!--SR:!2027-04-09,184,252-->
 
 To write prompts about a concept’s attributes and tendencies, what should you identify about its instances? :: What’s always / sometimes / never true.
 <!--SR:!2026-11-06,153,232-->
@@ -294,7 +294,7 @@ When engaging with a challenging or unfamiliar piece of text, what details shoul
 <!--SR:!2027-12-04,666,272-->
 
 When engaging with a book, when is the best time to write prompts? :: After reading, highlighting, or taking notes about a chapter or major section
-<!--SR:!2026-09-29,173,212-->
+<!--SR:!2026-12-25,87,192-->
 
 When you're trying to thoroughly internalize a rich text, how many prompt-writing passes should you do? :: Multiple
 <!--SR:!2027-04-18,543,292-->

@@ -36,13 +36,13 @@ Per Imaoka (1951), what happens the more an individual delves into their persona
 <!--SR:!2027-01-04,471,310-->
 
 Imaoka (1951) described the position of a free religious person as (hint: Sino, Unitarian-Universalist) :: Uniquely individual yet universally comprehensive.
-<!--SR:!2026-09-26,17,130-->
+<!--SR:!2026-10-29,33,150-->
 
 Per Imaoka (1951), church sovereignty will be shared among ??? with the clergy serving as ???. :: church members, executive authorities
 <!--SR:!2026-10-17,116,230-->
 
 Per Imaoka (1951), if fellow church members become truly close and intimately interconnected, what will happen to the church founder and its officials? :: Fade into the background.
-<!--SR:!2026-09-26,427,310-->
+<!--SR:!2031-10-02,1832,330-->
 
 For Imaoka (1951), what should church leaders do beyond their "on-stage" activities to be truly great? :: Provide guidance and inspiration outside on-stage activities.
 <!--SR:!2026-11-01,142,230-->

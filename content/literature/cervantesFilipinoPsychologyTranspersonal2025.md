@@ -469,7 +469,7 @@ Per Pe-Pua (2015), what triggered indigenous psychology to emerge? :: Universali
 <!--SR:!2027-02-22,151,272-->
 
 What is Sikolohiyang Pilipino? :: Scientific study of Filipino experience through Filipino ways of knowing.
-<!--SR:!2026-09-29,156,252-->
+<!--SR:!2026-12-17,79,232-->
 
 In culture, indigenous refers to ==what naturally emerges and flourishes here==.
 <!--SR:!2026-10-20,113,252-->
@@ -484,7 +484,7 @@ Per Cervantes (2025), why are certain concepts appearing in the Filipino languag
 <!--SR:!2027-04-16,294,272-->
 
 Why did Cervants (2025) make the claim that Sikolohiyang Pilipino is transpersonal psychology? :: It is beyond-ego, integrative/holisitic, and transformative.
-<!--SR:!2026-10-02,61,252-->
+<!--SR:!2027-03-05,154,252-->
 
 How is Sikolohiyang Pilipino beyond-ego? :: Sees the self as part of a larger identity called *kapwa*.
 <!--SR:!2026-10-10,45,192-->
@@ -517,10 +517,10 @@ Per Cervantes (2025), *kaluluwa*'s bodily experience is tied to ==*ginhawa*==.
 <!--SR:!2027-05-10,374,252-->
 
 Per Cervantes (2025), *kaluluwa*, as experienced subjectively, is ==*diwa*==.
-<!--SR:!2026-10-05,23,212-->
+<!--SR:!2026-11-23,49,212-->
 
 Two meanings of "spirit" in Filipino folk belief. :: Breath and vitality.
-<!--SR:!2026-10-03,43,192-->
+<!--SR:!2026-12-26,84,192-->
 
 In Cebuano, spirit is ==ginhawa==.
 <!--SR:!2028-11-07,911,332-->
@@ -607,16 +607,16 @@ Per Cervantes (2025), how does *kapwa* inform Filipino behavior? :: Motivates us
 <!--SR:!2026-10-09,275,252-->
 
 In Sikolohiyang Pilipino, who are the beneficiaries of pakikipagkapwa? :: People, nature, and invisible beings.
-<!--SR:!2026-10-03,34,252-->
+<!--SR:!2027-01-30,119,272-->
 
 Per Cervantes (2025), when does a *kapwa* ecology emerge? :: When a self extends their identity to the world around them.
 <!--SR:!2026-11-11,106,152-->
 
 Cervantes' (2025) rough translation of *utang na loob* :: “the soul as payment for a debt”
-<!--SR:!2026-09-28,174,252-->
+<!--SR:!2028-06-03,614,272-->
 
 Per Cervantes (2025), when Filipino traits are detached from their *kapwa* context, what happens to them? :: They're misinterpreted.
-<!--SR:!2026-09-27,50,272-->
+<!--SR:!2027-04-07,191,292-->
 
 Per Cervantes (2025), when *utang na loob* is detached from its *kapwa* context, it is interpreted as a ==moral obligation==.
 <!--SR:!2026-10-30,56,272-->

@@ -20,7 +20,7 @@ Night photography requires fast lenses.
 # Prompts
 
 Aperture is ==the hole in the camera lens where light enters==.
-<!--SR:!2026-10-08,37,170-->
+<!--SR:!2026-10-26,18,150-->
 
 In the human eye, aperture could be represented by the ==pupil==.
 <!--SR:!2026-10-11,35,150-->
@@ -47,7 +47,7 @@ The max aperture of a zoom lens will get ==smaller== as the focal length increas
 <!--SR:!2026-10-27,49,170-->
 
 The f-stop number of a camera using a zoom lens will ==increase== as the focal length increases.
-<!--SR:!2026-10-02,161,210-->
+<!--SR:!2026-12-22,81,190-->
 
 When you zoom in with your camera, focal length ==increases==.
 <!--SR:!2026-11-12,54,210-->

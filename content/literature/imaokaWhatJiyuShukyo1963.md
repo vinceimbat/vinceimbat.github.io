@@ -116,7 +116,7 @@ Give examples of Buddhist religious leaders Imaoka considers free-religionists.
 - Shinran
 - Dōgen
 - Nichiren
-<!--SR:!2026-09-29,86,318-->
+<!--SR:!2027-06-29,273,318-->
 
 Give example of free religionists from India per Imaoka: Rammohan Roy, Ramakrishna, and Vivekananda
 
@@ -145,7 +145,7 @@ Per Imaoka, what are secular institutions sometimes capable of doing even withou
 <!--SR:!2026-11-27,274,310-->
 
 Per Imaoka, the two kinds of religion are ==narrow and broad==.
-<!--SR:!2026-09-27,34,230-->
+<!--SR:!2027-01-18,112,250-->
 
 Between the two kinds of religion in terms of scope, jiyū shūkyō falls where? :: Broad.
 <!--SR:!2027-04-25,468,330-->

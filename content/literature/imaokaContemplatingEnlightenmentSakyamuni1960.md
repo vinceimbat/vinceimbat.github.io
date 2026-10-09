@@ -51,7 +51,7 @@ Per Imaoka, what made it possible for the abstract Dharma that Shakyamuni receiv
 <!--SR:!2026-11-13,102,190-->
 
 Where was Shakyamuni's first sermon delivered? :: Deer Park
-<!--SR:!2026-10-06,118,310-->
+<!--SR:!2028-02-22,503,330-->
 
 Per Imaoka, after delivering his first sermon Shakyamuni was able to form ==the Sangha==.
 <!--SR:!2028-01-08,610,310-->
@@ -75,7 +75,7 @@ Per Imaoka, the Sangha is the archetype of ==the Pure Land==.
 <!--SR:!2027-10-03,592,310-->
 
 By establishing the interdependence of the Buddha, the Dharma, and the Sangha, what did Imaoka argue regarding Shakyamuni's enlightenment? :: It was dynamic and processual.
-<!--SR:!2026-10-05,22,150-->
+<!--SR:!2026-11-07,33,150-->
 
 Per Imaoka, the three treasures of Buddhism are strikingly similar to what trio in Christianity? :: Christ, the Logos, and the Church
 <!--SR:!2027-03-07,385,290-->

@@ -20,7 +20,7 @@ Occupation of Giovanni Boccaccio :: Renaissance poet and humanist
 <!--SR:!2026-11-21,67,170-->
 
 Century when Giovanni Boccaccio lived :: 14th century CE
-<!--SR:!2026-10-04,29,170-->
+<!--SR:!2026-10-20,16,150-->
 
 Where was the setting of The Decameron :: Florence, Italy
 <!--SR:!2027-02-12,187,270-->
@@ -65,7 +65,7 @@ It is ==human== to have ==compassion== for those in ==distress==. — ==Giovanni
 <!--SR:!2025-01-27,3,250!2000-01-01,1,250!2000-01-01,1,250!2025-01-27,4,270-->
 
 Per Brown (January 19, 2025), what immediate benefit can be found by a person who seeks out jiyū shūkyō? :: Restores their resolve to continue showing neighborly love.
-<!--SR:!2026-10-06,34,130-->
+<!--SR:!2026-11-20,44,130-->
 
 # References to check
 

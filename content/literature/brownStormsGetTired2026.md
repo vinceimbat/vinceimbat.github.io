@@ -39,7 +39,7 @@ Charlie Mackesy's 2019 book. :: *The Boy, the Mole, the Fox and the Horse* (2019
 <!--SR:!2027-06-11,351,310-->
 
 Charlie Mackesy's 2025 book. :: *Always Remember: The Boy, the Mole, the Fox, the Horse, and the Storm* (2025)
-<!--SR:!2026-10-03,165,310-->
+<!--SR:!2026-12-23,81,290-->
 
 Per Brown, since Mackesy's characters don't know where they are going or what they are seeking, what do they embody? :: A way of being in the world that lets things come and go
 <!--SR:!2026-11-11,70,270-->

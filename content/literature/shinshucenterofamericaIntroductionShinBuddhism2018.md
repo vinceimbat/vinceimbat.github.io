@@ -94,7 +94,7 @@ What is the most common misconception about Pure Land Buddhism? :: It is theisti
 <!--SR:!2028-10-17,777,290-->
 
 For Shinran Shōnin Amida Buddha was not a mythical Buddha but ==a symbol for the Dharma==.
-<!--SR:!2026-10-08,184,230-->
+<!--SR:!2027-01-07,91,210-->
 
 Per Shinran Shōnin, what is the first step toward awakening and liberation? :: An honest introspection of one's limitations.
 <!--SR:!2027-05-30,407,270-->

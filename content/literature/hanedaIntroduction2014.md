@@ -85,14 +85,14 @@ Last shogunate in Japan :: Tokugawa
 <!--SR:!2026-12-22,402,310-->
 
 What is the largest political restructuring in Japan during the Meiji period? :: Transition from the feudal system to a modern state
-<!--SR:!2026-10-08,95,250-->
+<!--SR:!2026-11-25,48,230-->
 
 Two guiding principles of the Meiji government:
 1.
 2. Modernization through the acceptance of Western culture
 ?
 Restoration of imperial rule
-<!--SR:!2026-09-27,323,290-->
+<!--SR:!2030-04-22,1302,310-->
 
 Two guiding principles of the Meiji government:
 1. Restoration of imperial rule
@@ -111,7 +111,7 @@ Per Haneda, what was the basic posture that Kiyozawa took in examining Buddhism?
 <!--SR:!2027-05-22,386,230-->
 
 According to Kiyozawa, what is the primary lesson of Buddhism? :: To be liberated.
-<!--SR:!2026-10-02,18,150-->
+<!--SR:!2026-10-12,10,130-->
 
 According to Kiyozawa from what should a Buddhist be liberated from? :: Self
 <!--SR:!2029-04-19,1078,350-->
@@ -120,7 +120,7 @@ Per Shakyamuni Buddha, what was the very cause of suffering? :: The view of a fi
 <!--SR:!2027-09-23,427,270-->
 
 What is anicca in Buddhism? :: Continuous change
-<!--SR:!2026-10-05,55,190-->
+<!--SR:!2026-11-02,28,170-->
 
 Per Shin Buddhism, when does conflict arise? :: When things and people don't meet the expectations of a fixed self.
 <!--SR:!2026-12-04,87,250-->
@@ -138,13 +138,13 @@ Per Shin Buddhism, how does the Dharma liberate people from the self? :: Takes t
 <!--SR:!2027-08-30,386,210-->
 
 How does humility and freedom go hand in hand in Buddhism? :: Humility leads to selflessness, which leads to freedom.
-<!--SR:!2026-10-01,10,132-->
+<!--SR:!2026-10-17,10,150-->
 
 Interpret Shinran's statement: "Even a good person can be liberated, how much more easily a wicked person!" (Tannishō, III) :: People who recognize their wickedness are easier to liberate than those who regard themselves as ethically good.
 <!--SR:!2028-04-21,648,272-->
 
 Per Nobou Haneda, what is the fundamental theme of Shin Buddhism? :: Humility leads to absolute freedom.
-<!--SR:!2026-10-08,24,130-->
+<!--SR:!2026-10-21,13,130-->
 
 Buddhist teachers Kiyozawa focused on to search for the way to absolute humility and freedom. :: Shakyamuni and Shinran
 <!--SR:!2027-08-04,534,312-->
@@ -237,7 +237,7 @@ Buddhist terms Kiyozawa used to refer to the infinite and supreme universal trut
 <!--SR:!2026-10-17,35,152-->
 
 The term tariki was originally formulated by the Chinese Pure Land monk ==T'an-luan==.
-<!--SR:!2026-10-07,172,272-->
+<!--SR:!2027-01-01,86,252-->
 
 Give at least one example of a personified symbol Kiyozawa used to refer to the infinite and supreme universal truth. :: Buddha, Buddha Amitābha, and Tathāgata
 <!--SR:!2026-11-07,342,312-->
@@ -260,7 +260,7 @@ Non-Buddhist concepts Kiyozawa used to refer to the infinite and supreme univers
 - Mandate of Heaven (tenmei)
 ?
 The Infinite (mugen)
-<!--SR:!2026-10-07,316,352-->
+<!--SR:!2030-12-13,1528,372-->
 
 Non-Buddhist concepts Kiyozawa used to refer to the infinite and supreme universal truth.
 - The Absolute (zettai)
@@ -270,7 +270,7 @@ Non-Buddhist concepts Kiyozawa used to refer to the infinite and supreme univers
 - Mandate of Heaven (tenmei)
 ?
 Heaven (ten)
-<!--SR:!2026-09-30,310,352-->
+<!--SR:!2030-11-07,1499,372-->
 
 Non-Buddhist concepts Kiyozawa used to refer to the infinite and supreme universal truth.
 - The Absolute (zettai)

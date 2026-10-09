@@ -30,7 +30,7 @@ Imaoka, Shin’ichirō. _My Position on Jiyū Shūkyō_. Translated by Andrew Ja
 # Prompts
 
 Year Shin'ichirō Imaoka was baptized as a Christian :: 1897
-<!--SR:!2026-09-30,15,170-->
+<!--SR:!2026-10-20,12,150-->
 
 Japanese derogatory term for Christians. :: Yaso
 <!--SR:!2027-04-22,369,290-->
@@ -54,7 +54,7 @@ After resigning as a pastor, Shin'ichirō Imaoka became what? :: Assistant resea
 <!--SR:!2026-11-10,285,250-->
 
 After resigning as a pastor, Shin'ichirō Imaoka worked in what school? (Hint: Iglesia) :: Tokyo Imperial University
-<!--SR:!2026-09-26,67,230-->
+<!--SR:!2027-02-24,151,230-->
 
 After resigning as a pastor, Shin'ichirō Imaoka worked in what department of a school? :: Religious Studies Department
 <!--SR:!2028-07-09,811,330-->
@@ -102,7 +102,7 @@ Catholic claim similar to the 18th vow of Hōzō Bosatsu :: There is no salvatio
 <!--SR:!2026-11-05,324,310-->
 
 Who is Hōzō Bosatsu? :: King that later became Amida Buddha.
-<!--SR:!2026-10-03,120,310-->
+<!--SR:!2028-02-25,510,330-->
 
 Sanskrit name of Hōzō Bosatsu (hint: bad breath dog). :: Dharmakara Bodhisattva
 <!--SR:!2027-07-24,362,230-->

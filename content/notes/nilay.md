@@ -12,7 +12,7 @@ tags:
 ---
 Nilay is a writing group I started with a small group of friends in September 2025. Most of the initial members were also members of [[rem tanauan|Rem Tanauan's]] [[tungko ng tula|Tungko ng Tula]]. 
 
-When thinking about the initial characteristics of the group, I thought of it as a [[religious writing]] group with the following characteristics:
+When thinking about the initial characteristics of the group, I thought of it as a [[notes/religious writing]] group with the following characteristics:
 
 - non-sectarian
 - non-denominational

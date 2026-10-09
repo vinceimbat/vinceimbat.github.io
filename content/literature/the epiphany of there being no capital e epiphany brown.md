@@ -11,7 +11,7 @@ tags:
 ---
 
 What is epiphany season? :: Liturgical period in many Christian churches that begins on January 6 and ends depending on denomination.
-<!--SR:!2026-10-03,20,143-->
+<!--SR:!2026-11-14,42,163-->
 
 Meaning of the word "epiphany" in Koine Greek. :: Manifestation or appearance
 <!--SR:!2026-10-24,150,230-->

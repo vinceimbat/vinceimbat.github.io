@@ -35,7 +35,7 @@ The Christmas story's original intuition.
 <!--SR:!2026-12-31,108,170-->
 
 Bruno Latour's suggested translation of Emmanuel or "a helpful God" :: "an obvious framework of ordinary, everyday existence"
-<!--SR:!2026-09-27,14,130-->
+<!--SR:!2026-10-16,18,130-->
 
 Why is Bruno Latour suggesting a translation of Emmanuel or "a helpful God"? :: To draw believers and disbelievers in God into a common conversation and being in the world while keeping the original meaning of Emmanuel intact.
 <!--SR:!2026-10-16,79,170-->
@@ -74,4 +74,4 @@ Per Imaoka Shin'ichirō, in his essay "Creation," what is the essence of religio
 <!--SR:!2026-12-29,102,190-->
 
 Per Imaoka Shin'ichirō, in his essay "Creation," a free-religious person is dedicated in what? :: The expansion of the universal life (or love).
-<!--SR:!2026-10-06,47,210-->
+<!--SR:!2026-10-31,24,190-->

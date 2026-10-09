@@ -38,7 +38,7 @@ Per Andrew James Brown, since Great Nature is a complex, endless, and creative p
 <!--SR:!2027-01-19,236,330-->
 
 Reflecting on the different forms of "mothering" throughout Great Nature, including Mother Earth, what was Andrew James Brown's conclusion about mothering? :: No single formula for mothering.
-<!--SR:!2026-09-28,72,270-->
+<!--SR:!2027-06-27,272,290-->
 
 Per Andrew James Brown, what kind of mother is Mother Earth? :: Fierce and indifferent mothering that allows life to emerge.
 <!--SR:!2026-11-23,177,310-->

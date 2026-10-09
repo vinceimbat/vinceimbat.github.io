@@ -1,16 +1,15 @@
 ---
 title: Rofel Brion
 created: 2024-11-12 20:49:21+08:00
-modified: 2026-06-14 08:37:31+08:00
+modified: 2026-09-27T19:35:50+08:00
 aliases:
-- Rofel Brion
-draft: null
+  - Rofel Brion
+draft:
 publish: true
 tags:
-- species/thought
-- status/seedling
+  - species/thought
+  - status/seedling
 ---
-
 # My observations
 
 Rofel's poems are lyrical in that the first person is there. However, they are not egotistical. They don't ask for attention. They have an element of transforming the reader into the owner of the poem. The poem is highlighted not the poet. Because it is simple and doesn't try to show of the poet's skills.

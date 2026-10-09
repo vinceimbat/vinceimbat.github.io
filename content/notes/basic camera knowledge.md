@@ -115,7 +115,7 @@ The brighter the environment, the ==faster== the shutter speed.
 <!--SR:!2027-08-09,340,210-->
 
 If you want a faster shutter speed, ==increase== the denominator.
-<!--SR:!2026-10-02,375,250-->
+<!--SR:!2029-04-27,938,250-->
 
 If you want a slower shutter speed, ==decrease== the denominator.
 <!--SR:!2026-11-07,55,150-->
