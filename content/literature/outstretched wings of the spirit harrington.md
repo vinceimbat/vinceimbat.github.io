@@ -75,7 +75,7 @@ Per Harrington, the rightness of our faith is verified by what? :: Objective cri
 <!--SR:!2026-11-14,193,210-->
 
 What is process theology? :: Theological approach that views reality as a dynamic process of change and becoming.
-<!--SR:!2026-10-17,49,150-->
+<!--SR:!2026-12-30,74,150-->
 
 Founder of process theology ::: Alfred North Whitehead
 <!--SR:!2000-01-01,1,250!2025-03-19,4,270-->

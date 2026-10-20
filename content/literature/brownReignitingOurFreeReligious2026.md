@@ -32,7 +32,7 @@ Brown, Andrew James. “Reigniting Our Free-Religious Tradition: From Being to B
 # Prompts
 
 What inspired Brown to look for an alternative way for the Cambridge Unitarian Church? :: Glimpses of demise of the Unitarian way
-<!--SR:!2026-10-18,108,250-->
+<!--SR:!2027-07-15,270,250-->
 
 Per Brown, Czech and Japanese Unitarians developed practices and resources that helped them resist what? :: Highly partisan, ethnonationalist politics
 <!--SR:!2026-11-01,48,210-->

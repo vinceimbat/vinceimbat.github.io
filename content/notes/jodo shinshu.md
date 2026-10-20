@@ -105,7 +105,7 @@ Gāthā ::: Buddhist songs
 <!--SR:!2000-01-01,1,250!2025-07-30,3,280-->
 
 Where did the original gāthās come from? :: Sutras
-<!--SR:!2026-10-16,350,360-->
+<!--SR:!2027-04-09,175,340-->
 
 English word closest to the Sanskrit word *kalpa*. :: Eon
 <!--SR:!2029-03-28,1044,360-->

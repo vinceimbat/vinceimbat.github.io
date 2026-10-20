@@ -33,13 +33,13 @@ buttress :: n. a projecting support of stone or brick built against a wall
 # C
 
 caparison :: n. ornamental covering for a horse
-<!--SR:!2026-10-12,229,249-->
+<!--SR:!2028-05-02,568,249-->
 
 caveat emptor :: n. principle: buyer responsible to check quality and suitability of goods before purchase.
 <!--SR:!2026-10-27,334,269-->
 
 chafe (hint: Lola...) :: v. irritate, vex
-<!--SR:!2026-10-17,93,169-->
+<!--SR:!2027-03-20,154,169-->
 
 chancel :: n. part of church near altar reserved for clergy and choir
 <!--SR:!2026-12-23,103,189-->
@@ -65,7 +65,7 @@ dappled :: adj. spotted
 <!--SR:!2029-03-30,905,270-->
 
 debenture :: n. a form of bond
-<!--SR:!2026-10-19,138,270-->
+<!--SR:!2026-12-27,69,250-->
 
 derelict - in very poor condition because of neglect; poor person
 
@@ -126,7 +126,7 @@ fubar (hint: school in Dagupan) :: adj. confused, disordered, damaged
 # G
 
 gable :: n. triangular part of a wall that holds the roof
-<!--SR:!2026-10-16,92,209-->
+<!--SR:!2027-04-26,192,209-->
 
 gaffer :: n. old man
 <!--SR:!2028-03-05,794,349-->
@@ -166,7 +166,7 @@ iconoclastic :: adj. attacking traditions and institutions
 <!--SR:!2026-11-20,163,256-->
 
 impressionable :: adj. easily impressed
-<!--SR:!2026-10-12,27,189-->
+<!--SR:!2026-12-02,51,189-->
 
 # J
 
@@ -186,7 +186,7 @@ knell - solemn sound of a bell (death)
 # L
 
 languor :: n. weariness
-<!--SR:!2026-10-18,13,170-->
+<!--SR:!2026-11-09,22,170-->
 
 largesse :: n. generosity
 <!--SR:!2026-11-02,34,169-->
@@ -212,7 +212,7 @@ madcap (hint: Flame) :: adj. reckless
 <!--SR:!2027-08-14,579,291-->
 
 maelstrom :: n. powerful whirlpool; something that resembles it
-<!--SR:!2026-10-14,26,151-->
+<!--SR:!2026-10-28,14,131-->
 
 mauve :: n. purple
 <!--SR:!2027-05-19,472,271-->
@@ -286,7 +286,7 @@ pundit :: n. expert
 rack - v. subject to extreme stress 
 
 ratiocination :: n. reasoning
-<!--SR:!2026-10-19,90,272-->
+<!--SR:!2026-12-03,45,252-->
 
 ravel - v. unravel something
 
@@ -301,13 +301,13 @@ sandal :: v. to walk on sandals
 <!--SR:!2027-10-04,665,332-->
 
 scrawl :: v. to write or draw carelessly
-<!--SR:!2026-10-11,272,232-->
+<!--SR:!2027-02-23,135,212-->
 
 shams :: n. decorative pillow case
-<!--SR:!2026-10-13,238,232-->
+<!--SR:!2027-02-06,116,212-->
 
 sheaf (hint: Lea, Mama, Tita Remy) :: n. bundle of grain stalks
-<!--SR:!2026-10-11,199,195-->
+<!--SR:!2027-01-19,100,175-->
 
 sheen - a soft luster on a surface
 

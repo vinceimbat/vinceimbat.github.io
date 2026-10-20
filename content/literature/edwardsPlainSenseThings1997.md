@@ -285,13 +285,13 @@ Norman Maclean died in ??? at the age of ??? :: 1990, 87
 <!--SR:!2026-11-15,84,190-->
 
 Age Norman Maclean started writing *Young Men and Fire* :: 74
-<!--SR:!2026-10-11,28,150-->
+<!--SR:!2026-10-25,14,130-->
 
 What was Norman Maclean's *Young Men and Fire* about? :: a fatal forest fire in Montana
 <!--SR:!2026-12-05,360,250-->
 
 How many died from the fatal forest fire in Norman Maclean's *Young Men and Fire*? :: 13
-<!--SR:!2026-10-10,25,150-->
+<!--SR:!2026-10-23,13,130-->
 
 Occupation of those who died in the fatal forest fire in Norman Maclean's *Young Men and Fire*? :: US Forest Service Smoke-jumpers
 <!--SR:!2027-03-10,235,190-->

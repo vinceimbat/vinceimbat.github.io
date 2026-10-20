@@ -76,7 +76,7 @@ Renunciation of the values of the polis.
 <!--SR:!2026-12-03,83,250-->
 
 Per de Borja, Diogenes' version of cosmopolitanism was ==proto-anarchic==.
-<!--SR:!2026-10-18,79,250-->
+<!--SR:!2026-11-29,42,230-->
 
 Per de Borja, the main characteristic of Diogenes' proto-anarchic cosmopolitanism was ==drift==.
 <!--SR:!2027-07-05,389,290-->
@@ -146,7 +146,7 @@ Literal translation of utamakura (歌枕). :: "poem pillow"
 <!--SR:!2028-12-01,788,330-->
 
 What does utamakura (歌枕) mean? :: Place name in Japanese poetry that carries specific symbolism.
-<!--SR:!2026-10-18,46,170-->
+<!--SR:!2026-11-10,23,150-->
 
 Why is utamakura (歌枕) called "poem pillow"? :: It is where the poem rests or is inspired.
 <!--SR:!2027-01-28,145,170-->

@@ -65,7 +65,7 @@ Per Imaoka, why can there be no founder of free-religion? :: Because its quintes
 <!--SR:!2026-11-17,56,210-->
 
 Per Brown, before a good life could develop, a person needs what? :: An understanding of life.
-<!--SR:!2026-10-18,207,310-->
+<!--SR:!2027-01-28,102,290-->
 
 Per Tolstoy in Gospel in Brief, what did Jesus' Gospel do to the belief in an external God? :: Replaced it with an understanding of life.
 <!--SR:!2026-11-04,69,250-->

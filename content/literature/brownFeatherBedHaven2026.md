@@ -31,7 +31,7 @@ The word *ietsist* is from what language? :: Dutch
 <!--SR:!2026-11-02,53,290-->
 
 *ietsist* English translation :: somethingist
-<!--SR:!2026-10-13,59,310-->
+<!--SR:!2027-06-28,258,330-->
 
 Dutch word that translates to "somethingist" :: *ietsist*
 <!--SR:!2026-11-05,28,290-->
@@ -40,7 +40,7 @@ Per Andrew James Brown, who is a *ietsist*? :: Person who doubts faith but sighs
 <!--SR:!2027-01-14,115,290-->
 
 Person who doubts faith but sighs "there must be something." :: *ietsist* or "somethingist"
-<!--SR:!2026-10-14,60,310-->
+<!--SR:!2027-07-01,260,330-->
 
 Somethingists are trying to break free from what tug-of-war? :: hardline atheism and orthodox religiosity
 <!--SR:!2026-11-09,41,250-->

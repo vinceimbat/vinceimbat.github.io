@@ -42,7 +42,7 @@ Plato called Sappho the =="Tenth Muse"==.
 <!--SR:!2026-12-20,88,270-->
 
 Sappho wrote an estimated ==500== poems.
-<!--SR:!2026-10-15,41,210-->
+<!--SR:!2027-02-18,126,230-->
 
 Among all of Sappho's poems, how many complete poems were retrieved? :: 1
 <!--SR:!2026-11-22,71,290-->
@@ -80,4 +80,4 @@ Per Brown, how is fragmentation affecting how we relate to each other as humans?
 <!--SR:!2026-12-04,67,250-->
 
 Per Brown, why does the Great Life necessitate fragmentation? :: It relies on movement.
-<!--SR:!2026-10-12,102,270-->
+<!--SR:!2027-07-14,275,270-->

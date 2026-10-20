@@ -14,7 +14,7 @@ tags:
 <!--SR:!2028-04-25,611,290!2027-04-23,223,210!2029-08-29,1278,330!2028-05-13,696,310!2026-12-14,512,310-->
 
 Panentheism ::: Belief that God is beyond the universe but also interpenetrates it.
-<!--SR:!2026-10-16,99,190!2029-05-12,1251,350-->
+<!--SR:!2027-07-13,270,210!2029-05-12,1251,350-->
 
 Pantheism ::: Belief that God is the universe
 <!--SR:!2026-12-18,512,310!2029-03-19,1210,350-->
@@ -29,7 +29,7 @@ Name of the modern Unitarian Church in Czechoslovakia ::: Religious Society of C
 <!--SR:!2026-12-20,183,250!2026-12-23,165,250-->
 
 Norbert Fabián Čapek's most influential book ::: *To the Sunny Shore: A Guide to Living Joyfully*
-<!--SR:!2027-02-13,213,170!2026-10-09,260,250-->
+<!--SR:!2027-02-13,213,170!2028-07-20,650,250-->
 
 Per Brown (November 23, 2024), what is the jiyū shūkyo question answered by Norbert Fabián Čapek's work? :: How can jiyū shūkyo address our shared darkening mood?
 <!--SR:!2027-02-14,337,210-->

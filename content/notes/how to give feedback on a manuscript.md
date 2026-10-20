@@ -88,7 +88,7 @@ Per Schneider in WAAWO, when should a reader remind the writer of the subjectivi
 <!--SR:!2027-10-21,724,290-->
 
 What does Schneider in WAAWO refer to as a reader's "nakedness" when responding to an author's writing? :: Raw and honest human response.
-<!--SR:!2026-10-15,94,170-->
+<!--SR:!2027-03-22,158,170-->
 
 Four examples of "human responses" you can use to begin your feedback on a manuscript, per Schneider in WAAWO.
 - -
@@ -189,7 +189,7 @@ Per Schneider in WAAWO, the last stage in responding to an author's manuscript i
 <!--SR:!2027-03-23,486,290-->
 
 Per Schneider in WAAWO, the letter you write to the author after commenting on their manuscript should primarily contain what? :: Summary of important issues
-<!--SR:!2026-10-12,37,190-->
+<!--SR:!2026-12-18,67,190-->
 
 Per Schneider in WAAWO, the letter you write to the author after commenting on their manuscript should begin and end with what? :: Thanks and praise
 <!--SR:!2027-04-26,461,290-->

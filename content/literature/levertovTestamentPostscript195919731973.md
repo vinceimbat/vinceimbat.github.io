@@ -101,13 +101,13 @@ Levertov's chief poets among her contemporaries. :: Robert Duncan and Robert Cre
 <!--SR:!2027-06-09,258,230-->
 
 Why does Levertov dislike vomit-it-all-out poetry? :: She believs that a poet is not just an instrument but also a maker.
-<!--SR:!2026-10-11,111,230-->
+<!--SR:!2026-12-08,58,210-->
 
 Per Levertov, what was poetry's social function? :: To awaken sleepers.
 <!--SR:!2026-11-27,228,250-->
 
 Per Levertov, how does a poet manifests a poem's social function? :: The poet doesn't. It happens whether or not the poet wills it.
-<!--SR:!2026-10-10,203,270-->
+<!--SR:!2028-04-10,548,270-->
 
 Per Levertov, how does a poem awaken sleepers? :: A poem moves elements in a reader that would otherwise be stagnant.
-<!--SR:!2026-10-19,226,270-->
+<!--SR:!2029-02-17,852,290-->

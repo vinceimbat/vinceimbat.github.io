@@ -30,7 +30,7 @@ Imaoka, Shin’ichirō. _My Position on Jiyū Shūkyō_. Translated by Andrew Ja
 # Prompts
 
 Year Shin'ichirō Imaoka was baptized as a Christian :: 1897
-<!--SR:!2026-10-20,12,150-->
+<!--SR:!2026-11-07,18,150-->
 
 Japanese derogatory term for Christians. :: Yaso
 <!--SR:!2027-04-22,369,290-->
@@ -111,16 +111,16 @@ What is Shin'ichirō Imaoka's position on disciples or followers? :: Teachers sh
 <!--SR:!2027-01-29,133,250-->
 
 Shin'ichirō Imaoka suggests that both salvation and enlightenment could only be found where? :: In love that struggles with the people.
-<!--SR:!2026-10-16,41,170-->
+<!--SR:!2026-12-25,70,170-->
 
 Per Shin'ichirō Imaoka, because jiyū shūkyō considers individual and collective salvation to be inseparable, the ==church/kyokai== is absolutely necessary.
 <!--SR:!2027-10-05,550,310-->
 
 Per Shin'ichirō Imaoka, what should be the relationship between religious life and social life? :: Religious life should exist within social life, not separate from it.
-<!--SR:!2026-10-19,111,270-->
+<!--SR:!2027-12-05,412,290-->
 
 From the standpoint of jiyū shūkyō, where is Paradise, Heaven, or the Western Pure Land? ::  within society in this life
-<!--SR:!2026-10-17,100,230-->
+<!--SR:!2026-12-06,50,210-->
 
 Per Shin'ichirō Imaoka, what portion of free-religionists will not be fully satisfied being part of an established religion? :: Vast majority.
 <!--SR:!2028-11-29,875,330-->

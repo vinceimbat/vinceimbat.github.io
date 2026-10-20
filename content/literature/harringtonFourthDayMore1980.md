@@ -30,7 +30,7 @@ Harrington, Donald Szantho. “The Fourth Day - More than a Scarlet Poppy.” _O
 # Prompts
 
 Per the Weimans, a human being does not do growth; he or she ==undergoes== it.
-<!--SR:!2026-10-20,165,310-->
+<!--SR:!2028-03-16,513,310-->
 
 Per the Weimans, what two things could humans control and do in the path to their growth?
 1. Seek to create conditions for their growth.

@@ -60,7 +60,7 @@ Per Andrew James Brown, what three things motivate people to become free-religio
 1. Being in community with other free-religionists.
 2. Attention and shared activity.
 3. Religious and spiritual freedom.
-<!--SR:!2026-10-13,90,230-->
+<!--SR:!2027-05-11,210,230-->
 
 Per Andrew James Brown, what is his most important initial role to seekers as a free-religious minister? :: Help them find an exemplar.
 <!--SR:!2027-06-17,480,310-->

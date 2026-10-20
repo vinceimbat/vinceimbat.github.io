@@ -81,7 +81,7 @@ Per Imaoka, what is the view of personal religions regarding salvation? :: If th
 <!--SR:!2026-12-26,258,250-->
 
 Per Imaoka, the true savior and God is ==the community==.
-<!--SR:!2026-10-14,91,230-->
+<!--SR:!2027-08-05,295,250-->
 
 Per Imaoka, for a Shinto community to be a true community, what must it do? :: Unify with larger communities.
 <!--SR:!2028-02-01,557,250-->
@@ -90,7 +90,7 @@ Shinto shrines of a blood-related and temporal community are called ==ujigami==.
 <!--SR:!2027-03-24,298,230-->
 
 Shinto shrines of a regional and spatial community are called ==ubusuna==.
-<!--SR:!2026-10-19,74,170-->
+<!--SR:!2027-04-20,183,190-->
 
 Imaoka uses what term to refer inclusively to both *ujigami* and *ubusuna* Shinto shrines? :: Local community shrine
 <!--SR:!2026-11-04,53,270-->
@@ -99,7 +99,7 @@ Per Imaoka, what is the mission of the local community shrine in Shinto? :: To i
 <!--SR:!2027-06-19,516,310-->
 
 Per Imaoka, how does the local community shrine in Shinto approach differences within the community? :: Embraces them then unites them.
-<!--SR:!2026-10-14,270,290-->
+<!--SR:!2028-11-30,778,290-->
 
 Why are there no buildings in certain Shinto shrines? :: A natural object is the shrine.
 <!--SR:!2028-12-29,852,290-->

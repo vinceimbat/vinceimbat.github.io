@@ -1,16 +1,15 @@
 ---
 title: Now is a New No Walkthrough
 created: 2024-11-18 16:37:21+08:00
-modified: 2026-02-08 09:42:31+08:00
+modified: 2026-10-16T10:15:07+08:00
 aliases:
-- Now is a new no walkthrough
+  - Now is a new no walkthrough
 draft: false
 publish: true
 tags:
-- species/literature
-- status/seedling
+  - species/literature
+  - status/seedling
 ---
-
 # Outline
 
 1. Figures of Manila: Manila as an archipelagic and a patchwork city

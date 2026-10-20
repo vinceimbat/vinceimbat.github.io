@@ -61,7 +61,7 @@ Three periods of Manshi Kiyozawa's writings:
 1. Religious philosophy (25–33)
 2. Buddhist reformation (33–35)
 3. Personal religious convictions (35–40)
-<!--SR:!2026-10-11,56,170-->
+<!--SR:!2027-01-14,95,170-->
 
 Meiji period years :: 1868–1912
 <!--SR:!2026-10-28,33,150-->
@@ -111,7 +111,7 @@ Per Haneda, what was the basic posture that Kiyozawa took in examining Buddhism?
 <!--SR:!2027-05-22,386,230-->
 
 According to Kiyozawa, what is the primary lesson of Buddhism? :: To be liberated.
-<!--SR:!2026-10-12,10,130-->
+<!--SR:!2026-10-26,14,130-->
 
 According to Kiyozawa from what should a Buddhist be liberated from? :: Self
 <!--SR:!2029-04-19,1078,350-->
@@ -126,7 +126,7 @@ Per Shin Buddhism, when does conflict arise? :: When things and people don't mee
 <!--SR:!2026-12-04,87,250-->
 
 Per Shin Buddhism, how can one be liberated from the self? :: self-denial
-<!--SR:!2026-10-19,44,190-->
+<!--SR:!2027-01-11,84,190-->
 
 Per Shin Buddhism, why is self-denial difficult? :: The self can't deny itself.
 <!--SR:!2028-04-20,776,330-->
@@ -138,7 +138,7 @@ Per Shin Buddhism, how does the Dharma liberate people from the self? :: Takes t
 <!--SR:!2027-08-30,386,210-->
 
 How does humility and freedom go hand in hand in Buddhism? :: Humility leads to selflessness, which leads to freedom.
-<!--SR:!2026-10-17,10,150-->
+<!--SR:!2026-11-08,22,170-->
 
 Interpret Shinran's statement: "Even a good person can be liberated, how much more easily a wicked person!" (Tannishō, III) :: People who recognize their wickedness are easier to liberate than those who regard themselves as ethically good.
 <!--SR:!2028-04-21,648,272-->
@@ -167,7 +167,7 @@ Per Haneda, three categories of terms Kiyozawa used to refer to the infinite and
 3. non-Buddhist concepts
 ?
 Buddhist terms
-<!--SR:!2026-10-12,334,292-->
+<!--SR:!2030-06-28,1355,312-->
 
 Per Haneda, three categories of terms Kiyozawa used to refer to the infinite and supreme universal truth.
 1. Buddhist terms
@@ -234,7 +234,7 @@ Buddhist terms Kiyozawa used to refer to the infinite and supreme universal trut
 - Inconceivable power
 - Wondrous working
 - Power Beyond the Self
-<!--SR:!2026-10-17,35,152-->
+<!--SR:!2026-11-04,18,132-->
 
 The term tariki was originally formulated by the Chinese Pure Land monk ==T'an-luan==.
 <!--SR:!2027-01-01,86,252-->
@@ -299,7 +299,7 @@ Non-Buddhist concepts Kiyozawa used to refer to the infinite and supreme univers
 - Heaven (ten)
 - Path of Heaven (tendō)
 - Mandate of Heaven (tenmei)
-<!--SR:!2026-10-11,67,232-->
+<!--SR:!2027-03-15,155,232-->
 
 Tariki means ==Power Beyond the Self or Other Power==.
 <!--SR:!2028-05-01,790,332-->

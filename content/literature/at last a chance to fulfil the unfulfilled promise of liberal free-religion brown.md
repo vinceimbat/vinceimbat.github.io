@@ -24,7 +24,7 @@ In his essay "The Purpose of Tokyo Kiitsu Kyōkai," Imaoka said that the Tokyo K
 <!--SR:!2027-05-23,577,310-->
 
 In his essay, "My Position on Free-Religion," Imaoka argued that jiyū shūkyō is a natural consequence of what insistence? :: That religion must not be borrowed.
-<!--SR:!2026-10-09,143,190-->
+<!--SR:!2026-12-19,71,170-->
 
 System of organization among Christians where a church is self-governing. ::: Congregationalism
 <!--SR:!2025-02-17,4,270!2000-01-01,1,250-->

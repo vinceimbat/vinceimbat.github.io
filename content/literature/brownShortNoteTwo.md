@@ -47,7 +47,7 @@ Kiitsu Kyōkai has often been translated as =="Unitarian Church"==.
 <!--SR:!2029-05-16,1092,350-->
 
 Per Brown, a better translation of Kiitsu Kyōkai is =="Returning-to-One Gathering"==.
-<!--SR:!2026-10-13,127,310-->
+<!--SR:!2028-04-09,544,330-->
 
 For Imaoka, since Kiitsu Kyōkai was both sacred and secular, it was both church and ==school==.
 <!--SR:!2027-06-07,518,330-->

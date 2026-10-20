@@ -63,7 +63,7 @@ Per Epicurus, since the gods don't determine what happens to us, what does? :: N
 <!--SR:!2028-12-06,875,290-->
 
 Per Epicurus, when do the gods influence us? :: When we emulate their tranquility.
-<!--SR:!2026-10-09,29,130-->
+<!--SR:!2026-10-24,15,130-->
 
 Per Epicurus, the natural world is made of what? :: Atoms
 <!--SR:!2028-07-24,792,330-->
@@ -84,7 +84,7 @@ Where did Epicureans engraved "death is nothing to us" to remind them not to fea
 <!--SR:!2028-09-19,769,290-->
 
 How does an Epicurean's lack of fear for death influence how they approach life? :: They want to fully enjoy it with others.
-<!--SR:!2026-10-10,320,290-->
+<!--SR:!2029-04-25,928,290-->
 
 Per Epicurus, "Of all the things that wisdom provides for the happiness of the whole person, by far the most important is the acquisition of ==friendship==" (LD, 27).
 <!--SR:!2027-02-04,196,250-->

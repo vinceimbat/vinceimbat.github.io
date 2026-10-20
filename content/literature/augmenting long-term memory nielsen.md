@@ -47,7 +47,7 @@ Per Nielsen (2018), what is the best foundation for reading an unfamiliar field?
 <!--SR:!2027-08-19,694,290-->
 
 Describe syntopic reading. :: Deep reading of major sources interspersed with shallow reading of minor sources.
-<!--SR:!2026-10-20,249,210-->
+<!--SR:!2028-03-29,526,210-->
 
 To find the key reading materials of a field ... :: Shallow read many materials.
 <!--SR:!2027-01-11,105,190-->
@@ -62,7 +62,7 @@ Complex questions are allowed in spaced repetition prompts only when ... :: They
 <!--SR:!2026-10-31,122,214-->
 
 Prompts weakly related to others ::: Orphan questions
-<!--SR:!2030-06-05,1397,314!2026-10-18,92,174-->
+<!--SR:!2030-06-05,1397,314!2027-06-07,232,194-->
 
 How to avoid orphan questions :: Write more than one question about a new subject.
 <!--SR:!2027-12-25,494,214-->
@@ -83,7 +83,7 @@ How can you memorize a quote using spaced repetition? :: Use multiple clozes.
 <!--SR:!2028-08-20,984,314-->
 
 Cloze ::: Fill-in-the-blank spaced repetition prompt.
-<!--SR:!2026-10-17,463,274!2029-03-25,1220,354-->
+<!--SR:!2027-06-06,232,254!2029-03-25,1220,354-->
 
 On top of spaced repetition practice, how can you really internalize a process? :: Use it to solve real problems.
 <!--SR:!2027-05-22,325,234-->

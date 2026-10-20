@@ -61,7 +61,7 @@ Indigenous Japanese Christian movement founded in 1901 by Uchimura Kanzo. :: No-
 <!--SR:!2026-11-07,198,310-->
 
 Founder of the No-church movement in Japan. :: Uchimura Kanzo
-<!--SR:!2026-10-10,15,170-->
+<!--SR:!2026-10-24,5,130-->
 
 Year the Japanese No-church movement was founded. :: 1901
 <!--SR:!2026-12-01,73,210-->
@@ -70,13 +70,13 @@ Paul Wienpahl's book that recounts his personal experiences during a six-month s
 <!--SR:!2026-12-25,253,330-->
 
 For Paul Wienpahl, philosophy is not just a scholarly discipline but a ==spiritual discipline of personal liberation==.
-<!--SR:!2026-10-12,91,190-->
+<!--SR:!2026-11-27,46,170-->
 
 Brown calls a personally useful portion of Wienpahl's An Unorthodox Lecture =="The Wienpahl Sutra"==.
 <!--SR:!2027-01-28,280,330-->
 
 Per Brown, what was Tolstoy's understanding of what it means to follow Jesus? :: To become a person without a position living reality directly.
-<!--SR:!2026-10-16,38,190-->
+<!--SR:!2026-12-29,74,190-->
 
 Recount the Buddha's the "Parable of the Raft" briefly. :: A man is trapped on one side of a fast-flowing river. He builds a raft that can take him across the river. For the man to carry the raft on his back is insensible. Instead, the man leaves it behind. The Buddha concluded that his teachings are like the raft that one could use to cross but not to seize hold of.
 <!--SR:!2027-02-07,288,330-->

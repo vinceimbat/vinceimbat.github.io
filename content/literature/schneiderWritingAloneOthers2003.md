@@ -1,14 +1,14 @@
 ---
 title: Writing Alone and with Others by Pat Schneider
 created: 2024-11-02 10:09:11+08:00
-modified: 2025-09-09 10:26:50+08:00
+modified: 2026-10-15T21:41:11+08:00
 aliases:
-- Writing Alone and with Others by Pat Schneider
+  - Writing Alone and with Others by Pat Schneider
 draft: false
 publish: true
 tags:
-- species/literature
-- status/seedling
+  - species/literature
+  - status/seedling
 ---
 
 # Citation
@@ -22,6 +22,29 @@ Schneider, Pat. _Writing Alone and with Others_. Oxford University Press, 2003.
 
 # Collations
 
+## Schneider on grades
+
+Young writers in these rooms are not subjected to public ridicule and shame; their mistakes are not publicly discussed; there are no grades or red-pencil corrections applied to handwritten texts. Rather, creative writing is treated as self-revelation and profoundly respected.
+
+If grades are given on the “excellence of the writing”—be cautious. Art, and the critique of it, is hugely subjective. If grading must be done, it should be on the student’s timely and regular attendance, fulfillment of assigned work, and class participation. It should not be based on the teacher’s evaluation of the artistry of the student’s work as compared to that of other members of the class.
+
+Good teachers everywhere understand the damage that is done by grading a young artist’s work. And they try in every way imaginable to avoid them, mitigate them, soften the blow. Grading hurts the creative process.
+
+The question from those who defend testing and grading is, What about standards?
+
+By what method do we achieve the desired standards? Ideally, standards would come up from student writers themselves, working for their own “personal best,” rather than having standards handed down through tests and grades.
+
+In teaching writing, the problem with “standards” is their subjectivity. Historically, they have weeded out the voices of difference, and narrowed the channel of those who reach professional acceptance.
+
+I would give an A to everyone who took my course, so long as they attended all sessions and participated in class work.
+
+I promised him my students would work hard. And they do. And they all get A’s!
+
+“The lack of grading individual papers,” she writes, “did not mean a lack of evaluative feedback. Students received many comments from me giving feedback on their work, and I met with each student several times during the semester.
+
+The final grade in this course was based on the portfolio, journals, and all in-class work, including participation and writing.”
+
+As far as it is possible, grading of student writing should be avoided.
 
 # Literature notes
 

@@ -287,7 +287,7 @@ Being fed a poem without us knowing its context of creation is like being fed a 
 # Prompts
 
 Heidegger's book published in 1927, which marks his greatest earlier work. :: *Being and Time*
-<!--SR:!2026-10-15,87,306-->
+<!--SR:!2027-10-18,368,326-->
 
 Two main points of the Western philosophical tradition of transcendental subjectivity.
 1.
@@ -346,7 +346,7 @@ Why did Edwards claim that Heidegger impersonates Nietzsche in *Being and Time*?
 <!--SR:!2026-11-13,138,206-->
 
 German word that means gear. :: Zeug
-<!--SR:!2026-10-10,37,266-->
+<!--SR:!2027-01-16,98,266-->
 
 What is "will to power" per Nietzsche? :: Doctrine that everything pursues the expansion of their power.
 <!--SR:!2026-12-17,150,186-->
@@ -396,7 +396,7 @@ Four essays of Heidegger developing poetic dwelling on earth as a mortal.
 2. "The Thing"
 3. "'... Poetically Man Dwells...'"
 4. "The Question Concerning Technology"
-<!--SR:!2026-10-10,67,206-->
+<!--SR:!2027-02-26,139,206-->
 
 In Heidegger's *Being and Time*, things are not understood as the Cartesian res but as ==Greek pragmata==.
 <!--SR:!2027-05-07,296,266-->
@@ -426,7 +426,7 @@ Differentiate existence and Being. :: Existence is physical presence, while Bein
 <!--SR:!2028-03-22,551,286-->
 
 What is the Cartesian res? :: The external object represented by the ego-subject
-<!--SR:!2026-10-11,23,146-->
+<!--SR:!2026-10-23,12,130-->
 
 When things become Zeug, what happens to their Pathos? :: Diminished
 <!--SR:!2028-10-23,814,346-->

@@ -113,13 +113,13 @@ What is a crop sensor in photography? :: A camera sensor smaller than full frame
 <!--SR:!2027-03-12,297,270-->
 
 Three most popular categories of camera sensors. :: full frame, APS-C, Micro 4/3
-<!--SR:!2026-10-15,24,190-->
+<!--SR:!2026-12-20,66,210-->
 
 Nikon calls full frame ==FX==.
 <!--SR:!2027-06-22,539,310-->
 
 Nikon calls APS-C ==DX==.
-<!--SR:!2026-10-12,172,230-->
+<!--SR:!2027-11-13,397,230-->
 
 Mount the same lens in different cameras with different camera sensor sizes and you will come up with ==different== images.
 <!--SR:!2027-09-16,656,330-->
@@ -146,7 +146,7 @@ Micro 4/3 has a ==2x== FOVCF.
 <!--SR:!2026-11-08,365,290-->
 
 A 50 mm lens on a Micro 4/3 camera would have a similar FOV to a ==100== mm lens on a full frame camera.
-<!--SR:!2026-10-17,12,170-->
+<!--SR:!2026-11-16,30,190-->
 
 Canon EFS and Nikon DX lenses are designed for ==digital== cameras.
 <!--SR:!2029-02-19,1074,350-->

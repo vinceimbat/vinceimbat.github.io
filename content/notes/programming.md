@@ -21,10 +21,10 @@ Check node version in terminal :: node -v
 <!--SR:!2028-12-30,1016,307-->
 
 Check npm version in terminal :: npm -v
-<!--SR:!2026-10-13,434,289-->
+<!--SR:!2031-07-22,1743,309-->
 
 Upgrade node using brew :: brew upgrade node
-<!--SR:!2026-10-16,9,169-->
+<!--SR:!2026-10-30,14,169-->
 
 Upgrade npm using nvm :: nvm install-latest-npm
-<!--SR:!2026-10-10,67,190-->
+<!--SR:!2027-04-14,186,210-->

@@ -31,10 +31,10 @@ Brown, Andrew James. “From Nostalgia to Hüzün: Rethinking Our Free-Religious
 # Prompts
 
 Turkish writer who expounded about *hüzün*. :: Orhan Pamuk
-<!--SR:!2026-10-18,24,170-->
+<!--SR:!2026-12-16,59,190-->
 
 Per Orhan Pamuk, what is *hüzün*? :: Cultural nostalgia felt while living in the ruins of a once great empire.
-<!--SR:!2026-10-16,190,270-->
+<!--SR:!2028-03-12,513,270-->
 
 Year the Ottoman Empire ended. :: 1922
 <!--SR:!2026-11-06,116,270-->
@@ -43,13 +43,13 @@ Per Orhan Pamuk, cultural nostalgia felt while living in the ruins of a once gre
 <!--SR:!2027-11-30,428,310-->
 
 Late 19th- and early 20th-century Unitarians' optimistic prediction about Unitarianism's eventual place in Christendom? :: Prevail
-<!--SR:!2026-10-13,192,310-->
+<!--SR:!2028-05-29,594,310-->
 
 Per Brown, how did early Unitarian optimistic predictions about Unitarianism's ascendency fare? :: Key Unitarian ideas became central norms but in a secular form. No need for religious community.
-<!--SR:!2026-10-09,189,310-->
+<!--SR:!2027-01-13,96,290-->
 
 What is the Sufi tradition's understanding of *hüzün*? :: Turning nostalgia into a jiyū shūkyō way of being in the world.
-<!--SR:!2026-10-13,97,190-->
+<!--SR:!2027-04-15,184,190-->
 
 Per Brown, religious nostalgia is not despair over a lost connection with the sacred but rather ==a longing for a renewed connection with them==.
 <!--SR:!2027-08-06,375,290-->

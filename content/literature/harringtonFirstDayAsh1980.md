@@ -50,7 +50,7 @@ Per the Weimans, the two great basic concepts of religion.
 <!--SR:!2026-10-24,169,270-->
 
 Per the Weimans, what is religion? :: Devotion to that which is supremely worthful.
-<!--SR:!2026-10-13,11,150-->
+<!--SR:!2026-10-30,17,150-->
 
 Per the Weimans, two things to show devotion to that which is worthful.
 1.
@@ -108,7 +108,7 @@ Per the Weimans, when we increase our sensitivity and responsiveness to universa
 <!--SR:!2027-05-25,334,310-->
 
 Per the Weimans, what is conscience? :: A feeling for the requirements of universal forces.
-<!--SR:!2026-10-18,17,150-->
+<!--SR:!2026-10-28,10,130-->
 
 Per the Weimans, how prevalent is religion? :: Everyone is religious.
 <!--SR:!2027-02-04,267,330-->

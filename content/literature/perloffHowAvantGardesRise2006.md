@@ -56,13 +56,13 @@ I think I might focus on "spatial poetry"
 # Prompts
 
 cenacle :: discussion group or literary clique
-<!--SR:!2026-10-11,8,250-->
+<!--SR:!2026-11-01,21,250-->
 
 congeries :: a disorderly collection
-<!--SR:!2026-10-11,6,210-->
+<!--SR:!2026-10-30,19,230-->
 
 cipher :: code
-<!--SR:!2026-10-15,11,250-->
+<!--SR:!2026-11-22,38,270-->
 
 parataxis :: the placing of one clause or phrase after another
-<!--SR:!2026-10-16,8,190-->
+<!--SR:!2026-10-31,15,190-->

@@ -1,7 +1,7 @@
 ---
 title: Library
 created: 2024-12-02 10:42:50+08:00
-modified: 2026-10-07T10:32:20+08:00
+modified: 2026-10-15T08:47:39+08:00
 aliases:
   - reading-list
   - thoughts/library
@@ -21,6 +21,7 @@ I borrowed the idea for this page from [Frank Chimero](https://frankchimero.com/
 
 # 2026
 
+- [[2026-10-14]]: [[morrisWalkingNetworksDevelopment2020|Walking Networks by Blake Morris]] ★★
 - [[2026-10-02]]: [[shishikuraEndComesGasp2026|the end comes on without a gasp by Trish Shishikura]] ★
 - [[2026-09-07]]: [[borlonganManwalSaPagsulat2026|Manwal Sa Pagsulat at Sariling Paglalathala by Lean Borlongan]] ★
 - [[2026-08-23]]: [[zinsserSpiritualQuestsArt1988|Spiritual Quests by William Zinsser]] ★

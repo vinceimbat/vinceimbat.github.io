@@ -30,7 +30,7 @@ Nakura, Miki. _The Outline and Essence of Jōdo Shinshū Bddhism_.
 # Prompts
 
 Translation of _Jōdo Shinshū_ :: True Essence of Pure Land Buddhism
-<!--SR:!2026-10-16,69,230-->
+<!--SR:!2027-03-24,159,230-->
 
 Jōdo Shinshū is asking one for what percentage of faith in the Original Vow of Amida's tariki? :: 100%
 <!--SR:!2030-02-12,1293,350-->
@@ -48,7 +48,7 @@ Jōdo Shinshū interpretation of karma. :: Interconnection of causes, conditions
 <!--SR:!2026-11-09,149,210-->
 
 Literal translation of *nembutsu*? :: "to think of Buddha"
-<!--SR:!2026-10-09,20,130-->
+<!--SR:!2026-11-17,39,150-->
 
 *Nenbutsu* refers to ==the recitation of “Namu Amida Butsu”==.
 <!--SR:!2029-03-03,944,330-->

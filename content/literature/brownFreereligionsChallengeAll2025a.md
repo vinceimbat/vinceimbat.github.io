@@ -32,7 +32,7 @@ Brown, Andrew James. “Free-Religion’s Challenge to All Covenantal Singularis
 # Prompts
 
 Essay by Peter Sloterdijk about the Sinai Schema :: *In The Shadow of Mount Sinai*
-<!--SR:!2026-10-17,85,230-->
+<!--SR:!2027-07-20,276,250-->
 
 *In the Shadow of Mount Sinai* by ==Peter Sloterdijk==
 <!--SR:!2027-03-05,355,270-->

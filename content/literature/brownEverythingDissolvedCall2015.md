@@ -150,13 +150,13 @@ Per Sheehan, Jesus taught that God was present where? :: Among human beings enac
 <!--SR:!2026-11-03,49,190-->
 
 Per Sheehan, Jesus dissolved the fanciful speculations of apocalyptic eschatology into the call to ==justice and charity==.
-<!--SR:!2026-10-12,16,230-->
+<!--SR:!2026-10-24,4,190-->
 
 Per Sheehan, Jesus' message of the kingdom radically redefined the traditional notions of what two concepts? :: Grace and salvation
 <!--SR:!2026-10-26,195,310-->
 
 Per Sheehan, Jesus taught that grace and salvation is what? :: God-with-man
-<!--SR:!2026-10-13,29,190-->
+<!--SR:!2026-12-09,57,190-->
 
 Per Sheehan, what were the traditional notions of salvation?
 1.
@@ -193,7 +193,7 @@ Per Sheehan, by interpreting Jesus as savior, the Christian church surrendered w
 <!--SR:!2026-12-16,252,330-->
 
 Per Sheehan, what is Jesus' radical present-future sense of time? :: Forgiveness; grace is already everywhere
-<!--SR:!2026-10-14,18,130-->
+<!--SR:!2026-11-05,22,130-->
 
 Per Sheehan, the Christian church replaced Jesus's radical present-future with what? :: Mythical past-present-future
 <!--SR:!2027-03-31,263,250-->

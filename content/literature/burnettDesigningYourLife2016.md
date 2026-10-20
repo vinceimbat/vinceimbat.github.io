@@ -1164,7 +1164,7 @@ Per Burnett and Evans, when emotions are involved, what kind of thinking is the 
 <!--SR:!2028-12-16,865,330-->
 
 Two main competing priorities when designing a life. :: Outcome and process
-<!--SR:!2026-10-19,285,290-->
+<!--SR:!2027-03-12,144,270-->
 
 When designing a life, why is outcome not the main priority? :: We enter life without a clear destination.
 <!--SR:!2026-12-15,97,230-->
@@ -1176,7 +1176,7 @@ Per Burnett and Evans, life is ==an aesthetic== problem.
 <!--SR:!2027-01-24,226,290-->
 
 Two characteristics of a well-designed life. :: Feels right and constantly evolving.
-<!--SR:!2026-10-13,15,167-->
+<!--SR:!2026-11-18,36,187-->
 
 All design starts with a ==problem==.
 <!--SR:!2029-09-25,1156,350-->

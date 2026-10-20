@@ -43,7 +43,7 @@ Per Andrew James Brown, the growth of human wisdom, which is Tenko Nishida-san's
 <!--SR:!2026-10-24,128,210-->
 
 Per Andrew James Brown, the growth of human wisdom, which is Tenko Nishida-san's concept of profit is also reflected in what teaching of Jesus? :: Don't store treasures on earth.
-<!--SR:!2026-10-14,93,210-->
+<!--SR:!2027-04-27,195,210-->
 
 What is Matthew 6:19 about? :: Storing up treasures in heaven rather than on earth.
 <!--SR:!2027-12-01,450,270-->

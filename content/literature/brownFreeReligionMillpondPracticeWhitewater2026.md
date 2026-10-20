@@ -51,10 +51,10 @@ In Andrew James Brown's whitewater metaphor, the whitewater is ==the world==.
 <!--SR:!2026-12-13,178,270-->
 
 In Andrew James Brown's whitewater metaphor, the millpond is ==the weekly gatherings==.
-<!--SR:!2026-10-18,160,310-->
+<!--SR:!2027-01-06,80,290-->
 
 In Andrew James Brown's whitewater metaphor, the static paddle is ==Imaoka's Principles of Living and Capek's Ten Advices==.
 <!--SR:!2026-12-16,106,250-->
 
 Per Andrew James Brown, Imaoka's Principles of Living and Capek's Ten Advices do not form a restrictive creed but are instead a ==free-religious tool==.
-<!--SR:!2026-10-19,30,270-->
+<!--SR:!2027-02-09,113,290-->

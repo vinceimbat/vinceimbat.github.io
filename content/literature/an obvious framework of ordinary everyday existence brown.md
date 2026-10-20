@@ -9,7 +9,7 @@ tags:
   - species/flashcards
 ---
 Meaning of the name Emmanuel :: God is with us
-<!--SR:!2026-10-10,163,270-->
+<!--SR:!2027-01-02,84,250-->
 
 Who gave the name Emmanuel to the baby Jesus? :: Matthew
 <!--SR:!2027-06-13,614,310-->
@@ -35,10 +35,10 @@ The Christmas story's original intuition.
 <!--SR:!2026-12-31,108,170-->
 
 Bruno Latour's suggested translation of Emmanuel or "a helpful God" :: "an obvious framework of ordinary, everyday existence"
-<!--SR:!2026-10-16,18,130-->
+<!--SR:!2026-10-24,8,130-->
 
 Why is Bruno Latour suggesting a translation of Emmanuel or "a helpful God"? :: To draw believers and disbelievers in God into a common conversation and being in the world while keeping the original meaning of Emmanuel intact.
-<!--SR:!2026-10-16,79,170-->
+<!--SR:!2026-11-25,40,150-->
 
 Per Brown (December 28, 2024), how can believers and disbelievers in God be like the Zoroastrian Magi in the old Christmas legend? :: They can see themselves as being in a shared pilgrimage seeking the birth of "an obvious framework of ordinary, everyday existence."
 <!--SR:!2027-06-07,275,190-->

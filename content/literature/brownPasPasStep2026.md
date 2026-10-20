@@ -52,7 +52,7 @@ Two meanings of the French word *pas*.
 <!--SR:!2027-04-18,239,330-->
 
 Per John D. Caputo, the French word *pas* means what? :: Simultaneously step and not.
-<!--SR:!2026-10-09,78,270-->
+<!--SR:!2027-05-10,213,270-->
 
 What is the implication of the dual-meaning of the French word *pas*? :: Taking a step means opening oneself to missteps and detours.
 <!--SR:!2026-12-29,123,250-->

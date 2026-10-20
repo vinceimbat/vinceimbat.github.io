@@ -50,7 +50,7 @@ What should a cue avoid to do in a retrieval practice prompt? :: Give the answer
 <!--SR:!2027-08-13,716,332-->
 
 The most important thing to remember to ensure that your prompts are focused, precise, consistent, tractable, and effortful. :: Make them tightly-scoped.
-<!--SR:!2026-10-18,122,252-->
+<!--SR:!2027-08-22,308,252-->
 
 Two skills required to write effective retrieval practice prompts.
 1. Determining what knowledge to reinforce.
@@ -153,7 +153,7 @@ The five lenses in understanding concepts are:
 5. Significance and implications
 ?
 Attributes and tendencies
-<!--SR:!2026-10-20,97,232-->
+<!--SR:!2026-12-08,49,212-->
 
 The five lenses in understanding concepts are:
 1. Attributes and tendencies
@@ -262,7 +262,7 @@ What can you do to increase the chance of remembering a new idea when it is most
 <!--SR:!2027-09-06,582,252-->
 
 Why write prompts about your own ideas? :: To help you muse on them until they grow.
-<!--SR:!2026-10-20,125,192-->
+<!--SR:!2026-12-22,63,172-->
 
 Keep new ideas salient until ==they become useful.==
 <!--SR:!2029-07-12,1181,292-->
@@ -312,7 +312,7 @@ This happens when you memorize the shape of a question and its answer but not un
 <!--SR:!2028-05-17,873,332-->
 
 How do you discourage pattern matching in retrieval practice? :: Write short and simple questions.
-<!--SR:!2026-10-19,40,152-->
+<!--SR:!2026-12-18,60,152-->
 
 How could you rephrase a binary retrieval prompt? :: As more open-ended.
 <!--SR:!2026-11-28,134,272-->

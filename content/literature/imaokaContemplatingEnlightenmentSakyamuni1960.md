@@ -30,7 +30,7 @@ Imaoka, Shin’ichirō. _Contemplating the Enlightenment of Śākyamuni_. Transl
 # Prompts
 
 How many years did Shakyamuni spent on ascetic practices before his enlightenment? :: 6
-<!--SR:!2026-10-13,25,250-->
+<!--SR:!2026-12-15,63,250-->
 
 Month and day Shakyamuni reached enlightenment. :: December 8
 <!--SR:!2027-02-21,378,290-->

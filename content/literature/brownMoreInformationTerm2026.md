@@ -174,7 +174,7 @@ The characteristics of the "primary religious Being" believed in by the New Reli
 - immanent
 - monotheistic
 - transcendent
-<!--SR:!2026-10-09,37,230-->
+<!--SR:!2026-10-29,20,210-->
 
 Gender role often associated to the primary religious Being of the New Religions Movement in Japan. :: Mother
 <!--SR:!2027-03-09,256,330-->

@@ -30,13 +30,13 @@ Harrington, Donald Szantho. “The Second Day - All The Glory.” _Outstretched 
 # Prompts
 
 Per the Weimans, what is the greatest conceivable value? :: Cosmos with complete and perfect mutuality of all with each.
-<!--SR:!2026-10-09,112,210-->
+<!--SR:!2026-12-05,57,190-->
 
 Per the Weimans, a cosmos with complete and perfect mutuality requires that everything ==changes==.
 <!--SR:!2027-08-09,324,290-->
 
 Per the Weimans, while an ideal cosmos is ever-changing, what would never change? :: The complete and perfect mutuality of all with each.
-<!--SR:!2026-10-16,127,270-->
+<!--SR:!2026-12-19,64,250-->
 
 Per the Weimans, value is a combination of what two things?
 1.

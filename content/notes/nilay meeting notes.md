@@ -1,7 +1,7 @@
 ---
 title: Nilay meeting notes
 created: 2026-03-10 14:27:35+08:00
-modified: 2026-09-07T12:17:26+08:00
+modified: 2026-10-12T19:39:06+08:00
 aliases:
   - Nilay meeting notes
 draft: false
@@ -32,3 +32,4 @@ tags:
 - [[nilay 2026-03-08]]
 - [[nilay 2026-04-26]]
 - [[nilay 2026-09-06]]
+- [[nilay 2026-10-11]]

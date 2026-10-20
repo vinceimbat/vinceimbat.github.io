@@ -40,13 +40,13 @@ Why does Andrew James Brown find Alpha-Way-Omega suffocating? :: Nothing new is 
 <!--SR:!2026-12-24,86,270-->
 
 Bible verse location of the myth of Pentecost. :: Acts 2:1–31
-<!--SR:!2026-10-20,65,230-->
+<!--SR:!2026-11-21,32,210-->
 
 Traditionally, Pentecost is taken as the ==birth== of the Church.
 <!--SR:!2027-07-17,301,310-->
 
 Per Bloch, what happens in the moment of Pentecost to the idea of God as an external creator? :: Disappears.
-<!--SR:!2026-10-14,87,290-->
+<!--SR:!2026-11-28,45,270-->
 
 Per Bloch, how does the external creator God disappear in the moment of Pentecost? :: God dissolves and reside inside people as the Holy Spirit.
 <!--SR:!2027-01-15,145,270-->

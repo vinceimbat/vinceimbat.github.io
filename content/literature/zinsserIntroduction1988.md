@@ -120,19 +120,19 @@ Per Jaroslav Pelikan, the three fathers of religious writing were:
 3.
 ?
 John Henry Newman
-<!--SR:!2026-10-11,86,297-->
+<!--SR:!2026-11-23,43,277-->
 
 Per Pelikan, who or what was the subject of the writings of the three fathers of religious writing? :: themselves
-<!--SR:!2026-10-10,244,330-->
+<!--SR:!2028-12-23,805,330-->
 
 The subject of study of the three fathers of religious writing per Pelikan. :: Themselves
-<!--SR:!2026-10-11,245,330-->
+<!--SR:!2029-10-29,1114,350-->
 
 Per Frederick Buechner, what is the limitation of great literary stylists like Hemingway or James? :: The voice of their characters are drowned by their style.
 <!--SR:!2027-06-16,423,310-->
 
 Per Frederick Buechner, what is the characteristic of the writing of Tolstoy and Trollope that allows their characters to stand out? :: Stillness
-<!--SR:!2026-10-11,167,270-->
+<!--SR:!2028-01-04,450,270-->
 
 How did Jaroslav Pelikan describe St. Augustine's Confessions? :: “One single uninterrupted sentence, addressed to God.”
 <!--SR:!2027-07-21,406,297-->

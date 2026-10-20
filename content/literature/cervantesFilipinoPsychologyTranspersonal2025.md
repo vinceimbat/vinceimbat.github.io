@@ -472,10 +472,10 @@ What is Sikolohiyang Pilipino? :: Scientific study of Filipino experience throug
 <!--SR:!2026-12-17,79,232-->
 
 In culture, indigenous refers to ==what naturally emerges and flourishes here==.
-<!--SR:!2026-10-20,113,252-->
+<!--SR:!2026-12-16,57,232-->
 
 Why is ridding all foreign elements in our culture for the sake of essentializing identity futile? :: We've assimilated a lot of foreign elements into our indigenous experience.
-<!--SR:!2026-10-14,190,232-->
+<!--SR:!2027-01-17,95,212-->
 
 Per Cervantes (2025), what is the larger Sikolohiyang Pilipino movement hoping other indigenous communities in the Philippines to do? :: Contribute their own indigenous psychology into the movement.
 <!--SR:!2027-02-15,255,272-->
@@ -487,7 +487,7 @@ Why did Cervants (2025) make the claim that Sikolohiyang Pilipino is transperson
 <!--SR:!2027-03-05,154,252-->
 
 How is Sikolohiyang Pilipino beyond-ego? :: Sees the self as part of a larger identity called *kapwa*.
-<!--SR:!2026-10-10,45,192-->
+<!--SR:!2027-02-11,124,212-->
 
 How is Sikolohiyang Pilipino's concept of ginhawa integrative/holistic? :: Individual *ginhawa* depends on one's harmony with the world.
 <!--SR:!2026-10-29,99,192-->
@@ -604,7 +604,7 @@ In Sikolohiyang Pilipino, *kapwa* is a category that includes what two forms of 
 <!--SR:!2027-01-27,338,252-->
 
 Per Cervantes (2025), how does *kapwa* inform Filipino behavior? :: Motivates us to care for others.
-<!--SR:!2026-10-09,275,252-->
+<!--SR:!2027-02-24,138,232-->
 
 In Sikolohiyang Pilipino, who are the beneficiaries of pakikipagkapwa? :: People, nature, and invisible beings.
 <!--SR:!2027-01-30,119,272-->
@@ -625,7 +625,7 @@ Per Cervantes (2025), when *utang na loob* is re-attached to its *kapwa* context
 <!--SR:!2026-12-01,97,232-->
 
 Meaning of *loob* in Sikolohiyang Pilipino. :: Relational interiority
-<!--SR:!2026-10-12,77,252-->
+<!--SR:!2027-04-21,191,252-->
 
 In Sikolohiyang Pilipino, *loob* as a relational interiority contains what?
 1.
@@ -654,7 +654,7 @@ In Sikolohiyang Pilipino, what is *ginhawa*? :: Ultimate state of health, goodne
 <!--SR:!2026-12-02,301,252-->
 
 In Sikolohiyang Pilipino, how is self-acualization achieved? :: Going beyond self-identity and self-interests.
-<!--SR:!2026-10-14,107,232-->
+<!--SR:!2026-12-07,54,212-->
 
 Per Enriquez (1992), the deepest level of kapwa is ==pakikiisa==.
 <!--SR:!2027-02-15,176,232-->

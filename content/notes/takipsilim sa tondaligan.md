@@ -65,7 +65,7 @@ Per Andrew James Brown, the thin metal strands of the fence in Hirshfield's "The
 <!--SR:!2027-01-06,288,330-->
 
 Per Andrew James Brown, because the "Principles of Living" are flexible, what is a free-religionist able to do? :: Be open to new truth and change.
-<!--SR:!2026-10-10,110,250-->
+<!--SR:!2026-12-04,55,230-->
 
 Per Andrew James Brown, the two roles of the "Principles of Living" in the life of a free-religionist:
 1.

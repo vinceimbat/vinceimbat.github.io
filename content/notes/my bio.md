@@ -1,7 +1,7 @@
 ---
 title: My bio
 created: 2024-11-23 08:22:20+08:00
-modified: 2026-09-06T11:25:38+08:00
+modified: 2026-10-20T20:57:55+08:00
 aliases:
   - thoughts/my-bio
   - My bio
@@ -56,6 +56,14 @@ Vince Honrado Imbat is a Laguna-based Pangasinense writer and photographer explo
 # Monsoon School 2
 
 Vince Honrado Imbat is a translingual writer exploring walking as an embodied worldmaking, contemplative, and literary practice, engaging with tensions among history, language, memory, and the sacred embedded in places. He is currently engaged in three walking projects, including a re-walk of routes in Baguio City that he frequented as an evangelical minister serving the Deaf and hard-of-hearing. His essay in Pangasinan, a major but increasingly endangered language of northern Philippines, “Ikurit Koy Salisalik ëd Sayan Dalin: Pitoran Akar” (I Shall Write My Feet On This Land: Seven Walks), won the grand prize in the Pangasinan essay category of the 2024 Gawad Bienvenido Lumbera. Taking definitions from the Spanish colonial-period dictionary by Lorenzo Cosgaya as points of departure, the essay explores seven indigenous Pangasinan words for walking through personal narratives. His Tagalog hybrid poetry collection, Mapa ng Los Baños Patungo Sa’yo (A Map of Los Baños to You), and its accompanying essay, “Ang Borador Bilang Panitikan ng Paglalakad” (The Draft as Literature of Walking), explore how walking through ever-changing landscapes can necessitate a fragmented and dynamic writing practice resistant to dominant notions of finality in literature. Vince is also the coauthor of so we must meet / apart, an experimental collection of epistolary essays using the walking method, which was a finalist for the 2024 Big Other Readers’ Choice Award. He is a fellow of multiple writing workshops in the Philippines, including the 2026 Writings-in-Progress Traveling Writing Workshop of Savage Mind and the Goethe-Institut Philippinen, which traversed towns and landscapes across Bicol to engage with Fedor Jagor’s colonial text Travels in the Philippines. Vince holds a bachelor's degree in Social Sciences (major in History, minor in Political Science) from the University of the Philippines Baguio and currently teaches poetry at the Philippine High School for the Arts in Laguna, Philippines.
+
+# KLFI
+
+Vince Honrado Imbat is a writer experimenting with walking as contemplative and collaborative art practice. A Pangasinense writer based in Laguna, his work engages with the tensions of history, language, memory, and the sacred encountered in places. He teaches poetry at the Philippine High School for the Arts.
+
+# Alagwa
+
+Si Vince Honrado Imbat ay manunulat na mahilig maglakad. Tubong Pangasinan, nagaral sa Baguio, at kasalukuyang nakatira sa Laguna, madalas laman ng kaniyang mga sinusulat ang mga lugar na ito. Sa mga araw na hindi siya nagtuturo ng tula sa Philippine High School for the Arts, inaabangan niya sa gate ang pagdaan ng magbibinatog.
 
 # References
 

@@ -144,7 +144,7 @@ Why was the Tokyo Kiitsu Kyōkai formerly called Community Church of Tokyo? :: I
 <!--SR:!2027-07-20,540,310-->
 
 Who initiated the Community Church Movement in the United States? (hint: old God) :: Dr. J. H. Holmes
-<!--SR:!2026-10-19,113,250-->
+<!--SR:!2027-07-28,282,250-->
 
 What century does the Community Church Movement originate from? :: 20th century
 <!--SR:!2027-02-06,346,270-->

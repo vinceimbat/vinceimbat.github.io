@@ -135,7 +135,7 @@ Seven stops in Shin'ichirō Imaoka's religious history:
 <!--SR:!2026-12-30,95,230-->
 
 New Buddhism in Japanese. :: Shin Bukkyō
-<!--SR:!2026-10-12,60,250-->
+<!--SR:!2027-03-10,149,250-->
 
 In his talk "Who is Christ?," how many Christs did Imaoka said he met in his life? :: 3
 <!--SR:!2026-12-17,287,330-->
