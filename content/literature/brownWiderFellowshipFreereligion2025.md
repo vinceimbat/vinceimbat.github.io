@@ -38,7 +38,7 @@ Czech Unitarianism has used the term ==meditation== as a substitute for prayer.
 <!--SR:!2029-10-11,1229,350-->
 
 Compared to a Christian prayer that addresses a personal, anthropomorphically conceived God, a Czech Unitarian meditation addresses ==an impersonal, higher principle in the universe==.
-<!--SR:!2026-10-22,7,130-->
+<!--SR:!2026-11-01,10,130-->
 
 Compare the goal of Christian prayer versus Czech Unitarian meditation :: Christian prayer asks God for something; Czech Unitarian meditation declares who we wish to become
 <!--SR:!2026-11-09,332,270-->

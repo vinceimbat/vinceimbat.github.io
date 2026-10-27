@@ -111,7 +111,7 @@ Per Haneda, what was the basic posture that Kiyozawa took in examining Buddhism?
 <!--SR:!2027-05-22,386,230-->
 
 According to Kiyozawa, what is the primary lesson of Buddhism? :: To be liberated.
-<!--SR:!2026-10-26,14,130-->
+<!--SR:!2026-11-02,7,130-->
 
 According to Kiyozawa from what should a Buddhist be liberated from? :: Self
 <!--SR:!2029-04-19,1078,350-->
@@ -144,7 +144,7 @@ Interpret Shinran's statement: "Even a good person can be liberated, how much mo
 <!--SR:!2028-04-21,648,272-->
 
 Per Nobou Haneda, what is the fundamental theme of Shin Buddhism? :: Humility leads to absolute freedom.
-<!--SR:!2026-10-21,13,130-->
+<!--SR:!2026-10-28,7,130-->
 
 Buddhist teachers Kiyozawa focused on to search for the way to absolute humility and freedom. :: Shakyamuni and Shinran
 <!--SR:!2027-08-04,534,312-->

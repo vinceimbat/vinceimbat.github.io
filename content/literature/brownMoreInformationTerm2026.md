@@ -40,7 +40,7 @@ Doctrine that the divine encompasses or is manifested in the material world. :: 
 <!--SR:!2027-01-06,192,310-->
 
 Explain the doctrine of immanence. :: The divine encompasses or is manifested in the material world.
-<!--SR:!2026-10-26,24,250-->
+<!--SR:!2026-11-07,12,230-->
 
 Imaoka's Jiyū shūkyō and Kiitsu Kyōkai belongs to what religious movement in Japan? :: New Religions Movement
 <!--SR:!2027-03-24,266,330-->
@@ -49,7 +49,7 @@ Groups within the New Religions Movement in Japan share what principles populari
 <!--SR:!2026-11-20,121,310-->
 
 Describe the interconnectedness of the world that the New Religions Movement in Japan believes in. :: Transformation in the self affects others, society, and the universe.
-<!--SR:!2026-10-22,132,290-->
+<!--SR:!2026-12-26,65,270-->
 
 Per the New Religions Movement in Japan, any situation can be transformed through what? :: A change in attitude.
 <!--SR:!2027-03-26,270,330-->

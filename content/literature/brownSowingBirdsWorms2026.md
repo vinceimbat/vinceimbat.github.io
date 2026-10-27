@@ -38,4 +38,4 @@ Per Heisig, what is the real intention of the parable of the sower? :: Show that
 <!--SR:!2026-10-27,15,290-->
 
 Per Brown, the sower in the Gospel of Thomas represents ==the Great Life.==
-<!--SR:!2026-10-23,11,270-->
+<!--SR:!2026-11-21,29,270-->

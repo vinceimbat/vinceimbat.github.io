@@ -70,7 +70,7 @@ debenture :: n. a form of bond
 derelict - in very poor condition because of neglect; poor person
 
 divest :: v. To take away something from someone
-<!--SR:!2026-10-25,72,170-->
+<!--SR:!2026-12-01,37,150-->
 
 dole out :: v. distribute charitably
 <!--SR:!2026-11-20,338,270-->
@@ -118,7 +118,7 @@ frock :: n. outer garment of monks and friars
 <!--SR:!2026-12-25,152,289-->
 
 fumble (hint: Philippines) :: v. handling something clumsily
-<!--SR:!2026-10-26,88,189-->
+<!--SR:!2027-04-10,166,189-->
 
 fubar (hint: school in Dagupan) :: adj. confused, disordered, damaged
 <!--SR:!2026-11-29,83,170-->
@@ -135,7 +135,7 @@ gag :: n. cloth placed on a person's mouth to prevent them from speaking
 <!--SR:!2026-12-17,360,295-->
 
 gaudy (hint: Jen's blue rice) :: adj. extravagant or tasteless showiness
-<!--SR:!2026-10-24,32,150-->
+<!--SR:!2027-01-03,71,170-->
 
 geld (hint: Doji) :: v. to castrate (an animal); to deprive of an essential part
 <!--SR:!2027-05-24,384,209-->
@@ -152,7 +152,7 @@ gutful :: n. quantity of food or drink sufficient to fill one's stomach.
 # H
 
 haar (hint: temp) :: n. a cold wet sea fog
-<!--SR:!2026-10-21,33,149-->
+<!--SR:!2026-12-11,51,149-->
 
 halloo :: n. used to incite dogs to the chase during a hunt
 <!--SR:!2027-06-23,484,269-->

@@ -124,7 +124,7 @@ What happens to a moving object when it is caught by a camera with a low shutter
 <!--SR:!2028-02-24,763,290-->
 
 Shutter speed to freeze movement. :: 1/120 or faster
-<!--SR:!2026-10-25,239,190-->
+<!--SR:!2028-01-22,454,190-->
 
 # References
 

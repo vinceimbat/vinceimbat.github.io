@@ -81,4 +81,4 @@ Two examples of institutions created before the world's current interdependence,
 ?
 1. Nationalism
 2. Free enterprise
-<!--SR:!2026-10-22,41,270-->
+<!--SR:!2026-11-11,20,250-->

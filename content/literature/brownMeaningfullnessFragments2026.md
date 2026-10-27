@@ -48,7 +48,7 @@ Among all of Sappho's poems, how many complete poems were retrieved? :: 1
 <!--SR:!2026-11-22,71,290-->
 
 How many lines of Sappho's poems survived as intelligible fragments? :: 2,000
-<!--SR:!2026-10-21,181,310-->
+<!--SR:!2027-01-20,91,290-->
 
 Aside from Greece, where else were Sappho's poems retrieved? :: Egypt
 <!--SR:!2027-01-20,257,330-->

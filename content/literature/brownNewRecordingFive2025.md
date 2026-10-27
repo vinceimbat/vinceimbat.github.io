@@ -36,7 +36,7 @@ Before you eat or drink anything, consider carefully who you eat or drink with r
 # Prompts
 
 Century Epicurus lived :: 3rd century CE
-<!--SR:!2026-10-21,30,130-->
+<!--SR:!2026-11-29,39,130-->
 
 Greek word referring to the ultimate goal of Epicurean philosophy. :: ataraxia
 <!--SR:!2026-11-23,58,230-->
@@ -63,7 +63,7 @@ Per Epicurus, since the gods don't determine what happens to us, what does? :: N
 <!--SR:!2028-12-06,875,290-->
 
 Per Epicurus, when do the gods influence us? :: When we emulate their tranquility.
-<!--SR:!2026-10-24,15,130-->
+<!--SR:!2026-11-02,9,130-->
 
 Per Epicurus, the natural world is made of what? :: Atoms
 <!--SR:!2028-07-24,792,330-->

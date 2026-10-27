@@ -4,10 +4,18 @@ aliases:
   - Portfolio
 draft: false
 publish: true
-modified: 2026-09-07T12:02:45+08:00
+modified: 2026-10-27T10:43:03+08:00
 created: 2026-09-06T11:26:27+08:00
 ---
 # Publications
+
+"Renaissance" in [TLDTD](https://tldtd.org/poet/vince-imbat/), no. 12, September 2026
+
+"Renacimiento" in [TLDTD](https://tldtd.org/poet/vince-imbat/), no. 12, September 2026
+
+"Toang" in Walang Pahimakas: Anthology of Poems on Duterte’s “War on Drugs,” 2026
+
+"Tumba" in Walang Pahimakas: Anthology of Poems on Duterte’s “War on Drugs,” 2026
 
 "Blank Page as Kalawakan" in [Rappler](https://mtbeacon.rappler.com/613/literary-tuesdays-blank-page-as-kalawakan/), January 2026
 
@@ -21,9 +29,9 @@ created: 2026-09-06T11:26:27+08:00
 
 “Mapa Ng Los Baños Patungo Sa‘yo” in [Katipunan](https://archium.ateneo.edu/katipunan/vol11/iss2/63/), vol. 11, no. 2, December 2023
 
-"Tagsalat" in [TLDTD](https://tldtd.org/poet/vince-imbat/) Issue No. 5, September 2022
+"Tagsalat" in [TLDTD](https://tldtd.org/poet/vince-imbat/), no. 5, September 2022
 
-"Gawat" in [TLDTD](https://tldtd.org/poet/vince-imbat/) Issue No. 5, September 2022
+"Gawat" in [TLDTD](https://tldtd.org/poet/vince-imbat/), no. 5, September 2022
 
 # Walking Projects
 

@@ -30,7 +30,7 @@ Imaoka, Shin’ichirō. _What Is Jiyū Shūkyō_. Translated by Andrew James Bro
 # Prompts
 
 Per Imaoka, what three religious movements are the most notable examples of jiyū shūkyō? :: Unitarianism, Universalism, and Bahá’ísm
-<!--SR:!2026-10-25,52,270-->
+<!--SR:!2027-03-14,140,270-->
 
 Country where Bahá’ísm emerged. :: Iran (Persia)
 <!--SR:!2028-10-01,827,330-->
@@ -133,7 +133,7 @@ Per Imaoka, what forms of conflicts lead to "a higher-order and truer harmony an
 <!--SR:!2026-12-30,100,190-->
 
 The general prerequisite Imaoka laid to consider a form of human activity sacred and religious. :: It involves the expression and development of human nature.
-<!--SR:!2026-10-22,11,130-->
+<!--SR:!2026-11-04,13,130-->
 
 Per Imaoka, when secular human activities are considered religion, it is simple to do what with the term "religion"? :: Abolish it.
 <!--SR:!2029-12-30,1250,350-->

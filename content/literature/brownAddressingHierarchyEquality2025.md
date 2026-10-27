@@ -47,4 +47,4 @@ Per Andrew James Brown, how does our individual experiences of shaming from hier
 <!--SR:!2027-01-16,210,250-->
 
 Per Andrew James Brown, a potent antidote to shame is ==self-compassion==.
-<!--SR:!2026-10-21,257,330-->
+<!--SR:!2027-02-27,129,310-->

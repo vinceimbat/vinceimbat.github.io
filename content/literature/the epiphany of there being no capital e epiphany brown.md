@@ -14,7 +14,7 @@ What is epiphany season? :: Liturgical period in many Christian churches that be
 <!--SR:!2026-11-14,42,163-->
 
 Meaning of the word "epiphany" in Koine Greek. :: Manifestation or appearance
-<!--SR:!2026-10-24,150,230-->
+<!--SR:!2028-02-21,485,250-->
 
 What is Koine Greek? :: Greek used to write the Septuagint, New Testament, and the early writings of the Church Fathers.
 <!--SR:!2028-11-13,1003,310-->
@@ -38,7 +38,7 @@ Brown's current translation of jiyū shūkyō. :: a creative, enquiring, free an
 <!--SR:!2025-01-26,8,210!2025-05-20,43,290!2025-01-25,5,230!2025-03-29,9,223!2025-02-21,30,270!2025-01-28,13,242!2025-01-31,13,230!2025-02-23,31,270!2025-07-01,102,303!2025-02-13,27,282!2025-01-29,13,230-->
 
 For Brown (January 4, 2025), the epiphany season has been a time for what? :: To recall the need to enter the mystery and miracle of daily life.
-<!--SR:!2026-10-23,28,130-->
+<!--SR:!2026-11-28,36,130-->
 
 Per Brown (January 4, 2025), how do we approach epiphanies?
 1.

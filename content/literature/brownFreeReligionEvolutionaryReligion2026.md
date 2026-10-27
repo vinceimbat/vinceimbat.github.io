@@ -62,7 +62,7 @@ Schellenberg's suggested three broad marks of a religion's ultimate reality.
 3. Greater than nature in what it can make possible for us.
 ?
 Greater than nature in worth.
-<!--SR:!2026-10-26,12,170-->
+<!--SR:!2026-11-01,6,150-->
 
 Schellenberg's suggested three broad marks of a religion's ultimate reality.
 1. Deeper than the physical world.
@@ -94,7 +94,7 @@ Per Brown, two temptations in response to Schellenberg's suggested three broad m
 2.
 ?
 They're settled facts.
-<!--SR:!2026-10-25,142,230-->
+<!--SR:!2027-01-04,71,210-->
 
 Difference between belief and faith per Schellenberg? :: Belief aims settled claims; faith commits without pretending to have final proof.
 <!--SR:!2026-11-28,54,170-->

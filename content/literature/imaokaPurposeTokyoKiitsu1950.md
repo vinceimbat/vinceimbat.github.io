@@ -75,7 +75,7 @@ The first Sunday meeting of the Tokyo Kiitsu Kyōkai was held in ==October 23, 1
 <!--SR:!2027-03-16,173,230-->
 
 Shōwa era years in Japan :: 1926 to 1989
-<!--SR:!2026-10-22,24,130-->
+<!--SR:!2026-11-22,31,130-->
 
 Per Imaoka, the term 帰一 (Kiitsu) is often translated into English as =="Unity"==.
 <!--SR:!2027-09-15,421,290-->

@@ -1,7 +1,7 @@
 ---
 title: My bio
 created: 2024-11-23 08:22:20+08:00
-modified: 2026-10-20T20:57:55+08:00
+modified: 2026-10-26T21:28:02+08:00
 aliases:
   - thoughts/my-bio
   - My bio
@@ -64,6 +64,10 @@ Vince Honrado Imbat is a writer experimenting with walking as contemplative and 
 # Alagwa
 
 Si Vince Honrado Imbat ay manunulat na mahilig maglakad. Tubong Pangasinan, nagaral sa Baguio, at kasalukuyang nakatira sa Laguna, madalas laman ng kaniyang mga sinusulat ang mga lugar na ito. Sa mga araw na hindi siya nagtuturo ng tula sa Philippine High School for the Arts, inaabangan niya sa gate ang pagdaan ng magbibinatog.
+
+# Agos
+
+Si Vince Honrado Imbat ay makata at mananalaysay na gumagalugad sa mga posibilidad ng paglalakad bilang mapagnilay at kolaboratibong kasanayang sining. Ang kaniyang mga akdang Pangasinan na kinilala na rin ng Gawad Bienvenido Lumbera at Gawad F. Sionil Jose ay nailathala na sa *Katipunan*, *TLDTD*, *Mountain Beacon*, *Rappler*, at iba pa. Nagtapos siya ng BA Social Sciences sa Unibersidad ng Pilipinas Baguio at kasalukuyang nagtuturo ng tula sa Philippine High School for the Arts sa Los Baños, Laguna.
 
 # References
 

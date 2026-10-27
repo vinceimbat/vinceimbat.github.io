@@ -107,7 +107,7 @@ Per Sheehan, the man Jesus was transformed into the following four figures in or
 2. Reigning Lord and Christ
 3. Divine Son of God
 4. God
-<!--SR:!2026-10-21,57,190-->
+<!--SR:!2027-02-05,107,190-->
 
 Per Sheehan, the heart of Jesus' teaching is summarized in three ideas:
 1.
@@ -150,10 +150,10 @@ Per Sheehan, Jesus taught that God was present where? :: Among human beings enac
 <!--SR:!2026-11-03,49,190-->
 
 Per Sheehan, Jesus dissolved the fanciful speculations of apocalyptic eschatology into the call to ==justice and charity==.
-<!--SR:!2026-10-24,4,190-->
+<!--SR:!2026-11-03,10,210-->
 
 Per Sheehan, Jesus' message of the kingdom radically redefined the traditional notions of what two concepts? :: Grace and salvation
-<!--SR:!2026-10-26,195,310-->
+<!--SR:!2027-02-03,100,290-->
 
 Per Sheehan, Jesus taught that grace and salvation is what? :: God-with-man
 <!--SR:!2026-12-09,57,190-->

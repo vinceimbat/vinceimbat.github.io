@@ -41,7 +41,7 @@ Kiitsu means =="returning-to-one"==.
 <!--SR:!2028-12-03,927,330-->
 
 kyōkai means ==church or congregation==.
-<!--SR:!2026-10-23,113,250-->
+<!--SR:!2026-12-21,59,230-->
 
 Kiitsu Kyōkai has often been translated as =="Unitarian Church"==.
 <!--SR:!2029-05-16,1092,350-->

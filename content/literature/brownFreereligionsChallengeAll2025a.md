@@ -38,7 +38,7 @@ Essay by Peter Sloterdijk about the Sinai Schema :: *In The Shadow of Mount Sina
 <!--SR:!2027-03-05,355,270-->
 
 Per Peter Sloterdijk, the Sinai Schema is based on what book and chapter in the Bible? :: Exodus 32
-<!--SR:!2026-10-23,134,310-->
+<!--SR:!2026-12-31,69,290-->
 
 Per Peter Sloterdijk, what is the narrative triad of the Sinai Schema? :: the sealing of a covenant, its breach, and its re-establishment through acts of extreme violence.
 <!--SR:!2028-02-23,621,270-->
@@ -60,7 +60,7 @@ What are the steps recommended by Brown to prevent ourselves from sliding into r
 2. To see that the problem lies in the Sinai Schema across religious and political traditions.
 ?
 Stop blaming Jews and Muslims for the violence perpetrated by governments in the name of religion.
-<!--SR:!2026-10-26,166,230-->
+<!--SR:!2027-11-10,380,230-->
 
 What are the steps recommended by Brown to prevent ourselves from sliding into religious bigotry and violence against Jewish and Muslim persons?
 1. Stop blaming Jews and Muslims for the violence perpetrated by governments in the name of religion.

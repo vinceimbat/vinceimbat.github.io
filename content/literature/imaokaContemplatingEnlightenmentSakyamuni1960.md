@@ -63,7 +63,7 @@ Per Imaoka, how is the Dharma dependent on the Buddha? :: It needed a living per
 <!--SR:!2026-12-19,248,290-->
 
 Per Imaoka, how is the Buddha dependent on the Dharma? :: He needed the Dharma to be more than a normal human being.
-<!--SR:!2026-10-22,184,270-->
+<!--SR:!2028-03-08,503,270-->
 
 Per Imaoka, how is the Buddha dependent on the Sangha? :: He needed the Sangha to accomplish awakening.
 <!--SR:!2027-06-10,260,270-->
@@ -81,4 +81,4 @@ Per Imaoka, the three treasures of Buddhism are strikingly similar to what trio 
 <!--SR:!2027-03-07,385,290-->
 
 Per Imaoka, what should Christianity do so that Christianity and Buddhism could truly return to one? :: It has to regard its view of God as secondary.
-<!--SR:!2026-10-26,322,290-->
+<!--SR:!2027-04-04,160,270-->

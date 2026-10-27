@@ -153,7 +153,7 @@ Per Schneider in WAAWO, editing a manuscript is hard because it involves two tas
 2.
 ?
 Helping the author fulfill their intent.
-<!--SR:!2026-10-21,435,270-->
+<!--SR:!2031-04-18,1640,290-->
 
 Per Schneider in WAAWO, in your first pass on an author's manuscript for critique, focus on what? :: interruptions in your reading flow
 <!--SR:!2027-04-24,565,270-->

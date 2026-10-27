@@ -56,7 +56,7 @@ Year Imaoka established his Principles of Living. :: 1965
 <!--SR:!2026-10-29,22,150-->
 
 Number of articles in Imaoka's original Principles of Living. :: 7
-<!--SR:!2026-10-22,22,186-->
+<!--SR:!2026-11-03,12,166-->
 
 What did members of the Tokyo Kiitsu Kyokai do with Imaoka's Principles of Living? :: Recite them during Sunday gatherings.
 <!--SR:!2027-02-17,476,286-->

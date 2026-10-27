@@ -33,10 +33,10 @@ In economics, what is demand destruction? :: Permanent decline in demand because
 <!--SR:!2026-11-13,53,230-->
 
 Per Brown, the demand destruction brought by free-religion is directed at the ==ego-self==.
-<!--SR:!2026-10-25,97,250-->
+<!--SR:!2026-12-13,49,230-->
 
 Per Tenkō-san, to resolve global problems what must first happen to ego-demand. :: Complete collapse.
-<!--SR:!2026-10-24,83,250-->
+<!--SR:!2027-08-11,291,270-->
 
 Per Tenkō-san, in his Saying 21, why do problems exist? :: One has not died completely.
 <!--SR:!2026-12-29,108,270-->

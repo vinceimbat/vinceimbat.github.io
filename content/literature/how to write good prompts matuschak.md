@@ -121,14 +121,14 @@ Steps for writing retrieval prompts for a procedure as a list.
 2. Cut words to emphasize keywords.
 ?
 Use clozes.
-<!--SR:!2026-10-23,304,272-->
+<!--SR:!2029-01-27,827,272-->
 
 How should we write list-based retrieval prompts for a procedure?
 1. Use clozes.
 2.
 ?
 Cut unnecessary words to emphasize keywords.
-<!--SR:!2026-10-24,55,132-->
+<!--SR:!2027-02-10,109,152-->
 
 If procedures branch and become sufficiently complex, what should you include in your prompts? :: A flowchart.
 <!--SR:!2028-03-23,724,292-->
@@ -143,7 +143,7 @@ What must you know to move between the steps of a procedure? :: Conditions/heuri
 <!--SR:!2026-11-10,331,212-->
 
 To internalize a concept, write prompts that help you understand its ==components== and ==relationships==.
-<!--SR:!2026-10-22,105,212!2027-02-10,397,312-->
+<!--SR:!2026-12-13,52,192!2027-02-10,397,312-->
 
 The five lenses in understanding concepts are:
 1.
@@ -208,7 +208,7 @@ A closed list is like ==an equation==, while an open list is like ==a tag==.
 <!--SR:!2027-12-22,680,272!2029-01-03,1126,352-->
 
 Why does an open list behave like a tag? :: It can be attached to many examples.
-<!--SR:!2026-10-24,366,232-->
+<!--SR:!2030-02-04,1199,252-->
 
 Three useful prompt types for open lists:
 1.

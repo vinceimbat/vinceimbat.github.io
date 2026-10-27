@@ -205,7 +205,7 @@ Per Imaoka, later Christians and Buddhists confined the ever-evolving spiritual 
 1. dogma
 2. ceremonies
 3. religious authority
-<!--SR:!2026-10-22,216,299-->
+<!--SR:!2027-02-04,105,279-->
 
 The essential task of jiyū shūkyō for established religions. :: Bring them back to their source and revive them.
 <!--SR:!2027-03-27,298,210-->

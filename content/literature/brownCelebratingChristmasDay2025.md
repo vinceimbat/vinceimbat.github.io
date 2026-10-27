@@ -59,7 +59,7 @@ What did Śākyamuni Buddha teach his followers about being a religious founder?
 ?
 1. Discouraged them to see him as a religious founder.
 2. Urged them to develop self-reliance.
-<!--SR:!2026-10-21,115,315-->
+<!--SR:!2027-10-23,367,315-->
 
 Per Imaoka, why can there be no founder of free-religion? :: Because its quintessence is grasping the meaning of "the Great Life."
 <!--SR:!2026-11-17,56,210-->
@@ -74,7 +74,7 @@ Per Brown, how often did Jesus taught us to reconnect directly with "the Great L
 <!--SR:!2026-12-28,279,330-->
 
 Per Miki, what statement by Shinran proves that he didn't see himself as a founder? :: "I, Shinran, have no disciples."
-<!--SR:!2026-10-24,212,310-->
+<!--SR:!2028-08-12,658,310-->
 
 Per Miki, what reconnects us directly and daily with the Great Life? :: Nembutsu
 <!--SR:!2026-11-11,243,330-->

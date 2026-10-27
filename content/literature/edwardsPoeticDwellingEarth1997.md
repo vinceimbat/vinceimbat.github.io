@@ -411,7 +411,7 @@ Per Heidegger's *Being and Time*, how is the Being of a thing always already hol
 <!--SR:!2027-03-01,181,186-->
 
 Per Heidegger's *Being and Time*, what provides the context within which a thing gains its Being through back-and-forth with other things? :: The various projects of Dasein.
-<!--SR:!2026-10-21,127,286-->
+<!--SR:!2028-03-09,505,306-->
 
 What is the condition of the Being of things understood as Zeug? :: Dasein
 <!--SR:!2027-02-13,299,306-->
@@ -426,7 +426,7 @@ Differentiate existence and Being. :: Existence is physical presence, while Bein
 <!--SR:!2028-03-22,551,286-->
 
 What is the Cartesian res? :: The external object represented by the ego-subject
-<!--SR:!2026-10-23,12,130-->
+<!--SR:!2026-11-15,23,150-->
 
 When things become Zeug, what happens to their Pathos? :: Diminished
 <!--SR:!2028-10-23,814,346-->

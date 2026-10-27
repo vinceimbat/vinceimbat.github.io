@@ -33,7 +33,7 @@ Ratio of mug to ground coffee in tbsp when boiling. :: 1 mug : 6 tbsp coffee
 <!--SR:!2026-12-11,116,230-->
 
 Ratio of coffee (tbsp) to water (cup) when boiling. :: 2 tbsp coffee : 3/4 cup of water
-<!--SR:!2026-10-24,21,150-->
+<!--SR:!2026-12-09,46,170-->
 
 Tantan's birthday :: May 15
 <!--SR:!2026-11-01,18,170-->
@@ -48,7 +48,7 @@ To avoid grainy dark photos, keep ISO to ==100==.
 <!--SR:!2028-10-26,976,345-->
 
 What is noise in photography? :: grainy or speckled textures especially in dark areas of an image
-<!--SR:!2026-10-25,174,228-->
+<!--SR:!2027-11-22,393,228-->
 
 Command to show/unshow hidden files in Mac. :: Cmd + Shift+ . (period)
 <!--SR:!2027-02-03,138,291-->

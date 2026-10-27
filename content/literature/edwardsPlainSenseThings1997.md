@@ -285,22 +285,22 @@ Norman Maclean died in ??? at the age of ??? :: 1990, 87
 <!--SR:!2026-11-15,84,190-->
 
 Age Norman Maclean started writing *Young Men and Fire* :: 74
-<!--SR:!2026-10-25,14,130-->
+<!--SR:!2026-11-20,26,150-->
 
 What was Norman Maclean's *Young Men and Fire* about? :: a fatal forest fire in Montana
 <!--SR:!2026-12-05,360,250-->
 
 How many died from the fatal forest fire in Norman Maclean's *Young Men and Fire*? :: 13
-<!--SR:!2026-10-23,13,130-->
+<!--SR:!2026-10-30,7,130-->
 
 Occupation of those who died in the fatal forest fire in Norman Maclean's *Young Men and Fire*? :: US Forest Service Smoke-jumpers
 <!--SR:!2027-03-10,235,190-->
 
 Norman Maclean grew up in ==Montana==.
-<!--SR:!2026-10-25,403,290-->
+<!--SR:!2027-05-14,201,270-->
 
 Norman Maclean was a professor of ??? at the ???. :: English, University of Chicago
-<!--SR:!2026-10-22,265,290-->
+<!--SR:!2029-09-23,1067,310-->
 
 Two first-hand connections of Norman Maclean to the subject of his novel *Young Men and Fire*. :: He saw the forest fire itself; He fought fires himself as a young man
 <!--SR:!2027-07-31,420,250-->

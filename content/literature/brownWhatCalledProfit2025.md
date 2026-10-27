@@ -40,7 +40,7 @@ Per Andrew James Brown, Tenko Nishida-san's true profit is ==the growth of human
 <!--SR:!2026-11-18,236,290-->
 
 Per Andrew James Brown, the growth of human wisdom, which is Tenko Nishida-san's concept of profit, reveals what? :: The value of simple and creative living that inspires compassionate service.
-<!--SR:!2026-10-24,128,210-->
+<!--SR:!2026-12-28,65,190-->
 
 Per Andrew James Brown, the growth of human wisdom, which is Tenko Nishida-san's concept of profit is also reflected in what teaching of Jesus? :: Don't store treasures on earth.
 <!--SR:!2027-04-27,195,210-->

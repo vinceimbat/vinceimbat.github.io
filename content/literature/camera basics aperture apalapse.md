@@ -20,7 +20,7 @@ Night photography requires fast lenses.
 # Prompts
 
 Aperture is ==the hole in the camera lens where light enters==.
-<!--SR:!2026-10-26,18,150-->
+<!--SR:!2026-11-23,28,150-->
 
 In the human eye, aperture could be represented by the ==pupil==.
 <!--SR:!2026-12-01,51,150-->

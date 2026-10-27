@@ -59,7 +59,7 @@ Cosmopolitan ::: Global citizen
 <!--SR:!2000-01-01,1,250!2025-11-30,4,270-->
 
 The first cosmopolitan. :: Diogenes
-<!--SR:!2026-10-23,253,330-->
+<!--SR:!2029-12-17,1151,350-->
 
 Per de Borja, since Diogenes may haven't left the Greek-speaking world, what did his cosmopolitanism meant?
 1.
