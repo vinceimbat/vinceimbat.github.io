@@ -60,7 +60,7 @@ What century was Jōdo Shinshū founded? :: 13th century CE
 <!--SR:!2027-01-19,110,170-->
 
 Who was Shinran's teacher who founded the Japanese Pure Land School? :: Honen
-<!--SR:!2026-10-27,139,310-->
+<!--SR:!2028-06-13,595,330-->
 
 Shinran Shonin simplified Buddhism to what single essential teaching? :: Just recite the nembutsu ("namu amida butsu").
 <!--SR:!2028-11-09,821,290-->

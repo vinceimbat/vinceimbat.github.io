@@ -1,7 +1,7 @@
 ---
 title: My lifeview
 created: 2024-10-22 22:40:51+08:00
-modified: 2026-08-02T14:25:26+08:00
+modified: 2026-11-02T22:35:08+08:00
 aliases:
   - My lifeview
 draft: false
@@ -20,7 +20,7 @@ Others, like me, are in the process of co-creating and aligning themselves with 
 
 I recognize and affirm that a loving, compassionate, and cooperative cosmic community is the bedrock of true [[freedom]]. I could never be absolutely free, but I could get closer to my true Self by being closer to others, community, and the rest of the universe. I recognize that we are all part of the larger process, so I strive to act and respond to life in a way that considers the well-being of others.
 
-I intend to live my life in a way that is aligned with this great life of free and unobstructed creative evolution.
+I intend to live my life in a way that is aligned with the Great Life.
 
 # Related
 

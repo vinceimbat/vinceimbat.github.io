@@ -36,7 +36,7 @@ Per the Weimans, when does our beliefs shape our life and becomes faith? :: When
 <!--SR:!2026-12-01,167,250-->
 
 Per the Weimans, when does faith become evil? :: When a subordinate belief dominates the most general belief.
-<!--SR:!2026-11-02,95,250-->
+<!--SR:!2026-12-20,48,230-->
 
 Per the Weimans, what is the measure with which we determine which beliefs are "better"? :: Which has more connections of mutuality.
 <!--SR:!2026-11-19,173,270-->

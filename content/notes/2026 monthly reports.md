@@ -1,7 +1,7 @@
 ---
 title: 2026 monthly reports
 created: 2026-02-01 18:16:12+08:00
-modified: 2026-10-07T10:24:25+08:00
+modified: 2026-11-02T19:09:37+08:00
 aliases:
 draft: false
 publish: true
@@ -20,3 +20,4 @@ Here are my [[monthly reports|monthly reports]] for 2026.
 - [[2026-07 monthly report]]
 - [[2026-08 monthly report]]
 - [[2026-09 monthly report]]
+- [[2026-10 monthly report]]

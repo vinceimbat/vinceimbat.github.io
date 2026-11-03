@@ -71,7 +71,7 @@ Per Brown, how is fragmentation affecting how we relate to each other as humans?
 2.
 ?
 We are able to love.
-<!--SR:!2026-10-31,188,310-->
+<!--SR:!2028-06-02,580,310-->
 
 Per Brown, how is fragmentation affecting how we relate to each other as humans?
 ?

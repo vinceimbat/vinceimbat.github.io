@@ -33,10 +33,10 @@ Per the Weimans, what is supreme value? :: Growth of meaning in the world.
 <!--SR:!2026-11-12,70,170-->
 
 Per the Weimans, aside from supreme value, the growth of meaning in the world is also called ==God==.
-<!--SR:!2026-10-31,54,230-->
+<!--SR:!2027-03-04,124,230-->
 
 Why did the Weimans described the growth of value as super-human? :: It happens beyond human efforts.
-<!--SR:!2026-10-27,185,310-->
+<!--SR:!2028-05-22,573,310-->
 
 Per the Weimans, the growth of meaning is also connected to the growth of what two things?
 1.

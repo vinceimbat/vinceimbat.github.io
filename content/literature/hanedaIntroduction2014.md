@@ -64,7 +64,7 @@ Three periods of Manshi Kiyozawa's writings:
 <!--SR:!2027-01-14,95,170-->
 
 Meiji period years :: 1868–1912
-<!--SR:!2026-10-28,33,150-->
+<!--SR:!2026-12-17,50,150-->
 
 The Meiji period is commonly known as what era? :: Era of modernization or Westernization
 <!--SR:!2028-01-03,583,270-->
@@ -111,7 +111,7 @@ Per Haneda, what was the basic posture that Kiyozawa took in examining Buddhism?
 <!--SR:!2027-05-22,386,230-->
 
 According to Kiyozawa, what is the primary lesson of Buddhism? :: To be liberated.
-<!--SR:!2026-11-02,7,130-->
+<!--SR:!2026-11-06,4,130-->
 
 According to Kiyozawa from what should a Buddhist be liberated from? :: Self
 <!--SR:!2029-04-19,1078,350-->
@@ -120,7 +120,7 @@ Per Shakyamuni Buddha, what was the very cause of suffering? :: The view of a fi
 <!--SR:!2027-09-23,427,270-->
 
 What is anicca in Buddhism? :: Continuous change
-<!--SR:!2026-11-02,28,170-->
+<!--SR:!2026-12-21,49,170-->
 
 Per Shin Buddhism, when does conflict arise? :: When things and people don't meet the expectations of a fixed self.
 <!--SR:!2026-12-04,87,250-->
@@ -144,7 +144,7 @@ Interpret Shinran's statement: "Even a good person can be liberated, how much mo
 <!--SR:!2028-04-21,648,272-->
 
 Per Nobou Haneda, what is the fundamental theme of Shin Buddhism? :: Humility leads to absolute freedom.
-<!--SR:!2026-10-28,7,130-->
+<!--SR:!2026-11-11,14,150-->
 
 Buddhist teachers Kiyozawa focused on to search for the way to absolute humility and freedom. :: Shakyamuni and Shinran
 <!--SR:!2027-08-04,534,312-->
@@ -250,7 +250,7 @@ Non-Buddhist concepts Kiyozawa used to refer to the infinite and supreme univers
 - Mandate of Heaven (tenmei)
 ?
 The Absolute (zettai)
-<!--SR:!2026-10-29,334,352-->
+<!--SR:!2031-04-01,1615,372-->
 
 Non-Buddhist concepts Kiyozawa used to refer to the infinite and supreme universal truth.
 - The Absolute (zettai)
@@ -280,7 +280,7 @@ Non-Buddhist concepts Kiyozawa used to refer to the infinite and supreme univers
 - Mandate of Heaven (tenmei)
 ?
 Path of Heaven (tendō)
-<!--SR:!2026-11-03,338,352-->
+<!--SR:!2030-02-05,1190,352-->
 
 Non-Buddhist concepts Kiyozawa used to refer to the infinite and supreme universal truth.
 - The Absolute (zettai)

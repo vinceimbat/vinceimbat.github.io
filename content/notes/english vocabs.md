@@ -36,7 +36,7 @@ caparison :: n. ornamental covering for a horse
 <!--SR:!2028-05-02,568,249-->
 
 caveat emptor :: n. principle: buyer responsible to check quality and suitability of goods before purchase.
-<!--SR:!2026-10-27,334,269-->
+<!--SR:!2027-04-12,167,249-->
 
 chafe (hint: Lola...) :: v. irritate, vex
 <!--SR:!2027-03-20,154,169-->
@@ -189,7 +189,7 @@ languor :: n. weariness
 <!--SR:!2026-11-09,22,170-->
 
 largesse :: n. generosity
-<!--SR:!2026-11-02,34,169-->
+<!--SR:!2026-11-19,17,149-->
 
 lassitude :: n. languor
 <!--SR:!2026-12-14,152,269-->
@@ -212,7 +212,7 @@ madcap (hint: Flame) :: adj. reckless
 <!--SR:!2027-08-14,579,291-->
 
 maelstrom :: n. powerful whirlpool; something that resembles it
-<!--SR:!2026-10-28,14,131-->
+<!--SR:!2026-11-24,27,151-->
 
 mauve :: n. purple
 <!--SR:!2027-05-19,472,271-->
@@ -276,7 +276,7 @@ punctilio :: n. a small detail of procedure
 <!--SR:!2027-04-12,191,212-->
 
 punctilious :: adj. showing great attention to detail or correct behavior
-<!--SR:!2026-11-03,163,172-->
+<!--SR:!2027-08-08,278,172-->
 
 pundit :: n. expert
 <!--SR:!2030-01-27,1336,352-->
@@ -321,7 +321,7 @@ singe :: v. burn something lightly
 <!--SR:!2027-11-23,423,255-->
 
 smothered :: v. to kill by depriving of air
-<!--SR:!2026-10-28,91,212-->
+<!--SR:!2027-05-12,196,212-->
 
 sonder :: n. realization that each passerby has a complex life as your own
 <!--SR:!2027-05-11,430,272-->

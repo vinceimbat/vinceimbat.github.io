@@ -490,7 +490,7 @@ How is Sikolohiyang Pilipino beyond-ego? :: Sees the self as part of a larger id
 <!--SR:!2027-02-11,124,212-->
 
 How is Sikolohiyang Pilipino's concept of ginhawa integrative/holistic? :: Individual *ginhawa* depends on one's harmony with the world.
-<!--SR:!2026-10-29,99,192-->
+<!--SR:!2026-12-18,50,172-->
 
 How is Sikolohiyang Pilipino transformative? :: It encourages personal and collective *kalayaan*.
 <!--SR:!2027-03-27,259,252-->
@@ -592,7 +592,7 @@ Two meanings of *kamalayan* in Sikolohiyang Pilipino.
 <!--SR:!2028-02-27,729,332-->
 
 Filipino word which suggests that the essence of something or a self could be expanded and shared. :: sandiwa
-<!--SR:!2026-10-28,332,312-->
+<!--SR:!2027-04-11,165,292-->
 
 What does *sandiwa* suggest about the essence of something or a self? :: It could be expanded and shared.
 <!--SR:!2027-07-16,370,232-->
@@ -619,7 +619,7 @@ Per Cervantes (2025), when Filipino traits are detached from their *kapwa* conte
 <!--SR:!2027-04-07,191,292-->
 
 Per Cervantes (2025), when *utang na loob* is detached from its *kapwa* context, it is interpreted as a ==moral obligation==.
-<!--SR:!2026-10-30,56,272-->
+<!--SR:!2026-11-26,27,252-->
 
 Per Cervantes (2025), when *utang na loob* is re-attached to its *kapwa* context, it is interpreted as ==a form of solidarity where we ask what we owe to others==.
 <!--SR:!2026-12-01,97,232-->

@@ -56,7 +56,7 @@ Welayat al-Faqih English translation :: Guardianship of the Islamic Jurist
 <!--SR:!2027-01-23,105,230-->
 
 In Iran, the Khamenei governs as the representative of who? :: Muhammad al-Mahdi
-<!--SR:!2026-10-30,39,230-->
+<!--SR:!2027-01-28,90,230-->
 
 In Iran, Muhammad al-Mahdi is the ==Twelfth== Imam.
 <!--SR:!2027-07-23,325,310-->
@@ -187,7 +187,7 @@ Tell the story of the sacrifice of Iphigenia.
 <!--SR:!2027-01-08,190,270-->
 
 Lucretius closes the proem for Venus in De Rerum Natura Book I with what line? :: By Superstition we are driven to deeds of such great evil.
-<!--SR:!2026-10-31,28,150-->
+<!--SR:!2026-12-12,42,150-->
 
 Lucretius' nationality. :: Roman
 <!--SR:!2027-01-10,204,290-->

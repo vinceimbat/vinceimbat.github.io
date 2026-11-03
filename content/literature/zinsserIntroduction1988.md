@@ -138,7 +138,7 @@ How did Jaroslav Pelikan describe St. Augustine's Confessions? :: “One single 
 <!--SR:!2027-07-21,406,297-->
 
 In The Consolations of Philosophy, what experience did Boethius use to explore faith and hope? :: Imprisonment
-<!--SR:!2026-10-31,261,330-->
+<!--SR:!2029-03-10,861,330-->
 
 Boethius' book that grew out of his experience of imprisonment. :: The Consolations of Philosophy
 <!--SR:!2027-06-25,383,290-->

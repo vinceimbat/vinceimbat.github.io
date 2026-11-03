@@ -29,7 +29,7 @@ The camera lens' ==diaphragm== controls the size of the aperture.
 <!--SR:!2027-12-19,716,330-->
 
 In the human eye, the camera lens' diaphragm could be represented by the ==iris==.
-<!--SR:!2026-10-29,58,230-->
+<!--SR:!2027-03-13,135,230-->
 
 Why does a larger f-stop number translate to a smaller aperture? :: The f-stop number represents the size of the diaphragm blocking light into the lens.
 <!--SR:!2027-05-04,322,230-->
@@ -44,7 +44,7 @@ A prime lens has a ==fixed== max aperture.
 <!--SR:!2029-04-14,951,290-->
 
 The max aperture of a zoom lens will get ==smaller== as the focal length increases.
-<!--SR:!2026-10-27,49,170-->
+<!--SR:!2027-01-18,83,170-->
 
 The f-stop number of a camera using a zoom lens will ==increase== as the focal length increases.
 <!--SR:!2026-12-22,81,190-->

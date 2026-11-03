@@ -316,7 +316,7 @@ Per Edwards, what is the relationship between Dasein and its world? :: Dasein is
 <!--SR:!2027-03-01,244,230-->
 
 Per Edwards, what is the difference between the discarnate self and the rugged self? :: Discarnate self = self of transcendental subjectivity; Rugged self = the everyday, common-sense self
-<!--SR:!2026-11-01,32,170-->
+<!--SR:!2026-12-25,54,170-->
 
 Per Edwards, what is the relationship of Dasein with the discarnate self and the rugged self? :: It is neither these two.
 <!--SR:!2028-02-29,570,310-->

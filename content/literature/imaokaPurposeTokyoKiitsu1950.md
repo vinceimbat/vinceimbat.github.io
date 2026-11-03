@@ -117,7 +117,7 @@ Per Imaoka, a true cooperative community and kyōkai can only be realized throug
 <!--SR:!2027-10-10,425,250-->
 
 Per Imaoka, in jiyū shūkyō, why is absolute transcendence of denominations impossible? :: Jiyu shukyo is a trans-denominational denomination.
-<!--SR:!2026-11-03,116,270-->
+<!--SR:!2028-01-15,438,290-->
 
 Per Imaoka, for one to be both individualistic and collective, what should one's preferred political system be? :: Democracy
 <!--SR:!2029-12-31,1269,350-->
@@ -150,10 +150,10 @@ What century does the Community Church Movement originate from? :: 20th century
 <!--SR:!2027-02-06,346,270-->
 
 What is the Community Church Movement? :: 20th century evangelical attempt to realize practical ecumenism
-<!--SR:!2026-10-27,27,130-->
+<!--SR:!2026-12-02,36,130-->
 
 What is ecumenism? :: A movement promoting unity among the world's Christian Churches.
-<!--SR:!2026-10-28,117,250-->
+<!--SR:!2026-12-26,59,230-->
 
 Central figure in the Japanese Unitarian movement during the Meiji and Taisho eras, who was also the leader of the social movement in Japan. (Hint: A friend) :: Abe Isoo-shi
 <!--SR:!2027-07-12,321,210-->

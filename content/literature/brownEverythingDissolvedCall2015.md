@@ -147,10 +147,10 @@ Per Sheehan, Jesus destroyed what notion of God and replaced it with what notion
 <!--SR:!2027-01-31,127,230-->
 
 Per Sheehan, Jesus taught that God was present where? :: Among human beings enacting justice and mercy
-<!--SR:!2026-11-03,49,190-->
+<!--SR:!2026-11-27,24,170-->
 
 Per Sheehan, Jesus dissolved the fanciful speculations of apocalyptic eschatology into the call to ==justice and charity==.
-<!--SR:!2026-11-03,10,210-->
+<!--SR:!2026-12-03,30,230-->
 
 Per Sheehan, Jesus' message of the kingdom radically redefined the traditional notions of what two concepts? :: Grace and salvation
 <!--SR:!2027-02-03,100,290-->
@@ -164,7 +164,7 @@ Per Sheehan, what were the traditional notions of salvation?
 3. Man's elevation to a higher state
 ?
 Forgiving a debt
-<!--SR:!2026-10-31,68,270-->
+<!--SR:!2027-05-02,183,270-->
 
 Per Sheehan, what were the traditional notions of salvation?
 1. Forgiving a debt

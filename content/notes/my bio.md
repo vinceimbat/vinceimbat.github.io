@@ -1,7 +1,7 @@
 ---
 title: My bio
 created: 2024-11-23 08:22:20+08:00
-modified: 2026-10-26T21:28:02+08:00
+modified: 2026-10-31T16:44:18+08:00
 aliases:
   - thoughts/my-bio
   - My bio
@@ -68,6 +68,10 @@ Si Vince Honrado Imbat ay manunulat na mahilig maglakad. Tubong Pangasinan, naga
 # Agos
 
 Si Vince Honrado Imbat ay makata at mananalaysay na gumagalugad sa mga posibilidad ng paglalakad bilang mapagnilay at kolaboratibong kasanayang sining. Ang kaniyang mga akdang Pangasinan na kinilala na rin ng Gawad Bienvenido Lumbera at Gawad F. Sionil Jose ay nailathala na sa *Katipunan*, *TLDTD*, *Mountain Beacon*, *Rappler*, at iba pa. Nagtapos siya ng BA Social Sciences sa Unibersidad ng Pilipinas Baguio at kasalukuyang nagtuturo ng tula sa Philippine High School for the Arts sa Los Baños, Laguna.
+
+# Puon
+
+Vince Honrado Imbat is a Pangasinense writer experimenting with walking as contemplative and collaborative art practice. His work, recognized by the Gawad Bienvenido Lumbera and Gawad F. Sionil Jose, engages with the tensions of history, language, memory, and the sacred encountered in places. Vince has facilitated and performed walking projects in Laguna, Baguio, Pangasinan, and Thailand. He teaches poetry at the Philippine High School for the Arts.
 
 # References
 

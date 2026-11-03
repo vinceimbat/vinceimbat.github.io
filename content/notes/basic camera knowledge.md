@@ -100,7 +100,7 @@ The smaller the area of focus, the ==smaller== the f-number.
 <!--SR:!2027-04-08,260,230-->
 
 The bigger the area of focus, the ==bigger== the f-number.
-<!--SR:!2026-11-02,253,250-->
+<!--SR:!2028-07-27,633,250-->
 
 In AV mode, what does the camera adjust automatically? :: Shutter speed
 <!--SR:!2027-02-19,244,230-->

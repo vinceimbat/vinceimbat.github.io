@@ -54,7 +54,7 @@ Jōdo Shinshū bases its teachings on what three Mahāyāna sutras?
 3.
 ?
 Sutra on Amida Buddha (Smaller Sutra)
-<!--SR:!2026-10-27,323,290-->
+<!--SR:!2029-05-21,937,290-->
 
 Jōdo Shinshū bases its teachings on what three Mahāyāna sutras?
 ?
@@ -76,7 +76,7 @@ Age Shinran Shōnin entered the monastery? :: 9
 <!--SR:!2026-11-08,70,230-->
 
 How many years did Shinran Shōnin study Tendai teachings? :: 20
-<!--SR:!2026-11-02,99,250-->
+<!--SR:!2026-12-22,50,230-->
 
 What did Shinran Shōnin felt after years of studying Tendai teachings? :: Empty and far away from awakening.
 <!--SR:!2027-03-17,386,310-->

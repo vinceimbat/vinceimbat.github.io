@@ -30,7 +30,7 @@ Harrington, Donald Szantho. “The Twelfth Day - Self-Criticism—Dynamic Patien
 # Prompts
 
 How did the Weimans thought about self-criticism. :: Positive. Arises from the awareness of greater possibilities around Supreme Value.
-<!--SR:!2026-10-30,42,170-->
+<!--SR:!2026-11-19,20,150-->
 
 Per the Weimans, ==prayer== is a revelation of aspiration.
 <!--SR:!2028-01-13,476,310-->

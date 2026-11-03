@@ -78,7 +78,7 @@ Two forms of nostalgia per Brown.
 <!--SR:!2026-12-08,251,330-->
 
 What is restorative nostalgia? :: Using nostalgia to rebuild something.
-<!--SR:!2026-10-27,32,250-->
+<!--SR:!2027-01-15,80,250-->
 
 What is reflective nostalgia? :: Using nostalgia to build a better world.
 <!--SR:!2027-08-18,388,290-->

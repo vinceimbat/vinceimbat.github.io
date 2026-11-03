@@ -161,7 +161,7 @@ What does kireji mean? :: "cutting word" that acts as a pause or punctuation in 
 <!--SR:!2026-11-08,106,210-->
 
 Per de Borja, what is contained in a haiku is not the stillness of a present moment but its ==resonance==.
-<!--SR:!2026-11-03,262,330-->
+<!--SR:!2030-02-07,1192,350-->
 
 Compare travel during the Nara and Heian periods and travel during the Edo period in terms of safety. :: Edo period travel was safer
 <!--SR:!2026-11-14,270,330-->

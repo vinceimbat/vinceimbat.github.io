@@ -68,7 +68,7 @@ Mackesy's books are often compared to what other work? :: Milne's Winnie-the-Poo
 <!--SR:!2027-02-18,275,330-->
 
 Per Gray, what historical event was Winnie-the-Pooh responding to? :: WWI
-<!--SR:!2026-10-30,174,310-->
+<!--SR:!2027-01-27,89,290-->
 
 Per Gray, how does Winnie-the-Pooh respond to WWI? :: By creating a Hundred Acre Wood, which is a pastoral refuge from the feelings of loss after WWI.
 <!--SR:!2027-02-05,227,270-->

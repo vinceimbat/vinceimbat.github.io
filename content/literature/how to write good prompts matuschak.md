@@ -70,13 +70,13 @@ What prompt can be paired with a factual prompt to make them more meaningful? ::
 <!--SR:!2029-06-27,1263,352-->
 
 When a retrieval prompt is precise, it causes you to ==retrieve an exact information==.
-<!--SR:!2026-10-30,314,192-->
+<!--SR:!2028-06-24,603,192-->
 
 Why keep the items in a list prompt in the same order? :: You learn the list's visual shape, which helps with recall.
 <!--SR:!2028-06-27,845,272-->
 
 Instead of using clozes to remember a list, you can... :: Write an explanation prompt for each component of the list.
-<!--SR:!2026-11-02,274,192-->
+<!--SR:!2027-03-19,137,172-->
 
 If a knowledge can't be connected to other memories, how can you still leverage elaborative encoding? :: Create a mnemonic device.
 <!--SR:!2027-11-24,442,252-->

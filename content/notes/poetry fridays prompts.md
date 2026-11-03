@@ -1,7 +1,7 @@
 ---
 title: Poetry Fridays prompts
 created: 2026-06-08 20:49:52+08:00
-modified: 2026-10-05T16:35:23+08:00
+modified: 2026-10-27T11:09:52+08:00
 aliases:
   - Poetry Fridays prompts
 draft: false
@@ -239,3 +239,26 @@ Write Pa More
 ---
 
 bogong moths
+
+---
+
+[[2026-10-24]]
+
+by Ron Atilano
+
+October 27: Postcard From Somewhere Else
+
+It's United Nations Month. Choose a country you love, have visited, dream of visiting, or know only through books, food, music, films, and stories. Write a postcard poem, or something longer, from there. Tell us what you see, hear, taste, miss, or imagine.
+
+Prompts #1:
+
+• Sumulat ng tulang ang unang linya ay sugat at ang ika-sampung linya ay mapa.
+
+• Sumulat ng tula base lamang sa napakinggang pagbigkas na nasa wika ng ibang bansa: https://www.youtube.com/watch?v=PBStpUyuf0w&ab_channel=%D0%A1%D1%82%D0%B8%D1%85%D0%B8
+
+
+Prompts #2:
+
+• Sumulat ng tula tungkol sa ibang bayang napuntahan mo na. Kunwari nasa eroplano ka pabalik ng iyong bayan mula sa bayang iyon. Ano ang tulang isusulat mo para magpaalam o batiin ang bayang pansamantalang iniiwan?
+
+• Sumulat ng tula tungkol sa bansang naibigan mo dahil sa likhang sining (halimbawa: tula, nobela, pintura o pelikula) na may kaugnayan sa bayang iyon, o kaya naman ay isang bayang napaniginipan mo lamang. Banggitin ang mga imahen o tauhang nagpapaalala sa 'yo sa bansang ito.

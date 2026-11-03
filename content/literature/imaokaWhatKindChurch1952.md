@@ -198,7 +198,7 @@ Per Imaoka, later Christians and Buddhists confined the ever-evolving spiritual 
 3.
 ?
 religious authority
-<!--SR:!2026-11-01,268,339-->
+<!--SR:!2030-04-05,1251,359-->
 
 Per Imaoka, later Christians and Buddhists confined the ever-evolving spiritual life within the boundaries of:
 ?
@@ -235,7 +235,7 @@ Criticisms on Kiitsu Kyōkai Imaoka received. :: Lacks creeds, scriptures, and c
 <!--SR:!2027-07-18,375,250-->
 
 Per Imaoka, what is the quintessence of religion? :: Grasping the meaning of the Great Life.
-<!--SR:!2026-11-03,54,210-->
+<!--SR:!2027-02-24,113,210-->
 
 What elements of Kiitsu Kyōkai did Imaoka thought should eventually be systematized? :: creed, scriptures, and leaders
 <!--SR:!2026-12-04,327,290-->

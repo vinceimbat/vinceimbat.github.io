@@ -35,7 +35,7 @@ Poem used by Andrew James Brown to illustrate jiyū shūkyō in his foreword to 
 <!--SR:!2028-01-17,549,310-->
 
 Author of the poem "The Supple Deer." :: Jane Hirshfield
-<!--SR:!2026-10-29,235,330-->
+<!--SR:!2027-02-21,115,310-->
 
 Per Andrew James Brown, in Hirshfield's "The Supple Deer," which object represents jiyū shūkyō? :: fence
 <!--SR:!2026-12-21,275,330-->

@@ -41,7 +41,7 @@ Per Bregman, what factor predicted moral action among those who joined the resis
 <!--SR:!2026-11-10,175,310-->
 
 Per Bregman, based on research on those who joined the resistance in Netherlands during WWII, when people were asked to help, most responded ==yes==.
-<!--SR:!2026-10-28,178,310-->
+<!--SR:!2028-11-28,762,330-->
 
 Phrase used by Bregman to describe the spread of courage in resistance communities in Netherlands during WWII. :: Mind-virus
 <!--SR:!2027-02-11,265,330-->

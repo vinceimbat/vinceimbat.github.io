@@ -42,7 +42,7 @@ Per Imaoka, what really happened on Shakyamuni's day of enlightenment? :: He sim
 <!--SR:!2028-06-29,811,330-->
 
 Per Imaoka, when was the Dharma really revealed to Shakyamuni? :: The first time he delivered a sermon to an audience.
-<!--SR:!2026-10-31,43,230-->
+<!--SR:!2026-11-22,22,210-->
 
 Title of the first sermon Shakyamuni delivered to an audience. :: “Turning of the Wheel of Dharma”
 <!--SR:!2026-12-28,291,230-->

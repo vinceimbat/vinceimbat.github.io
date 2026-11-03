@@ -49,7 +49,7 @@ Per Paul Wienpahl, where will the direction of a man without a position come fro
 <!--SR:!2028-06-08,657,330-->
 
 Per Paul Wienpahl, how does a man without a position see the actions of others? :: Cannot judge them.
-<!--SR:!2026-11-01,195,310-->
+<!--SR:!2027-02-04,95,290-->
 
 Per Paul Wienpahl, what is evil? :: That which is recalcitrant or unmanageable.
 <!--SR:!2027-03-06,178,230-->
@@ -61,7 +61,7 @@ Indigenous Japanese Christian movement founded in 1901 by Uchimura Kanzo. :: No-
 <!--SR:!2026-11-07,198,310-->
 
 Founder of the No-church movement in Japan. :: Uchimura Kanzo
-<!--SR:!2026-10-27,3,130-->
+<!--SR:!2026-11-16,14,170-->
 
 Year the Japanese No-church movement was founded. :: 1901
 <!--SR:!2026-12-01,73,210-->

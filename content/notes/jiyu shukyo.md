@@ -88,7 +88,7 @@ Having faith to the other means trusting that if he or she constantly reads the 
 # Prompts
 
 Briefly explain the history of the word 宗教 (shūkyō). :: Japan has no indigenous word for religion. Shūkyō was coined in the 19th century to translate religion.
-<!--SR:!2026-10-31,276,250-->
+<!--SR:!2028-09-21,691,250-->
 
 # Related
 

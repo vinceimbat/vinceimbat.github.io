@@ -26,7 +26,7 @@ To give a spaced repetition prompt an emotional context ... :: Connect it to a p
 <!--SR:!2027-09-10,418,270-->
 
 Reading inbox filter :: Quality materials relevant to my projects.
-<!--SR:!2026-11-01,65,150-->
+<!--SR:!2026-12-04,33,130-->
 
 Rule of thumb on when not to write spaced repetition prompts on a material. :: When I couldn't write at least five good prompts about it.
 <!--SR:!2028-10-18,845,270-->
@@ -59,7 +59,7 @@ How can spaced repetition support creative work? :: Prompts can help one remembe
 <!--SR:!2027-01-16,489,270-->
 
 Complex questions are allowed in spaced repetition prompts only when ... :: They're part of a hierarchy of atomic prompts.
-<!--SR:!2026-10-31,122,214-->
+<!--SR:!2026-12-31,61,194-->
 
 Prompts weakly related to others ::: Orphan questions
 <!--SR:!2030-06-05,1397,314!2027-06-07,232,194-->

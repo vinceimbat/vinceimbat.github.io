@@ -116,7 +116,7 @@ Present the four religious or spiritual tendencies, paths, or disciplines in the
 - rāja yoga -> the intuitional
 - bhakti yoga -> the emotional
 - karma yoga -> the sensate
-<!--SR:!2026-10-28,7,130-->
+<!--SR:!2026-11-05,8,130-->
 
 Time frame of the rational (thinking type). :: linear
 <!--SR:!2027-11-18,547,270-->
@@ -131,7 +131,7 @@ Time frame of the sensate (sensing type). :: present
 <!--SR:!2027-12-26,664,270-->
 
 Per Brown (February 08, 2025), explain why the intuitional (intuiting type) time frame is future. :: Once they intuit a pattern, they leap to a conclusion.
-<!--SR:!2026-10-30,177,230-->
+<!--SR:!2028-05-27,575,250-->
 
 The ==inner spirit== makes us feel that ==behind every appearance of diversity== there is ==an interdependent unity of all things==. — George de Benneville
 <!--SR:!2000-01-01,1,250!2025-02-14,1,230!2000-01-01,1,250-->

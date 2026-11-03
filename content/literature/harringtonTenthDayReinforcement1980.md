@@ -33,4 +33,4 @@ Per the Weimans, what is that something greater than ourselves that the truly re
 <!--SR:!2026-11-05,132,210-->
 
 Per the Weimans, what is the evolving City of God? :: The growth of mutuality and meaning in the universe
-<!--SR:!2026-10-28,34,150-->
+<!--SR:!2027-01-10,74,170-->

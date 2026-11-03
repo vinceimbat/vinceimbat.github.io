@@ -31,7 +31,7 @@ Brown, Andrew James. “Dissolving the Closed Horizon: A Free-Religious Pentecos
 # Prompts
 
 In established Christianity's Alpha-Way-Omega, how does one get from Alpha to Omega? :: Following strict Way by the Church.
-<!--SR:!2026-10-30,88,270-->
+<!--SR:!2026-12-14,45,250-->
 
 In established Christianity's Alpha-Way-Omega, which parts are exactly the same? :: Alpha and Omega
 <!--SR:!2027-06-02,284,330-->
@@ -52,7 +52,7 @@ Per Bloch, how does the external creator God disappear in the moment of Pentecos
 <!--SR:!2027-01-15,145,270-->
 
 In jiyū shūkyō terms, what does Pentecost represent? :: The newness of each moment and thing.
-<!--SR:!2026-11-03,73,250-->
+<!--SR:!2026-12-10,37,230-->
 
 
 <!--SR:!2026-06-03,1,210-->
