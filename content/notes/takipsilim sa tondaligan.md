@@ -41,10 +41,10 @@ Per Andrew James Brown, in Hirshfield's "The Supple Deer," which object represen
 <!--SR:!2026-12-21,275,330-->
 
 Phrase used by Jane Hirshfield in her poem "The Supple Deer" to describe part of the fence where the deer passed through. :: "quiet opening"
-<!--SR:!2026-11-13,39,270-->
+<!--SR:!2027-04-08,146,290-->
 
 Per Andrew James Brown, in Hirshfield's "The Supple Deer," what does the supple deer represent? :: God, Amida Buddha, The Light, the Great Life etc.
-<!--SR:!2026-11-04,240,330-->
+<!--SR:!2029-01-04,792,330-->
 
 One possible root word of religion that means "to bind fast." :: religare
 <!--SR:!2026-12-11,266,330-->
@@ -56,10 +56,10 @@ Per Andrew James Brown, using the metaphor of the fence in "The Supple Deer," wh
 <!--SR:!2028-02-26,588,330-->
 
 Per Andrew James Brown, jiyū shūkyō's task is to ensure that the cords that binds members of a free-religious community are what? :: creative and liberative
-<!--SR:!2026-11-07,67,250-->
+<!--SR:!2027-04-28,168,250-->
 
 Per Andrew James Brown, in Hirshfield's "The Supple Deer," what three characteristics of the fence make it an apt representation of jiyū shūkyō? :: minimalist, strong, and flexible
-<!--SR:!2026-11-09,87,250-->
+<!--SR:!2027-06-18,219,250-->
 
 Per Andrew James Brown, the thin metal strands of the fence in Hirshfield's "The Supple Deer" represents what in jiyū shūkyō? :: Imaoka's "Principles of Living"
 <!--SR:!2027-01-06,288,330-->
@@ -79,7 +79,7 @@ Per Andrew James Brown, the two roles of the "Principles of Living" in the life 
 2.
 ?
 Remind us of kiitsu.
-<!--SR:!2026-11-04,86,290-->
+<!--SR:!2027-07-11,249,290-->
 
 Per Andrew James Brown, the two roles of the "Principles of Living" in the life of a free-religionist:
 ?

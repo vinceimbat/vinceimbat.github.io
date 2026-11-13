@@ -140,7 +140,7 @@ Use a list-based approach in writing retrieval prompts about a procedure if all 
 <!--SR:!2028-12-09,1106,352-->
 
 What must you know to move between the steps of a procedure? :: Conditions/heuristics for when to stop doing one thing and start doing another.
-<!--SR:!2026-11-10,331,212-->
+<!--SR:!2028-10-13,702,212-->
 
 To internalize a concept, write prompts that help you understand its ==components== and ==relationships==.
 <!--SR:!2026-12-13,52,192!2027-02-10,397,312-->
@@ -196,7 +196,7 @@ Significance and implications
 <!--SR:!2027-04-09,184,252-->
 
 To write prompts about a concept’s attributes and tendencies, what should you identify about its instances? :: What’s always / sometimes / never true.
-<!--SR:!2026-11-06,153,232-->
+<!--SR:!2028-03-21,501,252-->
 
 To write conceptual prompts using the ‘parts and wholes’ lens, what kind of diagram is helpful to visualize? :: Venn diagram
 <!--SR:!2029-07-27,1286,352-->
@@ -340,7 +340,7 @@ Per Andy Matuschak, what are the two things you can do when you don't care about
 2. Delete it.
 ?
 Revise it to reflect your original motivation.
-<!--SR:!2026-11-04,410,252-->
+<!--SR:!2029-09-02,1033,252-->
 
 Per Andy Matuschak, what are the two things you can do when you don't care about a prompt anymore?
 1. Revise it to reflect your original motivation.

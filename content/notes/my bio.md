@@ -1,7 +1,7 @@
 ---
 title: My bio
 created: 2024-11-23 08:22:20+08:00
-modified: 2026-10-31T16:44:18+08:00
+modified: 2026-11-05T22:12:27+08:00
 aliases:
   - thoughts/my-bio
   - My bio
@@ -72,6 +72,10 @@ Si Vince Honrado Imbat ay makata at mananalaysay na gumagalugad sa mga posibilid
 # Puon
 
 Vince Honrado Imbat is a Pangasinense writer experimenting with walking as contemplative and collaborative art practice. His work, recognized by the Gawad Bienvenido Lumbera and Gawad F. Sionil Jose, engages with the tensions of history, language, memory, and the sacred encountered in places. Vince has facilitated and performed walking projects in Laguna, Baguio, Pangasinan, and Thailand. He teaches poetry at the Philippine High School for the Arts.
+
+# Candent
+
+Vince Honrado Imbat teaches poetry at the Philippine High School for the Arts. He was a fellow in poetry at the seventeenth Palihang Rogelio Sicat in 2024, and his suite of Pangasinan poems entitled "Bëltangën Tayo'y Këlpa" (Cut Through This Fog) won in the Gawad F. Sionil Jose on the same year. His poems have been published in Katipunan, TLDTD, Mountain Beacon, Northern Dispatch, and Alagwa.
 
 # References
 

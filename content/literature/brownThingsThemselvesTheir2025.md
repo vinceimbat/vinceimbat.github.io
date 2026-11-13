@@ -35,7 +35,7 @@ Tenko Nishida's saying 1 in Selflessness :: Things themselves, by their very nat
 <!--SR:!2027-01-11,130,170-->
 
 Per Andrew James Brown the word "property" fundamentally refers to what? :: Fundamental characteristics that make something that thing
-<!--SR:!2026-11-06,243,270-->
+<!--SR:!2028-08-23,656,270-->
 
 Per Andrew James Brown, why are fundamental properties not possessions. :: They can't be possessed; they make the thing what it is.
 <!--SR:!2026-11-27,111,210-->

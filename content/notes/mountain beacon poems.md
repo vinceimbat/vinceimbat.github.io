@@ -43,7 +43,7 @@ Here's a list to track the poems I've sent to Mountain Beacon, including both th
 - [[before the ruptured eardrum|Before the Ruptured Eardrum]]
 - [[kapag nawala ako|Kapag Nawala Ako]]
 - [[with no fractures visible|With No Fractures Visible]]
-- [[renacimiento|Renacimiento]]
+- [[notes/renacimiento|Renacimiento]]
 
 ### [[2026-02-03]]
 
@@ -158,7 +158,7 @@ Here's a list to track the poems I've sent to Mountain Beacon, including both th
 
 ### [[2025-10-07]]
 
-- [[tumba|Tumba]]
+- [[notes/tumba|Tumba]]
 
 ## September 2025
 

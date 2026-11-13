@@ -45,7 +45,7 @@ Translation of Amida Buddha. (Hint: Toy Story) :: The Buddha of Infinite Light a
 <!--SR:!2025-07-27,1,230!2000-01-01,1,250-->
 
 Jōdo Shinshū interpretation of karma. :: Interconnection of causes, conditions and effects that have accumulated since the beginning of time.
-<!--SR:!2026-11-09,149,210-->
+<!--SR:!2027-09-20,313,210-->
 
 Literal translation of *nembutsu*? :: "to think of Buddha"
 <!--SR:!2026-11-17,39,150-->

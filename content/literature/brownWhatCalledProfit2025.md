@@ -31,7 +31,7 @@ Brown, Andrew James. “What Is Called ‘Profit’ Disappears without a Trace .
 # Prompts
 
 Ittōen means ==the Garden of the One Light==.
-<!--SR:!2026-11-09,166,270-->
+<!--SR:!2028-02-04,450,270-->
 
 Gist of saying 2 of Tenko Nishida-san's Selflessness :: True profit
 <!--SR:!2027-02-20,166,250-->

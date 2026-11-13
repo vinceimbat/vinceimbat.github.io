@@ -190,7 +190,7 @@ Per Imaoka, later Christians and Buddhists confined the ever-evolving spiritual 
 3. religious authority
 ?
 ceremonies
-<!--SR:!2026-11-06,44,279-->
+<!--SR:!2027-03-07,121,279-->
 
 Per Imaoka, later Christians and Buddhists confined the ever-evolving spiritual life within the boundaries of:
 1. dogma

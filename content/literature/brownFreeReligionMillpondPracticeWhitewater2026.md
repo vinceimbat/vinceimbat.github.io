@@ -30,7 +30,7 @@ Brown, Andrew James. “Free-Religion—Millpond Practice, Whitewater Living.”
 # Prompts
 
 What is a threshold concept? :: Idea that unlocks new ways of thinking and acting.
-<!--SR:!2026-11-06,181,310-->
+<!--SR:!2028-05-21,562,310-->
 
 Idea that unlocks new ways of thinking and acting. :: Threshold concept
 <!--SR:!2026-11-18,177,310-->

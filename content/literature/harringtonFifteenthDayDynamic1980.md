@@ -33,4 +33,4 @@ Per the Weimans, in the face of an uncertain world, what does a religious life g
 <!--SR:!2027-01-03,82,250-->
 
 Per the Weimans, what is the foundation of a religious person's peace of mind? :: Reliance on a power greater than oneself.
-<!--SR:!2026-11-13,10,190-->
+<!--SR:!2026-12-10,27,210-->

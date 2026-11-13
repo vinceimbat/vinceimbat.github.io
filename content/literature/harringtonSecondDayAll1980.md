@@ -56,7 +56,7 @@ Per the Weimans, value is a combination of what two things?
 ?
 1. Actuality
 2. Possibility
-<!--SR:!2026-11-11,151,270-->
+<!--SR:!2027-01-26,76,250-->
 
 Per the Weimans, the combination of actuality and possibility creates ==value==.
 <!--SR:!2026-12-21,81,290-->

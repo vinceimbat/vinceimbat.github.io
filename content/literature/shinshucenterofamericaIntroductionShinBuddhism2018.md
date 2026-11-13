@@ -73,7 +73,7 @@ Monastery where Shinran Shōnin studied. :: Tendai
 <!--SR:!2028-02-09,708,330-->
 
 Age Shinran Shōnin entered the monastery? :: 9
-<!--SR:!2026-11-08,70,230-->
+<!--SR:!2026-12-17,36,210-->
 
 How many years did Shinran Shōnin study Tendai teachings? :: 20
 <!--SR:!2026-12-22,50,230-->

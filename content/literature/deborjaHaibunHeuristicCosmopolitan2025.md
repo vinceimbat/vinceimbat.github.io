@@ -146,7 +146,7 @@ Literal translation of utamakura (歌枕). :: "poem pillow"
 <!--SR:!2028-12-01,788,330-->
 
 What does utamakura (歌枕) mean? :: Place name in Japanese poetry that carries specific symbolism.
-<!--SR:!2026-11-10,23,150-->
+<!--SR:!2026-12-15,34,150-->
 
 Why is utamakura (歌枕) called "poem pillow"? :: It is where the poem rests or is inspired.
 <!--SR:!2027-01-28,145,170-->
@@ -158,7 +158,7 @@ What does kigo mean? :: Season word in haiku
 <!--SR:!2027-10-16,429,270-->
 
 What does kireji mean? :: "cutting word" that acts as a pause or punctuation in haiku
-<!--SR:!2026-11-08,106,210-->
+<!--SR:!2027-06-22,223,210-->
 
 Per de Borja, what is contained in a haiku is not the stillness of a present moment but its ==resonance==.
 <!--SR:!2030-02-07,1192,350-->

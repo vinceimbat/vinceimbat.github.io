@@ -404,7 +404,7 @@ Per Cervantes, three early criticisms to Sikolohiyang Pilipino:
 3.
 ?
 Closed off to global dialogue
-<!--SR:!2026-11-11,342,292-->
+<!--SR:!2030-08-28,1386,312-->
 
 Per Cervantes, three early criticisms to Sikolohiyang Pilipino:
 ?
@@ -610,7 +610,7 @@ In Sikolohiyang Pilipino, who are the beneficiaries of pakikipagkapwa? :: People
 <!--SR:!2027-01-30,119,272-->
 
 Per Cervantes (2025), when does a *kapwa* ecology emerge? :: When a self extends their identity to the world around them.
-<!--SR:!2026-11-11,106,152-->
+<!--SR:!2027-04-21,161,152-->
 
 Cervantes' (2025) rough translation of *utang na loob* :: “the soul as payment for a debt”
 <!--SR:!2028-06-03,614,272-->

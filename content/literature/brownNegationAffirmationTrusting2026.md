@@ -56,4 +56,4 @@ Per Imaoka, while focused on the Great Life within us, how do we approach tradit
 <!--SR:!2027-02-22,245,330-->
 
 Using Imaoka's the Great Life, how did Andrew James Brown reinterpreted the meaning of Easter? :: Easter is a reminder of the Great Life within us that allows all forms of arising.
-<!--SR:!2026-11-05,107,250-->
+<!--SR:!2026-12-29,54,230-->

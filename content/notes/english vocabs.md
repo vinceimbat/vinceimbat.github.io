@@ -99,7 +99,7 @@ eschew (hint: Young People Ask) :: v. shun
 <!--SR:!2027-09-29,521,289-->
 
 execrate :: v. express great loathing
-<!--SR:!2026-11-10,34,130-->
+<!--SR:!2026-11-27,16,130-->
 
 exegesis - critical explanation or interpretation of a text, especially of scripture
 
@@ -186,7 +186,7 @@ knell - solemn sound of a bell (death)
 # L
 
 languor :: n. weariness
-<!--SR:!2026-11-09,22,170-->
+<!--SR:!2027-01-06,56,190-->
 
 largesse :: n. generosity
 <!--SR:!2026-11-19,17,149-->
@@ -256,7 +256,7 @@ picaresque (hint: Kobe) :: adj. relating to episodic fiction about a dishonest b
 <!--SR:!2027-01-20,301,212-->
 
 pithy (hint: core) :: adj. concise and forcefully expressive
-<!--SR:!2026-11-05,55,130-->
+<!--SR:!2027-01-13,69,130-->
 
 pitter-patter :: n. sound of quick light steps
 <!--SR:!2026-12-12,150,152-->
@@ -362,7 +362,7 @@ undergrowth :: n. growth of plants on the forest floor
 <!--SR:!2028-01-09,740,333-->
 
 unkempt (hint: body) :: adj. uncombed; unclean; unpolished
-<!--SR:!2026-11-10,57,153-->
+<!--SR:!2027-03-20,129,173-->
 
 upbraid :: v. scold
 <!--SR:!2026-11-17,125,213-->
@@ -370,7 +370,7 @@ upbraid :: v. scold
 # V
 
 vilify :: v. to defame
-<!--SR:!2026-11-13,52,190-->
+<!--SR:!2026-12-08,25,170-->
 
 voile :: n. thin, semitransparent fabric
 <!--SR:!2027-01-12,101,150-->

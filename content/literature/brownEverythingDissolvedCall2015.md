@@ -193,7 +193,7 @@ Per Sheehan, by interpreting Jesus as savior, the Christian church surrendered w
 <!--SR:!2026-12-16,252,330-->
 
 Per Sheehan, what is Jesus' radical present-future sense of time? :: Forgiveness; grace is already everywhere
-<!--SR:!2026-11-05,22,130-->
+<!--SR:!2026-12-05,30,130-->
 
 Per Sheehan, the Christian church replaced Jesus's radical present-future with what? :: Mythical past-present-future
 <!--SR:!2027-03-31,263,250-->

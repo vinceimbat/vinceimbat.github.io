@@ -53,7 +53,7 @@ Slicing an image into two in Photoshop.
 6. Save > All slices
 ?
 Divide Vertically Into 2
-<!--SR:!2026-11-06,370,230-->
+<!--SR:!2027-05-13,188,210-->
 
 Slicing an image into two in Photoshop.
 1. Click slice tool.

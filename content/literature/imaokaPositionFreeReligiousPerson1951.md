@@ -51,13 +51,13 @@ Per Imaoka (1951), since beliefs are individual, they should never be used as wh
 <!--SR:!2028-01-07,560,270-->
 
 Per Imaoka (1951), what is the free religious person's position on  intellectual expressions of beliefs, such as creeds? (Hint: four adjectives) :: These are personal, diverse, evolving, and partial.
-<!--SR:!2026-11-10,17,130-->
+<!--SR:!2026-11-19,8,130-->
 
 Per Imaoka (1951), while a free religious church may not have a creed, what form of organizing document can it use? :: A manifesto.
 <!--SR:!2027-12-11,776,330-->
 
 Per Imaoka (1951), what is the use of a church manifesto? :: Clarifies the basis for a church's unity.
-<!--SR:!2026-11-09,276,230-->
+<!--SR:!2028-08-08,636,230-->
 
 Per Imaoka (1951), a church manifesto should not be ??? but rather a ??? :: a statement of specific beliefs, a declaration of shared purposes or guidelines for practice
 <!--SR:!2027-01-27,150,150-->

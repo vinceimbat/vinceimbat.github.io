@@ -69,7 +69,7 @@ Because of its simplicity, Jōdo Shinshū became very popular among what class? 
 <!--SR:!2027-08-17,549,330-->
 
 Year Nishi Honganji was built. :: 1591
-<!--SR:!2026-11-06,49,150-->
+<!--SR:!2026-12-01,25,130-->
 
 Year Higashi Honganji was built. :: 1604
 <!--SR:!2027-01-01,68,190-->

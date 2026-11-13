@@ -107,7 +107,7 @@ Basic unit of working memory ::: Chunk
 <!--SR:!2030-08-14,1564,338!2027-06-11,377,258-->
 
 Per Nielsen (2018), what is the role of long-term memory in developing expertise? :: More chunks memorized boosts one's IQ in a domain.
-<!--SR:!2026-11-11,44,138-->
+<!--SR:!2027-02-12,93,158-->
 
 Rule of thumb to be very selective on what to memorize for the long term. :: Memorize material that you'll need repeatedly.
 <!--SR:!2026-12-15,428,240-->

@@ -42,7 +42,7 @@ Via's birthday (hint: day is right after Tantan's) :: July 16
 <!--SR:!2026-12-01,47,150-->
 
 Brianna's birthday :: November 10
-<!--SR:!2026-11-07,107,170-->
+<!--SR:!2027-08-02,264,190-->
 
 To avoid grainy dark photos, keep ISO to ==100==.
 <!--SR:!2028-10-26,976,345-->

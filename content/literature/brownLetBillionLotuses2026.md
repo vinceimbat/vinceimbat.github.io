@@ -38,7 +38,7 @@ Per Bregman, what did researchers of those who joined the resistance in Netherla
 <!--SR:!2027-03-11,287,330-->
 
 Per Bregman, what factor predicted moral action among those who joined the resistance in Netherlands during WWII? :: They were asked by someone to act.
-<!--SR:!2026-11-10,175,310-->
+<!--SR:!2028-11-26,746,330-->
 
 Per Bregman, based on research on those who joined the resistance in Netherlands during WWII, when people were asked to help, most responded ==yes==.
 <!--SR:!2028-11-28,762,330-->

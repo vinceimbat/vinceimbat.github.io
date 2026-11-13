@@ -37,7 +37,7 @@ Per Orhan Pamuk, what is *hüzün*? :: Cultural nostalgia felt while living in t
 <!--SR:!2028-03-12,513,270-->
 
 Year the Ottoman Empire ended. :: 1922
-<!--SR:!2026-11-06,116,270-->
+<!--SR:!2027-01-03,58,250-->
 
 Per Orhan Pamuk, cultural nostalgia felt while living in the ruins of a once great empire. :: *hüzün*
 <!--SR:!2027-11-30,428,310-->

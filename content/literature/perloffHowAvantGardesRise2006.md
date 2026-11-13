@@ -56,7 +56,7 @@ I think I might focus on "spatial poetry"
 # Prompts
 
 cenacle :: discussion group or literary clique
-<!--SR:!2026-11-11,10,230-->
+<!--SR:!2026-12-04,23,230-->
 
 congeries :: a disorderly collection
 <!--SR:!2026-12-13,44,230-->

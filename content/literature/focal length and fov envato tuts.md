@@ -140,10 +140,10 @@ APS-C has an FOVCF of ==1.6x== for Canon.
 <!--SR:!2027-02-05,411,290-->
 
 APS-C has an FOVCF of ==1.5x== for Nikon.
-<!--SR:!2026-11-07,142,270-->
+<!--SR:!2027-11-29,383,270-->
 
 Micro 4/3 has a ==2x== FOVCF.
-<!--SR:!2026-11-08,365,290-->
+<!--SR:!2027-05-16,186,270-->
 
 A 50 mm lens on a Micro 4/3 camera would have a similar FOV to a ==100== mm lens on a full frame camera.
 <!--SR:!2026-11-16,30,190-->

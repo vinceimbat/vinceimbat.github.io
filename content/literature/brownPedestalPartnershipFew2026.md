@@ -29,7 +29,7 @@ Brown, Andrew James. “From Pedestal to Partnership: A Few Free-Religious Thoug
 # Prompts
 
 Per Brown, what is the wrong way of looking at nature? :: Seeing it as an external object placed on a pedestal.
-<!--SR:!2026-11-07,44,290-->
+<!--SR:!2026-12-03,22,270-->
 
 Per Brown, what is the right way of looking at nature? :: Seeing ourselves as part of it.
 <!--SR:!2026-11-18,56,310-->

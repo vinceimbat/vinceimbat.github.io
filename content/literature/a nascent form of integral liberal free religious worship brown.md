@@ -24,7 +24,7 @@ Three key nineteenth-century Hindu thinkers who introduced the four religious or
 - Svāmī Vivekānanda
 ?
 Pratap Chundra Mozoomdar
-<!--SR:!2026-11-12,106,170-->
+<!--SR:!2027-05-11,180,170-->
 
 Three key nineteenth-century Hindu thinkers who introduced the four religious or spiritual tendencies, paths, or disciplines in the Hindu tradition:
 - Rāja Rammohan Roy
@@ -99,7 +99,7 @@ Present the four religious or spiritual tendencies, paths, or disciplines in the
 <!--SR:!2026-12-27,86,205-->
 
 Per Carl Jung, jñāna yoga became ==the rational==.
-<!--SR:!2026-11-12,327,305-->
+<!--SR:!2030-08-25,1382,325-->
 
 Per Carl Jung, rāja yoga became ==the intuitional==.
 <!--SR:!2027-02-12,136,265-->
@@ -116,7 +116,7 @@ Present the four religious or spiritual tendencies, paths, or disciplines in the
 - rāja yoga -> the intuitional
 - bhakti yoga -> the emotional
 - karma yoga -> the sensate
-<!--SR:!2026-11-05,8,130-->
+<!--SR:!2026-11-22,17,150-->
 
 Time frame of the rational (thinking type). :: linear
 <!--SR:!2027-11-18,547,270-->

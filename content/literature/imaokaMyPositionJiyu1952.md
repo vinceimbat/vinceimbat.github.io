@@ -30,7 +30,7 @@ Imaoka, Shin’ichirō. _My Position on Jiyū Shūkyō_. Translated by Andrew Ja
 # Prompts
 
 Year Shin'ichirō Imaoka was baptized as a Christian :: 1897
-<!--SR:!2026-11-07,18,150-->
+<!--SR:!2026-12-21,40,170-->
 
 Japanese derogatory term for Christians. :: Yaso
 <!--SR:!2027-04-22,369,290-->
@@ -51,7 +51,7 @@ What did Shin'ichirō Imaoka realize about missionary work that made him give up
 <!--SR:!2027-01-12,220,250-->
 
 After resigning as a pastor, Shin'ichirō Imaoka became what? :: Assistant researcher
-<!--SR:!2026-11-10,285,250-->
+<!--SR:!2027-04-03,143,230-->
 
 After resigning as a pastor, Shin'ichirō Imaoka worked in what school? (Hint: Iglesia) :: Tokyo Imperial University
 <!--SR:!2027-02-24,151,230-->
@@ -69,13 +69,13 @@ Two subjects Shin'ichirō Imaoka taught upon returning to Japan after studying i
 <!--SR:!2028-05-11,694,290-->
 
 School where Shin'ichirō Imaoka taught after returning to Japan from Harvard. :: Nihon University
-<!--SR:!2026-11-09,61,190-->
+<!--SR:!2026-12-11,30,170-->
 
 Researcher who Shin'ichirō Imaoka accompanied throughout Japan to study shinto. :: J. W. T. Mason
 <!--SR:!2027-07-08,333,270-->
 
 Years Shin'ichirō Imaoka accompanied Mason to study Shinto throughout Japan. :: (1932–1940)
-<!--SR:!2026-11-12,147,230-->
+<!--SR:!2027-01-27,76,210-->
 
 Throughout his 50-year religious pilgrimage, how did Shin'ichirō Imaoka identify himself religiously? :: None. He felt uncomfortable calling himself a Christian, Buddhist, or Shintoist.
 <!--SR:!2027-09-25,543,310-->
@@ -84,7 +84,7 @@ Per Shin'ichirō Imaoka, jiyū shūkyō two central principles are:
 1. Freedom or respect for individuality
 
 What is Shin'ichirō Imaoka's views on doctrinal tenets of faith? :: Historically significant but not immutable.
-<!--SR:!2026-11-13,186,250-->
+<!--SR:!2028-08-27,653,270-->
 
 What is Shin'ichirō Imaoka's position on founders of religion? :: Jiyū shūkyō (true religion) has no founders.
 <!--SR:!2027-07-26,474,270-->
@@ -99,7 +99,7 @@ Why does Shin'ichirō Imaoka think democracy fits well with jiyū shūkyō? :: B
 <!--SR:!2000-01-01,1,250!2025-07-29,4,270-->
 
 Catholic claim similar to the 18th vow of Hōzō Bosatsu :: There is no salvation outside the church.
-<!--SR:!2026-11-05,324,310-->
+<!--SR:!2029-08-05,1004,310-->
 
 Who is Hōzō Bosatsu? :: King that later became Amida Buddha.
 <!--SR:!2028-02-25,510,330-->

@@ -328,7 +328,7 @@ Per Edwards, Heidegger’s Dasein is still recognizably us in what crucial respe
 <!--SR:!2027-03-29,253,290-->
 
 Per Edwards, what is Pathos? :: Gravity of everyday practices.
-<!--SR:!2026-11-08,147,286-->
+<!--SR:!2027-01-24,74,266-->
 
 The pathos of practice translates to the pathos of ==lives==.
 <!--SR:!2026-11-30,54,230-->
@@ -343,7 +343,7 @@ Per Edwards, why is the pathos of everyday practices and lives diminished when s
 <!--SR:!2027-03-07,283,266-->
 
 Why did Edwards claim that Heidegger impersonates Nietzsche in *Being and Time*? :: Nietzsche: Meaning flows from human beings / Heidegger: Things derive their meaning from Dasein's projects.
-<!--SR:!2026-11-13,138,206-->
+<!--SR:!2027-01-20,68,186-->
 
 German word that means gear. :: Zeug
 <!--SR:!2027-01-16,98,266-->

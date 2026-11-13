@@ -69,7 +69,7 @@ Three areas of study Imaoka devoted himself into:
 <!--SR:!2027-01-30,371,290-->
 
 A controversial Japanese text establishing a connection between Japanese people and Mesopotamia. (hint: Magana) :: Hotsuma Tsutae
-<!--SR:!2026-11-10,216,210-->
+<!--SR:!2028-02-06,452,210-->
 
 Age of Imaoka when he felt that to grasp the quintessence of Shinto and shrines was his life's final task. :: 99
 <!--SR:!2029-04-08,1056,350-->
@@ -93,7 +93,7 @@ Shinto shrines of a regional and spatial community are called ==ubusuna==.
 <!--SR:!2027-04-20,183,190-->
 
 Imaoka uses what term to refer inclusively to both *ujigami* and *ubusuna* Shinto shrines? :: Local community shrine
-<!--SR:!2026-11-04,53,270-->
+<!--SR:!2026-12-01,27,250-->
 
 Per Imaoka, what is the mission of the local community shrine in Shinto? :: To integrate isolated individuals into a community.
 <!--SR:!2027-06-19,516,310-->

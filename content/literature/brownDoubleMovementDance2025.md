@@ -39,7 +39,7 @@ Per Andrew James Brown, why can't a free-religious community adopt the Hungarian
 <!--SR:!2026-11-23,227,270-->
 
 Metaphor Andrew James Brown uses to explain free-religious faith. :: Ice dancing moment of throw
-<!--SR:!2026-11-12,35,210-->
+<!--SR:!2026-11-30,18,190-->
 
 Per Andrew James Brown, free-religious  faith is a double movement of ==giving up and getting back.==
 <!--SR:!2026-11-15,16,190-->
@@ -71,7 +71,7 @@ Per Ed Mooney, the recognition that wisdom begins with acknowledging one's lack 
 <!--SR:!2026-11-14,30,190-->
 
 Per Andrew James Brown, the ground we return to after a leap of free-religious faith is transformed by what? :: The leap itself
-<!--SR:!2026-11-08,262,330-->
+<!--SR:!2029-03-24,864,330-->
 
 Japanese word that means "true-entrusting." :: shinjin
 <!--SR:!2027-08-29,330,310-->

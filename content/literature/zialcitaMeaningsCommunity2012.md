@@ -33,4 +33,4 @@ Per Zialcita, what is an apt translation for *kami*? :: we-excluding-you
 <!--SR:!2029-02-18,943,330-->
 
 Per Zialcita, what is an apt translation for *tayo*? :: we-including-you
-<!--SR:!2026-11-13,346,290-->
+<!--SR:!2029-08-12,1003,290-->

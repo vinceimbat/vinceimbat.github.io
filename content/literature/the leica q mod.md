@@ -68,7 +68,7 @@ Process to learn:
 # Prompts
 
 What does a full frame mean in photography? (hint: HOU) :: Sensor size is 35 mm
-<!--SR:!2026-11-05,245,250-->
+<!--SR:!2027-03-08,123,230-->
 
 What does CMOS in CMOS camera sensor mean? :: Complementary Metal-Oxide-Semiconductor
 <!--SR:!2026-12-31,358,250-->

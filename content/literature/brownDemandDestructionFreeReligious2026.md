@@ -30,7 +30,7 @@ Brown, Andrew James. “Demand Destruction as a Free‑Religious Discipline.” 
 # Prompts
 
 In economics, what is demand destruction? :: Permanent decline in demand because of extreme prices or supply shortages.
-<!--SR:!2026-11-13,53,230-->
+<!--SR:!2027-03-15,122,230-->
 
 Per Brown, the demand destruction brought by free-religion is directed at the ==ego-self==.
 <!--SR:!2026-12-13,49,230-->
@@ -42,7 +42,7 @@ Per Tenkō-san, in his Saying 21, why do problems exist? :: One has not died com
 <!--SR:!2026-12-29,108,270-->
 
 Per Tenkō-san, in Saying 15, what is true repentance? :: The great death of self-attachment.
-<!--SR:!2026-11-05,16,150-->
+<!--SR:!2026-11-26,14,150-->
 
 Per Tenkō-san, how can our ego-selves be destroyed? :: By "taking the lower seat"
 <!--SR:!2027-10-17,367,290-->

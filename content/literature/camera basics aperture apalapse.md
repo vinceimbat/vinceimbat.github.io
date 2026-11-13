@@ -50,7 +50,7 @@ The f-stop number of a camera using a zoom lens will ==increase== as the focal l
 <!--SR:!2026-12-22,81,190-->
 
 When you zoom in with your camera, focal length ==increases==.
-<!--SR:!2026-11-12,54,210-->
+<!--SR:!2027-03-05,113,210-->
 
 # References
 

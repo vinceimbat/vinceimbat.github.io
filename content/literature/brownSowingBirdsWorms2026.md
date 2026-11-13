@@ -35,7 +35,7 @@ Why does James Heisig question the competence of the farmer in the parable of th
 <!--SR:!2027-01-02,66,310-->
 
 Per Heisig, what is the real intention of the parable of the sower? :: Show that seeds are meant to feed birds and worms.
-<!--SR:!2026-11-04,8,270-->
+<!--SR:!2026-12-04,30,290-->
 
 Per Brown, the sower in the Gospel of Thomas represents ==the Great Life.==
 <!--SR:!2026-11-21,29,270-->

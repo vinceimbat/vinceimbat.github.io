@@ -42,7 +42,7 @@ Charlie Mackesy's 2025 book. :: *Always Remember: The Boy, the Mole, the Fox, th
 <!--SR:!2026-12-23,81,290-->
 
 Per Brown, since Mackesy's characters don't know where they are going or what they are seeking, what do they embody? :: A way of being in the world that lets things come and go
-<!--SR:!2026-11-11,70,270-->
+<!--SR:!2026-12-16,35,250-->
 
 Per Gray, two things absent in Mackesy's stories that make them effective.
 1.

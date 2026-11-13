@@ -1,7 +1,7 @@
 ---
 title: My weekly review routine
 created: 2024-11-26 14:51:19+08:00
-modified: 2026-10-20T20:56:01+08:00
+modified: 2026-11-11T20:58:44+08:00
 aliases:
   - My weekly review routine
 draft:

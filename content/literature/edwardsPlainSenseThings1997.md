@@ -291,7 +291,7 @@ What was Norman Maclean's *Young Men and Fire* about? :: a fatal forest fire in 
 <!--SR:!2026-12-05,360,250-->
 
 How many died from the fatal forest fire in Norman Maclean's *Young Men and Fire*? :: 13
-<!--SR:!2026-11-12,13,150-->
+<!--SR:!2026-12-11,29,170-->
 
 Occupation of those who died in the fatal forest fire in Norman Maclean's *Young Men and Fire*? :: US Forest Service Smoke-jumpers
 <!--SR:!2027-03-10,235,190-->

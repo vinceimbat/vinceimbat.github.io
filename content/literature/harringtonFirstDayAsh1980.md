@@ -50,7 +50,7 @@ Per the Weimans, the two great basic concepts of religion.
 <!--SR:!2028-07-22,637,290-->
 
 Per the Weimans, what is religion? :: Devotion to that which is supremely worthful.
-<!--SR:!2026-11-08,9,130-->
+<!--SR:!2026-11-28,17,150-->
 
 Per the Weimans, two things to show devotion to that which is worthful.
 1.
@@ -96,7 +96,7 @@ Per the Weimans, two media through which all growth happens.
 ?
 1. sensitivity
 2. responsiveness
-<!--SR:!2026-11-06,65,270-->
+<!--SR:!2026-12-08,32,250-->
 
 Per the Weimans, how does nature and society enter the inner life of an individual? :: Through sensitivity and responsiveness
 <!--SR:!2026-12-12,48,230-->
@@ -108,7 +108,7 @@ Per the Weimans, when we increase our sensitivity and responsiveness to universa
 <!--SR:!2027-05-25,334,310-->
 
 Per the Weimans, what is conscience? :: A feeling for the requirements of universal forces.
-<!--SR:!2026-11-10,13,130-->
+<!--SR:!2026-11-27,16,130-->
 
 Per the Weimans, how prevalent is religion? :: Everyone is religious.
 <!--SR:!2027-02-04,267,330-->

@@ -37,7 +37,7 @@ Author of the book *Jesus Through the Centuries*. :: Jaroslav Pelikan
 <!--SR:!2026-12-24,148,250-->
 
 According to the book *Jesus Through the Centuries* by Jaroslav Pelikan, how many Jesuses are there in history? :: 18
-<!--SR:!2026-11-04,31,270-->
+<!--SR:!2026-11-20,16,250-->
 
 Seven stops in Shin'ichirō Imaoka's religious history:
 1.
@@ -190,4 +190,4 @@ Form of theology associated to the idea of a Cosmic Christ. :: Ecotheology
 <!--SR:!2026-12-26,187,290-->
 
 Per a Cosmic Christ perspective, when is Christ born? :: This moment.
-<!--SR:!2026-11-07,255,330-->
+<!--SR:!2027-03-18,127,310-->

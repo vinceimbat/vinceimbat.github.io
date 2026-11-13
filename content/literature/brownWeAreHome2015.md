@@ -58,7 +58,7 @@ Per Norbert Fabian Capek, the whole of nature is a ==cathedral==.
 <!--SR:!2026-12-31,257,330-->
 
 Indigenous Japanese Christian movement founded in 1901 by Uchimura Kanzo. :: No-church movement
-<!--SR:!2026-11-07,198,310-->
+<!--SR:!2029-03-09,849,330-->
 
 Founder of the No-church movement in Japan. :: Uchimura Kanzo
 <!--SR:!2026-11-16,14,170-->

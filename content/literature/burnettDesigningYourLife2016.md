@@ -1186,7 +1186,7 @@ Life design in three broad steps:
 1. Empathize with yourself.
 2. Create a prototype to discover unknowns.
 3. Pivot based on feedback from prototype.
-<!--SR:!2026-11-12,248,250-->
+<!--SR:!2027-03-17,125,230-->
 
 Life design has a bias to ==action==.
 <!--SR:!2029-09-04,1142,350-->

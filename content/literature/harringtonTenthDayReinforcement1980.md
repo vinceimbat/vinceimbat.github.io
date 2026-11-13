@@ -30,7 +30,7 @@ Harrington, Donald Szantho. “The Tenth Day - Reinforcement through Fellowship.
 # Prompts
 
 Per the Weimans, what is that something greater than ourselves that the truly religious person wants to be a part of? :: The evolving City of God
-<!--SR:!2026-11-05,132,210-->
+<!--SR:!2027-08-07,275,210-->
 
 Per the Weimans, what is the evolving City of God? :: The growth of mutuality and meaning in the universe
 <!--SR:!2027-01-10,74,170-->

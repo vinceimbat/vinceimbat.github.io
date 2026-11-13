@@ -48,7 +48,7 @@ Title of the first sermon Shakyamuni delivered to an audience. :: “Turning of 
 <!--SR:!2026-12-28,291,230-->
 
 Per Imaoka, what made it possible for the abstract Dharma that Shakyamuni received to be embodied in concrete forms? :: Shakyamuni finding his audience.
-<!--SR:!2026-11-13,102,190-->
+<!--SR:!2027-05-26,194,190-->
 
 Where was Shakyamuni's first sermon delivered? :: Deer Park
 <!--SR:!2028-02-22,503,330-->
@@ -75,7 +75,7 @@ Per Imaoka, the Sangha is the archetype of ==the Pure Land==.
 <!--SR:!2027-10-03,592,310-->
 
 By establishing the interdependence of the Buddha, the Dharma, and the Sangha, what did Imaoka argue regarding Shakyamuni's enlightenment? :: It was dynamic and processual.
-<!--SR:!2026-11-07,33,150-->
+<!--SR:!2027-01-23,73,170-->
 
 Per Imaoka, the three treasures of Buddhism are strikingly similar to what trio in Christianity? :: Christ, the Logos, and the Church
 <!--SR:!2027-03-07,385,290-->

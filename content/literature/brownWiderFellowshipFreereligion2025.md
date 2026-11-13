@@ -41,4 +41,4 @@ Compared to a Christian prayer that addresses a personal, anthropomorphically co
 <!--SR:!2026-11-21,20,150-->
 
 Compare the goal of Christian prayer versus Czech Unitarian meditation :: Christian prayer asks God for something; Czech Unitarian meditation declares who we wish to become
-<!--SR:!2026-11-09,332,270-->
+<!--SR:!2027-04-25,165,250-->

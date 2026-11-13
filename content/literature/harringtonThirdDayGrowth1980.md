@@ -30,7 +30,7 @@ Harrington, Donald Szantho. â€œThe Third Day - Growth of Meaning in the World.â€
 # Prompts
 
 Per the Weimans, what is supreme value? :: Growth of meaning in the world.
-<!--SR:!2026-11-12,70,170-->
+<!--SR:!2026-12-18,36,150-->
 
 Per the Weimans, aside from supreme value, the growth of meaning in the world is also called ==God==.
 <!--SR:!2027-03-04,124,230-->

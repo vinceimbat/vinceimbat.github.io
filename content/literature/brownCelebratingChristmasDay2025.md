@@ -68,7 +68,7 @@ Per Brown, before a good life could develop, a person needs what? :: An understa
 <!--SR:!2027-01-28,102,290-->
 
 Per Tolstoy in Gospel in Brief, what did Jesus' Gospel do to the belief in an external God? :: Replaced it with an understanding of life.
-<!--SR:!2026-11-04,69,250-->
+<!--SR:!2026-12-09,35,230-->
 
 Per Brown, how often did Jesus taught us to reconnect directly with "the Great Life"? :: Daily
 <!--SR:!2026-12-28,279,330-->
@@ -77,4 +77,4 @@ Per Miki, what statement by Shinran proves that he didn't see himself as a found
 <!--SR:!2028-08-12,658,310-->
 
 Per Miki, what reconnects us directly and daily with the Great Life? :: Nembutsu
-<!--SR:!2026-11-11,243,330-->
+<!--SR:!2027-03-16,125,310-->

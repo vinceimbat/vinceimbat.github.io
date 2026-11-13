@@ -49,7 +49,7 @@ Let the camera adjust shutter speed.
 # Prompts
 
 Camera's default auto focus mode (hint: Miki). :: One Shot / Single Shot
-<!--SR:!2026-11-13,73,190-->
+<!--SR:!2026-12-20,37,170-->
 
 Camera's metering mode (hint: test). :: Evaluative
 <!--SR:!2026-12-10,124,210-->
@@ -118,7 +118,7 @@ If you want a faster shutter speed, ==increase== the denominator.
 <!--SR:!2029-04-27,938,250-->
 
 If you want a slower shutter speed, ==decrease== the denominator.
-<!--SR:!2026-11-07,55,150-->
+<!--SR:!2027-02-02,83,150-->
 
 What happens to a moving object when it is caught by a camera with a low shutter speed? :: It blurs.
 <!--SR:!2028-02-24,763,290-->

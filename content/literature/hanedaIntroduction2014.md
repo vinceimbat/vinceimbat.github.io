@@ -111,7 +111,7 @@ Per Haneda, what was the basic posture that Kiyozawa took in examining Buddhism?
 <!--SR:!2027-05-22,386,230-->
 
 According to Kiyozawa, what is the primary lesson of Buddhism? :: To be liberated.
-<!--SR:!2026-11-06,4,130-->
+<!--SR:!2026-11-15,2,150-->
 
 According to Kiyozawa from what should a Buddhist be liberated from? :: Self
 <!--SR:!2029-04-19,1078,350-->
@@ -138,13 +138,13 @@ Per Shin Buddhism, how does the Dharma liberate people from the self? :: Takes t
 <!--SR:!2027-08-30,386,210-->
 
 How does humility and freedom go hand in hand in Buddhism? :: Humility leads to selflessness, which leads to freedom.
-<!--SR:!2026-11-08,22,170-->
+<!--SR:!2026-11-23,12,150-->
 
 Interpret Shinran's statement: "Even a good person can be liberated, how much more easily a wicked person!" (Tannishō, III) :: People who recognize their wickedness are easier to liberate than those who regard themselves as ethically good.
 <!--SR:!2028-04-21,648,272-->
 
 Per Nobou Haneda, what is the fundamental theme of Shin Buddhism? :: Humility leads to absolute freedom.
-<!--SR:!2026-11-11,14,150-->
+<!--SR:!2026-12-02,21,150-->
 
 Buddhist teachers Kiyozawa focused on to search for the way to absolute humility and freedom. :: Shakyamuni and Shinran
 <!--SR:!2027-08-04,534,312-->
@@ -190,7 +190,7 @@ Per Haneda, three categories of terms Kiyozawa uses to refer to the infinite and
 1. Buddhist terms
 2. Personified symbols
 3. non-Buddhist concepts
-<!--SR:!2026-11-09,97,232-->
+<!--SR:!2027-06-24,225,232-->
 
 Buddhist terms Kiyozawa used to refer to the infinite and supreme universal truth.
 - ?
@@ -234,13 +234,13 @@ Buddhist terms Kiyozawa used to refer to the infinite and supreme universal trut
 - Inconceivable power
 - Wondrous working
 - Power Beyond the Self
-<!--SR:!2026-11-04,18,132-->
+<!--SR:!2026-11-25,12,130-->
 
 The term tariki was originally formulated by the Chinese Pure Land monk ==T'an-luan==.
 <!--SR:!2027-01-01,86,252-->
 
 Give at least one example of a personified symbol Kiyozawa used to refer to the infinite and supreme universal truth. :: Buddha, Buddha Amitābha, and Tathāgata
-<!--SR:!2026-11-07,342,312-->
+<!--SR:!2030-11-26,1476,332-->
 
 Non-Buddhist concepts Kiyozawa used to refer to the infinite and supreme universal truth.
 -
@@ -328,7 +328,7 @@ Two insights that characterize Kiyozawa's religious conviction:
 <!--SR:!2027-01-10,111,239-->
 
 Compare Kiyozawa's two insights that characterize his religious conviction with the feelings of a person deeply impressed by the ocean's vastness. :: The smaller he feels himself to be, the greater he feels the ocean to be and vice versa
-<!--SR:!2026-11-10,120,252-->
+<!--SR:!2027-09-09,302,252-->
 
 Describe briefly the story Kiyozawa used in "Peace beyond Ethics" to illustrate what entrusting oneself to Tathāgata means.
 ?

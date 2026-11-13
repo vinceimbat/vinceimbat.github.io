@@ -35,7 +35,7 @@ Per the Weimans, three ways to be intelligently and devotedly religious:
 3. Yield oneself to creative interaction to enrich the world.
 ?
 Recognize that creative interaction is ongoing.
-<!--SR:!2026-11-11,189,310-->
+<!--SR:!2027-02-15,96,290-->
 
 Per the Weimans, three ways to be intelligently and devotedly religious:
 1. Recognize that creative interaction is ongoing.
@@ -43,7 +43,7 @@ Per the Weimans, three ways to be intelligently and devotedly religious:
 3. Yield oneself to creative interaction to enrich the world.
 ?
 Seek creative interaction in all forms of relationship.
-<!--SR:!2026-11-08,167,270-->
+<!--SR:!2028-08-04,632,290-->
 
 Per the Weimans, three ways to be intelligently and devotedly religious:
 1. Recognize that creative interaction is ongoing.
@@ -61,7 +61,7 @@ Per the Weimans, three ways to be intelligently and devotedly religious:
 <!--SR:!2026-11-15,58,250-->
 
 Per the Weimans, why does "great evils ensue" after the growth of creative interaction? :: People and groups fail to reorganize their lives around the growth.
-<!--SR:!2026-11-06,28,250-->
+<!--SR:!2027-01-15,70,250-->
 
 Two examples of institutions created before the world's current interdependence, which Harrington questions whether they should be changed or superseded.
 1.
@@ -81,4 +81,4 @@ Two examples of institutions created before the world's current interdependence,
 ?
 1. Nationalism
 2. Free enterprise
-<!--SR:!2026-11-11,20,250-->
+<!--SR:!2027-01-21,71,270-->
