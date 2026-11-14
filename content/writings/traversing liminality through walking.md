@@ -1,9 +1,9 @@
 ---
-title: “Our House Is on Fire. I Am Here to Say, Our House Is on Fire—a Somewhat Spinozean Address in Support of the \#schoolstrike4climate” by Andrew James Brown
+title: "Traversing Liminality Through Walking: An Autoethnography"
 created: 2026-08-12T21:18:35+08:00
-modified: 2026-11-13T18:54:37+08:00
+modified: 2026-11-14T09:51:12+08:00
 aliases:
-  - “Our House Is on Fire. I Am Here to Say, Our House Is on Fire—a Somewhat Spinozean Address in Support of the \#schoolstrike4climate” by Andrew James Brown
+  - "Traversing Liminality Through Walking: An Autoethnography"
 draft: false
 publish: true
 tags:
