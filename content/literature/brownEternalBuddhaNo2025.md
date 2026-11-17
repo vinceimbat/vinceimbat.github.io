@@ -172,7 +172,7 @@ The three Christs Imaoka met in his life.
 <!--SR:!2026-12-28,101,290-->
 
 Apostle who introduced the idea of a Corporate Christ. :: Paul
-<!--SR:!2026-11-15,262,330-->
+<!--SR:!2030-02-19,1192,350-->
 
 In the apostle Paul's idea of a Corporate Christ, Christ is what? :: The Church and its members.
 <!--SR:!2027-05-27,246,310-->

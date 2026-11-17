@@ -164,7 +164,7 @@ Per de Borja, what is contained in a haiku is not the stillness of a present mom
 <!--SR:!2030-02-07,1192,350-->
 
 Compare travel during the Nara and Heian periods and travel during the Edo period in terms of safety. :: Edo period travel was safer
-<!--SR:!2026-11-14,270,330-->
+<!--SR:!2027-03-29,135,310-->
 
 How did the focus of haibun changed from the Nara and Heian periods to the Edo period? :: From nostalgia for capital and courtly life to contemplation in nature.
 <!--SR:!2027-03-26,328,290-->

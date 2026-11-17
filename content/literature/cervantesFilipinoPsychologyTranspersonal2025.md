@@ -498,8 +498,8 @@ How is Sikolohiyang Pilipino transformative? :: It encourages personal and colle
 Per Bulatao (1992), the Filipino's belief in ==spirits== reflect a ==transpersonal== worldview.
 <!--SR:!2025-07-21,3,252!2000-01-01,1,250-->
 
-How did Bulatao (1992) illustrate the mind in the Filipino transpersonal worldview using eggs. :: Eggs frying together, connected and indistinguishable.
-<!--SR:!2026-11-16,241,252-->
+How did Bulatao (1992) illustrate the mind in the Filipino transpersonal worldview using eggs. :: Connected and indistinguishable.
+<!--SR:!2028-07-15,607,252-->
 
 Cervantes (2025) blames the lack of interest in transpersonal psychology in the Philippines to what? :: Colonial mentality
 <!--SR:!2027-06-12,229,252-->

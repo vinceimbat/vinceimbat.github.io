@@ -108,7 +108,7 @@ Per Andrew James Brown, since the places and times religious expressions are tie
 <!--SR:!2027-06-02,427,270-->
 
 Per Andrew James Brown, why are religious expressions temporary? :: They are tied to places and times that change.
-<!--SR:!2026-11-16,299,250-->
+<!--SR:!2027-04-15,150,230-->
 
 Per Andrew James Brown, all religious expressions are tied to particular ==places and times==.
 <!--SR:!2027-03-14,265,290-->

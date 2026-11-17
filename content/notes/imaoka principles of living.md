@@ -65,10 +65,10 @@ Why did Imaoka revise his Principles of Living in 1973? :: He added a declaratio
 <!--SR:!2026-12-20,415,266-->
 
 Principle 1 of Imaoka's "My Principles of Living" (1981) (hint: Don't forget MOA) :: I place trust/have faith in myself. I am aware of my own autonomous selfhood, creativity and sociality, and feel the worth of living through them. Autonomous selfhood, creativity and sociality can also be expressed as personality, divinity, and Buddha-nature.
-<!--SR:!2026-11-15,26,130-->
+<!--SR:!2026-12-19,34,130-->
 
 Principle 2 of Imaoka's "My Principles of Living" (1981) :: I place trust/have faith in others. Others are neighbours who possess their own selves as others. By affirming myself, I inevitably place trust/have faith in others.
-<!--SR:!2026-11-14,74,150-->
+<!--SR:!2026-12-22,38,130-->
 
 Principle 3 of Imaoka's "My Principles of Living" (1981) :: I place trust/have faith in the cooperative community. Neither self nor others exist in isolation or self-sufficiency; instead, they inevitably establish a mutual interdependency, solidarity, and a cooperative community.
 <!--SR:!2026-11-20,17,130-->

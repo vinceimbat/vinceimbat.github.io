@@ -1251,7 +1251,7 @@ Per Burnett and Evans, the five mindsets of a designer are:
 3. Reframing
 4. Awareness
 5. Radical collaboration
-<!--SR:!2026-11-15,120,250-->
+<!--SR:!2027-01-13,59,230-->
 
 Per Burnett and Evans, how do we discover what we truly love? :: Prototyping
 <!--SR:!2027-09-13,548,310-->

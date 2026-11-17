@@ -159,7 +159,7 @@ Per Imaoka, what was the state of Kiitsu Kyōkai after ten years? :: Continues t
 <!--SR:!2027-01-23,144,210-->
 
 Imaoka's main priority when he started Kiitsu Kyōkai. :: To examine the essence of jiyū shūkyō.
-<!--SR:!2026-11-15,306,270-->
+<!--SR:!2027-04-16,152,250-->
 
 Result of Imaoka's experiment to grasp jiyū shūkyō after ten years. :: Incomplete. Still a seeker not a shepherd. But trials have informed practice.
 <!--SR:!2027-11-04,417,250-->

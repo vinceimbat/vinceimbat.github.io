@@ -72,7 +72,7 @@ Title of the Lenten manual based on the theology of Henry Nelson Wieman and Regi
 <!--SR:!2000-01-01,1,250!2025-03-16,1,230-->
 
 Per Harrington, the rightness of our faith is verified by what? :: Objective criteria based from our shared human experience.
-<!--SR:!2026-11-14,193,210-->
+<!--SR:!2027-02-19,97,190-->
 
 What is process theology? :: Theological approach that views reality as a dynamic process of change and becoming.
 <!--SR:!2026-12-30,74,150-->

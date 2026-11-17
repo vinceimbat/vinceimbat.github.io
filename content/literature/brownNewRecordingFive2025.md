@@ -63,7 +63,7 @@ Per Epicurus, since the gods don't determine what happens to us, what does? :: N
 <!--SR:!2028-12-06,875,290-->
 
 Per Epicurus, when do the gods influence us? :: When we emulate their tranquility.
-<!--SR:!2026-11-14,12,130-->
+<!--SR:!2026-11-30,16,130-->
 
 Per Epicurus, the natural world is made of what? :: Atoms
 <!--SR:!2028-07-24,792,330-->

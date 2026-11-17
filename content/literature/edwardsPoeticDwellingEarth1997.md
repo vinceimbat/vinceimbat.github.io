@@ -388,7 +388,7 @@ Four essays of Heidegger developing poetic dwelling on earth as a mortal.
 4.
 ?
 "The Question Concerning Technology"
-<!--SR:!2026-11-16,76,250-->
+<!--SR:!2027-05-25,190,250-->
 
 Four essays of Heidegger developing poetic dwelling on earth as a mortal.
 ?
@@ -426,7 +426,7 @@ Differentiate existence and Being. :: Existence is physical presence, while Bein
 <!--SR:!2028-03-22,551,286-->
 
 What is the Cartesian res? :: The external object represented by the ego-subject
-<!--SR:!2026-11-15,23,150-->
+<!--SR:!2026-12-20,35,150-->
 
 When things become Zeug, what happens to their Pathos? :: Diminished
 <!--SR:!2028-10-23,814,346-->

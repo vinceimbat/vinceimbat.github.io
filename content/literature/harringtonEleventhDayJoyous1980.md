@@ -34,7 +34,7 @@ Per the Weimans, a religious person whose life is centered around a supreme valu
 2. Sense of progress
 ?
 Clear sense of direction
-<!--SR:!2026-11-15,178,270-->
+<!--SR:!2028-03-10,481,270-->
 
 Per the Weimans, a religious person whose life is centered around a supreme value enjoys what benefits?
 1. Clear sense of direction

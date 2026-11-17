@@ -46,7 +46,7 @@ Per Schellenberg, if religion is to be religion at all, what must it have? :: A 
 <!--SR:!2027-03-22,273,290-->
 
 What is the clear vision Schellenberg believes religion must have? :: A view of the Divine that could guide a religious life.
-<!--SR:!2026-11-16,40,210-->
+<!--SR:!2026-12-07,21,190-->
 
 Schellenberg's suggested three broad marks of a religion's ultimate reality.
 1.
@@ -62,7 +62,7 @@ Schellenberg's suggested three broad marks of a religion's ultimate reality.
 3. Greater than nature in what it can make possible for us.
 ?
 Greater than nature in worth.
-<!--SR:!2026-11-16,5,130-->
+<!--SR:!2026-11-23,7,130-->
 
 Schellenberg's suggested three broad marks of a religion's ultimate reality.
 1. Deeper than the physical world.

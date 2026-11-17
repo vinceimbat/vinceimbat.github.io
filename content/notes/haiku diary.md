@@ -1,16 +1,15 @@
 ---
 title: Haiku diary
 created: 2025-11-05 09:35:24+08:00
-modified: 2025-12-16 11:59:41+08:00
+modified: 2026-11-16T22:31:18+08:00
 aliases:
-- Haiku diary
+  - Haiku diary
 draft: false
 publish: true
 tags:
-- species/log
-- status/seedling
+  - species/log
+  - status/seedling
 ---
-
 # From before 2025
 
 As night creeps in  
@@ -112,3 +111,11 @@ Of the theatre facade
 Rain has stopped
 But I pass under the large acacia tree
 Droplets
+
+# 2026
+
+[[2026-11-13]]
+
+crossing the bridge
+among dried leaves
+two bus tickets

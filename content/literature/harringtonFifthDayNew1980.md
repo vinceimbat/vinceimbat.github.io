@@ -58,7 +58,7 @@ Per the Weimans, three ways to be intelligently and devotedly religious:
 1. Recognize that creative interaction is ongoing.
 2. Seek creative interaction in all forms of relationship.
 3. Yield oneself to creative interaction.
-<!--SR:!2026-11-15,58,250-->
+<!--SR:!2027-04-07,143,250-->
 
 Per the Weimans, why does "great evils ensue" after the growth of creative interaction? :: People and groups fail to reorganize their lives around the growth.
 <!--SR:!2027-01-15,70,250-->

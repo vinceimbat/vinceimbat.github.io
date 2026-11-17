@@ -61,7 +61,7 @@ Indigenous Japanese Christian movement founded in 1901 by Uchimura Kanzo. :: No-
 <!--SR:!2029-03-09,849,330-->
 
 Founder of the No-church movement in Japan. :: Uchimura Kanzo
-<!--SR:!2026-11-16,14,170-->
+<!--SR:!2026-12-21,35,190-->
 
 Year the Japanese No-church movement was founded. :: 1901
 <!--SR:!2026-12-01,73,210-->

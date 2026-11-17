@@ -102,7 +102,7 @@ Per the Weimans, how does nature and society enter the inner life of an individu
 <!--SR:!2026-12-12,48,230-->
 
 Per the Weimans, when does conscience appear in a child? :: When values become habits and ideals.
-<!--SR:!2026-11-14,105,210-->
+<!--SR:!2027-01-07,54,190-->
 
 Per the Weimans, when we increase our sensitivity and responsiveness to universal forces, what do we do? :: Align our lives to their requirements.
 <!--SR:!2027-05-25,334,310-->

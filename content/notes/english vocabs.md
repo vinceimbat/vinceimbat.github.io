@@ -333,7 +333,7 @@ stall :: v. to stop or delay
 <!--SR:!2029-05-03,1126,352-->
 
 stoop :: v. bend one's body forward and downward
-<!--SR:!2026-11-14,144,272-->
+<!--SR:!2028-05-15,548,292-->
 
 strew (hint: rice)  :: v. to spread by scattering
 <!--SR:!2027-01-22,203,212-->

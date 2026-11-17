@@ -1,7 +1,7 @@
 ---
 title: Poetry Fridays prompts
 created: 2026-06-08 20:49:52+08:00
-modified: 2026-10-27T11:09:52+08:00
+modified: 2026-11-16T22:29:48+08:00
 aliases:
   - Poetry Fridays prompts
 draft: false
@@ -262,3 +262,19 @@ Prompts #2:
 • Sumulat ng tula tungkol sa ibang bayang napuntahan mo na. Kunwari nasa eroplano ka pabalik ng iyong bayan mula sa bayang iyon. Ano ang tulang isusulat mo para magpaalam o batiin ang bayang pansamantalang iniiwan?
 
 • Sumulat ng tula tungkol sa bansang naibigan mo dahil sa likhang sining (halimbawa: tula, nobela, pintura o pelikula) na may kaugnayan sa bayang iyon, o kaya naman ay isang bayang napaniginipan mo lamang. Banggitin ang mga imahen o tauhang nagpapaalala sa 'yo sa bansang ito.
+
+---
+
+[[2026-11-14]]
+
+by Lea
+
+Set 1
+
+1. Because the end of the world supposedly should have happened yesterday (Nov 13, 2026), write a poem about everything you would do during your last day on Earth, and the things that would likely be left unfinished.
+2. Write a five-star review or a one-star review in poetry form. The Catch: You aren't allowed to use generic praise/complaint words like amazing/great/delicious/terrible/disappointing. Instead, you have to prove the five stars/one star through hyper-specific, weirdly charming small details (ex. "The way the waiter didn't rush us," or "The typo on page twelve that made me laugh out loud," or "Saw the face of God at this car wash. Queue too long.").
+
+Set 2
+
+1. Magkuwento o tumula tungkol sa isang o ilang karanasan bilang batang Pinoy na naaalala mo o sana ay naranasan mo nung ikaw ay bata pa. (Ex. pagbili sa sari-sari store, kumparahan ng baon sa kaklase, pagrecycle ng mga lumang school supplies, pagtampisaw sa ulan, pagkain ng street food, sermon ng magulang o guro, atbp.)
+2. Write a poem about child logic, or the fiercely honest and amusingly skewed ways a child can look at adult rules or understand the world. (Examples: How to prepare to go out the house when it's literally raining cats and dogs. A quarter is 25 cents, so "quarter past nine" means 9:25. The letter Q is shaped like a crouching cat seen from behind, so it should be written properly with cat ears. "Siblings are the enemy" and other perceived childhood injustices.)

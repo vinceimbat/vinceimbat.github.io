@@ -42,7 +42,7 @@ Metaphor Andrew James Brown uses to explain free-religious faith. :: Ice dancing
 <!--SR:!2026-11-30,18,190-->
 
 Per Andrew James Brown, free-religious  faith is a double movement of ==giving up and getting back.==
-<!--SR:!2026-11-15,16,190-->
+<!--SR:!2026-12-14,29,190-->
 
 Per Andrew James Brown, in an ice dancing moment of throw, faith is demonstrated as:
 1.
@@ -68,7 +68,7 @@ Per Andrew James Brown, how does free-religious faith respond to the possibility
 <!--SR:!2026-12-15,44,270-->
 
 Per Ed Mooney, the recognition that wisdom begins with acknowledging one's lack of knowledge. :: The modesty of Socratic ignorance
-<!--SR:!2026-11-14,30,190-->
+<!--SR:!2027-01-10,57,190-->
 
 Per Andrew James Brown, the ground we return to after a leap of free-religious faith is transformed by what? :: The leap itself
 <!--SR:!2029-03-24,864,330-->

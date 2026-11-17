@@ -199,7 +199,7 @@ Per Sheehan, the Christian church replaced Jesus's radical present-future with w
 <!--SR:!2027-03-31,263,250-->
 
 Per Sheehan, what is the Christian church's mythical past-present-future it used to replace Jesus' radical present-future? :: God became man in the past, reigning in heaven at present, and will return to earth in the future
-<!--SR:!2026-11-14,71,210-->
+<!--SR:!2026-12-19,35,190-->
 
 Per Sheehan, the paradox of Jesus' message is that in order for God to be ever present in mankind, God must ==disappear==.
 <!--SR:!2027-08-31,388,290-->

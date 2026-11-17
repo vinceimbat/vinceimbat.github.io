@@ -41,8 +41,8 @@ In Richard Procter's whitewater rafting or canoeing classes, the first session i
 Why does Richard Procter conduct his first whitewater rafting or canoeing classes on a millpond? :: To help students grasp a threshold concept in a safe environment.
 <!--SR:!2027-03-25,243,270-->
 
-What is the threshold concept Richard Procter first teach in his whitewater rafting or canoeing classes? :: A forward stroke is a paddler pulling themselves and the boat past the paddle fixed against the water.
-<!--SR:!2026-11-16,150,250-->
+What is the threshold concept Richard Procter first teach in his whitewater rafting or canoeing classes? :: Forward stroke pull paddler and boat past the water.
+<!--SR:!2027-01-30,75,230-->
 
 In a whitewater rapid, what remains relatively stable? :: The static paddle.
 <!--SR:!2026-12-08,108,250-->

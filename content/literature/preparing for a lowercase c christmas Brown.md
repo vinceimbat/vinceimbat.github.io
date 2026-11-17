@@ -6,7 +6,7 @@ tags:
   - species/flashcards
 ---
 Explain Franco "Bifo" Berardi's notion of futurability :: The capacity of individuals and societies to envision and create alternative futures is innate.
-<!--SR:!2026-11-14,357,230-->
+<!--SR:!2029-02-12,821,230-->
 
 Per Brown (November 30, 2024), what is the difference between capital "P" Peace and lowercase "p" peace? :: capital "P" Peace is a distant utopian ideal; lowercase "p" peace is achievable now
 <!--SR:!2027-03-04,555,270-->

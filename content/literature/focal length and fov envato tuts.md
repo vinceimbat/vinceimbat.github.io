@@ -146,7 +146,7 @@ Micro 4/3 has a ==2x== FOVCF.
 <!--SR:!2027-05-16,186,270-->
 
 A 50 mm lens on a Micro 4/3 camera would have a similar FOV to a ==100== mm lens on a full frame camera.
-<!--SR:!2026-11-16,30,190-->
+<!--SR:!2027-02-06,82,210-->
 
 Canon EFS and Nikon DX lenses are designed for ==digital== cameras.
 <!--SR:!2029-02-19,1074,350-->
