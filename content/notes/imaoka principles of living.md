@@ -53,7 +53,7 @@ The following comes from Andrew J. Brown's translation of a revision of Imaoka's
 # Prompts
 
 Year Imaoka established his Principles of Living. :: 1965
-<!--SR:!2026-11-17,6,130-->
+<!--SR:!2026-11-20,3,130-->
 
 Number of articles in Imaoka's original Principles of Living. :: 7
 <!--SR:!2026-12-02,29,186-->
@@ -74,7 +74,7 @@ Principle 3 of Imaoka's "My Principles of Living" (1981) :: I place trust/have f
 <!--SR:!2026-11-20,17,130-->
 
 Principle 4 of Imaoka's "My Principles of Living" (1981) :: I place trust/have faith in the trinity of self, others, and cooperative community. The self, others, and the cooperative community, while each possessing unique individualities, unite into one. Therefore, there is no precedence or superiority among them; each always presupposes the other two.
-<!--SR:!2026-11-18,17,130-->
+<!--SR:!2026-11-26,8,130-->
 
 Principle 5 of Imaoka's "My Principles of Living" (1981) :: I place trust/have faith in the universal/cosmic cooperative community. The trinity of self, others, and the cooperative community further unites with heaven and earth and all things, to form a universal/cosmic cooperative community.
 <!--SR:!2026-12-06,24,130-->

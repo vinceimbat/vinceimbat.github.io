@@ -119,7 +119,7 @@ Versions of Diogenes' nomadic cosmopolitan in Walter Benjamin's favored figures.
 3. Dandy
 ?
 Prostitute
-<!--SR:!2026-11-18,275,330-->
+<!--SR:!2030-04-21,1250,350-->
 
 Versions of Diogenes' nomadic cosmopolitan in Walter Benjamin's favored figures.
 1. Gambler

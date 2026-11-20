@@ -4,10 +4,12 @@ aliases:
   - Portfolio
 draft: false
 publish: true
-modified: 2026-10-27T10:43:03+08:00
+modified: 2026-11-20T10:15:30+08:00
 created: 2026-09-06T11:26:27+08:00
 ---
 # Publications
+
+"Awas" in [Alagwa](https://www.facebook.com/share/p/1MB28GHBDs/), October 2026
 
 "Renaissance" in [TLDTD](https://tldtd.org/poet/vince-imbat/), no. 12, September 2026
 
@@ -33,7 +35,7 @@ created: 2026-09-06T11:26:27+08:00
 
 "Gawat" in [TLDTD](https://tldtd.org/poet/vince-imbat/), no. 5, September 2022
 
-# Walking Projects
+# Walking Projects (Essays + Photographs)
 
 **Walking Bangkok, 2025**
 
@@ -58,7 +60,7 @@ A series of walks returning to routes in Baguio City I used to walk on as a form
 
 A six-day walk exploring Los Baños’ hot spring district, the fishing community along Laguna de Bay, UPLB, IRRI, and the mountain communities of Mt. Makiling.
 
-**"Nasa Labas ang Ili" (Home is Out There) guided walks, 2023**
+**["Nasa Labas ang Ili" (Home is Out There) guided walks, 2023](https://vinceimbat.substack.com/p/dapithapon-an-account-of-the-first?r=2i59b&utm_campaign=post-expanded-share&utm_medium=post%20viewer)**
 
 A series of facilitated walks for two groups, with around ten people each, on a route inside the University of the Philippines Los Baños. The walks began with brief talks and were divided into three legs, one each for contemplation on self, kapwa, and place through a poem read before each leg. The walks ended with an open sharing of thoughts and experiences found during the walks.
 
@@ -67,6 +69,8 @@ A series of facilitated walks for two groups, with around ten people each, on a 
 A five-hour walk between the town of Los Baños and the city of San Pablo in Laguna. The walk that started all other walks.
 
 # Talks
+
+[Mapa ng Los Baños Patungo Sa 'yo](https://drive.google.com/file/d/13F-Pv9AXRfkS1WC-DfDk05Em50z5CEqF/view)
 
 [[talks/godless spirituality a primer|Godless Spirituality: A Primer]]
 

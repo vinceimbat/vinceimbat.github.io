@@ -32,4 +32,4 @@ Per Brown, what is the wrong way of looking at nature? :: Seeing it as an extern
 <!--SR:!2026-12-03,22,270-->
 
 Per Brown, what is the right way of looking at nature? :: Seeing ourselves as part of it.
-<!--SR:!2026-11-18,56,310-->
+<!--SR:!2027-05-10,173,310-->

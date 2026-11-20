@@ -645,7 +645,7 @@ In Sikolohiyang Pilipino, *loob* as a relational interiority contains what?
 ?
 1. personal intentions
 2. interpersonal dynamics
-<!--SR:!2026-11-19,87,212-->
+<!--SR:!2027-01-02,44,192-->
 
 In Sikolohiyang Pilipino, how is *loob* made manifest? :: Through interactions with *kapwa*.
 <!--SR:!2026-12-15,117,192-->

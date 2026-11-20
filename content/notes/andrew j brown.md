@@ -1,15 +1,15 @@
 ---
 title: Andrew J. Brown
 created: 2024-10-31 23:44:20+08:00
-modified: 2026-07-16 09:46:41+08:00
+modified: 2026-11-19T14:35:00+08:00
 aliases:
-- Andrew J. Brown
-- Andrew James Brown
-draft: null
+  - Andrew J. Brown
+  - Andrew James Brown
+draft:
 publish: true
 tags:
-- species/thought
-- status/seedling
+  - species/thought
+  - status/seedling
 ---
 
 Brown has sympathies with the [[jiyu shukyo|Free Religion]] (自由宗教 — _jiju shukyo_) advocated by [[shinichiro imaoka|Shin'ichirō Imaoka]].
@@ -270,10 +270,9 @@ Sometimes I want to just deepen into my jiyū shūkyō studies. Sometimes I just
 
 Should I return to the countryside? Will I feel the people there more?
 
-When I'm writing I feel often conscious now of my privileges sometimes with discomfort. How can I speak and express myself in a way that feels right and free and unafraid of criticisms but also deeply sympatheric to the universal cooperative community?
+When I'm writing I feel often conscious now of my privileges sometimes with discomfort. How can I speak and express myself in a way that feels right and free and unafraid of criticisms but also deeply sympathetic to the universal cooperative community?
 
 # Related
 
 - [[unitarianism|Unitarianism]]
 - [[kensho]]
--

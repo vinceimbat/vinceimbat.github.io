@@ -32,7 +32,7 @@ Imaoka, Shin’ichirō. _The Image of the Shintō Shrine as Drawn by a Free Reli
 # Prompts
 
 When did Imaoka started serious study of Shinto? :: When he specialized in religious studies at the university.
-<!--SR:!2026-11-17,102,230-->
+<!--SR:!2027-01-08,52,210-->
 
 "I came to think that if Shintō or Buddhism were ==genuine==, then that was sufficient." — Imaoka
 <!--SR:!2026-11-24,10,170-->

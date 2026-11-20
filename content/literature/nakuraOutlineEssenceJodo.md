@@ -48,7 +48,7 @@ Jōdo Shinshū interpretation of karma. :: Interconnection of causes, conditions
 <!--SR:!2027-09-20,313,210-->
 
 Literal translation of *nembutsu*? :: "to think of Buddha"
-<!--SR:!2026-11-17,39,150-->
+<!--SR:!2027-01-16,60,150-->
 
 *Nenbutsu* refers to ==the recitation of “Namu Amida Butsu”==.
 <!--SR:!2029-03-03,944,330-->

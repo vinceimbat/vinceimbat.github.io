@@ -29,10 +29,10 @@ Brown, Andrew James. “The Writing on the Window: A Short Thought for the Day f
 # Prompts
 
 Philosophers call the art of interpretation, ==hermeneutics==.
-<!--SR:!2026-11-18,4,270-->
+<!--SR:!2026-12-02,14,290-->
 
 The art of interpretation was linked to the Greek god ==Hermes==.
-<!--SR:!2026-11-18,4,270-->
+<!--SR:!2026-12-03,15,290-->
 
 Roman myth about Hermes and different languages.
 ?
@@ -40,7 +40,7 @@ Roman myth about Hermes and different languages.
 2. Hermes taught humans different languages.
 3. Humans hear slightly different versions when Hermes delivers a message.
 4. Discord arose among humans.
-<!--SR:!2026-11-18,4,270-->
+<!--SR:!2026-12-03,15,290-->
 
 Roman myth about Hermes and different languages.
 1.
@@ -49,7 +49,7 @@ Roman myth about Hermes and different languages.
 4. Discord arose among humans.
 ?
 Humans spoke one language.
-<!--SR:!2026-11-18,4,270-->
+<!--SR:!2026-12-02,14,290-->
 
 Roman myth about Hermes and different languages.
 1. Humans spoke one language.
@@ -58,7 +58,7 @@ Roman myth about Hermes and different languages.
 4. Discord arose among humans.
 ?
 Hermes taught humans different languages.
-<!--SR:!2026-11-18,4,270-->
+<!--SR:!2026-12-04,16,290-->
 
 Roman myth about Hermes and different languages.
 1. Humans spoke one language.
@@ -67,7 +67,7 @@ Roman myth about Hermes and different languages.
 4. Discord arose among humans.
 ?
 Humans hear slightly different versions when Hermes delivers a message.
-<!--SR:!2026-11-18,4,270-->
+<!--SR:!2026-12-04,16,290-->
 
 Roman myth about Hermes and different languages.
 1. Humans spoke one language.
@@ -76,10 +76,10 @@ Roman myth about Hermes and different languages.
 4.
 ?
 Discord arose among humans.
-<!--SR:!2026-11-18,4,270-->
+<!--SR:!2026-12-02,14,290-->
 
 Andrew James Brown's position on ambiguity in interpretation. :: Ambiguity in interpretation is not a mistake but a permanent human condition.
-<!--SR:!2026-11-18,4,270-->
+<!--SR:!2026-11-29,11,270-->
 
 Per Andrew James Brown, the permanent human condition of ambiguity in interpretation invites us to do what? :: Committing to patient and endless open conversation.
-<!--SR:!2026-11-18,4,270-->
+<!--SR:!2026-11-29,11,270-->

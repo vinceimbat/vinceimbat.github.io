@@ -67,7 +67,7 @@ What is the camera lens' optical center? :: Point where all light rays intersect
 <!--SR:!2027-02-14,129,230-->
 
 Shorter focal length = ==wider== FOV.
-<!--SR:!2026-11-19,115,230-->
+<!--SR:!2027-01-17,59,210-->
 
 Longer focal length = ==narrow== FOV.
 <!--SR:!2028-03-28,622,250-->

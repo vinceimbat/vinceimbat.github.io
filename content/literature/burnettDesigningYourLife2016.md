@@ -1176,7 +1176,7 @@ Per Burnett and Evans, life is ==an aesthetic== problem.
 <!--SR:!2027-01-24,226,290-->
 
 Two characteristics of a well-designed life. :: Feels right and constantly evolving.
-<!--SR:!2026-11-18,36,187-->
+<!--SR:!2027-02-23,97,207-->
 
 All design starts with a ==problem==.
 <!--SR:!2029-09-25,1156,350-->
@@ -1222,7 +1222,7 @@ Per Burnett and Evans, the five mindsets of a designer are:
 4. Radical collaboration
 ?
 Reframing
-<!--SR:!2026-11-18,128,250-->
+<!--SR:!2027-10-09,325,250-->
 
 Per Burnett and Evans, the five mindsets of a designer are:
 1. Curiosity

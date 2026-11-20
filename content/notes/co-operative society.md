@@ -32,7 +32,7 @@ The Japanese term *kyōdō shakai* was translated by Shin'ichirō Imaoka into En
 <!--SR:!2027-02-25,141,190-->
 
 *kyōdō shakai* means ==mutual, close-knit community==.
-<!--SR:!2026-11-19,74,230-->
+<!--SR:!2026-12-25,36,210-->
 
 The opposite of *kyōdō shakai*. :: *rieki shakai*
 <!--SR:!2028-12-25,852,290-->

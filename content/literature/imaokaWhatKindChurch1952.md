@@ -171,7 +171,7 @@ Per Imaoka, what was Jesus' religion? :: The gospel of creative love.
 <!--SR:!2026-12-03,76,210-->
 
 Per Imaoka, what was Shakyamuni's religion? :: The fundamental principle of creative evolution.
-<!--SR:!2026-11-19,50,190-->
+<!--SR:!2026-12-13,24,170-->
 
 Imaoka believes that Shakyamuni's Dharma could be interpreted as ==Humanism==.
 <!--SR:!2027-05-04,235,270-->

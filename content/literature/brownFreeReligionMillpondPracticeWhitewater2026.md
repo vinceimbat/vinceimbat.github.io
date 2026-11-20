@@ -33,7 +33,7 @@ What is a threshold concept? :: Idea that unlocks new ways of thinking and actin
 <!--SR:!2028-05-21,562,310-->
 
 Idea that unlocks new ways of thinking and acting. :: Threshold concept
-<!--SR:!2026-11-18,177,310-->
+<!--SR:!2028-05-18,547,310-->
 
 In Richard Procter's whitewater rafting or canoeing classes, the first session is conducted in a ==millpond==.
 <!--SR:!2027-02-10,256,330-->

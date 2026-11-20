@@ -37,7 +37,7 @@ Gist of saying 2 of Tenko Nishida-san's Selflessness :: True profit
 <!--SR:!2027-02-20,166,250-->
 
 Per Andrew James Brown, Tenko Nishida-san's true profit is ==the growth of human wisdom==.
-<!--SR:!2026-11-18,236,290-->
+<!--SR:!2027-03-16,118,270-->
 
 Per Andrew James Brown, the growth of human wisdom, which is Tenko Nishida-san's concept of profit, reveals what? :: The value of simple and creative living that inspires compassionate service.
 <!--SR:!2026-12-28,65,190-->

@@ -36,7 +36,7 @@ English translator of Capek's hymn "Mother Spirit, Father Spirit" :: Richard Boe
 <!--SR:!2026-11-30,73,190-->
 
 Per Andrew James Brown, Capek uses Czech to do what about all gendered language about God? :: Refuse to imagine God as one gender.
-<!--SR:!2026-11-17,150,210-->
+<!--SR:!2027-01-31,75,190-->
 
 Per Andrew James Brown, when we let go of thinking about God as one gender, what happens? :: We experience God within ourselves and in everything.
 <!--SR:!2027-01-22,142,210-->

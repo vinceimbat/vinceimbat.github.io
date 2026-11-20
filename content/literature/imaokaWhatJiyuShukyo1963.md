@@ -48,7 +48,7 @@ The Bahá’í Faith headquarters Imaoka attempted to visit was located in ==Hai
 <!--SR:!2026-12-04,198,250-->
 
 Per Imaoka, what could make a free-religion ossified and restrictive over time? :: Too much emphasis on form or organization/structure.
-<!--SR:!2026-11-19,293,250-->
+<!--SR:!2029-09-12,1028,270-->
 
 Concerning a religion's organization and form, what are two errors to make per Imaoka? :: To disregard or overemphasize them.
 <!--SR:!2027-01-03,144,310-->

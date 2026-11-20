@@ -35,7 +35,7 @@ Tenkō-san's known letter to Tolstoy was sent in what year? :: 1901
 <!--SR:!2026-11-25,264,330-->
 
 Tolstoy's religious book most influential to Andrew James Brown. :: The Gospel in Brief
-<!--SR:!2026-11-17,257,330-->
+<!--SR:!2027-03-28,131,310-->
 
 Tolstoyan form of Christianity most infuential to Tenkō-san. :: Sermon on the Mount Christianity
 <!--SR:!2027-11-21,371,310-->

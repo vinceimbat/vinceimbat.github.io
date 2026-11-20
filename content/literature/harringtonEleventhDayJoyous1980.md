@@ -47,4 +47,4 @@ Per the Weimans, a religious person whose life is centered around a supreme valu
 ?
 1. Clear sense of direction
 2. Sense of progress
-<!--SR:!2026-11-19,185,310-->
+<!--SR:!2027-02-20,93,290-->

@@ -62,7 +62,7 @@ What did Śākyamuni Buddha teach his followers about being a religious founder?
 <!--SR:!2027-10-23,367,315-->
 
 Per Imaoka, why can there be no founder of free-religion? :: Because its quintessence is grasping the meaning of "the Great Life."
-<!--SR:!2026-11-17,56,210-->
+<!--SR:!2026-12-15,28,190-->
 
 Per Brown, before a good life could develop, a person needs what? :: An understanding of life.
 <!--SR:!2027-01-28,102,290-->

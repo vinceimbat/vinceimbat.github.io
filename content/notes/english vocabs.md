@@ -48,7 +48,7 @@ charred :: v. burned
 <!--SR:!2027-03-11,453,309-->
 
 clink :: n. prison
-<!--SR:!2026-11-17,383,309-->
+<!--SR:!2027-05-28,192,289-->
 
 cobble :: n. small round stone covering road surfaces
 <!--SR:!2027-11-03,608,269-->
@@ -189,7 +189,7 @@ languor :: n. weariness
 <!--SR:!2027-01-06,56,190-->
 
 largesse :: n. generosity
-<!--SR:!2026-11-19,17,149-->
+<!--SR:!2026-12-26,37,169-->
 
 lassitude :: n. languor
 <!--SR:!2026-12-14,152,269-->
@@ -365,7 +365,7 @@ unkempt (hint: body) :: adj. uncombed; unclean; unpolished
 <!--SR:!2027-03-20,129,173-->
 
 upbraid :: v. scold
-<!--SR:!2026-11-17,125,213-->
+<!--SR:!2027-12-01,379,233-->
 
 # V
 

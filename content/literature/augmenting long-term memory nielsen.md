@@ -68,7 +68,7 @@ How to avoid orphan questions :: Write more than one question about a new subjec
 <!--SR:!2027-12-25,494,214-->
 
 Associating new information to existing memories ::: Elaborative encoding
-<!--SR:!2027-01-18,563,314!2026-11-18,105,214-->
+<!--SR:!2027-01-18,563,314!2027-01-09,52,194-->
 
 How to use elaborative encoding when writing spaced repetition prompts involving a basic fact? :: Connect the basic fact with other ideas.
 <!--SR:!2026-12-20,275,174-->
